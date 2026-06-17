@@ -77,7 +77,6 @@ Introduzir Biscuit como pista emocional. Ele deve parecer um cachorro maltratado
 - Ele olha na direção da [[Area 20 - Children's Room]].
 - Pode choramingar perto da porta trancada.
 
-
 ### Esconderijo de Biscuit
 > [!recite] Narração curta
 > Biscuit fareja perto da cama, dá duas voltas no mesmo lugar e começa a arranhar a madeira com cuidado. Não como quem quer cavar. Como quem procura algo que já conhece.
@@ -102,6 +101,9 @@ Introduzir Biscuit como pista emocional. Ele deve parecer um cachorro maltratado
 - Pedaço de pano bordado com cheiro antigo de lavanda.
 - [[Bilhete de Gustav para Marta]].
 
+> [!dm] Nota de continuidade
+> Não colocar aqui o diário de [[Diário de E. V. - Página 1|E. V.]]. O esconderijo de Biscuit deve ficar emocional: Marta, Walter, Gustav e pequenos cuidados. A primeira página do aventureiro fica na [[Area 21 - Secret Stairs]], como pista de alguém que desceu antes.
+
 > [!quote] Etiqueta antiga
 > “Para febre. Para cortes. Para quando ninguém vier ajudar.”
 
@@ -116,7 +118,6 @@ Introduzir Biscuit como pista emocional. Ele deve parecer um cachorro maltratado
 
 > [!tip] Uso na mesa
 > O bilhete confirma a ligação entre Marta, Gustav e Walter sem explicar tudo. Não diga a conclusão. Deixe os jogadores juntarem as peças.
-
 
 ### Se ferirem Biscuit
 > [!danger] Consequência

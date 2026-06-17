@@ -10,12 +10,13 @@ tags:
   - ritual-chamber
   - one-must-die
   - finale
+  - audios-dungeon
 ---
 
 # Area 38 — Ritual Chamber
 
 > [!info] Resumo rápido
-> Câmara final da Death House. Cultistas espectrais exigem sacrifício: [[One Must Die]]. Se o grupo recusar, Lorghoth desperta e a casa vira fuga.
+> Câmara final da Death House. Cultistas espectrais exigem sacrifício: [[One Must Die]]. Se o grupo recusar, Lorghoth desperta e a casa vira fuga. Aqui entram os áudios finais de [[Sons e Cânticos da Dungeon]]: **O Ritual do Sacrifício**, **A Casa Exige** e **O Ritual de Sangue**.
 
 ## Função na mesa
 Transformar toda a aventura em escolha moral. A casa não quer apenas matar os personagens: ela quer provar que eles também seriam capazes de sacrificar inocentes para sobreviver.
@@ -28,6 +29,9 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 - Figuras encapuzadas surgem como ecos do culto.
 - Exigência: [[One Must Die]].
 - Se recusarem, use [[Shambling Mound - Ritual Chamber]] e/ou [[Fuga da Death House]].
+- Áudio pré-revelação: **O Ritual do Sacrifício** baixo.
+- Áudio de revelação: **A Casa Exige** como evento.
+- Áudio de clímax/recusa/fuga: **O Ritual de Sangue**.
 
 > [!recite] Narração Pronta
 > A passagem se abre em uma câmara vasta, enterrada sob a mansão. O ar é frio e úmido. Água escura cobre parte do chão, refletindo a pedra irregular e o brilho fraco das luzes que vocês carregam.
@@ -39,6 +43,95 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 > Não atrás das paredes. Não distante.
 >
 > Aqui.
+
+---
+
+## Sons e cânticos nesta área
+
+### Antes da revelação — O Ritual do Sacrifício
+> [!sound] O Ritual do Sacrifício
+> **Volume:** 20–35%.  
+> **Uso:** antes de “A Casa Exige”.  
+> **Função:** mantra baixo repetindo “um deve morrer”, ainda como ruído ritual de fundo.  
+> **Nota:** pode ficar em loop baixinho. Os personagens talvez captem fragmentos, mas a cena ainda não explica tudo.
+
+> [!recite] Narração com áudio
+> Por baixo do som, algo começa a se repetir.
+>
+> No começo, é fácil ignorar.
+>
+> Um arranhão de voz no fundo da cabeça.
+>
+> Um pedaço de frase soterrado entre batidas, pedra úmida e respiração.
+>
+> Então, por um instante, vocês quase entendem.
+>
+> Quase.
+>
+> E isso é pior do que não entender.
+
+**Se alguém prestar atenção ou se aproximar do altar**
+> [!recite]
+> Entre os murmúrios, uma frase parece tentar nascer.
+>
+> Não como uma voz falando com vocês.
+>
+> Como uma ordem antiga sendo repetida há tempo demais.
+
+### Revelação — A Casa Exige
+> [!sound] A Casa Exige
+> **Volume:** 45–65%.  
+> **Uso:** momento de revelação.  
+> **Função:** a Casa fala claramente com os personagens.  
+> **Importante:** a voz infantil não é Rose nem Thorn. É a própria Casa imitando uma voz pequena.
+
+> [!recite] Entrada da voz
+> O cântico baixo para por um instante.
+>
+> O silêncio que fica depois não parece vazio.
+>
+> Parece que a casa está prendendo a respiração.
+>
+> Então vem uma voz pequena.
+>
+> Pequena demais.
+>
+> Ela não vem dos quartos. Não vem das escadas. Não vem de uma criança.
+>
+> Vem da pedra.
+>
+> Das paredes.
+>
+> Do chão úmido sob seus pés.
+>
+> É como se a casa tivesse aprendido a falar usando uma voz que sabe que vocês vão ouvir.
+
+### Clímax / recusa / fuga — O Ritual de Sangue
+> [!sound] O Ritual de Sangue
+> **Volume:** 60–80%.  
+> **Uso:** clímax final, decisão, recusa, combate, fuga ou colapso da Casa.  
+> **Função:** versão mais forte e agressiva da exigência.
+
+> [!recite] Quando a pressão sobe
+> A voz pequena desaparece.
+>
+> Não porque foi embora.
+>
+> Porque foi engolida.
+>
+> Agora não há uma voz.
+>
+> Há muitas.
+>
+> Elas vêm das paredes, do teto, do chão, dos ossos, da lama, da madeira podre acima de vocês.
+>
+> A casa não está mais pedindo.
+>
+> Não está mais fingindo.
+>
+> Ela está exigindo.
+>
+> E cada batida no escuro parece repetir a mesma sentença.
 
 ---
 
@@ -66,11 +159,11 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 >
 > Os rostos estão escondidos. As mãos, imóveis. O canto continua, mas agora vocês entendem as palavras repetidas sob a pedra.
 >
-> One must die.
+> Um deve morrer.
 >
-> One must die.
+> Um deve morrer.
 >
-> One must die.
+> Um deve morrer.
 
 **Interação**
 - Os cultistas não conversam de verdade.
@@ -78,13 +171,13 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 - Reagem a ofertas e recusas.
 
 **Falas possíveis**
-- “One must die.”
-- “The house demands.”
-- “Blood opens the way.”
-- “One must die.”
+- “Um deve morrer.”
+- “A casa exige.”
+- “Sangue abre o caminho.”
+- “Um deve morrer.”
 
 > [!note] Nota do Mestre
-> Use o inglês aqui se quiser manter a frase icônica. Se preferir em português, use “Um deve morrer.” Como você já pensou no chant, pode repetir só a frase, em ritmo.
+> Você pode manter “One must die” se quiser o eco do módulo, mas como os áudios estão em português, “Um deve morrer” fica mais integrado.
 
 ---
 
@@ -99,11 +192,12 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 >
 > Então volta, mais forte:
 >
-> One must die.
+> Um deve morrer.
 
 **Se recusarem**
 - As figuras ficam imóveis.
 - O canto muda de exigência para condenação.
+- Tocar **O Ritual de Sangue**.
 - Lorghoth desperta.
 
 > [!recite] Se recusarem o culto
@@ -117,11 +211,11 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 
 **Encontro**
 - Use [[Shambling Mound - Ritual Chamber]].
-- Nome sugerido na sua mesa: **Lorghoth**.
+- Nome sugerido na sua mesa: **Lorghoth** ou **Walter Flesh Mound**.
 
 ---
 
-### Lorghoth
+### Lorghoth / Walter Flesh Mound
 > [!recite] Narração curta
 > A criatura não parece um animal. Parece uma massa de raízes, carne apodrecida, ossos, lodo e oferendas antigas, amarradas por uma fome que nunca acabou.
 
@@ -154,7 +248,7 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 - Água dificultando movimento.
 - Lorghoth bloqueando caminho.
 - Correntes caindo.
-- Cultistas gritando “One must die”.
+- Cultistas gritando “Um deve morrer”.
 
 ### Etapa 2 — Subir pelo dungeon
 **Complicações possíveis**

@@ -93,6 +93,9 @@ tags:
 - [[Darklord's Shrine]]
 - [[One Must Die]]
 - [[Ritual Chamber]]
+- [[Diário de E. V. - Página 1]]
+- [[Diário de E. V. - Página 2]]
+- [[Sons e Cânticos da Dungeon]]
 
 ## Encontros
 - [[Animated Armor - Area 11]]
@@ -115,9 +118,9 @@ tags:
 > **Elementos importantes** = cada objeto interativo com narração curta, rolagem, resultado e consequência juntos.  
 > **Presságio opcional** = use só quando quiser aumentar tensão.
 
-
 ---
 
 ## Controle de mesa
 
 - [[Áudios e SFX - Kenku]]
+- [[Sons e Cânticos da Dungeon]]
