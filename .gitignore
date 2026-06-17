@@ -1,0 +1,57 @@
+# Obsidian workspace/cache
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/workspaces.json
+
+# Obsidian trash
+
+.trash/
+.Trash/
+
+# Sistema
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporários
+
+*.tmp
+*.bak
+*.swp
+*.swo
+~$*
+*.log
+
+# Exports / renders temporários
+
+*.pdf
+*.docx
+
+# Arquivos grandes de áudio/vídeo — subir manualmente só quando fizer sentido
+
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.mp4
+*.mov
+*.mkv
+
+# Foundry exports grandes / temporários
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Segredos locais
+
+.env
+.env.*
+players.yml
+
+# Obsidian plugin secrets
+.obsidian/plugins/digitalgarden/data.json
+.obsidian/plugins/obsidian-git/data.json
