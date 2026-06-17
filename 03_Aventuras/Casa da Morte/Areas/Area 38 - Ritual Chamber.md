@@ -11,49 +11,62 @@ tags:
   - one-must-die
   - finale
   - audios-dungeon
+  - lorghoth
+  - walter-flesh-mound
 ---
 
 # Area 38 — Ritual Chamber
 
 > [!info] Resumo rápido
-> Câmara final da Death House. Cultistas espectrais exigem sacrifício: [[One Must Die]]. Se o grupo recusar, Lorghoth desperta e a casa vira fuga. Aqui entram os áudios finais de [[Sons e Cânticos da Dungeon]]: **O Ritual do Sacrifício**, **A Casa Exige** e **O Ritual de Sangue**.
+> Câmara final da Death House. Cultistas espectrais exigem sacrifício: [[One Must Die]]. Se o grupo recusar, **Lorghoth / Walter Flesh Mound** desperta e a casa vira fuga.
 
 ## Função na mesa
 Transformar toda a aventura em escolha moral. A casa não quer apenas matar os personagens: ela quer provar que eles também seriam capazes de sacrificar inocentes para sobreviver.
 
 ## Visão rápida
-- Câmara grande e úmida.
-- Água rasa ou canal ao redor.
-- Dais/altar central.
-- Correntes, sombras e canto ritual.
-- Figuras encapuzadas surgem como ecos do culto.
-- Exigência: [[One Must Die]].
-- Se recusarem, use [[Shambling Mound - Ritual Chamber]] e/ou [[Fuga da Death House]].
-- Áudio pré-revelação: **O Ritual do Sacrifício** baixo.
-- Áudio de revelação: **A Casa Exige** como evento.
-- Áudio de clímax/recusa/fuga: **O Ritual de Sangue**.
-
-> [!recite] Narração Pronta
-> A passagem se abre em uma câmara vasta, enterrada sob a mansão. O ar é frio e úmido. Água escura cobre parte do chão, refletindo a pedra irregular e o brilho fraco das luzes que vocês carregam.
->
-> No centro da câmara, uma plataforma de pedra se ergue acima da água. Correntes antigas pendem do teto e desaparecem na escuridão acima.
->
-> O canto que vocês ouviram nos túneis está aqui.
->
-> Não atrás das paredes. Não distante.
->
-> Aqui.
+- Câmara grande, fria e úmida.
+- Água escura ou canal raso ao redor do dais.
+- Plataforma/altar central marcado por sacrifícios antigos.
+- Cultistas espectrais surgem nas bordas da câmara.
+- A exigência é simples: **um deve morrer**.
+- Se recusarem: tocar **Lorghoth, o Decompositor, desperta** e revelar [[Shambling Mound - Ritual Chamber|Lorghoth / Walter Flesh Mound]].
+- Depois do surgimento: tocar **O Ritual de Sangue** e começar [[Fuga da Death House]].
 
 ---
 
-## Sons e cânticos nesta área
+## Roteiro de cena — ordem para mestrar
 
-### Antes da revelação — O Ritual do Sacrifício
+> [!dm] Preparação rápida de áudio
+> - Ao entrar na câmara: deixar **O Ritual do Sacrifício** baixo, 20–35%.
+> - Na revelação: reduzir/parar o som anterior, narrar a pausa e tocar **A Casa Exige**, 45–65%.
+> - Na recusa: 1 segundo de silêncio, tocar **Lorghoth_O_Decompositor_Desperta.mp3** como evento.
+> - Depois do grito/surgimento: entrar com **O Ritual de Sangue**, 60–80%.
+
+### 1. Entrada na câmara
+
+> [!recite] Narração Pronta
+> A passagem se abre em uma câmara vasta, enterrada sob a mansão.
+>
+> O ar é frio e úmido. Água escura cobre parte do chão, refletindo a pedra irregular e o brilho fraco das luzes que vocês carregam.
+>
+> No centro da câmara, uma plataforma de pedra se ergue acima da água.
+>
+> Correntes antigas pendem do teto e desaparecem na escuridão acima.
+>
+> O canto que vocês ouviram nos túneis está aqui.
+>
+> Não atrás das paredes.
+>
+> Não distante.
+>
+> Aqui.
+
+### 2. O Ritual do Sacrifício — mantra baixo
+
 > [!sound] O Ritual do Sacrifício
 > **Volume:** 20–35%.  
-> **Uso:** antes de “A Casa Exige”.  
-> **Função:** mantra baixo repetindo “um deve morrer”, ainda como ruído ritual de fundo.  
-> **Nota:** pode ficar em loop baixinho. Os personagens talvez captem fragmentos, mas a cena ainda não explica tudo.
+> **Uso:** deixar em loop baixo enquanto eles olham a câmara, o altar e as figuras ainda não se revelaram totalmente.  
+> **Função:** preparar “um deve morrer” sem transformar isso ainda na explicação da cena.
 
 > [!recite] Narração com áudio
 > Por baixo do som, algo começa a se repetir.
@@ -70,7 +83,8 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 >
 > E isso é pior do que não entender.
 
-**Se alguém prestar atenção ou se aproximar do altar**
+**Se alguém prestar atenção, se aproximar do altar ou pedir para entender o cântico:**
+
 > [!recite]
 > Entre os murmúrios, uma frase parece tentar nascer.
 >
@@ -78,12 +92,42 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 >
 > Como uma ordem antiga sendo repetida há tempo demais.
 
-### Revelação — A Casa Exige
+### 3. Cultistas espectrais aparecem
+
+> [!recite]
+> Uma a uma, figuras encapuzadas surgem nas bordas da câmara.
+>
+> Não entram pela porta.
+>
+> Apenas estão ali, onde antes havia sombra.
+>
+> Os rostos estão escondidos.
+>
+> As mãos, imóveis.
+>
+> O canto continua, mas agora vocês entendem as palavras repetidas sob a pedra.
+>
+> Um deve morrer.
+>
+> Um deve morrer.
+>
+> Um deve morrer.
+
+**Falas possíveis dos cultistas**
+- “Um deve morrer.”
+- “A casa exige.”
+- “Sangue abre o caminho.”
+- “Um deve morrer.”
+
+> [!note] Nota do Mestre
+> Como os áudios estão em português, “Um deve morrer” fica mais integrado do que “One must die”.
+
+### 4. A Casa Exige — revelação
+
 > [!sound] A Casa Exige
 > **Volume:** 45–65%.  
-> **Uso:** momento de revelação.  
-> **Função:** a Casa fala claramente com os personagens.  
-> **Importante:** a voz infantil não é Rose nem Thorn. É a própria Casa imitando uma voz pequena.
+> **Uso:** evento de revelação, não trilha longa de fundo.  
+> **Importante:** a voz infantil não é [[Rose]] nem [[Thorn]]. É a própria casa imitando uma voz pequena para manipular, assustar e prender a atenção.
 
 > [!recite] Entrada da voz
 > O cântico baixo para por um instante.
@@ -96,7 +140,11 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 >
 > Pequena demais.
 >
-> Ela não vem dos quartos. Não vem das escadas. Não vem de uma criança.
+> Ela não vem dos quartos.
+>
+> Não vem das escadas.
+>
+> Não vem de uma criança.
 >
 > Vem da pedra.
 >
@@ -106,13 +154,161 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 >
 > É como se a casa tivesse aprendido a falar usando uma voz que sabe que vocês vão ouvir.
 
-### Clímax / recusa / fuga — O Ritual de Sangue
+### 5. A escolha
+
+**A casa aceita:**
+- uma morte real e significativa;
+- uma oferta viva, com sangue e consequência moral;
+- uma decisão que manche o grupo.
+
+**A casa pode recusar:**
+- objeto sem valor;
+- animal morto ou sem peso na cena;
+- [[Biscuit]], se você usar a regra de que ele não está realmente vivo.
+
+> [!warning] Biscuit como sacrifício
+> Se tentarem sacrificar [[Biscuit]], ele não sangra como deveria. O corte abre pele fria, escura, quase vazia.
+>
+> O canto para por um segundo.
+>
+> Então volta, mais forte:
+>
+> Um deve morrer.
+
+### 6. Se aceitarem o culto
+
+> [!recite]
+> A câmara fica imóvel.
+>
+> As figuras encapuzadas inclinam a cabeça ao mesmo tempo.
+>
+> A água para de se mover.
+>
+> Por um instante, a casa parece satisfeita.
+>
+> Não em paz.
+>
+> Satisfeita.
+
+**Resultado**
+- A casa abre caminho.
+- O grupo sobrevive, mas carrega o custo.
+- [[Strahd von Zarovich]] pode notar a escolha depois.
+
+### 7. Se recusarem o culto
+
+> [!dm] Cue de áudio
+> Reduza ou pare o áudio anterior. Faça 1 segundo de silêncio. Toque o arquivo:
+>
+> ![[Lorghoth_O_Decompositor_Desperta.mp3]]
+
+> [!quote] Frase do áudio
+> Lorghoth, o Decompositor, desperta.
+>
+> A carne foi negada.
+>
+> A casa tomará o que lhe é devido.
+>
+> Louvada seja a morte.
+
+> [!recite] Após o áudio
+> A última palavra não morre no ar.
+>
+> Ela entra na água.
+>
+> Primeiro, a câmara só treme.
+>
+> Depois as correntes balançam.
+>
+> O altar racha de cima a baixo.
+>
+> E debaixo da plataforma, alguma coisa responde.
+>
+> Não com fala.
+>
+> Com choro.
+
+### 8. Lorghoth / Walter Flesh Mound desperta
+
+> [!recite] Surgimento
+> A água escura se abre em volta do dais.
+>
+> Algo enorme se ergue debaixo dela, lento demais para ser animal e vivo demais para ser pedra.
+>
+> Primeiro vêm raízes negras, inchadas de água.
+>
+> Depois carne.
+>
+> Depois ossos.
+>
+> Depois mãos.
+>
+> Muitas mãos.
+>
+> Algumas grandes. Algumas pequenas demais.
+>
+> A massa sobe como um corpo que nunca deveria ter aprendido a ficar de pé.
+>
+> Lodo escorre entre pedaços de pele, madeira podre, costelas quebradas e restos de oferendas antigas.
+>
+> Rostos aparecem na superfície e somem antes que vocês consigam fixar o olhar.
+>
+> Uma boca sem mandíbula.
+>
+> Um olho fechado.
+>
+> Dedos presos por dentro, empurrando a carne como se tentassem sair.
+>
+> Então, no centro da massa, por um instante horrível, vocês veem o rosto de um bebê.
+>
+> Olhos fechados.
+>
+> Boca aberta.
+>
+> Pele pálida demais.
+>
+> A massa inteira convulsiona como se aquele rosto tentasse respirar.
+>
+> Então o rosto afunda de novo.
+>
+> E a coisa continua subindo.
+
+> [!note] Nota do Mestre
+> Não diga “Walter” em voz alta. Deixe os jogadores reconhecerem, suspeitarem ou só sentirem que aquilo é errado.
+
+### 9. O grito
+
+> [!recite]
+> O som começa pequeno.
+>
+> Um choro fino, preso dentro de muita carne.
+>
+> Por um segundo, parece infantil.
+>
+> Por um segundo, parece pedir ajuda.
+>
+> Então a câmara inteira responde junto.
+>
+> O choro vira grito.
+>
+> O grito vira muitas vozes.
+>
+> As paredes gritam.
+>
+> A água grita.
+>
+> As correntes gritam.
+>
+> E acima de vocês, em algum lugar dentro da mansão, a casa inteira acorda.
+
+### 10. O Ritual de Sangue — início da fuga
+
 > [!sound] O Ritual de Sangue
 > **Volume:** 60–80%.  
-> **Uso:** clímax final, decisão, recusa, combate, fuga ou colapso da Casa.  
-> **Função:** versão mais forte e agressiva da exigência.
+> **Uso:** entrar logo depois do grito ou no primeiro turno da fuga.  
+> **Função:** pressão total. A casa não pede mais. Ela toma.
 
-> [!recite] Quando a pressão sobe
+> [!recite]
 > A voz pequena desaparece.
 >
 > Não porque foi embora.
@@ -133,6 +329,12 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 >
 > E cada batida no escuro parece repetir a mesma sentença.
 
+**Encontro / transição**
+- Use [[Shambling Mound - Ritual Chamber]] como referência mecânica.
+- Objetivo recomendado: escapar, não necessariamente matar.
+- Se a mesa comprar o combate e estiver forte, deixe lutar.
+- Se estiverem feridos, transforme Lorghoth em pressão para [[Fuga da Death House]].
+
 ---
 
 ## Elementos importantes
@@ -151,144 +353,47 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 - **Religion DC 12:** entender que o lugar foi feito para sacrifícios.
 - **Investigation DC 13:** as marcas no altar sugerem uso repetido ao longo de muito tempo.
 
----
-
-### Cultistas espectrais
-> [!recite] Quando eles aparecem
-> Uma a uma, figuras encapuzadas surgem nas bordas da câmara. Não entram pela porta. Apenas estão ali, onde antes havia sombra.
->
-> Os rostos estão escondidos. As mãos, imóveis. O canto continua, mas agora vocês entendem as palavras repetidas sob a pedra.
->
-> Um deve morrer.
->
-> Um deve morrer.
->
-> Um deve morrer.
-
+### Figuras encapuzadas
 **Interação**
-- Os cultistas não conversam de verdade.
-- Eles repetem a exigência.
+- Não conversam de verdade.
+- Repetem a exigência.
 - Reagem a ofertas e recusas.
+- Se atacadas, não “morrem”; se desfazem e o ritual acelera.
 
-**Falas possíveis**
-- “Um deve morrer.”
-- “A casa exige.”
-- “Sangue abre o caminho.”
-- “Um deve morrer.”
+### Lorghoth bloqueando a saída
+Use se quiser transformar a cena em fuga imediatamente:
 
-> [!note] Nota do Mestre
-> Você pode manter “One must die” se quiser o eco do módulo, mas como os áudios estão em português, “Um deve morrer” fica mais integrado.
+> [!recite]
+> A massa se arrasta para a passagem.
+>
+> Não rápido.
+>
+> Pior.
+>
+> Inevitável.
+>
+> Cada movimento dela empurra água, osso e carne contra a pedra.
+>
+> A saída ainda existe.
+>
+> Mas agora ela precisa ser conquistada.
 
 ---
-
-### A escolha do sacrifício
-**Se aceitarem o culto**
-- A casa aceita uma morte real e significativa.
-- Um animal comum pode ser recusado, dependendo do tom que você quer.
-- [[Biscuit]] não deve funcionar como sacrifício se você usar a regra de que ele não está realmente vivo.
-
-> [!warning] Biscuit como sacrifício
-> Se tentarem sacrificar [[Biscuit]], ele não sangra como deveria. O corte abre pele fria, escura, quase vazia. O canto para por um segundo.
->
-> Então volta, mais forte:
->
-> Um deve morrer.
-
-**Se recusarem**
-- As figuras ficam imóveis.
-- O canto muda de exigência para condenação.
-- Tocar **O Ritual de Sangue**.
-- Lorghoth desperta.
-
-> [!recite] Se recusarem o culto
-> As figuras encapuzadas ficam em silêncio ao mesmo tempo.
->
-> Por um instante, a câmara inteira prende a respiração.
->
-> Então a água se move.
->
-> Algo enorme, escuro e coberto de restos se ergue do fundo, como se a própria fome da casa tivesse encontrado um corpo.
-
-**Encontro**
-- Use [[Shambling Mound - Ritual Chamber]].
-- Nome sugerido na sua mesa: **Lorghoth** ou **Walter Flesh Mound**.
-
----
-
-### Lorghoth / Walter Flesh Mound
-> [!recite] Narração curta
-> A criatura não parece um animal. Parece uma massa de raízes, carne apodrecida, ossos, lodo e oferendas antigas, amarradas por uma fome que nunca acabou.
-
-**Gatilho**
-- Surge se o grupo recusar o sacrifício.
-- Também pode surgir se profanarem o altar ou atacarem as figuras encapuzadas.
-
-**Condução recomendada**
-- Não transforme obrigatoriamente em combate parado até a morte.
-- Use como pressão para fuga, especialmente se o grupo estiver ferido.
-
-> [!tip] Melhor uso
-> A cena fica mais forte se o objetivo virar **sobreviver e escapar**, não matar a criatura.
-
----
-
-## Cena — Fuga da Death House
-
-> [!recite] Quando a casa desperta
-> O rugido da criatura não vem só da garganta dela.
->
-> Vem das paredes.
-> Vem do teto.
-> Vem da casa inteira.
->
-> A água treme, as correntes balançam, e acima de vocês a madeira da mansão geme como se algo enorme estivesse fechando os dentes.
-
-### Etapa 1 — Sair da câmara ritual
-**Complicações possíveis**
-- Água dificultando movimento.
-- Lorghoth bloqueando caminho.
-- Correntes caindo.
-- Cultistas gritando “Um deve morrer”.
-
-### Etapa 2 — Subir pelo dungeon
-**Complicações possíveis**
-- Túneis estreitos.
-- Desabamento parcial.
-- Portas que não estavam fechadas agora emperram.
-- Ghouls ou restos se movem nas paredes.
-
-### Etapa 3 — Atravessar a casa viva
-**Complicações possíveis**
-- Portas viram lâminas.
-- Fumaça sobe pelos corredores.
-- Janelas ficam cegas.
-- Ratos saem das paredes.
-- A casa tenta separar alguém.
-
-**Consequências em falhas**
-- Perder recurso.
-- Ficar separado por alguns instantes.
-- Sofrer dano leve/moderado.
-- Ganhar nível de exaustão, se quiser ser mais pesado.
-- Deixar um item para trás.
-- Ficar marcado pela casa para Strahd notar depois.
-
-> [!note] Nota do Mestre
-> A fuga deve ser rápida, cruel e cinematográfica. Não role para tudo. Peça testes quando houver escolha ou risco real. O objetivo é sair com cicatriz, não transformar em planilha.
 
 ## Consequências finais
 
-### Se Rose and Thorn descansarem
+### Se [[Rose]] e [[Thorn]] descansarem
 - A casa fica um pouco menos agressiva por instantes.
 - [[Biscuit]] pode descansar também.
 - A vitória é moral, não total.
 
 ### Se o culto for aceito
 - A casa abre caminho.
-- Strahd pode perceber a escolha.
+- [[Strahd von Zarovich]] pode perceber a escolha.
 - O grupo sobrevive, mas carrega o custo.
 
 ### Se o culto for negado
+- Lorghoth desperta.
 - A casa ataca.
 - A fuga começa.
 - O grupo sai, se sair, sabendo que recusou a lógica da casa.

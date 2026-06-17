@@ -12,40 +12,47 @@ tags:
 # Sons e Cânticos da Dungeon — Casa da Morte
 
 > [!dm] Conteúdo de mestre
-> Esta sequência substitui o uso de canto tibetano na dungeon. A ideia é criar uma progressão própria da Casa da Morte: primeiro um ritual incompreensível, depois um mantra de sacrifício, depois a Casa falando claramente, e por fim a exigência máxima de sangue.
+> Esta sequência substitui o uso de canto tibetano na dungeon. A ideia é criar uma progressão própria da Casa da Morte: primeiro um ritual incompreensível, depois um mantra de sacrifício, depois a Casa falando claramente, depois a sentença de Lorghoth, e por fim a exigência máxima de sangue.
 
 ## Decisão final de áudio
 
 A trilha da dungeon deve seguir esta progressão:
 
 1. **Underground Dungeon Ritual Ambience**
-   - **Uso:** início da dungeon.
+   - **Uso:** começo da dungeon, assim que os personagens pisam no subsolo em [[Area 22 - Dungeon Level Access]].
    - **Função:** criar sensação de ritual distante e incompreensível.
    - **Volume sugerido:** 15–25%.
    - **Não deve entregar ainda:** “um deve morrer”.
 
 2. **Prelúdio do Sacrifício**
-   - **Uso:** aproximação da área ritual / sinais do culto / corredores mais fundos.
+   - **Uso:** sinais mais claros do culto, ossos, corredores mais fundos, aproximação do templo subterrâneo.
    - **Função:** mostrar que o som está ficando mais organizado.
    - **Volume sugerido:** 25–40%.
    - **Ainda não é a revelação.**
 
 3. **O Ritual do Sacrifício**
-   - **Uso:** antes de “A Casa Exige”.
-   - **Função:** mantra baixo repetindo “um deve morrer”, mas ainda como ruído ritual de fundo.
+   - **Uso:** chegada/entrada da [[Area 38 - Ritual Chamber]], antes de “A Casa Exige”.
+   - **Função:** mantra baixo repetindo “um deve morrer”, ainda como ruído ritual de fundo.
    - **Volume sugerido:** 20–35%.
    - Pode deixar em loop baixinho.
-   - Mesmo tendo a frase central, a ideia é que os personagens talvez captem fragmentos, mas sem a cena ainda explicar tudo.
+   - A ideia é que os personagens captem fragmentos, mas a cena ainda não explique tudo.
 
 4. **A Casa Exige**
-   - **Uso:** momento de revelação.
+   - **Uso:** momento de revelação da exigência.
    - **Função:** a Casa fala claramente com os personagens.
    - **Volume sugerido:** 45–65%.
-   - A voz infantil não representa Rose ou Thorn. É a própria Casa imitando uma voz pequena para manipular, assustar e prender a atenção dos personagens.
+   - A voz infantil não representa [[Rose]] ou [[Thorn]]. É a própria Casa imitando uma voz pequena.
    - Não usar como trilha longa de fundo. Deve parecer um evento.
 
-5. **O Ritual de Sangue**
-   - **Uso:** clímax final, decisão, recusa, combate, fuga ou colapso da Casa.
+5. **Lorghoth, o Decompositor, desperta**
+   - **Uso:** somente se o grupo recusar o sacrifício ou profanar o ritual.
+   - **Arquivo:** `Lorghoth_O_Decompositor_Desperta.mp3`.
+   - **Função:** sentença ritual imediatamente antes do surgimento de [[Shambling Mound - Ritual Chamber|Lorghoth / Walter Flesh Mound]].
+   - **Volume sugerido:** 55–75%.
+   - Não deixar em loop. É anúncio, não ambiente.
+
+6. **O Ritual de Sangue**
+   - **Uso:** depois do surgimento/grito de Lorghoth, durante combate, colapso ou [[Fuga da Death House]].
    - **Função:** versão mais forte e agressiva da exigência.
    - **Volume sugerido:** 60–80%.
    - Aqui a Casa para de fingir delicadeza. Agora é pressão total.
@@ -56,7 +63,7 @@ A trilha da dungeon deve seguir esta progressão:
 
 ### 1. Início da dungeon — Underground Dungeon Ritual Ambience
 
-Use quando os personagens entram na dungeon ou começam a perceber que a casa tem algo enterrado abaixo dela.
+Use quando os personagens entram na dungeon em [[Area 22 - Dungeon Level Access]].
 
 > [!recite]
 > O ar aqui embaixo não parece parado.
@@ -92,7 +99,7 @@ Use quando eles encontram sinais mais claros do culto, ossos, corredores mais fu
 
 ### 3. Mantra baixo — O Ritual do Sacrifício
 
-Use antes de “A Casa Exige”, em volume baixo. Aqui a frase “um deve morrer” pode existir, mas sem virar ainda a explicação da cena.
+Use na chegada da [[Area 38 - Ritual Chamber]], antes de “A Casa Exige”.
 
 > [!recite]
 > Por baixo do som, algo começa a se repetir.
@@ -143,9 +150,39 @@ Use quando a Casa finalmente “explica” a situação, especialmente na câmar
 >
 > É como se a casa tivesse aprendido a falar usando uma voz que sabe que vocês vão ouvir.
 
-### 5. Clímax — O Ritual de Sangue
+### 5. Sentença — Lorghoth, o Decompositor, desperta
 
-Use quando a exigência já está clara e a situação chegou no ponto sem retorno: recusa do sacrifício, escolha difícil, combate, fuga ou transformação da casa.
+Use somente se recusarem o sacrifício.
+
+> [!quote] Frase do áudio
+> Lorghoth, o Decompositor, desperta.
+>
+> A carne foi negada.
+>
+> A casa tomará o que lhe é devido.
+>
+> Louvada seja a morte.
+
+> [!recite] Após o áudio
+> A última palavra não morre no ar.
+>
+> Ela entra na água.
+>
+> Primeiro, a câmara só treme.
+>
+> Depois as correntes balançam.
+>
+> O altar racha de cima a baixo.
+>
+> E debaixo da plataforma, alguma coisa responde.
+>
+> Não com fala.
+>
+> Com choro.
+
+### 6. Clímax — O Ritual de Sangue
+
+Use quando a exigência já está clara e a situação chegou no ponto sem retorno: recusa do sacrifício, combate, fuga ou transformação da casa.
 
 > [!recite]
 > A voz pequena desaparece.
@@ -177,6 +214,7 @@ Use quando a exigência já está clara e a situação chegou no ponto sem retor
   - depois: é um ritual;
   - depois: o ritual quer sacrifício;
   - depois: a Casa fala;
+  - depois: Lorghoth é chamado;
   - por fim: a Casa exige sangue.
 
 - Não usar o canto tibetano.
@@ -189,10 +227,10 @@ Use quando a exigência já está clara e a situação chegou no ponto sem retor
   - Deixar a mesa ouvir.
   - Narrar que a voz infantil não é Rose nem Thorn, mas a Casa imitando uma voz pequena.
 
-- “O Ritual do Sacrifício” pode ter “um deve morrer”, mas deve entrar baixo.
-  - Ele prepara a ideia.
-  - “A Casa Exige” explica a situação.
-  - “O Ritual de Sangue” é a versão final e mais forte.
+- “Lorghoth, o Decompositor, desperta” também é evento.
+  - Não tocar em loop.
+  - Use depois da recusa.
+  - Depois dele, leia o surgimento em [[Area 38 - Ritual Chamber]].
 
 ## Ordem prática no Foundry
 
@@ -202,7 +240,7 @@ Use quando a exigência já está clara e a situação chegou no ponto sem retor
 2. Ao encontrar sinais fortes do culto:
    - Trocar ou sobrepor com **Prelúdio do Sacrifício**.
 
-3. Perto da câmara ritual:
+3. Ao entrar na [[Area 38 - Ritual Chamber]]:
    - Colocar **O Ritual do Sacrifício** baixo, em loop.
 
 4. Revelação da exigência:
@@ -210,7 +248,12 @@ Use quando a exigência já está clara e a situação chegou no ponto sem retor
    - Narrar a pausa.
    - Tocar **A Casa Exige**.
 
-5. Clímax / recusa / fuga:
+5. Recusa do sacrifício:
+   - Fazer 1 segundo de silêncio.
+   - Tocar **Lorghoth, o Decompositor, desperta**.
+   - Ler a narração de surgimento.
+
+6. Clímax / combate / fuga:
    - Tocar **O Ritual de Sangue** mais alto.
    - Aumentar a pressão até a cena resolver.
 
@@ -218,4 +261,5 @@ Use quando a exigência já está clara e a situação chegou no ponto sem retor
 - Entrada no subsolo: [[Area 22 - Dungeon Level Access]]
 - Câmara ritual: [[Area 38 - Ritual Chamber]]
 - Exigência: [[One Must Die]]
+- Lorghoth: [[Shambling Mound - Ritual Chamber]]
 - Fuga: [[Fuga da Death House]]
