@@ -8,43 +8,40 @@ tags:
   - casa-da-morte
   - dining-hall
   - ossos
-  - carrion-stalker
-  - horror-corporal
+  - culto
 ---
 
 # Area 27 — Dining Hall
 
 > [!info] Resumo rápido
-> Refeitório grotesco do culto, com mesa simples, bancos, ossos espalhados e um corpo caído que **parece alguém ferido**. Ao sul, uma alcova escura leva para [[Area 28 - Larder]].
+> Refeitório grotesco do culto, com mesa simples, bancos longos, ossos espalhados e sinais de banquete ritualizado. Ao sul, uma alcova escura leva para [[Area 28 - Larder]].
 
 ## Função na mesa
-A cena deve vender primeiro a mentira: **parece uma vítima viva, agonizando**. A verdade só aparece se eles investigarem bem, interagirem com cuidado ou chegarem perto demais.
+Dar um respiro tenso entre o horror do [[Carrion Stalker - Area 25]] e a emboscada dos [[Boneless - Area 28]]. Esta área agora não tem corpo-armadilha: ela serve para mostrar o apetite ritual da casa e preparar o cheiro/ambiente do Larder.
 
 > [!tip] Ritmo de narração
-> Não diga “tem algo dentro”, “não é respiração” ou “não parece humano” na primeira descrição. Primeiro deixe os jogadores acreditarem que pode ser alguém com dor.
+> Não coloque mais o corpo agonizando aqui. O Carrion Stalker foi movido para a [[Area 25 - Well and Cultist Quarters]] para não ficar colado nos Boneless da área 28.
 
 ## Visão rápida
 - Mesa simples de madeira.
 - Bancos longos.
 - Ossos humanoides pelo chão.
-- Um corpo caído, se mexendo pouco.
+- Marcas de cortes antigos.
+- Manchas escuras na madeira.
 - Alcova escura ao sul, levando para [[Area 28 - Larder]].
-- Encontro opcional/evitável: [[Carrion Stalker - Area 27]].
 
-> [!recite] Narração Pronta — primeira visão
+> [!recite] Narração Pronta
 > O túnel se abre em uma sala baixa, sustentada por madeira velha e pedra úmida.
 >
-> Uma mesa simples ocupa o centro. Bancos longos ficam dos dois lados. Pelo chão, entre poeira e terra, há ossos antigos espalhados como restos que ninguém teve coragem de juntar.
+> Uma mesa simples ocupa o centro. Bancos longos ficam dos dois lados.
 >
-> Então vocês veem alguém caído perto da mesa.
+> Pelo chão, entre poeira e terra, há ossos antigos espalhados como restos que ninguém teve coragem de juntar.
 >
-> O corpo se mexe pouco. Uma mão arranha a pedra, para, e arranha de novo.
+> Não há corpo inteiro aqui.
 >
-> A cabeça está virada de lado. A boca está aberta.
+> Só pedaços. Vestígios. O tipo de silêncio que sobra depois que um lugar já foi usado vezes demais para a mesma coisa.
 >
-> De dentro da garganta sai um som baixo, úmido, falhando no meio.
->
-> Por um instante, parece que ele tentou pedir ajuda.
+> Ao sul, uma alcova menor se abre na pedra. O ar que vem dali é mais fechado, mais seco, com cheiro de pano velho e coisa guardada por tempo demais.
 
 ---
 
@@ -57,9 +54,10 @@ A cena deve vender primeiro a mentira: **parece uma vítima viva, agonizando**. 
 **Rolagens**
 - **Investigation DC 12:** as marcas parecem de facas e uso repetido, não apenas desgaste comum.
 - **Medicine DC 12:** alguns ossos foram quebrados depois da morte.
+- **Religion DC 12:** o lugar parece menos um refeitório comum e mais uma repetição ritualizada de banquete e descarte.
 
 > [!note] Nota do Mestre
-> Evite gore excessivo. Diga o suficiente para ficar claro que era um salão de banquete ritualizado.
+> Evite gore excessivo. Diga o suficiente para ficar claro que era um salão de banquete ritualizado, sem transformar isso numa pausa longa.
 
 ### Ossos no chão
 > [!recite] Narração curta
@@ -68,163 +66,19 @@ A cena deve vender primeiro a mentira: **parece uma vítima viva, agonizando**. 
 **Rolagens**
 - **Medicine DC 13:** identificar restos de várias pessoas.
 - **Religion DC 12:** a disposição não parece sepultamento; parece descarte.
+- **Survival DC 12:** algumas marcas parecem de arrasto, como se restos tivessem sido puxados para dentro e para fora da sala ao longo dos anos.
 
----
+### O silêncio depois do poço
+Se o grupo já encontrou o corpo da [[Area 25 - Well and Cultist Quarters]], use esta sala para contrastar.
 
-## O corpo caído
-
-> [!danger] Encontro opcional
-> Use [[Carrion Stalker - Area 27]] se os personagens chegarem perto, tocarem, tentarem ajudar sem cuidado ou perturbarem o corpo. Se investigarem bem, podem evitar surpresa, atacar de longe, queimar o corpo ou simplesmente passar longe.
-
-### Narração — com tocha, lanterna ou luz forte
-> [!recite]
-> A luz alcança o corpo aos poucos.
+> [!recite] Narração opcional
+> Depois do corpo junto ao poço, esta sala parece quase pior por estar vazia.
 >
-> Primeiro os dedos sujos, dobrados contra a pedra. Depois a roupa rasgada. Depois o rosto pálido, com a boca aberta e os olhos semicerrados.
+> Não há pedido de ajuda.
+> Não há movimento.
+> Não há respiração.
 >
-> O peito se move de um jeito fraco, irregular.
->
-> A mão tenta arranhar o chão mais uma vez.
->
-> O som sai de novo, preso na garganta.
->
-> “A... ju...”
->
-> Ou talvez seja só dor demais para virar palavra.
-
-### Narração — sem luz / darkvision
-> [!recite]
-> Em tons de cinza, é difícil saber o que é sangue, sujeira ou sombra.
->
-> Vocês veem a forma de uma pessoa caída no chão. Um ombro se mexe. Uma mão raspa a pedra.
->
-> O rosto está virado na direção da sala, mas a escuridão engole quase todos os detalhes.
->
-> O som é pior sem cor para explicar.
->
-> Um chiado molhado. Baixo. Quase uma palavra.
->
-> Quase “ajuda”.
-
-### Cheiro
-> [!recite]
-> O cheiro da sala é pesado: mofo, pedra úmida, ferro velho e sangue seco.
->
-> Perto do corpo, há também um cheiro quente e azedo, como ferida infeccionada sob roupa suja.
-
-**Interações prováveis**
-- Chamar de longe.
-- Jogar objeto.
-- Examinar sem encostar.
-- Tentar ajudar.
-- Cutucar com arma, cajado ou ferramenta.
-- Queimar o corpo.
-- Ignorar e manter distância.
-
-**Rolagens**
-- **Medicine DC 13 com luz / DC 15 sem luz:** perceber que há algo errado com a “agonia”; os movimentos não parecem responder à voz ou ao toque como uma pessoa consciente.
-- **Perception DC 13 com luz / DC 15 sem luz:** notar que o som vem fundo demais no peito, como ar preso em lugar errado.
-- **Investigation DC 13:** perceber que o corpo reage mais à aproximação do que à dor.
-
-### Se passarem no teste
-> [!recite]
-> Você para antes de tocar.
->
-> Alguma coisa não fecha.
->
-> O corpo se mexe, mas não reage como alguém que ouviu ajuda chegando. A mão arranha o chão no mesmo ritmo, como se repetisse um movimento que não pertence mais à pessoa.
->
-> Então, por baixo da roupa rasgada, há um deslocamento curto.
->
-> Pequeno.
->
-> Rápido.
->
-> E some antes que você consiga ter certeza.
-
-**Efeito**
-- Os personagens não são surpreendidos.
-- Podem preparar ação, atacar de longe, queimar, passar longe ou recuar.
-
-### Se falharem ou se aproximarem descuidados
-> [!recite]
-> O corpo treme de novo.
->
-> A mão se fecha contra a pedra.
->
-> A boca abre um pouco mais.
->
-> O som sai fraco, quebrado, quase humano.
->
-> “A... ju...”
->
-> A última parte morre antes de virar palavra.
-
-**Efeito**
-- O [[Carrion Stalker - Area 27]] irrompe do corpo.
-- Use o statblock cru do livro, se quiser o perigo completo.
-- O primeiro alvo deve ser quem chegou mais perto, tentou ajudar ou cutucou o corpo.
-
-### Revelação — quando o bicho sai do corpo
-> [!recite]
-> O corpo para.
->
-> A mão fica imóvel. O som acaba. O peito afunda.
->
-> Por um segundo, parece que a pessoa morreu de vez.
->
-> Então o tronco arqueia com força.
->
-> A boca abre, mas o som não vem da boca.
->
-> Vem de dentro.
->
-> A carne se rompe de uma vez. Costelas estalam sob a roupa rasgada. Algo pequeno, molhado e rápido se empurra para fora do cadáver como se tivesse esperado o momento certo para nascer.
->
-> E salta.
-
-### Primeiro ataque
-> [!recite]
-> A coisa não corre.
->
-> Ela se lança.
->
-> Patas finas arranham pedra, tecido e pele. O corpo dela é pequeno demais para o pânico que causa.
->
-> O ferrão se ergue por cima das costas.
->
-> Antes que vocês entendam o formato da criatura, ela já está tentando se prender em alguém vivo.
-
-### Quando ela se prende em alguém
-> [!recite]
-> Ela gruda com uma força nojenta.
->
-> As patas se fecham em couro, metal, roupa e pele, procurando qualquer fresta.
->
-> O ferrão treme acima dela.
->
-> Não parece procurar sangue.
->
-> Parece procurar entrada.
-
-### Se o ferrão infectar alguém
-> [!recite] Para narrar na hora
-> O ferrão entra rápido.
->
-> A dor vem primeiro.
->
-> Depois o calor.
->
-> Depois uma sensação curta e horrível, como se alguma coisa tivesse sido deixada ali dentro.
-
-> [!note] Mensagens privadas — infecção
-> Use aos poucos, depois da cena:
->
-> **Logo depois:** “A ferida pulsa de um jeito estranho. Não dói o tempo todo. Só quando você tenta esquecer.”
->
-> **Mais tarde:** “Por um instante, a pele ao redor da ferida repuxa sozinha. Quando você olha, não tem nada. Só a certeza de que sentiu.”
->
-> **Perto do limite:** “A ferida não parece mais uma ferida. Parece um lugar ocupado.”
+> Só a mesa, os bancos e o que sobrou de quem um dia foi colocado ali.
 
 ---
 
@@ -233,3 +87,11 @@ A cena deve vender primeiro a mentira: **parece uma vítima viva, agonizando**. 
 ### Para [[Area 28 - Larder]]
 > [!recite]
 > Ao sul, uma alcova menor se abre na pedra. O ar que vem dali é mais fechado, mais seco, com cheiro de pano velho e coisa guardada por tempo demais.
+>
+> Por um instante, a luz pega em alguma coisa pendurada lá dentro.
+>
+> Talvez pano.
+>
+> Talvez couro velho.
+>
+> A forma some de novo quando a sombra se mexe.

@@ -103,7 +103,7 @@ tags:
 - [[Nursemaid's Specter|Espectro da Nursemaid]]
 - [[Hidden Spiked Pit]]
 - [[Swarm of Insects - Elisabeth Crypt]]
-- [[Carrion Stalker - Area 27]]
+- [[Carrion Stalker - Area 25]]
 - [[Boneless - Area 28]]
 - [[Grick - Larder|Grick - Larder (substituído)]]
 - [[Ghouls - Area 29]]
