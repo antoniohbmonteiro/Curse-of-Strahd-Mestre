@@ -20,15 +20,16 @@ tags:
 > - Vocês encontraram os **espíritos verdadeiros de Rose e Thorn** no quarto infantil.
 > - Oryn percebeu que as crianças vistas do lado de fora provavelmente eram uma **ilusão da casa**.
 > - Rose e Thorn lembravam de **fome**, de serem **trancados no quarto** e de Walter ser levado **para baixo**.
-> - A casa de bonecas revelou **passagens secretas** e um caminho descendo.
-> - Rose e Thorn se misturaram a Lionel e Oryn em uma possessão/confusão emocional.
+> - Rose e Thorn se misturaram a **Lionel** e **Oryn**, criando uma possessão confusa e emocional.
+> - **Biscuit**, o cachorro das crianças, apareceu debaixo da cama.
+> - **Dhorak tentou chutar Biscuit** e Oryn/Thorn reagiu com um choque mágico.
 > - O grupo encontrou pistas sobre **Marta**, **Walter**, **Gustav** e **Elizabeth**.
 > - Vet conduziu um rito nas criptas de Rose e Thorn, e as crianças finalmente descansaram.
 > - Biscuit se desfez em pó e deixou um colar.
-> - O grupo desceu ao porão, encontrou túneis, criptas, vozes distantes e uma câmara com poço.
-> - Uma criatura escondida perto do poço quase matou Dhorak.
-> - Depois, outras criaturas agarraram Kael e Lionel.
-> - A sessão terminou depois do combate, com um ferimento de ferrão reagindo de forma estranha.
+> - O grupo encontrou o **Sem Osso** no armário do porão.
+> - Yann caiu em uma armadilha de fosso com espetos e saiu andando pela parede.
+> - No poço, um corpo revelou uma criatura que quase matou Dhorak.
+> - A sessão terminou com **Dhorak sentindo algo se mover dentro da veia**.
 
 ---
 
@@ -37,20 +38,20 @@ tags:
 > [!warning] Cena atual
 > Vocês estão no **porão da Casa Durst**, perto de uma câmara com poço.
 >
-> A última criatura foi esmagada por **Dhorak**.  
-> O grupo está ferido, cansado e ainda cercado por túneis úmidos, vozes distantes e escuridão.
+> A criatura do poço foi esmagada por **Dhorak**.  
+> O grupo está ferido, cansado e cercado por túneis úmidos, criptas antigas e vozes distantes.
 >
-> Quando a adrenalina baixou, um ferimento de ferrão começou a parecer errado:  
-> **algo parecia se mover dentro da veia.**
+> Quando a adrenalina baixou, o ferimento do ferrão começou a parecer errado.  
+> **Algo se move dentro da veia de Dhorak.**
 
 ---
 
 ## Objetivo atual
 
 > [!question] O que o grupo está tentando fazer?
-> Encontrar o que está por trás da tragédia da Casa Durst.  
 > Entender o que aconteceu com **Walter**.  
-> E sobreviver ao que existe **embaixo da casa**.
+> Descobrir o que existe **embaixo da casa**.  
+> E sobreviver ao porão tempo suficiente para sair da Casa Durst.
 
 ---
 
@@ -60,10 +61,11 @@ tags:
 - O que exatamente acontecia no porão?
 - Quem era **Marta** para Walter?
 - O que **Gustav** e **Elizabeth** fizeram?
+- A ossada adulta encontrada era de **Marta**, de **Elizabeth** ou de outra pessoa?
 - Quem escreveu o bilhete assinado como **V**?
 - O que são as vozes que ecoam no porão?
-- O que era a criatura do poço?
-- O que significa a sensação de algo se movendo na veia?
+- O que era o bicho que saiu do corpo perto do poço?
+- O que significa algo se mover dentro da veia de Dhorak?
 - A casa ainda está tentando guiar vocês, confundir vocês ou impedir que avancem?
 
 ---
@@ -71,14 +73,16 @@ tags:
 ## Para lembrar antes da próxima sessão
 
 > [!tip] Antes de jogar
-> - Rose e Thorn finalmente descansaram.
+> - **Rose e Thorn descansaram.**
 > - Os ossos das crianças foram colocados nas criptas corretas.
-> - A cripta de Walter existe, mas isso não confirma tudo sobre ele.
+> - A cripta de Walter existe, mas isso não resolve o mistério.
 > - Biscuit deixou um colar.
-> - O porão tem túneis, criptas, quartos vazios, mesas, ossos antigos e um poço.
-> - O grupo encontrou um bilhete de alguém preso pela névoa.
-> - As criaturas do porão agarram, sufocam e usam ferrão.
-> - Alguém terminou a sessão com um ferimento estranho reagindo.
+> - A ossada adulta foi colocada em uma cripta sem nome.
+> - A garrafa vermelha encontrada nos pertences de Biscuit foi usada por Dhorak para se recuperar.
+> - O bilhete de **V** dizia que talvez a saída não estivesse na rua, mas embaixo.
+> - Yann caiu em uma armadilha de fosso com espetos.
+> - Dhorak foi ferido pelo ferrão da criatura do poço.
+> - Kael e Lionel foram agarrados pela criatura, mas ela não conseguiu injetar veneno neles.
 
 ---
 
@@ -89,11 +93,12 @@ tags:
 | **Rose** | Espírito da menina mais velha. Protegia Thorn e tinha medo de deixá-lo sozinho. |
 | **Thorn** | Espírito do menino menor. Apegou-se a Oryn e a Biscuit. |
 | **Walter** | Bebê levado para baixo. Continua sendo o centro do mistério. |
-| **Marta** | Cuidadora de Walter. O grupo encontrou novas pistas ligando Marta a Walter. |
+| **Marta** | Cuidadora de Walter. O grupo encontrou pistas ligando Marta a Walter. |
 | **Gustav** | Nome ligado à família Durst e ao bilhete sobre Marta e Walter. |
-| **Elizabeth** | Nome citado no bilhete, aparentemente percebeu algo sobre Walter. |
+| **Elizabeth** | Nome citado no bilhete; aparentemente percebeu algo sobre Walter. |
 | **Biscuit** | Cachorro ligado às crianças. Desapareceu após o descanso delas, deixando um colar. |
 | **V** | Assinatura de um bilhete encontrado no porão. Parece ser alguém que também ficou preso pela névoa. |
+| **Sem Osso** | Criatura de pele solta e movimento errado encontrada no armário do porão. |
 
 ---
 
@@ -101,13 +106,13 @@ tags:
 
 | Tipo | O que o grupo tem ou sabe |
 |---|---|
-| **Bilhete** | Mensagem de Gustav para Marta, dizendo que Walter tinha os olhos dela e que Elizabeth percebeu. |
+| **Bilhete de Gustav para Marta** | Sugere que Walter tinha os olhos de Marta e que Elizabeth percebeu. |
 | **Bilhete de V** | Relato de alguém preso pela névoa, guiado até a casa e para baixo. |
-| **Garrafa vermelha** | Um frasco com líquido vermelho encontrado entre os pertences de Biscuit. |
 | **Colar de Biscuit** | Caiu quando Biscuit se desfez em pó. |
-| **Ossada adulta feminina** | Encontrada em um baú com lençol manchado de sangue seco. |
 | **Casa de bonecas** | Revelou passagens secretas e ajudou a encontrar o caminho para baixo. |
 | **Criptas** | Rose e Thorn tinham criptas próprias. Walter também tinha uma cripta preparada. |
+| **Ossada adulta feminina** | Foi encontrada em um baú e colocada em uma cripta sem nome. |
+| **Garrafa vermelha** | Encontrada entre os pertences de Biscuit e usada por Dhorak. |
 
 ---
 
@@ -115,358 +120,614 @@ tags:
 
 ---
 
-## 1. As crianças verdadeiras
+## 1. O quarto infantil
 
-A sessão começou no quarto infantil do sótão, diante de dois pequenos esqueletos.
+A sessão começou exatamente onde a anterior terminou: no quarto infantil trancado pelo lado de fora.
 
-Quando Dhorak tentou mexer no boneco, o ar mudou.
+O quarto tinha:
 
-**Rose e Thorn apareceram.**
+- duas camas pequenas;
+- um baú de brinquedos com moinhos pintados;
+- uma casa de bonecas parecida demais com a própria mansão;
+- dois pequenos esqueletos no chão;
+- um boneco de pano no peito do menor.
 
-Mas dessa vez era diferente.
+**Vet** ficou horrorizada com a cena.
 
-Não eram como as crianças vistas do lado de fora da casa. Elas estavam translúcidas, cobertas pelo peso do tempo, da poeira e da morte.
+E a pergunta inevitável surgiu:
 
-Oryn, ainda atento à magia da casa, percebeu uma diferença importante:
-
-> [!note] Descoberta de Oryn
-> As crianças vistas do lado de fora pareciam ter sido uma **ilusão da casa**.  
-> As crianças no quarto eram outra coisa: os **espíritos verdadeiros de Rose e Thorn**.
+> [!question]
+> Se aqueles eram Rose e Thorn, quem recebeu vocês do lado de fora da casa?
 
 ---
 
-## 2. O que Rose e Thorn lembravam
+## 2. Rose e Thorn aparecem
 
-As crianças estavam confusas.
+**Dhorak** se aproximou dos esqueletos e tentou pegar o boneco.
 
-Rose tentava proteger Thorn.  
-Thorn se escondia atrás dela.  
-E os dois pareciam presos a memórias incompletas.
+O ar mudou.
+
+Perto das camas, surgiram **Rose** e **Thorn**, translúcidos, usando roupas antigas cobertas por poeira e tempo.
+
+Rose pediu para não pegarem o boneco.
+
+Thorn segurava o boneco contra o peito.
+
+**Oryn** percebeu uma diferença importante:
+
+> [!note] Descoberta de Oryn
+> As crianças vistas do lado de fora tinham uma aura de ilusão.  
+> As crianças no quarto eram diferentes.  
+> Ali estavam os verdadeiros espíritos de Rose e Thorn.
+
+A casa havia usado a imagem das crianças para atrair vocês.
+
+Mas os espíritos reais estavam presos no quarto.
+
+---
+
+## 3. O que as crianças lembravam
+
+**Rose** tentava proteger **Thorn** o tempo todo.
+
+Thorn ficava atrás dela, curioso com Oryn, mas assustado com o resto do grupo.
+
+As memórias deles vinham quebradas.
 
 Eles lembravam de:
 
-- ficar no quarto;
-- sentir muita fome;
-- tentar sair;
-- serem trancados quando os pais iam **lá para baixo**;
+- ficar naquele quarto;
+- serem trancados quando os pais desciam;
+- ter medo dos barulhos de baixo;
 - os pais voltarem em silêncio;
-- Walter ser levado para baixo;
-- abraçarem um ao outro;
+- **Walter ser levado para baixo**;
+- sentir fome;
+- abraçar um ao outro;
 - “dormir”.
 
-> [!quote] O peso da cena
-> Rose disse que dormiu.  
-> Mas olhou para os esqueletos quando falou isso.
+Quando Rose disse que dormiu, ela olhou para os esqueletos.
 
-Foi aí que o grupo começou a entender que Rose e Thorn não estavam apenas desaparecidos.
-
-Eles estavam presos ali há muito tempo.
+> [!quote]
+> Às vezes, uma criança não precisa entender a própria morte para ainda sentir medo dela.
 
 ---
 
-## 3. A casa de bonecas
+## 4. A casa de bonecas
 
-Oryn investigou a casa de bonecas.
+**Oryn** investigou a casa de bonecas.
 
-Ela era perfeita demais.
+Ela era detalhada demais para ser só brinquedo.
 
-Cada janela, corredor e quarto parecia uma miniatura fiel da própria Casa Durst. Mas, ao olhar melhor, Oryn percebeu algo ainda mais importante:
+Cada cômodo parecia repetir a própria Casa Durst. E, olhando com atenção, ela revelava passagens secretas.
 
-**a casa de bonecas revelava passagens secretas.**
+Entre elas, havia um caminho para baixo.
 
-Entre elas, um caminho descendo.
-
-A direção era clara:
-
-> [!danger] Para baixo
+> [!danger] Direção clara
+> A casa de bonecas apontava para o porão.  
 > As respostas estavam embaixo da casa.
 
 ---
 
-## 4. “Não nos deixem sozinhos”
+## 5. Como dar descanso aos mortos?
 
-O grupo tentou conversar com Rose e Thorn sobre sair do quarto, ir para baixo ou descansar.
+O grupo começou a discutir o que fazer com os ossos.
 
-As crianças ficaram com medo.
+- **Yann** queria dar descanso digno às crianças.
+- **Vet** concordava que elas mereciam um rito ou enterro.
+- **Dhorak** cogitou uma solução mais direta: queimar os ossos.
+- **Lionel** e **Oryn**, influenciados por Rose e Thorn, reagiram mal.
 
-Rose não queria deixar Thorn.  
-Thorn não queria ficar sozinho.  
-Os dois não queriam descer.
+O problema era simples e horrível:
 
-Quando o grupo tentou se afastar, o medo das crianças piorou.
+> [!question]
+> Como ajudar duas crianças mortas que não entendem completamente que morreram?
 
-E então a situação ficou estranha.
+A conversa ficou tensa.
 
-Rose e Thorn se misturaram a Lionel e Oryn.
+E então a presença das crianças começou a pesar mais.
 
 ---
 
-## 5. Possessão e tensão
+## 6. Possessão
 
-A possessão não pareceu simples ou maliciosa.
+**Rose** se misturou a **Lionel**.
 
-Parecia medo.
+**Thorn** se misturou a **Oryn**.
 
-Rose se agarrou a Lionel.  
-Thorn se agarrou a Oryn.
+Não parecia uma possessão maligna comum. Parecia medo, apego e confusão infantil.
 
-Os dois personagens começaram a agir de forma estranha, protetora e confusa, como se parte das crianças estivesse falando por eles.
-
-Yann percebeu e ficou cada vez mais irritado.  
-Vet tentou falar com as crianças dentro deles.  
-Kael explicou que espíritos podem se misturar a pessoas vivas.  
-Dhorak tentou impedir que a situação fugisse do controle.
+| Personagem | Influência |
+|---|---|
+| **Lionel** | Ficou mais protetor, autoritário e obcecado em proteger Thorn. |
+| **Oryn** | Ficou mais infantilizado, emotivo e apegado a Biscuit. |
+| **Yann** | Percebeu algo errado e começou a pressionar. |
+| **Vet** | Tentou falar com Rose e Thorn dentro dos companheiros. |
+| **Kael** | Explicou que espíritos podem possuir pessoas de formas diferentes. |
+| **Dhorak** | Ficou cada vez mais desconfortável com a situação. |
 
 > [!warning] Tensão do grupo
-> A situação quase virou confronto entre os próprios personagens.  
-> Ninguém sabia exatamente onde terminava Lionel/Oryn e onde começavam Rose/Thorn.
+> Por alguns minutos, ninguém sabia exatamente onde terminava Lionel/Oryn e onde começavam Rose/Thorn.
 
 ---
 
-## 6. O debate sobre os ossos
+## 7. Biscuit
 
-O grupo discutiu o que fazer com os ossos das crianças.
+Debaixo da cama, dois olhos refletiram a luz.
 
-Yann queria dar um descanso digno.  
-Vet concordava que crianças inocentes mereciam uma despedida.  
-Dhorak ajudou a carregar os ossos.  
-Lionel e Oryn, influenciados por Rose e Thorn, resistiam à ideia de deixar as crianças ou tratar os corpos como simples restos.
+Um cachorro magro demais saiu devagar.
 
-Em um momento mais tenso, Vet cogitou usar magia sagrada nos ossos.
+O pelo era falhado.  
+As patas tremiam.  
+Uma coleira velha pendia frouxa no pescoço.
 
-Isso fez Rose e Thorn reagirem com medo e raiva.
+Ele não parecia ameaçador.
 
-Aos poucos, o grupo percebeu que as crianças não estavam tentando enganar ninguém.
+Mas **Yann** discordava completamente.
 
-Elas estavam presas, assustadas e confusas.
+Para Yann, aquilo não era “um cachorro”.
 
----
+Era **uma criatura**.
 
-## 7. Biscuit e o quarto extra
+Biscuit abanou o rabo para Oryn/Thorn, e Thorn ficou feliz em vê-lo.
 
-Em um quarto extra cheio de móveis cobertos por lençóis, surgiu outro nome importante:
-
-**Biscuit.**
-
-O cachorro parecia ligado às crianças.
-
-Ele mexeu em uma tábua solta e revelou objetos escondidos:
-
-- uma fita azul desbotada;
-- um botão infantil;
-- um pedaço de pano;
-- uma garrafa com líquido vermelho;
-- um papel.
-
-O papel trouxe uma informação pesada:
-
-> [!quote] Bilhete
-> Walter tinha os olhos de Marta.  
-> Elizabeth havia percebido.
-
-O grupo começou a teorizar.
-
-Talvez Walter fosse filho de Marta.  
-Talvez Gustav estivesse envolvido.  
-Talvez Elizabeth tivesse descoberto.  
-Talvez isso explicasse a raiva, a tragédia e o horror da casa.
-
-Mas nada ainda estava totalmente claro.
+> [!note] Biscuit
+> Para Rose e Thorn, Biscuit era memória, afeto e companhia.  
+> Para Yann, era um perigo de quatro patas.
 
 ---
 
-## 8. A ossada adulta
+## 8. Dhorak tenta chutar o cachorro
 
-Em outro baú, Yann encontrou restos esqueléticos enrolados em um lençol manchado de sangue seco.
+Em uma das cenas mais absurdas da sessão, **Dhorak tentou chutar Biscuit**.
 
-Kael examinou.
+Oryn, ainda misturado com Thorn, reagiu na hora.
+
+Um choque mágico atingiu Dhorak antes que ele pudesse tocar no cachorro.
+
+E então a voz de Rose ecoou pelo quarto:
+
+> [!quote]
+> “NÃO TOQUEM NELE!”
+
+Rose ficou furiosa.
+
+O grupo entendeu rápido: Biscuit não era só um cachorro perdido.
+
+Ele era parte da vida — ou da morte — das crianças.
+
+> [!warning] Consequência imediata
+> Dhorak tentou resolver no impulso.  
+> Thorn reagiu por Oryn.  
+> Rose mostrou que ainda podia defender o que amava.
+
+---
+
+## 9. Os pertences escondidos de Biscuit
+
+Biscuit começou a mexer em uma tábua solta.
+
+**Kael** levantou a tábua e encontrou pequenos objetos escondidos:
+
+| Objeto | Impressão |
+|---|---|
+| **Fita azul desbotada** | Algo antigo, pequeno, guardado com cuidado. |
+| **Botão infantil** | Pista de criança, roupa ou memória. |
+| **Pedaço de pano** | Restos de algo pessoal. |
+| **Garrafa com líquido vermelho** | Algo útil, estranho ou importante. |
+| **Bilhete** | A pista mais pesada do esconderijo. |
+
+O bilhete dizia que **Walter tinha os olhos de Marta**.
+
+E que **Elizabeth havia percebido**.
+
+> [!question] Nova suspeita
+> Walter era filho de Marta?  
+> Gustav era o pai?  
+> Elizabeth descobriu?  
+> Isso explica a tragédia ou é só mais uma peça?
+
+Ninguém tinha certeza.
+
+Mas a história da família Durst ficou ainda pior.
+
+---
+
+## 10. A ossada adulta
+
+**Yann** explorou um quarto/depósito próximo e abriu um baú.
+
+Dentro havia restos esqueléticos enrolados em lençol manchado de sangue seco.
+
+**Kael** examinou.
 
 Não era um bebê.
 
 Era uma mulher adulta.
 
-O grupo pensou imediatamente em Marta, mas também levantou outra possibilidade:
+O grupo pensou em Marta.
 
-> [!question] Dúvida importante
-> E se esse corpo não for de Marta?  
-> E se for de Elizabeth?
+Mas **Vet** levantou outra possibilidade:
 
-Ninguém tinha certeza.
+> [!question]
+> E se o corpo for de Elizabeth?
 
-Mas todos concordaram em uma coisa:
+Ninguém soube responder.
 
-Aquela pessoa também merecia um fim digno.
-
----
-
-## 9. A descida
-
-Depois disso, o grupo finalmente desceu pela passagem.
-
-A escada parecia longa demais.
-
-A madeira e o papel de parede da casa ficaram para trás. Embaixo, tudo mudou.
-
-As paredes eram de terra, pedra e argila.  
-O ar era pesado, úmido e sem vento.  
-O frio não parecia apenas temperatura.  
-E vozes ecoavam ao longe, como uma oração baixa dita por bocas distantes.
-
-Vocês tinham chegado ao porão.
+Mas todos concordaram que aquela pessoa também merecia um fim digno.
 
 ---
 
-## 10. O bilhete de V
+## 11. A descida
 
-No porão, o grupo encontrou outro bilhete.
+Depois disso, vocês desceram.
 
-Ele falava de alguém que tentou sair pela névoa, mas sempre voltava para a mesma casa.
+A casa mudou completamente.
 
-A pessoa dizia que as crianças da rua quase a enganaram.  
-Dizia que a parte de cima da casa era bonita, limpa e quieta demais.  
-Dizia que havia uma porta escondida para baixo.
+O papel de parede, a madeira polida e os quartos antigos ficaram para trás.
 
-E, principalmente:
+Embaixo havia:
 
-> [!quote] Bilhete de V
+- terra;
+- pedra;
+- argila;
+- vigas escuras;
+- ar úmido;
+- frio estranho;
+- pegadas antigas;
+- vozes distantes.
+
+As vozes pareciam uma oração baixa, repetida por bocas longe demais para serem entendidas.
+
+> [!danger] O porão
+> A mansão acabou.  
+> O que havia abaixo dela era outra coisa: túmulo, culto e armadilha.
+
+---
+
+## 12. O bilhete de V
+
+No porão, Biscuit encontrou ou trouxe outro papel.
+
+**Lionel** leu em voz alta.
+
+O bilhete falava de alguém preso pela névoa.
+
+Essa pessoa tentou sair pela rua várias vezes, mas sempre acabou diante da mesma casa. Também encontrou duas crianças na rua e quase foi enganada. A parte de cima da casa parecia bonita, limpa e quieta demais.
+
+Mas o bilhete dizia que havia uma porta escondida para baixo.
+
+E terminava com uma ideia assustadora:
+
+> [!quote]
 > “Talvez a saída não esteja na rua. Talvez esteja embaixo.”
 
-O bilhete era assinado com uma letra:
+Assinatura:
 
 **V.**
 
+O grupo entendeu que talvez não fosse o primeiro a cair na armadilha da casa.
+
 ---
 
-## 11. As criptas
+## 13. As criptas
 
-No porão, Vet encontrou criptas da família.
+**Vet** investigou as criptas do porão.
 
-Uma delas tinha o nome de **Walter Durst**.
+Ela encontrou uma cripta com o nome de **Walter Durst**.
 
-Mas isso não significava necessariamente que Walter estivesse morto ali. Vet sabia que famílias podiam preparar criptas antes da morte.
+Mas isso não provava tudo. Famílias importantes podiam preparar criptas antes da morte.
 
-Em outra área, estavam as criptas de **Rose** e **Thorn**.
+Depois, Vet encontrou as criptas de **Rose** e **Thorn**.
 
-Então o grupo colocou os ossos das crianças em seus lugares.
+O grupo colocou os ossos das crianças em seus lugares.
 
-Vet fez uma oração a Lathander, pedindo que as crianças encontrassem luz e descanso.
+Vet fez uma oração a **Lathander**.
+
+Ela pediu luz.  
+Pediu descanso.  
+Disse que aquelas crianças haviam sido queridas, mesmo tarde, mesmo por estranhos.
 
 > [!success] Descanso
-> Uma luz suave tocou as criptas.  
-> O frio ficou menos pesado.  
+> Uma luz suave tocou os caixões de pedra.  
+> O frio ao redor diminuiu.  
 > Rose e Thorn desapareceram devagar.  
-> E, por um momento, o porão pareceu respirar.
+> O porão pareceu parar de prender a respiração.
 
 Biscuit foi até as criptas, deitou e se desfez em pó.
 
 No lugar dele, ficou um colar.
 
----
+**Oryn colocou o boneco junto aos ossos.**
 
-## 12. O poço
-
-Depois do descanso das crianças, o grupo continuou.
-
-Os túneis levavam a salas baixas, mesas antigas, ossos espalhados e aposentos apertados.
-
-Então vocês chegaram a uma câmara com um poço.
-
-Perto dele havia um corpo.
-
-Parecia ferido.  
-Parecia tentar se mover.  
-Parecia tentar dizer algo.
-
-Dhorak se aproximou.
-
-Então o corpo atacou.
+Rose, Thorn e Biscuit finalmente descansaram.
 
 ---
 
-## 13. A criatura
+## 14. A cripta sem nome
 
-O que parecia um corpo era uma criatura terrível, cheia de membros, tentáculos e ferrão.
+Ainda restava a ossada adulta feminina.
 
-Ela agarrou Dhorak.
+Como ninguém sabia se era Marta, Elizabeth ou outra pessoa, o grupo decidiu colocá-la em uma cripta sem nome.
 
-O ferrão perfurou.
+Não havia certeza.
 
-Dhorak caiu.
+Mas havia respeito.
 
-> [!danger] Quase morte
-> Por alguns instantes, Dhorak esteve no chão, entre a vida e a morte.
-
-Yann correu para ajudar, puxando música e força onde ainda dava.
-
-Dhorak voltou.
-
-Mas o porão ainda não tinha acabado.
+> [!note]
+> Nem todo mistério foi resolvido.  
+> Mas nem todo morto precisava esperar pela resposta para receber dignidade.
 
 ---
 
-## 14. Kael sem ar
+## 15. O armário
 
-Outra criatura agarrou Kael.
+Depois do descanso das crianças, vocês continuaram explorando o porão.
 
-Ela se enrolou no corpo dele, apertando e prendendo sua respiração.
+Em um canto, havia uma área estreita parecida com um armário antigo.
 
-Oryn tentou usar magia para criar espaço entre a criatura e o rosto de Kael, mas a coisa resistiu.
+O lugar tinha:
 
-Dhorak avançou com o machado e cortou a criatura, libertando Kael.
+- ganchos enferrujados;
+- trapos velhos;
+- pedaços de couro seco;
+- panos pendurados;
+- cheiro de poeira, couro velho e coisa esquecida.
 
-Kael, mesmo depois disso, tentou manter a pose.
+Um dos panos parecia ter forma humana.
+
+**Lionel olhou melhor.**
+
+Não era pano.
+
+Era pele.
+
+Tinha poros, dobras e marcas que não deveriam estar ali.
+
+> [!danger] O Sem Osso
+> A criatura era quase toda feita de **pele solta**, **carne mole** e **movimento errado**.  
+> Ela estava parada como pano pendurado.  
+> Até deixar de fingir.
+
+---
+
+## 16. O Sem Osso agarra Kael
+
+**Kael** avançou primeiro, com as lâminas em chamas pelo próprio sangue.
+
+O Sem Osso se contorceu.
+
+Mesmo sem ossos, ele se dobrou de um jeito impossível e saltou.
+
+Ele se enrolou em Kael, cobrindo seu rosto.
+
+**Kael não conseguia respirar.**
+
+| Personagem | O que fez |
+|---|---|
+| **Lionel** | Tentou proteger Kael com Intercepção. |
+| **Oryn** | Tentou usar Mão Mágica para abrir espaço entre a criatura e o rosto de Kael. |
+| **Vet** | Tentou queimar a criatura com Chama Sagrada. |
+| **Yann** | Inspirou Kael e xingou a criatura para enfraquecê-la. |
+| **Dhorak** | Avançou com o machado para cortar a coisa fora de Kael. |
+
+Por fim, **Dhorak cortou a criatura e libertou Kael**.
+
+Kael, muito digno, explicou que estava **treinando apneia**.
 
 > [!note] Kael sendo Kael
-> Ele disse que estava treinando apneia.
+> Quase sufocado por uma pele viva.  
+> Ainda assim, tentou vender como treino.
 
 ---
 
-## 15. Lionel e o ferrão
+## 17. O Sem Osso e Lionel
 
-Depois, outra criatura se agarrou a Lionel.
+A ameaça do armário ainda não tinha acabado.
 
-Tentáculos, pressão, ferrão, veneno.
+Outra forma de pele atacou **Lionel**.
 
-O grupo tentou ajudar de todas as formas:
+A luta virou um caos em espaço apertado:
 
-- Yann usou palavras e música para enfraquecer e inspirar.
-- Vet tentou chamar a luz de Lathander, mas sentiu a resposta falhar.
-- Oryn atacou com magia.
-- Kael usou sua maldição para reduzir dano.
-- Dhorak tentou abrir caminho com o machado.
-- Lionel resistiu como pôde, mesmo preso pela criatura.
+- **Kael** atacava com as duas armas.
+- **Oryn** usava fogo.
+- **Yann** tentava enfraquecer a criatura com palavras.
+- **Lionel** tentava esmagar a coisa com sua arma.
+- **Dhorak** procurava espaço para bater sem acertar os aliados.
 
-A luta foi longa, apertada e caótica.
+No fim, Lionel acertou uma pancada seca, esmagou a criatura e virou as costas.
 
----
-
-## 16. O fim do combate
-
-A última criatura estava quase caindo, ensanguentada com um sangue verde e estranho.
-
-No fim, Dhorak avançou.
-
-Ele arrancou a criatura de Kael e a esmagou com o machado, sem nem se preocupar com o corte da lâmina.
-
-A criatura virou uma massa partida no chão.
-
-O porão ficou quieto de novo.
-
-Mas a sessão não terminou em paz.
+> [!note] Cena memorável
+> O grupo transformou um armário velho em um problema de vida ou morte.  
+> De novo.
 
 ---
 
-## Última imagem da sessão
+## 18. A sede de Yann
 
-Quando a adrenalina baixou, o ferimento de ferrão começou a mudar.
+Depois da luta, **Yann continuou incomodado com sede**.
 
-A dor não parecia comum.
+Ele tentou beber a água de Dhorak, mas cuspiu.
+
+Para **Dhorak** e **Kael**, a água parecia normal.
+
+**Vet** tentou ajudar usando **Prestidigitação**, alterando o sabor da água para torná-la mais agradável.
+
+Mas, para Yann, o gosto ruim continuou ali.
+
+---
+
+## 19. A armadilha do fosso
+
+Seguindo pelos túneis, **Yann** pisou em uma área que cedeu.
+
+O chão abriu.
+
+Ele caiu em um fosso com espetos.
+
+A queda foi feia.
+
+Mesmo tentando reagir, Yann foi perfurado e saiu muito machucado.
+
+Então fez algo igualmente perturbador:
+
+**subiu andando pela parede.**
+
+Depois usou magia para fechar parte do ferimento.
+
+**Lionel** viu Yann lambendo a mão ensanguentada e ficou entre preocupado, impressionado e desconfiado.
+
+**Oryn**, depois disso, teve uma ideia melhor: transformar água em esferas de gelo e jogar pelo corredor para testar armadilhas.
+
+> [!danger] Lição do corredor
+> Nem toda ameaça do porão respira.  
+> Algumas só esperam alguém pisar no lugar errado.
+
+---
+
+## 20. O poço
+
+Vocês chegaram a uma câmara com um poço de pedra no centro.
+
+Havia um balde preso por corda e polia.
+
+O ar era mais úmido ali.
+
+O som dos passos parecia descer pelo poço antes de voltar como eco.
+
+Perto do poço havia um corpo.
+
+A mão estava caída sobre a borda de pedra.  
+A boca abria e fechava.  
+Um som úmido saía da garganta.
+
+Parecia alguém tentando pedir ajuda.
+
+**Dhorak quase atirou.**
+
+**Vet** e **Lionel** lembraram que poderia ser alguém ferido.
+
+Então Dhorak se aproximou.
+
+---
+
+## 21. O corpo se abre
+
+O corpo tremeu.
+
+A mão escorregou.
+
+A boca abriu.
+
+Por um segundo, pareceu que a pessoa tinha morrido de vez.
+
+Então o tronco arqueou.
+
+A carne se rompeu.
+
+Costelas estalaram sob a roupa rasgada.
+
+Alguma coisa pequena, molhada e rápida se empurrou para fora do cadáver.
+
+E saltou em Dhorak.
+
+> [!danger] A criatura do poço
+> O corpo não era uma vítima esperando resgate.  
+> Era uma isca.
+
+---
+
+## 22. O ferrão
+
+A criatura do poço se agarrou em **Dhorak** com tentáculos.
+
+Depois o ferrão perfurou.
+
+Dhorak sentiu dor, calor e veneno entrando.
+
+Ele caiu.
+
+> [!danger] Quase morte
+> Pela primeira vez, Dhorak ficou realmente entre a vida e a morte dentro da casa.
+
+**Yann correu tocando a gaita e mandou Dhorak levantar.**
+
+A magia trouxe Dhorak de volta.
+
+**Vet** também se aproximou e reforçou a cura.
+
+---
+
+## 23. A mesma luta
+
+A criatura do poço não iniciou uma segunda luta.
+
+Foi tudo o mesmo combate.
+
+Depois de quase matar Dhorak, ela também agarrou **Kael** e **Lionel**.
+
+Mas em Kael e Lionel foi diferente:
+
+- ela agarrou;
+- sufocou;
+- feriu;
+- tentou usar o ferrão;
+- mas **não conseguiu injetar veneno** neles.
+
+| Personagem | Na luta contra a criatura do poço |
+|---|---|
+| **Dhorak** | Caiu pelo ferrão, voltou e depois terminou o combate. |
+| **Yann** | Ergueu Dhorak com magia, usou zombaria, inspiração e besta de mão. |
+| **Vet** | Curou e tentou chamar luz contra a criatura. |
+| **Kael** | Foi agarrado, resistiu e continuou fatiando a criatura. |
+| **Lionel** | Foi agarrado, resistiu e tentou segurar a linha de frente. |
+| **Oryn** | Atacou com choques e ajudou a pressionar a criatura. |
+
+**Kael** também usou sua maldição para reduzir o dano em Lionel.
+
+A luta foi uma só.
+
+Mas pareceu durar uma eternidade.
+
+---
+
+## 24. O fim do bicho do poço
+
+A criatura sangrava verde.
+
+Ela estava quase partida, mas ainda se agarrava ao grupo.
+
+Dhorak avançou.
+
+Arrancou a criatura de Kael.
+
+Jogou a coisa no chão.
+
+E esmagou com o machado, usando mais peso do que lâmina.
+
+O porão ficou quieto.
+
+Mas não ficou seguro.
+
+> [!success] Vitória
+> O grupo venceu.  
+> Mas o corpo de Dhorak ainda não tinha entendido que a luta acabou.
+
+---
+
+# Última imagem da sessão
+
+Quando a adrenalina baixou, **Dhorak sentiu o ferimento do ferrão**.
+
+A dor mudou.
 
 Algo pulsava por baixo da pele.
 
-Como se alguma coisa pequena estivesse se movendo dentro da veia.
+Não parecia sangue correndo.
 
-E a sessão terminou aí.
+Parecia alguma coisa pequena se movendo dentro da veia.
+
+> [!quote]
+> Algo se move dentro da veia.
 
 ---
 
@@ -476,28 +737,57 @@ E a sessão terminou aí.
 
 ## Yann e Lionel
 
-A tensão entre **Yann** e **Lionel** continuou forte.
+A tensão entre **Yann** e **Lionel** continuou.
 
-Yann não confiou na postura de Lionel durante a possessão e provocou várias vezes. Lionel, por sua vez, parecia dividido entre sua própria honra e o impulso protetor de Rose.
+**Yann** desconfiou da possessão, cutucou Lionel e continuou usando o assunto do irmão como arma verbal.
 
-Mesmo assim, os dois continuam lutando do mesmo lado.
+**Lionel** segurou a raiva, mas a paciência está cada vez mais curta.
 
-Por enquanto.
+> [!warning] Tensão ativa
+> Os dois ainda lutam do mesmo lado.  
+> Por enquanto.
+
+---
+
+## Yann e Biscuit
+
+**Yann revelou um medo genuíno de cachorro.**
+
+Para o grupo, Biscuit era magro, triste e ligado às crianças.
+
+Para Yann, era uma criatura terrível esperando o momento certo para arrancar alguém pela janela.
+
+> [!note]
+> Nem todo horror da Casa Durst tem tentáculos.  
+> Às vezes, para Yann, ele abana o rabo.
+
+---
+
+## Yann e a sede
+
+A água parecia normal para os outros.
+
+Mesmo com **Prestidigitação**, para Yann o gosto continuou errado.
+
+Somando isso à queda no fosso, ao sangue e ao jeito como ele reagiu depois, ficou claro que algo nele também está sendo testado pela casa.
 
 ---
 
 ## Vet e a fé
 
-**Vet** teve um momento importante ao conduzir o rito para Rose e Thorn.
+**Vet** teve um dos momentos mais fortes da sessão.
 
-A luz veio.
+A conexão com **Lathander** ainda parece distante e difícil em Baróvia, mas o rito para Rose e Thorn funcionou.
 
 As crianças descansaram.
 
-Mas, no combate do porão, a conexão com Lathander voltou a parecer difícil e distante.
+A luz veio.
 
-> [!note] Tema ativo
-> A fé de Vet funciona, mas Baróvia continua abafando a sensação de resposta divina.
+Mesmo naquele lugar.
+
+> [!success]
+> Pela primeira vez no porão, a fé não pareceu apenas resistir.  
+> Ela conseguiu libertar alguém.
 
 ---
 
@@ -505,9 +795,13 @@ Mas, no combate do porão, a conexão com Lathander voltou a parecer difícil e 
 
 **Oryn** foi a âncora de Thorn.
 
-Thorn confiou nele, gostou do “coelhinho” e se agarrou a ele por medo de ficar sozinho.
+Ele protegeu Biscuit, sentiu o medo do menino e depois sentiu a paz dele partindo.
 
-Depois, Oryn teve que lidar com o que fez enquanto estava sob essa influência.
+Também precisou pedir desculpas a Dhorak pelo choque.
+
+> [!note]
+> Oryn não apenas viu Thorn.  
+> Por um momento, carregou parte do medo dele.
 
 ---
 
@@ -515,47 +809,60 @@ Depois, Oryn teve que lidar com o que fez enquanto estava sob essa influência.
 
 **Lionel** foi a âncora de Rose.
 
-Rose reforçou nele o lado protetor, autoritário e desesperado por manter Thorn seguro.
+Rose reforçou nele o instinto de proteger e liderar. Isso tornou a possessão confusa, porque parte da postura combinava demais com o próprio Lionel.
 
-Isso combinou demais com o próprio Lionel, o que tornou tudo ainda mais confuso.
+> [!warning]
+> Quando uma criança assustada encontra um guerreiro que vive por promessas, a fronteira entre proteção e controle fica perigosa.
 
 ---
 
-## Dhorak e a quase morte
+## Dhorak e a casa
 
-**Dhorak** quase morreu no porão.
+**Dhorak teve uma sessão difícil.**
 
-Ele já tinha sido humilhado pela casa antes, mas agora a ameaça foi real. Ainda assim, foi ele quem esmagou a última criatura.
+| Ação | Consequência |
+|---|---|
+| Tentou pegar o boneco | Rose e Thorn apareceram. |
+| Tentou chutar Biscuit | Tomou um choque de Oryn/Thorn. |
+| Chegou perto do corpo no poço | Quase morreu pelo ferrão. |
+| Voltou para a luta | Esmagou a criatura do poço. |
+
+> [!danger]
+> A casa pune impulso.  
+> Mas Dhorak continua voltando.
 
 ---
 
 ## Kael e os monstros
 
-**Kael** continuou sendo o caçador diante do horror.
+**Kael** foi essencial contra o Sem Osso e no combate do poço.
 
-Identificou pistas, ajudou no combate e usou sua maldição para proteger Lionel.
+Ele atacou, resistiu, protegeu Lionel com sua maldição e ainda conseguiu manter a pose mesmo quando estava sem ar.
 
-Mas também terminou como possível alvo de algo estranho no sangue.
+> [!note]
+> Kael quase foi sufocado por pele viva e ainda tentou transformar isso em treino.
 
 ---
 
 # O que vocês descobriram
 
-- As crianças vistas do lado de fora provavelmente eram uma ilusão da casa.
-- Rose e Thorn verdadeiros estavam no quarto infantil como espíritos.
-- Eles morreram de fome ou abandono após serem trancados.
-- Walter foi levado para baixo antes do fim.
-- A casa de bonecas revela passagens secretas.
-- Rose e Thorn podiam se misturar/possuir pessoas vivas.
-- Marta, Walter, Gustav e Elizabeth estão conectados por um segredo familiar.
-- Há uma ossada adulta feminina no sótão.
-- Há uma cripta preparada para Walter.
-- Rose e Thorn descansaram após o rito de Vet.
-- Biscuit desapareceu e deixou um colar.
-- A névoa já prendeu outras pessoas na casa.
-- O porão tem túneis, celas/quartos, criptas, poço e vozes distantes.
-- Criaturas escondidas no porão usam tentáculos e ferrão.
-- O ferrão pode ter deixado algo estranho no corpo de alguém.
+| Descoberta | O que isso muda |
+|---|---|
+| As crianças da rua provavelmente eram ilusão da casa. | A casa manipulou vocês desde a entrada. |
+| Rose e Thorn verdadeiros estavam no quarto infantil. | Os espíritos reais estavam presos aos próprios restos. |
+| Eles morreram após serem trancados e abandonados. | A tragédia da casa ficou mais clara. |
+| Walter foi levado para baixo antes do fim. | O porão continua sendo o centro do mistério. |
+| A casa de bonecas revela passagens secretas. | Ela funciona como pista e mapa da casa. |
+| Rose e Thorn podiam se misturar a pessoas vivas. | Os mortos da casa ainda podem tocar os vivos. |
+| Biscuit era importante para as crianças. | O cachorro era memória, afeto e vínculo. |
+| O bilhete de Gustav sugere ligação entre Marta e Walter. | A história familiar ficou mais sombria. |
+| Elizabeth percebeu algo sobre Walter. | Há conflito familiar ainda não totalmente explicado. |
+| Há uma ossada adulta feminina. | A identidade dela ainda é incerta. |
+| A névoa já prendeu outras pessoas na casa. | Vocês talvez não sejam os primeiros. |
+| Rose e Thorn descansaram após o rito de Vet. | Uma parte da casa foi libertada. |
+| O Sem Osso se escondia como pele/pano pendurado. | O porão usa horror físico e emboscadas. |
+| A criatura do poço saiu de dentro de um corpo. | Nem todo “ferido” é alguém a ser salvo. |
+| O ferrão injetou veneno em Dhorak. | O perigo não terminou com o combate. |
 
 ---
 
@@ -564,29 +871,31 @@ Mas também terminou como possível alvo de algo estranho no sangue.
 | Item/Pista | Importância |
 |---|---|
 | **Bilhete de Gustav para Marta** | Sugere que Walter tinha os olhos de Marta e que Elizabeth percebeu. |
-| **Garrafa com líquido vermelho** | Encontrada entre os pertences escondidos de Biscuit. |
-| **Ossada adulta feminina** | Encontrada em baú com lençol manchado de sangue seco. |
+| **Garrafa vermelha** | Encontrada entre os pertences de Biscuit; usada por Dhorak para se recuperar. |
+| **Ossada adulta feminina** | Encontrada em baú com lençol manchado de sangue seco; colocada em cripta sem nome. |
 | **Bilhete de V** | Relato de alguém preso pela névoa e guiado para baixo da casa. |
 | **Colar de Biscuit** | Caiu quando Biscuit se desfez após o descanso das crianças. |
 | **Criptas de Rose e Thorn** | Usadas para dar descanso às crianças. |
 | **Cripta de Walter** | Existe no porão, mas ainda não resolve o mistério. |
 | **Casa de bonecas** | Revelou passagens secretas. |
+| **Armadilha do fosso** | Corredor perigoso com queda e espetos. |
+| **Ferimento de Dhorak** | O ferrão deixou algo estranho se movendo na veia. |
 
 ---
 
 # Próxima sessão
 
-Vocês começam no **porão da Casa Durst**, logo após vencer as criaturas do poço.
+Vocês começam no **porão da Casa Durst**, logo após vencer a criatura do poço.
 
-O grupo está ferido.
+**Rose e Thorn descansaram.**
+
+**Biscuit se foi.**
+
+**Walter ainda não foi encontrado.**
 
 As vozes ainda ecoam em algum lugar abaixo.
 
-Rose e Thorn descansaram.
-
-Walter ainda não foi encontrado.
-
-E um ferimento de ferrão começou a reagir de forma errada.
+E **Dhorak sente algo se movendo em seu sangue**.
 
 > [!quote]
 > Algo se move dentro da veia.

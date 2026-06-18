@@ -18,7 +18,7 @@ tags:
 
 | Sessão | Título | Resumo |
 |---:|---|---|
-| 03 | [[Sessao 03 - Recap dos Jogadores|Os Ossos e o Porão]] | O grupo encontra os espíritos verdadeiros de Rose e Thorn, dá descanso às crianças, desce ao porão e enfrenta criaturas junto ao poço. |
+| 03 | [[Sessao 03 - Recap dos Jogadores|Os Ossos e o Porão]] | O grupo encontra os verdadeiros espíritos de Rose e Thorn, descobre Biscuit, dá descanso às crianças, enfrenta o Sem Osso no armário e quase perde Dhorak para a criatura do poço. |
 | 02 | [[Sessao 02 - Recap dos Jogadores|A Voz no Berço]] | O grupo toca a partitura de Walter, encontra Marta no quarto do berço e termina diante de dois pequenos esqueletos no sótão. |
 | 01 | [[Sessao 01 - Recap dos Jogadores|A Casa na Névoa]] | O grupo atravessa a névoa, encontra Rose e Thorn, entra na Casa Durst e descobre os primeiros sinais de ritual envolvendo Walter. |
 | 00 | [[Sessao 00 - Recap dos Jogadores|Setup e Entrada na Névoa]] | Apresentação da campanha, personagens, tom da aventura e os primeiros sinais da névoa. |
@@ -28,7 +28,7 @@ tags:
 ## Última sessão
 
 > [!summary] Sessão 03 — Os Ossos e o Porão
-> Vocês encontraram os verdadeiros espíritos de Rose e Thorn, descobriram que as crianças vistas do lado de fora eram provavelmente uma ilusão da casa, deram descanso às crianças nas criptas e desceram ao porão, onde enfrentaram criaturas escondidas perto do poço.
+> Vocês encontraram os verdadeiros espíritos de Rose e Thorn, descobriram que as crianças vistas do lado de fora eram provavelmente uma ilusão da casa, deram descanso às crianças nas criptas, encontraram Biscuit, enfrentaram o Sem Osso do armário e quase perderam Dhorak para a criatura do poço.
 >
 > **Ler agora:** [[Sessao 03 - Recap dos Jogadores|Sessão 03 — Os Ossos e o Porão]]
 
@@ -46,7 +46,7 @@ tags:
    Vocês tocaram a canção de Walter, encontraram Marta e terminaram diante de dois pequenos esqueletos em um quarto trancado pelo lado de fora.
 
 4. **Sessão 03 — Os Ossos e o Porão**  
-   Vocês encontraram os espíritos verdadeiros de Rose e Thorn, deram descanso às crianças e desceram ao porão, onde criaturas tentaculares quase mataram o grupo.
+   Vocês encontraram Rose e Thorn verdadeiros, deram descanso às crianças, descobriram pistas sobre Marta e Walter, enfrentaram o Sem Osso, caíram em armadilhas e sobreviveram à criatura do poço.
 
 ---
 
