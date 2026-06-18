@@ -231,7 +231,7 @@ Transformar toda a aventura em escolha moral. A casa não quer apenas matar os p
 ### 8. Lorghoth / Walter Flesh Mound desperta
 
 > [!recite] Surgimento
-> A água escura se abre em volta do dais.
+> A água escura se abre em volta do altar.
 >
 > Algo enorme se ergue debaixo dela, lento demais para ser animal e vivo demais para ser pedra.
 >

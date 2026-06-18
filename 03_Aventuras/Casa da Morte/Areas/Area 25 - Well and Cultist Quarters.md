@@ -115,7 +115,7 @@ Reforçar que havia hierarquia no culto, oferecer recompensas concretas e coloca
 - Jogar objeto.
 - Examinar sem encostar.
 - Tentar ajudar.
-- Cutucar com arma, cajado ou ferramenta.
+	- Cutucar com arma, cajado ou ferramenta.
 - Queimar o corpo.
 - Ignorar e manter distância.
 - Usar o poço como barreira entre o grupo e o corpo.

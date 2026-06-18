@@ -10,7 +10,7 @@ tags:
   - boneless
   - horror-corporal
 ---
-
+	
 # Area 28 — Larder
 
 > [!info] Resumo rápido
