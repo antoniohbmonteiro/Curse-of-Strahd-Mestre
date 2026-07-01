@@ -163,18 +163,44 @@ Exemplos:
 
 ---
 
+## Testes contextualizados
+
+> [!important] Regra-mãe
+> As perícias listadas em cada obstáculo são **exemplos**, não botões.
+>
+> O jogador descreve **o que faz**. O mestre decide se a abordagem gera vantagem, teste normal, desvantagem, DC maior/menor ou se não resolve o problema.
+
+Use esta lógica durante a Fase 1:
+
+- **Ideia muito boa para a cena:** vantagem, DC menor ou sucesso automático se gastar recurso adequado.
+- **Ideia boa/normal:** teste normal.
+- **Ideia possível, mas forçada:** desvantagem ou DC maior.
+- **Ideia que não resolve o problema:** não rola; peça outra abordagem.
+
+Exemplos rápidos:
+
+- **Survival na água negra:** funciona bem se o personagem estiver lendo correnteza, profundidade, inclinação ou caminho menos fundo.
+- **Arcana contra a água:** funciona se o personagem tentar entender o padrão sobrenatural da casa ou usar magia junto.
+- **Arcana só porque o bônus é alto:** não basta. Peça descrição melhor ou aplique desvantagem.
+- **Athletics na grade/porta:** normalmente faz sentido.
+- **Persuasion contra pedra caindo:** normalmente não resolve, a menos que exista uma presença consciente ouvindo.
+
+> [!quote] Frase de mesa
+> Me fala **como** você usa isso.
+
+---
+
 ## Ajuda durante perigos individuais
 
-> [!note] Rascunho curto
-> Vamos detalhar melhor depois. Por enquanto, use esta versão simples.
+Use as regras completas da nota [[Regras - Escapar da Casa]].
+
+Resumo para rodar rápido:
 
 ### Ajudar antes da rolagem
 
-Um personagem pode ajudar outro antes de rolar.
-
 O ajudado ganha **vantagem** ou **+2**.
 
-O ajudante escolhe um custo:
+O ajudante escolhe 1 custo:
 
 - rola o próprio teste com **desvantagem**;
 - fica exposto;
@@ -188,9 +214,9 @@ Um personagem que passou pode voltar para ajudar alguém que falhou.
 Escolha 1 custo:
 
 - o ajudante sofre a consequência leve no lugar do alvo;
-- o ajudante perde o próprio avanço e fica para trás junto;
+- o alvo passa, mas o ajudante fica para trás no lugar;
 - os dois passam, mas ambos começam o próximo obstáculo com desvantagem;
-- o ajudante gasta recurso forte e evita o custo.
+- o ajudante gasta recurso forte e reduz ou evita o custo.
 
 ---
 
@@ -228,15 +254,94 @@ Escolha 1 custo:
 
 ---
 
-## Se o grupo se dividir
+## Grupo dividido na Fase 1
 
-Use esta regra simples:
+> [!danger] Regra importante
+> Se o grupo se separar de verdade, **não existe sucesso/falha único para todo mundo** até eles se reunirem.
+>
+> O sucesso de um subgrupo não puxa o outro automaticamente.
+
+Use uma destas duas formas, conforme o tamanho da separação.
+
+### Separação curta: Atraso 1
+
+Use quando alguém ficou do outro lado de uma porta/grade, caiu, ficou preso ou está apenas **um obstáculo atrás**, mas ainda segue a mesma rota.
+
+Anote assim:
 
 ```text
-Grupo maior: enfrenta o obstáculo da rota principal.
-Grupo menor ou atrasado: enfrenta um obstáculo de emergência.
-Só um dos testes conta para o placar principal, a menos que a divisão tenha sido consequência de uma falha.
+Grupo principal: Sucessos X / 5, Falhas Y / 3
+Atrasados: nomes dos personagens, Atraso 1
+Lorghoth: distante / perto / na mesma cena dos atrasados
 ```
+
+O grupo atrasado precisa de uma **cena de recuperação** para alcançar.
+
+**Sucesso de recuperação:** reduz o atraso em 1 e o subgrupo alcança. Normalmente **não conta sucesso da fuga**, porque eles só recuperaram terreno perdido.
+
+**Resultado instável:** alcançam, mas com custo: dano, item perdido, desvantagem, alguém exposto ou Lorghoth se aproximando.
+
+**Falha de recuperação:** continuam atrás e a cena cobra consequência. Pode contar **1 falha da fuga** se Lorghoth ganhar terreno, se alguém for alcançado ou se o grupo principal precisar parar para resgatar.
+
+### Separação real: placares locais
+
+Use quando os subgrupos vão para rotas diferentes, decidem se separar de propósito ou ficam separados por mais de uma cena.
+
+Anote assim:
+
+```text
+Grupo A:
+- Personagens:
+- Sucessos locais: 0 / 5
+- Falhas locais: 0 / 3
+- Posição:
+
+Grupo B:
+- Personagens:
+- Sucessos locais: 0 / 5
+- Falhas locais: 0 / 3
+- Posição:
+```
+
+Enquanto estiverem separados:
+
+- cada grupo enfrenta obstáculos da própria rota;
+- cada grupo ganha seus próprios sucessos;
+- cada grupo sofre suas próprias falhas;
+- Lorghoth normalmente pressiona o grupo mais atrasado, mais barulhento ou mais vulnerável.
+
+### Reunindo os grupos
+
+Quando os grupos se reunirem, volte ao placar único.
+
+Use como base:
+
+- **Sucessos:** o maior progresso de rota já aberto, se o grupo atrasado alcançou essa rota.
+- **Falhas:** a maior pressão acumulada entre os grupos. Não some tudo automaticamente, a menos que as falhas tenham criado ameaças diferentes ainda ativas.
+- **Condições:** mantenha quem está ferido, com desvantagem, sem item, para trás ou marcado por Lorghoth.
+
+Exemplo:
+
+```text
+Grupo da frente achou a rota certa: Sucessos 1 / 5.
+Grupo de trás abriu a grade e alcançou: recuperação bem-sucedida.
+
+Quando se juntam:
+Sucessos 1 / 5.
+Falhas conforme a maior pressão acumulada.
+Ninguém é teleportado para a frente sem ter alcançado.
+```
+
+### Se um grupo escapar e outro não
+
+Se um subgrupo chega a **5 sucessos** e outro ainda está atrás, a Fase 1 termina **só para quem saiu da dungeon**.
+
+Quem ficou para trás continua em cena:
+
+- precisa fazer uma cena final de fuga;
+- precisa ser resgatado;
+- pode ser alcançado por Lorghoth;
+- ou pode aceitar consequência pesada se o grupo abandonar.
 
 Boas opções para subgrupo ou personagem atrasado:
 
@@ -247,8 +352,39 @@ Boas opções para subgrupo ou personagem atrasado:
 - [[#5. O poço chama alguém]], se estiverem perto do poço;
 - [[#15. Rota secreta — Caminho dos lobos empalhados]], se tentarem sair pelo caminho secreto até a sala dos lobos.
 
-> [!danger] Importante
-> Se alguém ficou para trás, o grupo não encerra a Fase 1 em segurança enquanto essa pessoa não alcançar os outros, for resgatada ou aceitar uma consequência pesada.
+---
+
+## Fechamento da Fase 1
+
+A Fase 1 termina quando os personagens escapam da dungeon e alcançam a casa acima.
+
+### Todos juntos
+
+Se o grupo está junto, ninguém está para trás e o placar chega a **5 sucessos**, a Fase 1 termina.
+
+### Alguém para trás
+
+Se o placar chega a **5 sucessos**, mas alguém ainda está para trás, a Fase 1 termina apenas para o grupo principal.
+
+O personagem atrasado precisa resolver uma última cena:
+
+- alcançar a saída com teste apropriado;
+- ser puxado por alguém que voltou;
+- gastar recurso forte;
+- aceitar consequência pesada;
+- ou ser alcançado por Lorghoth.
+
+### Grupo dividido
+
+Se o grupo está dividido, cada subgrupo precisa alcançar uma saída, se reunir ou ser abandonado.
+
+Não encerre a Fase 1 como “todos escaparam” se ainda existe personagem preso, para trás, em outra rota ou alcançado por Lorghoth.
+
+### Saídas válidas da Fase 1
+
+- rota original pela escada/dungeon;
+- caminho secreto para a sala dos lobos empalhados;
+- outra passagem improvisada criada por magia, desabamento, força bruta ou consequência da casa.
 
 ---
 
@@ -1704,14 +1840,33 @@ Use um situacional:
 - [ ] Obstáculo 14 usado? O teto abre para baixo
 - [ ] Rota 15 usada? Caminho dos lobos empalhados
 
-Placar oculto:
+Placar oculto, se o grupo estiver junto:
 
 ```text
 Sucessos: 0 / 5
 Falhas: 0 / 3
 Personagens para trás: nenhum
 Grupo dividido? não
-Lorghoth em cena? atrás / perto / na mesma cena
+Lorghoth: distante / perto / na mesma cena / alcançou alguém
+```
+
+Placar oculto, se o grupo se dividir:
+
+```text
+Grupo A:
+Personagens:
+Sucessos locais: 0 / 5
+Falhas locais: 0 / 3
+Posição: rota / obstáculo / saída
+
+Grupo B:
+Personagens:
+Sucessos locais: 0 / 5
+Falhas locais: 0 / 3
+Posição: rota / obstáculo / saída
+
+Atrasados:
+Lorghoth está pressionando qual grupo?
 ```
 
 ---
