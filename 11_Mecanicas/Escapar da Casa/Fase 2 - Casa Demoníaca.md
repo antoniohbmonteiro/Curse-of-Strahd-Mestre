@@ -1029,181 +1029,175 @@ Falha: item preso, personagem agarrado, Intensidade +1 ou rota forçada.
 ---
 
 
-# 8. Hall das Estátuas - O Julgamento da Casa
+# 8. Hall das Estátuas - Mãos de Pedra
 
-**Tipo:** área específica do mapa / pressão psicológica e física  
-**Uso:** qualquer hall, corredor largo ou sala com estátuas no mapa demoníaco do Beneos  
-**CD base:** 14 ou 15
+**Tipo:** obstáculo de passagem / bloqueio físico  
+**Uso:** hall, corredor largo ou sala com estátuas no mapa demoníaco  
+**CD base:** 14
 
 > [!note] Uso na mesa
-> Este obstáculo é ótimo para uma área que parece “parada”, mas tem estátuas, colunas, bustos ou figuras observando a passagem. A ameaça não precisa ser combate. As estátuas julgam, bloqueiam, agarram, viram a cabeça, fecham passagem ou forçam escolha rápida.
+> Este obstáculo não é puzzle. As estátuas tentam atrapalhar fisicamente: bloquear, agarrar, empurrar, separar e atrasar o grupo.
 
 ## Narração
 
-O hall se abre diante de vocês.
+O corredor se abre em um hall ladeado por estátuas.
 
-Estátuas ficam alinhadas dos dois lados da passagem.
+Figuras humanas, algumas ajoelhadas, outras com as mãos no rosto, outras apontando para a porta do outro lado.
 
-Algumas têm rostos nobres. Outras, rostos sem olhos. Outras parecem pessoas rezando, mas com as mãos cobrindo a boca.
+Por um instante, elas parecem apenas decoração antiga.
 
-Quando vocês entram, nada se move.
-
-Então uma cabeça de pedra vira alguns centímetros.
+Então uma delas move a cabeça.
 
 Depois outra.
 
-O som é baixo, seco, como osso velho rangendo.
+Quando vocês avançam, braços de pedra se estendem para o corredor.
 
-Todas olham para vocês.
+Não rápido como criaturas vivas.
 
-A passagem continua aberta.
+Mas rápido o bastante para fechar o caminho.
 
-Por enquanto.
+A casa não está tentando conversar.
+
+Está tentando impedir vocês de passar.
 
 ## Objetivo do obstáculo
 
-- atravessar o hall antes que as estátuas fechem o caminho;
-- evitar ser agarrado por braços de pedra;
-- descobrir quais estátuas são reais, falsas ou ligadas à casa;
+- atravessar o hall antes que as estátuas bloqueiem a passagem;
+- evitar ser agarrado, empurrado ou derrubado por braços de pedra;
 - impedir que o grupo seja separado;
-- usar as estátuas contra a própria casa.
+- abrir caminho à força, passar com agilidade ou travar parte das estátuas.
 
 ## Testes que fazem sentido
 
-### Percepção
-
-Para notar quais estátuas se moveram, qual delas está prestes a bloquear a passagem, onde há espaço seguro, ou se alguma está olhando para uma rota real.
-
-- **Sucesso:** identifica o caminho menos perigoso.
-- **Como apoio:** dá **+2** para quem atravessar ou liderar a rota.
-- **Sucesso alto:** percebe uma estátua “errada” antes que ela agarre alguém.
-
-### Investigação
-
-Para entender o padrão das estátuas, marcas no chão, trilhos ocultos, rachaduras, mecanismo ou geometria impossível do hall.
-
-- **Sucesso:** revela como atravessar sem ativar todas.
-- **Como apoio:** reduz a CD em 2 para atravessar ou desativar.
-- **Sucesso alto:** descobre uma estátua-chave que controla o bloqueio.
-
-### Intuição
-
-Para perceber a intenção da casa: qual estátua é isca, qual passagem é armadilha, ou quando o hall está “esperando” alguém correr.
-
-- **Sucesso:** evita a isca principal.
-- **Como apoio:** dá **+2** para escolher o momento certo.
-- **Sucesso alto:** dá vantagem para o próximo personagem atravessar.
-
-### Religião
-
-Para reconhecer pose ritual, gesto fúnebre, símbolo profanado, ou tentar repelir a influência da casa sobre as estátuas.
-
-- **Sucesso:** uma estátua recua, racha ou para de se mover.
-- **Como apoio:** dá **+2** ou vantagem contra agarrões/medo.
-- **Falha:** a casa mira quem tentou purificar o hall.
-
-### Arcanismo
-
-Para entender a animação sobrenatural, o vínculo das estátuas com a casa ou usar magia para travar o movimento.
-
-- **Sucesso:** identifica como a casa está movendo as estátuas.
-- **Como apoio:** dá **+2** para desativar, travar ou atravessar.
-- **Com magia adequada:** pode cancelar uma complicação ou dar vantagem ao grupo.
-
 ### Acrobacia
 
-Para passar entre estátuas em movimento, rolar por baixo de braços de pedra, saltar por cima de pedestal quebrado ou escapar de agarrão.
+Para passar entre as estátuas, rolar por baixo dos braços, desviar das mãos de pedra ou atravessar correndo.
 
 - **Sucesso:** atravessa.
-- **Instável:** atravessa, mas sofre dano leve, cai Prone ou fica exposto.
-- **Falha:** uma estátua prende, empurra ou separa o personagem.
+- **Instável:** atravessa, mas sofre arranhão, cai Prone ou fica exposto.
+- **Falha:** é agarrado, derrubado ou separado.
 
 ### Atletismo
 
-Para empurrar estátua, segurar braço de pedra, quebrar pedestal, puxar aliado preso ou abrir passagem à força.
+Para empurrar uma estátua, quebrar braço de pedra, abrir caminho à força ou puxar alguém agarrado.
 
 - **Sucesso:** abre caminho ou salva alguém.
-- **Como apoio:** dá vantagem para um aliado atravessar.
+- **Como apoio:** dá **+2** ou vantagem para quem atravessar.
 - **Instável:** consegue, mas sofre dano ou fica no lugar do aliado.
-- **Falha:** é prensado, agarrado ou derrubado.
+- **Falha:** a estátua prende você também ou te joga contra a parede.
+
+### Percepção
+
+Para notar quais estátuas vão se mover primeiro, onde há espaço seguro ou qual lado do hall está menos fechado.
+
+- **Como apoio:** dá **+2** para o próximo teste de travessia.
+- **Sucesso alto:** o grupo ganha **+2** para atravessar seguindo suas instruções.
+- **Falha:** você percebe tarde demais; a primeira estátua já está fechando o caminho.
+
+### Investigação
+
+Para perceber quais estátuas estão rachadas, soltas, presas ao chão ou fáceis de travar/derrubar.
+
+- **Sucesso:** identifica um ponto fraco.
+- **Como apoio:** dá **+2** para Atletismo, Ferramentas ou uma tentativa de travar/derrubar.
+- **Sucesso alto:** derrubar ou travar uma estátua reduz a CD do obstáculo em 2.
+
+### Intuição
+
+Para antecipar o momento em que a casa vai fechar o corredor, lendo a intenção do movimento das estátuas.
+
+- **Como apoio:** dá **+2** para quem for passar.
+- **Sucesso alto:** uma pessoa atravessa com vantagem.
+- **Falha:** a casa parece hesitar, mas era isca; uma estátua mira quem ficou parado.
+
+### Arcanismo ou Religião
+
+Para repelir, atrasar ou entender a força sobrenatural movendo as estátuas.
+
+- **Sucesso:** as estátuas hesitam por alguns segundos.
+- **Como apoio:** dá **+2** ou vantagem para um aliado.
+- **Com magia/recurso adequado:** pode cancelar uma agarrada ou impedir que uma estátua se mova por uma cena curta.
+- **Falha:** a casa mira quem tentou interferir.
 
 ### Ferramentas de ladrão
 
 Para travar base giratória, mecanismo oculto, pedestal, dobradiça de pedra ou pino que move uma estátua.
 
-- **Sucesso:** uma parte do hall para; grupo ganha vantagem ou CD -2.
-- **Instável:** trava por pouco tempo; metade passa antes de voltar.
-- **Falha:** ferramenta prende e a estátua fecha sobre a mão/personagem.
+- **Sucesso:** uma parte do hall para; grupo ganha **+2** para atravessar.
+- **Instável:** trava por pouco tempo; só os primeiros ganham o benefício.
+- **Falha:** ferramenta prende e a estátua fecha sobre a mão ou item.
 
 ## Ações especiais
 
-### Ler o padrão das estátuas
-
-```text
-Teste: Percepção, Investigação ou Intuição CD 14.
-```
-
-- **Sucesso:** próximos personagens atravessam com **+2**.
-- **Sucesso alto:** próximos personagens atravessam com **vantagem**.
-- **Falha:** o padrão muda quando o grupo se move.
-
-### Travar uma estátua-chave
-
-```text
-Teste: Ferramentas de ladrão, Arcanismo, Investigação ou Atletismo CD 15.
-```
-
-- **Sucesso:** o hall fica parcialmente seguro; grupo atravessa com vantagem.
-- **Instável:** trava uma estátua, mas outra começa a fechar a rota.
-- **Falha:** personagem fica preso, sofre dano ou perde ferramenta/item.
-
-### Derrubar uma estátua para bloquear a casa
+### Derrubar uma estátua
 
 ```text
 Teste: Atletismo CD 15.
 ```
 
-- **Sucesso:** cria cobertura ou bloqueia uma rota atrás do grupo.
-- **Instável:** funciona, mas o barulho aumenta a Intensidade ou chama a casa.
-- **Falha:** a estátua cai para o lado errado e divide o grupo.
+- **Sucesso:** a estátua cai e cria uma abertura. Dois aliados atravessam com vantagem.
+- **Instável:** ela cai, mas bloqueia parte do caminho. Um aliado ganha vantagem, outro fica exposto.
+- **Falha:** a estátua cai na direção errada ou prende quem tentou.
 
-### Passar correndo pelo hall
+### Puxar alguém agarrado
 
 ```text
-Teste: Acrobacia ou Atletismo CD 14/15.
+Teste: Atletismo CD 14.
+```
+
+- **Sucesso:** liberta a pessoa.
+- **Instável:** liberta, mas você fica exposto.
+- **Falha:** os dois ficam presos ou caem.
+
+### Passar correndo pelo meio
+
+```text
+Teste: Acrobacia ou Atletismo CD 14.
 ```
 
 - **Sucesso:** atravessa.
-- **Instável:** atravessa, mas fica exposto ou toma 1d6 contundente.
-- **Falha:** é agarrado, empurrado contra parede ou separado.
+- **Instável:** atravessa, mas sofre 1d6 contundente ou cai Prone.
+- **Falha:** é agarrado ou separado do grupo.
 
-### Usar luz, símbolo sagrado ou voz firme
+### Travar uma estátua
 
 ```text
-Teste: Religião, Arcanismo, Intimidação ou Performance CD 14.
+Teste: Ferramentas de ladrão, Investigação, Atletismo ou magia apropriada CD 14.
 ```
 
-- **Sucesso:** as estátuas hesitam; um aliado atravessa com vantagem.
-- **Instável:** funciona, mas a casa marca quem fez isso.
-- **Falha:** as estátuas respondem ao som e fecham a passagem mais rápido.
+- **Sucesso:** a estátua para de se mover; o grupo ganha **+2** para atravessar.
+- **Instável:** ela trava por pouco tempo; só os primeiros ganham o benefício.
+- **Falha:** a estátua prende o item, ferramenta ou personagem.
+
+### Segurar o caminho aberto
+
+```text
+Teste: Atletismo CD 14 ou 15.
+```
+
+- **Sucesso:** um aliado atravessa com vantagem.
+- **Sucesso forte:** dois aliados atravessam com vantagem.
+- **Instável:** aliados passam, mas você sofre 1d6 contundente ou fica exposto.
+- **Falha:** a estátua fecha sobre você e te prende.
 
 ## Consequências sugeridas
 
 ```text
 Dano leve: 1d6 contundente.
-Dano pesado: 2d6 contundente se for prensado ou derrubado.
+Dano pesado: 2d6 contundente se for esmagado ou arremessado.
 Condição curta: Prone, Grappled/Restrained até ser puxado, ou exposto.
-Separação: uma estátua fecha a passagem entre metade do grupo.
+Separação: parte do grupo passa, parte fica presa no hall.
 Custo: ferramenta presa, arma entalada, escudo rachado.
-Falha pesada: Intensidade da Casa +1.
+Intensidade: aumenta em +1 se o grupo perder muito tempo ou alguém ficar preso.
 ```
 
 ## Variações rápidas
 
-- **Estátuas de crianças:** a casa tenta imitar Rose, Thorn ou Marta para fazer alguém parar.
+- **Estátuas ajoelhadas:** agarram tornozelos e derrubam quem corre.
+- **Estátuas apontando:** empurram o grupo para uma rota pior.
 - **Estátuas sem rosto:** quem falha vê o próprio rosto começando a surgir na pedra.
-- **Estátuas de cultistas:** sussurram “um deve ficar” enquanto fecham a passagem.
-- **Estátua central:** se for derrubada/travada, neutraliza o hall inteiro por uma cena.
+- **Estátuas de cultistas:** sussurram “fiquem” enquanto fecham a passagem.
+- **Estátua central:** se for derrubada ou travada, neutraliza o hall por uma cena curta.
 
 ---
 
