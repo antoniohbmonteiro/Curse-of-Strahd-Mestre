@@ -18,6 +18,7 @@ tags:
 
 | Sessão | Título | Resumo |
 |---:|---|---|
+| 05 | [[Sessao 05 - Recap dos Jogadores|Um Deve Morrer]] | O grupo encontra Bianca nas celas, recusa o sacrifício exigido pela casa, desperta Lorghoth e inicia uma fuga brutal que termina com Kael vivo por um fio e o escudo de Lionel partido em dois. |
 | 04 | [[Sessao 04 - Recap dos Jogadores|A Casa Ouviu]] | O grupo remove a larva deixada no corpo de Dhorak, enfrenta mortos-vivos e sombras no porão, lê a carta de Elizabeth e descobre que Walter foi entregue em um ritual que acordou algo pior do que esperavam. |
 | 03 | [[Sessao 03 - Recap dos Jogadores|Os Ossos e o Porão]] | O grupo encontra os verdadeiros espíritos de Rose e Thorn, descobre Biscuit, dá descanso às crianças, enfrenta o Sem Osso no armário e quase perde Dhorak para a criatura do poço. |
 | 02 | [[Sessao 02 - Recap dos Jogadores|A Voz no Berço]] | O grupo toca a partitura de Walter, encontra Marta no quarto do berço e termina diante de dois pequenos esqueletos no sótão. |
@@ -28,10 +29,10 @@ tags:
 
 ## Última sessão
 
-> [!summary] Sessão 04 — A Casa Ouviu
-> Vocês removeram a coisa que se movia dentro da veia de Dhorak, exploraram os aposentos ao redor do poço, enfrentaram mortos-vivos, sombras vivas e criaturas escondidas atrás das pinturas de Gustav e Elizabeth. A carta de Elizabeth revelou que Walter foi levado para baixo como oferta — e que quem respondeu ao ritual não foi Strahd. Foi a casa.
+> [!summary] Sessão 05 — Um Deve Morrer
+> Vocês encontraram uma cuba que exigia sangue, viram a casa rejeitar a oferta de Yann, libertaram Bianca das celas e chegaram a uma câmara onde o cântico exigia uma morte. Lionel tentou se oferecer. Oryn atingiu Bianca e viu o corpo dela se desfazer em pó. A casa rejeitou aquilo, despertou Lorghoth e obrigou vocês a fugir. Kael sobreviveu por um fio, e o escudo de Lionel se partiu para manter a passagem aberta.
 >
-> **Ler agora:** [[Sessao 04 - Recap dos Jogadores|Sessão 04 — A Casa Ouviu]]
+> **Ler agora:** [[Sessao 05 - Recap dos Jogadores|Sessão 05 — Um Deve Morrer]]
 
 ---
 
@@ -51,6 +52,9 @@ tags:
 
 5. **Sessão 04 — A Casa Ouviu**  
    Vocês arrancaram a larva deixada em Dhorak, enfrentaram mortos-vivos e sombras, leram a carta de Elizabeth e descobriram que Walter foi entregue como oferta em um ritual que acordou a própria casa.
+
+6. **Sessão 05 — Um Deve Morrer**  
+   Vocês recusaram a morte exigida pelo ritual, despertaram Lorghoth e correram pela casa viva. Kael sobreviveu no limite, e o escudo Roarshield se partiu para salvar o grupo.
 
 ---
 
