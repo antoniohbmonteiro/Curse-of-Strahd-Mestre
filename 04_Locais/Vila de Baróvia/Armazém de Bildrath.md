@@ -164,6 +164,34 @@ Ele oferece pouco por:
 - mapas desenhados pelos próprios personagens;
 - objetos que ele não entende.
 
+## Interesse nos objetos atuais do grupo
+
+Bildrath reconhece metais preciosos e pedras sem precisar de uma rolagem. Ele demonstra pouco entusiasmo, mas tem **interesse real** nesses objetos porque são pequenos, duráveis e fáceis de negociar com viajantes ou caravanas vistani.
+
+Ele não paga pelo valor sentimental, histórico ou familiar. Para ele, joias são metal para revenda, troca ou fundição.
+
+| Objeto | Valor comum | Oferta inicial | Melhor oferta possível | Observação |
+|---|---:|---:|---:|---|
+| Anel de Ouro | 25 gp | 10 gp ou 15 gp em crédito | 15 gp ou 20 gp em crédito | Fácil de revender; verifica peso e marcas internas |
+| Colar de Platina | 750 gp | 100 gp ou 250 gp em crédito | 150 gp ou 375 gp em crédito | Muito acima do caixa normal do armazém; prefere pagar com mercadorias e crédito |
+| Ágata Musgosa | 10 gp cada | 4 gp cada | 5 gp cada | Compra as três; guarda para negociação com vistani |
+
+> [!warning] Limite de moedas
+> Bildrath não mantém centenas de moedas disponíveis no balcão. Mesmo reconhecendo o valor do colar, ele não paga seu preço integral e não entrega uma grande soma em dinheiro de uma vez.
+>
+> Para o **Colar de Platina**, sua preferência é oferecer estoque imediato e registrar o restante como crédito no livro-caixa.
+
+> [!quote] Bildrath
+> “O metal é bom. O preço que alguém pagaria por ele em outro lugar não me interessa. Aqui, esta é a oferta.”
+
+### Leitura rápida da cena
+
+- O **colar** chama sua atenção imediatamente, embora ele tente esconder.
+- O **anel** é uma compra simples e segura.
+- As **ágatas** interessam porque são fáceis de transportar e trocar.
+- Se perceber que os personagens estão desesperados por equipamento, começa pelas ofertas em moeda mais baixas.
+- Uma proposta envolvendo várias joias, o carregamento recuperado ou a garantia de [[Ismark Kolyanovich]] pode liberar os valores em crédito da coluna de melhor oferta.
+
 ---
 
 ## Negociação
@@ -283,32 +311,36 @@ Estoque recomendado para a primeira visita.
 
 ---
 
-## Pacote de sobrevivência
+## Pacote de Explorador
 
-Bildrath oferece este pacote quando percebe que o grupo está realmente sem equipamento.
+Bildrath mantém uma mochila pronta para viajantes que precisam adquirir todo o equipamento básico de uma vez.
 
-**Preço anunciado: 70 gp**
+**Item no Foundry:** **Explorer’s Pack**  
+**Preço comum fora de Baróvia:** 10 gp  
+**Preço anunciado por Bildrath:** **70 gp**
 
-Contém:
+Use diretamente o item padrão existente no Foundry. O próprio **Explorer’s Pack** funciona como o contêiner e possui:
 
-- 1 mochila;
-- 2 sacos de dormir;
-- 1 cobertor;
-- 1 corda;
-- 1 caixa de fogo;
-- 4 tochas;
-- 2 frascos de óleo;
-- 4 dias de ração;
-- 2 cantis;
-- 1 panela pequena.
+- 1 caixa de fogo (*Tinderbox*);
+- 1 corda (*Rope*);
+- 10 tochas (*Torch*);
+- 10 rações (*Rations*);
+- 2 frascos de óleo (*Oil*);
+- 1 cantil (*Waterskin*);
+- 1 saco de dormir (*Bedroll*).
+
+> [!note] O contêiner é a mochila
+> Não adicione uma mochila separada dentro do pacote. O próprio item **Explorer’s Pack** já representa a mochila que carrega os demais objetos.
+
+> [!note] Escopo do pacote
+> Um Pacote de Explorador equipa principalmente **um viajante**. As rações podem ser divididas, mas um único pacote não fornece sacos de dormir e cantis para todo o grupo.
 
 > [!quote] Bildrath
-> “Não é caridade. É o desconto que ofereço para não precisar separar os itens.”
+> “Separados, custariam mais. Estou poupando meu tempo, não o dinheiro de vocês.”
 
-Com negociação válida, garantia de Ismark ou crédito do carregamento, o pacote pode cair para **45–55 gp**.
+Com negociação válida, garantia de [[Ismark Kolyanovich]] ou crédito do carregamento, o pacote pode cair para **50–60 gp**.
 
 ---
-
 ## Depósito oculto — equipamento usado
 
 Bildrath afirma que não vende armas nem armaduras. Isso é apenas parcialmente verdade.
