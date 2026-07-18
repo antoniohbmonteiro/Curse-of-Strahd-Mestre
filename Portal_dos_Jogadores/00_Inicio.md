@@ -18,10 +18,10 @@ tags:
 
 ## Última sessão
 
-> [!summary] Sessão 05 — Um Deve Morrer
-> Vocês encontraram **Bianca** nas celas e uma câmara onde a casa exigia que alguém morresse. Depois que a oferta foi rejeitada, **Lorghoth** despertou. A fuga quase levou **Kael**, **Dhorak** foi engolido e salvo por Lionel, e o **escudo Roarshield** se partiu para manter o caminho aberto. Vocês chegaram à sala dos lobos — mas ainda estão dentro da casa.
+> [!summary] Sessão 06 — A Estrada sem Sol
+> Vocês escaparam da **Casa da Morte**, mas a casa arrancou quase todos os equipamentos antes de desaparecer na névoa. Depois de atravessarem os portões de **Baróvia**, encontraram uma carroça destruída, um animal de carga morto e um baú lacrado destinado a **B. Cantemir**, dono do empório da vila. O primeiro acampamento trouxe descanso, novas suspeitas sobre **Yann** e uma prece sem resposta clara para **Vet**. A sessão terminou na entrada da **Vila de Baróvia**, sob a presença distante do **Castelo Sobre as Montanhas**.
 >
-> **Ler recap:** [[Sessao 05 - Recap dos Jogadores|Sessão 05 — Um Deve Morrer]]
+> **Ler recap:** [[Sessao 06 - Recap dos Jogadores|Sessão 06 — A Estrada sem Sol]]
 
 ---
 
@@ -38,6 +38,7 @@ tags:
 
 ## Diário da campanha
 
+- [[Sessao 06 - Recap dos Jogadores|Sessão 06 — A Estrada sem Sol]]
 - [[Sessao 05 - Recap dos Jogadores|Sessão 05 — Um Deve Morrer]]
 - [[Sessao 04 - Recap dos Jogadores|Sessão 04 — A Casa Ouviu]]
 - [[Sessao 03 - Recap dos Jogadores|Sessão 03 — Os Ossos e o Porão]]

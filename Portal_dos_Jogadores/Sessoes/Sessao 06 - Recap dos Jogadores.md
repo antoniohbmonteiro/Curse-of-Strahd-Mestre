@@ -1,414 +1,1246 @@
 ---
-tipo: sessao
-campanha: Curse of Strahd
-sessao: 06
-titulo: "A Estrada sem Sol"
-publico: true
+dg-publish: true
+dg-home: false
+dg-permalink: sessoes/sessao-06-recap-dos-jogadores
 tags:
-  - sessao
   - recap
-  - barovia
-  - casa-da-morte
-  - publico
+  - sessao
+  - curse-of-strahd
 ---
 
 # Sessão 06 — A Estrada sem Sol
 
-> [!info] Sem spoilers
-> Este recap contém apenas o que o grupo viveu, viu, discutiu ou descobriu durante a sessão.
-
-Depois de tudo o que aconteceu na [[Casa da Morte]], parecia que a pior parte já tinha ficado para trás.
-
-A casa discordava.
+> [!info] Recap para jogadores
+> Sem bastidores de mestre.  
+> Tudo aqui é o que o grupo **viu, ouviu, encontrou, sofreu ou pode lembrar em jogo**.
 
 ---
 
-## A última corrida
-
-A fuga começou de verdade na **sala dos lobos**, já deformada pela versão demoníaca da casa.
-
-Havia **fumaça**, **lâminas giratórias**, madeira gemendo por todos os lados e a sensação claríssima de que a casa ainda queria mais um corpo antes de deixá-los partir.
-
-O grupo improvisou como pôde:
-
-- **Dhorak** usou móveis e força bruta para atrapalhar os mecanismos;
-- **Oryn** tentou travar parte do perigo com magia;
-- **Lionel** avançou até a saída e segurou a porta;
-- os demais correram pelo corredor tentando não virar picadinho.
-
-A cena ficou ainda pior quando **Oryn** tentou atravessar no fim da corrida, foi atingido e caiu **inconsciente praticamente na saída**.
-
-Foi o tipo de momento que faz todo mundo olhar para o nada por dois segundos e pensar:  
-**“não... agora não.”**
-
-Mas o grupo não deixou ninguém para trás.
-
-**Dhorak** segurou a passagem.  
-**Lionel voltou**.  
-E **Vet** conseguiu estabilizar Oryn quando ele finalmente foi arrastado para fora.
-
----
-
-## A casa ainda arrancou seu preço
-
-Escapar não significou sair ileso.
-
-Quando o grupo enfim atravessou a porta, a casa fez uma última tentativa de cobrar algo em troca. O ar pareceu ser puxado de volta para dentro — e junto dele foram quase todos os equipamentos.
-
-Armas, mochilas, armaduras e objetos de viagem começaram a voar na direção da entrada, como se a casa estivesse literalmente **engolindo o que restava deles**.
-
-Cada um conseguiu salvar apenas o que segurou com mais força — ou aquilo que se recusou a abandonar.
-
-### O que ficou com o grupo
-
-- **Kael** ficou com a **espada curta prateada**;
-- **Yann** salvou sua **besta de mão**;
-- **Vet** manteve a **maça**;
-- **Oryn** preservou o **livro de feitiços de páginas negras**;
-- **Dhorak** manteve o **Manto de Proteção**;
-- **Lionel** permaneceu com a **armadura** e com as **duas metades do escudo**.
-
-O resto?  
-A casa levou.
-
-> [!warning]
-> A fuga acabou, mas o preço foi alto: o grupo sobreviveu — e saiu quase sem equipamento.
+> [!summary] Resumo rápido
+> - O grupo começou na **sala dos lobos**, ainda preso na versão demoníaca da **Casa Durst**.
+> - Fumaça, lâminas e mecanismos separavam os personagens da porta da frente.
+> - **Lionel** chegou à saída e segurou a porta aberta para os demais.
+> - **Oryn** foi atingido pelas lâminas e caiu inconsciente praticamente na porta.
+> - **Dhorak** segurou a passagem enquanto **Lionel** voltou para buscar **Oryn**.
+> - **Vet** estabilizou **Oryn** do lado de fora.
+> - A casa tentou puxar o grupo de volta, mas conseguiu arrancar quase todos os equipamentos.
+> - Cada personagem salvou apenas um item principal, além de objetos pessoais.
+> - O **orbe escuro** foi puxado de volta para dentro da casa.
+> - A **Casa Durst** desapareceu na névoa.
+> - O grupo alcançou o **nível 3** ao escapar.
+> - Diante deles estavam os grandes portões de **Baróvia** e uma estrada iluminada por um dia sem sol.
+> - **Yann** provocou **Lionel** sobre o escudo e sobre o irmão até o paladino perder o controle.
+> - **Dhorak** impediu a briga, e **Kael** lembrou que o escudo quebrado havia salvado todos.
+> - O grupo encontrou uma carroça destruída e um animal de carga morto fora da estrada.
+> - Um baú lacrado deveria ser entregue fechado ao empório da **Vila de Baróvia**, para **B. Cantemir**.
+> - **Dhorak** assumiu a guarda do baú enquanto o grupo discutia se deveria mentir, abrir ou apenas entregar.
+> - O primeiro acampamento em Baróvia foi construído com restos da carroça.
+> - **Kael** finalmente se recuperou do dreno das sombras depois do descanso.
+> - **Yann**, que evitou comida e água, acordou ainda exausto e cambaleando.
+> - Durante a noite, somente **Oryn** ouviu **Yann** murmurar: **“Não, Enila.”**
+> - **Vet** tentou alcançar **Lathander** sob uma claridade sem sol, mas não sentiu uma resposta clara.
+> - A sessão terminou na **entrada da Vila de Baróvia**, sob a sombra distante do **Castelo Ravenloft**.
 
 ---
 
-## A casa desapareceu. O mundo não melhorou.
+## Onde paramos
 
-Quando a névoa se abriu de novo, a [[Casa da Morte]] já não estava mais ali.
+> [!warning] Cena atual
+> Vocês estão na **entrada da Vila de Baróvia**.
+>
+> A estrada desce entre casas de madeira e pedra.  
+> As portas estão fechadas.  
+> As janelas estão escuras.  
+> Quase ninguém circula pelas ruas.
+>
+> **Dhorak** carrega um baú lacrado destinado a **B. Cantemir**, dono do empório.
+>
+> Acima dos telhados há uma igreja.
+>
+> Muito acima da vila, o castelo domina o vale.
+>
+> Vocês ainda não falaram com nenhum morador.
 
-No lugar dela, havia uma nova estrada.
+---
 
-Uma estrada úmida, fria, vazia e silenciosa, seguindo por uma floresta desconhecida sob uma claridade estranha.
+## Objetivo atual
 
-Não havia sol.
+> [!question] O que o grupo precisa fazer?
+> Entrar na **Vila de Baróvia**.  
+> Encontrar o empório de **B. Cantemir**.  
+> Decidir qual história contar sobre a carroça e o baú.
+>
+> Além disso:
+>
+> - conseguir armas, armaduras e equipamentos;
+> - encontrar abrigo;
+> - descobrir onde estão;
+> - entender as regras desse lugar;
+> - e evitar começar a primeira conversa na vila com seis versões diferentes da mesma mentira.
 
-Mas também não havia noite.
+---
 
-Só um dia sem calor, sem cor e sem resposta.
+## Perguntas em aberto
 
-![](../Imagens/Sessao06/01-estrada-sem-sol.png)
+- O que destruiu a carroça?
+- O que aconteceu com os transportadores?
+- As marcas ao redor do animal eram apenas de lobos?
+- O conteúdo do baú corresponde ao que está declarado no manifesto?
+- Quem é **B. Cantemir**?
+- Ele reconhecerá que o grupo não era responsável pela entrega?
+- O grupo vai contar a verdade, mentir ou deixar **Yann** improvisar?
+- Por que o céu possui claridade, mas não mostra o sol?
+- A **Casa Durst** realmente ficou para trás?
+- Por que **Yann** recusou comida e água?
+- Quem é **Enila**?
+- Por que **Vet** não sentiu uma resposta clara de **Lathander**?
+- Quem vive no castelo acima da vila?
+- Os lobos estavam apenas observando ou acompanhando o grupo?
+
+---
+
+## Para lembrar antes da próxima sessão
+
+> [!tip] Estado importante
+> - A [[Casa da Morte]] foi deixada para trás.
+> - O grupo está no **nível 3**.
+> - A maioria dos equipamentos foi arrancada pela casa.
+> - **Kael** recuperou a Força normal depois do descanso.
+> - **Yann** ainda está exausto e visivelmente debilitado.
+> - **Lionel** carrega as duas metades do escudo **Roarshield**.
+> - **Oryn** perdeu o orbe escuro, mas preservou o livro de páginas negras.
+> - O baú de **B. Cantemir** continua **fechado e lacrado**.
+> - **Dhorak** está carregando e protegendo o baú.
+> - Somente **Oryn** ouviu **Yann** dizer “Não, **Enila**” enquanto dormia.
+> - A sessão terminou antes de qualquer conversa com moradores da vila.
+
+---
+
+## Nomes e lugares importantes
+
+| Nome ou lugar | O que vocês sabem |
+|---|---|
+| **B. Cantemir** | Dono do empório da **Vila de Baróvia** e destinatário da carga encontrada. |
+| **Enila** | Nome murmurado por **Yann** enquanto dormia. Somente **Oryn** ouviu. |
+| **Lathander** | Divindade de **Vet**. Ela tentou alcançá-lo ao amanhecer, sem sentir resposta clara. |
+| **Vila de Baróvia** | Primeiro povoado encontrado depois da **Casa Durst**. Silencioso, fechado e pouco acolhedor. |
+| **Castelo Ravenloft** | Castelo enorme que domina o vale acima da vila. |
+| **Casa Durst** | Desapareceu na névoa depois de tentar puxar o grupo e seus equipamentos de volta. |
+
+---
+
+## O que o grupo conseguiu preservar
+
+| Personagem | Item principal salvo |
+|---|---|
+| **Kael** | **Espada curta prateada** |
+| **Yann** | **Besta de mão** |
+| **Vet** | **Maça** |
+| **Oryn** | **Livro de feitiços de páginas negras** |
+| **Dhorak** | **Manto de Proteção** |
+| **Lionel** | **Armadura**; as duas metades do escudo permaneceram com ele como objeto pessoal |
+
+> [!warning] Perda importante
+> O **orbe escuro** foi puxado novamente para dentro da casa.
+
+---
+
+## O que o grupo carrega para a vila
+
+| Item ou pista | Estado |
+|---|---|
+| **Baú de B. Cantemir** | Fechado, lacrado, envolto em lona e carregado por **Dhorak**. |
+| **Registro de remessa** | Indica o destinatário, o empório e a carga declarada. |
+| **Duas metades do escudo Roarshield** | Recuperadas por **Oryn** e mantidas por **Lionel**. |
+| **Materiais da carroça** | 1 machadinha funcional; 1 lona encerada grande; 10 m de corda; 1 panela utilizável; 1 cantil furado; couro, correias, madeira, ferragens e material para armas ou escudo precários. |
+| **Uma história ainda não combinada** | O grupo não decidiu o que contará ao destinatário da carga. |
+
+---
+
+# O que aconteceu
+
+---
+
+## 1. A sala dos lobos não queria deixá-los passar
+
+A sessão começou no mesmo lugar onde a anterior terminou:
+
+**a sala dos lobos.**
+
+Mas a casa já não fingia ser uma mansão comum.
+
+O ambiente estava tomado por:
+
+- fumaça espessa;
+- lâminas giratórias;
+- mecanismos escondidos;
+- madeira se contraindo;
+- paredes que pareciam respirar;
+- uma porta da frente que estava perto demais para permitir tranquilidade.
+
+> [!danger] A última armadilha
+> O grupo conseguia ver a saída.
+>
+> A casa também sabia disso.
+
+**Dhorak** jogou móveis contra os mecanismos.
+
+**Oryn** usou gelo para travar parte das lâminas.
+
+**Kael**, ainda fraco, tentou observar o padrão dos movimentos.
+
+**Vet** e **Yann** prepararam-se para atravessar.
+
+**Lionel** avançou na frente.
+
+---
+
+## 2. A passagem secreta finalmente serviu para alguma coisa
+
+Durante a fuga, o grupo se lembrou da passagem indicada pela casa de bonecas e das informações reunidas nos andares anteriores.
+
+Isso evitou uma rota maior pela casa.
+
+> [!success] Pistas importam
+> A **Casa Durst** já havia mostrado um caminho menor.
+>
+> Naquele momento, lembrar dele significou enfrentar apenas o trecho final — em vez de correr novamente pela casa inteira.
+
+Depois de sobreviver a bilhetes, cartas, miniaturas e corredores impossíveis, o grupo finalmente começou a usar o arquivo mental de traumas como mapa.
+
+---
+
+## 3. Lionel alcança a saída
+
+**Lionel** atravessou o mecanismo e chegou à porta principal.
+
+A porta estava se fechando.
+
+Ele a segurou aberta.
+
+Não com delicadeza.
+
+Não com técnica refinada.
+
+Com força, armadura e a decisão de que ninguém ficaria preso do outro lado.
 
 > [!quote]
-> A casa ficou para trás.  
-> Infelizmente, Baróvia estava logo adiante.
+> A saída estava aberta.
+>
+> **Lionel** virou o motivo pelo qual ela continuou assim.
+
+Um por um, os personagens tentaram atravessar enquanto o paladino sustentava a passagem.
 
 ---
 
-## Nível 3: depois da casa, ninguém saiu igual
+## 4. Oryn cai praticamente do lado de fora
 
-Sobreviver à Casa Durst mudou o grupo.
+Quando chegou a vez de **Oryn**, as lâminas o atingiram.
 
-Ao escapar, todos alcançaram **nível 3**.
+O harengon caiu inconsciente quase sobre a própria saída.
 
-A fuga não trouxe paz, mas trouxe mudança. Cada personagem saiu daquela casa mais marcado, mais perigoso — ou, pelo menos, mais consciente de que isso tudo estava só começando.
+Por alguns segundos, o grupo estava diante de uma escolha cruel:
 
----
+- continuar correndo;
+- deixar a porta fechar;
+- ou voltar para buscar alguém caído dentro da **Casa Durst**.
 
-## “Estamos no inferno?”
+A resposta veio rápido.
 
-A primeira conversa séria do lado de fora não foi exatamente reconfortante.
+**Dhorak** tomou o lugar de **Lionel** e segurou a passagem.
 
-O grupo tentou entender onde estava:
+**Lionel voltou.**
 
-- outro plano?
-- prisão mágica?
-- purgatório?
-- inferno?
-
-**Yann**, como sempre disposto a elevar a moral do grupo, insistiu que todos provavelmente estavam mortos e sendo torturados.
-
-Isso levou a outro assunto delicado.
+> [!danger] Mais uma vez
+> O grupo havia passado a sessão anterior repetindo que ninguém ficaria para trás.
+>
+> A casa decidiu testar se aquilo era verdade.
 
 ---
 
-## Lionel, o escudo e Yann falando demais
+## 5. Dhorak segura; Lionel retorna
 
-Com o escudo Roarshield quebrado em duas partes, **Yann** resolveu fazer o que faz de melhor:
+Enquanto **Dhorak** sustentava a porta, **Lionel** atravessou novamente o trecho perigoso.
 
-**provocar.**
+Ele foi atingido no processo.
 
-Ele zombou do estado do escudo, sugeriu que aquilo agora servia mais como peso de porta do que como herança nobre, e continuou cutucando até encostar em um ponto que realmente não devia.
+Mesmo assim, alcançou **Oryn** e o retirou da casa.
 
-**Lionel perdeu o controle.**
+> [!success] **Oryn** sai da **Casa Durst**
+> **Dhorak** manteve a porta aberta.  
+> **Lionel** voltou para buscar o companheiro.  
+> **Oryn** atravessou inconsciente.
+>
+> Ninguém ficou para trás.
 
-Ele avançou contra Yann e por muito pouco a sessão não virou “PvP any% speedrun”.
-
-**Dhorak** segurou Lionel antes que a situação piorasse.
-
-A tensão só baixou quando **Kael**, ainda mal conseguindo ficar em pé, lembrou uma verdade simples:
-
-> Se não fosse pelo escudo, provavelmente vários deles teriam morrido.
-
-Foi um momento importante.
-
-O escudo havia quebrado.  
-Mas quebrou **salvando gente**.
+Do lado de fora, **Vet** ajoelhou-se ao lado do mago.
 
 ---
 
-## A estrada continua
+## 6. Vet impede que a casa cobre uma última vida
 
-Mesmo feridos, exaustos e praticamente sem equipamento, o grupo seguiu em frente.
+**Oryn** não respondia.
 
-Todos ainda carregavam o peso da fuga. E **Kael**, em especial, estava em estado deplorável.
+**Vet** segurou seu símbolo e usou **Poupar os Moribundos**.
 
-Ele mal conseguia andar direito, e cada tentativa de fazer algo parecia um pequeno protesto do próprio corpo.
+A magia estabilizou **Oryn**.
 
-Ainda assim, seguiram.
+Ele continuava inconsciente, mas já não estava morrendo.
 
-E foi na estrada que encontraram os primeiros sinais de que não estavam sozinhos naquele lugar.
-
----
-
-## Rastros na lama
-
-No caminho, surgiram marcas claras de uma carroça que havia saído da estrada.
-
-Rodas afundadas.  
-Galhos quebrados.  
-Rastros entrando na mata.
-
-O grupo investigou.
-
-Primeiro veio a visão da estrada. Depois, mais adiante, os destroços.
-
-![](../Imagens/Sessao06/02-carroca-destruida.png)
-
-A carroça estava destruída, coberta por lona, parcialmente despedaçada e cercada por lama, ferragens, corda, panela e outros restos reaproveitáveis.
-
-Não era só um veículo abandonado.
-
-Era a primeira pista concreta de que algo tinha dado muito errado ali.
+> [!success]
+> A **Casa Durst** quase conseguiu uma vítima na porta de saída.
+>
+> **Vet** recusou a cobrança.
 
 ---
 
-## O registro de remessa
+## 7. A taxa de saída da Casa Durst
 
-Entre os objetos encontrados, havia um documento ainda legível: um **registro de remessa**.
+A casa ainda não havia terminado.
 
-![](../Imagens/Sessao06/03-registro-de-remessa.jpg)
+A porta e as paredes começaram a puxar o ar de volta para dentro.
 
-O papel indicava que a carga deveria ser entregue a:
+A sensação era de que a mansão inteira havia inspirado profundamente.
 
-- **B. Cantemir**
-- **Empório da Vila de Baróvia**
+E, junto do ar, vieram os equipamentos.
 
-E, mais importante:
+- armas;
+- mochilas;
+- armaduras;
+- sacos de dormir;
+- rações;
+- ferramentas de viagem;
+- objetos soltos.
 
-> a carga deveria ser entregue **fechada**.
+Tudo começou a deslizar, saltar ou voar na direção da porta.
 
-Isso imediatamente mudou o peso daquela descoberta.
+> [!warning] A última cobrança
+> A casa já não tinha força para puxar os personagens.
+>
+> Então tentou levar tudo o que eles possuíam.
 
-O grupo não tinha encontrado só uma carroça quebrada.
-
-Tinha encontrado uma **entrega oficial**, um possível contato na vila e um belo problema moral/prático/social para resolver antes de chegar lá.
-
----
-
-## O animal morto
-
-A investigação revelou também o destino nada feliz do animal de carga.
-
-![](../Imagens/Sessao06/04-animal-de-carga-morto.png)
-
-O bicho estava morto entre lama, raízes e arreios, reforçando que o acidente — ou ataque — não tinha sido recente demais, mas também não era antigo a ponto de ter sumido completamente.
-
-A carroça não tinha se quebrado sozinha por gentileza do destino.
-
-Alguma coisa aconteceu ali.
-
-O grupo, porém, não descobriu exatamente o quê.
+Cada personagem precisou decidir o que não abandonaria.
 
 ---
 
-## O grande debate: abrir ou não abrir?
+## 8. O que cada um segurou
 
-A partir daí, a missão deixou de ser só sobreviver.
+### Kael e a espada prateada
 
-Virou também decidir **o que fazer com o baú**.
+**Kael** se agarrou à espada curta prateada.
 
-### Ideias que surgiram
+Quando as mãos não pareciam suficientes, ele chegou a prendê-la com os dentes.
 
-- **Entregar a carga normalmente** e ver no que dá;
-- **Inventar uma história** dizendo que encontraram o carregamento após um ataque;
-- **Abrir o baú**, conferir tudo e depois fechar de novo;
-- **Não mentir para ninguém**, para evitar problema ainda maior na vila.
+Depois de sobreviver por tão pouco, aparentemente morrer desarmado era inaceitável.
 
-O grupo não entrou em acordo perfeito.
+### Yann e a besta
 
-**Yann** tinha planos.  
-**Vet** e **Oryn** não gostaram nada da ideia de mentira.  
-**Kael** sugeriu abrir e olhar.  
-**Dhorak** resolveu o impasse do jeito mais direto possível:
+**Yann** usou o próprio corpo para impedir que a besta de mão fosse levada.
 
-> colocou o baú no chão e praticamente adotou a caixa.
+Talvez tenha sido a primeira vez que ele protegeu alguma coisa sem provocar ninguém durante o processo.
 
-Em resumo:  
-o baú continuou **fechado**, **lacrado** e **muito protegido por Dhorak**.
+### Vet e a maça
+
+**Vet** manteve sua maça.
+
+O restante do equipamento foi arrancado, mas ela preservou a arma que ainda lhe permitia defender o grupo.
+
+### Oryn e o livro negro
+
+Mesmo inconsciente e sendo retirado da casa, **Oryn** permaneceu com o livro de páginas negras.
+
+O **orbe escuro**, porém, foi puxado de volta.
+
+### Dhorak e o Manto de Proteção
+
+**Dhorak** quase tentou salvar o machado.
+
+O grupo lembrou que outro machado poderia ser encontrado.
+
+Um manto mágico, nem tanto.
+
+**Dhorak** ficou com o **Manto de Proteção**.
+
+### Lionel e o que restou de sua defesa
+
+**Lionel** preservou a armadura.
+
+As duas metades do escudo **Roarshield** permaneceram com ele como parte de sua herança pessoal.
+
+O escudo estava quebrado.
+
+Mas não seria levado pela casa.
 
 ---
 
-## O primeiro acampamento em Baróvia
+## 9. A Casa Durst desaparece
 
-Sem equipamento direito, sem pouso e sem saber o que havia adiante, o grupo montou seu primeiro acampamento na estrada.
+Depois de arrancar quase tudo que conseguiu, a casa fechou a porta.
 
-Foi um momento ótimo para mostrar como cada um reage fora de combate.
+A magia ao redor dela pareceu enfraquecer.
 
-### Quem fez o quê
+A névoa cobriu o terreno.
 
-| Personagem | Contribuição |
+Quando se abriu novamente...
+
+a **Casa Durst** não estava mais ali.
+
+> [!success] Fim da **Casa da Morte**
+> O grupo não destruiu a casa.
+>
+> Mas escapou dela.
+>
+> Pela primeira vez desde que entrou, a mansão não estava ao alcance das mãos.
+
+E foi nesse momento que o grupo alcançou o **nível 3**.
+
+---
+
+## 10. Os portões de Baróvia
+
+Diante do grupo havia uma muralha enorme.
+
+Duas estátuas gigantes, sem cabeça, guardavam os lados do caminho.
+
+Os portões de ferro abriram sozinhos.
+
+Além deles:
+
+- floresta fechada;
+- estrada enlameada;
+- frio;
+- silêncio;
+- céu cinzento;
+- claridade sem direção;
+- nenhum sinal da **Casa Durst**.
+
+![[Portal_dos_Jogadores/Imagens/Sessao06/01-estrada-sem-sol.png]]
+
+*A estrada seguia sob uma claridade pálida. Havia dia — mas não havia sol.*
+
+> [!danger] A primeira certeza sobre Baróvia
+> Havia luz suficiente para enxergar.
+>
+> **Mas nenhum sol no céu.**
+
+---
+
+## 11. “Nós estamos no inferno”
+
+O grupo tentou decidir onde havia chegado.
+
+As teorias incluíram:
+
+| Teoria | Quem considerou |
 |---|---|
-| **Vet** | improvisou abrigo com lona, tecido e materiais reaproveitados |
-| **Oryn** | reuniu água e montou proteção mágica ao redor do acampamento |
-| **Lionel** | foi atrás de alimento e conseguiu carne para o grupo |
-| **Yann** | cuidou da fogueira, tocou música e assumiu vigia |
-| **Dhorak** | guardou o baú como se ele fosse um filhote de urso muito suspeito |
-| **Kael** | tentou ajudar até quando claramente deveria só deitar e respirar |
+| **Outro plano** | Uma das opções mais razoáveis levantadas pelo grupo. |
+| **Prisão sobrenatural** | A névoa parecia impedir uma saída comum. |
+| **Purgatório** | Compatível com o clima geral, infelizmente. |
+| **Inferno** | A explicação favorita de **Yann**. |
+| **Lugar criado para observá-los** | A sensação de estarem sendo testados continuava forte. |
 
-### Destaques do acampamento
+**Yann** insistiu que talvez todos já estivessem mortos.
 
-- **Vet** conseguiu transformar restos em abrigo de verdade;
-- **Lionel** encontrou carne suficiente para alimentar parte do grupo;
-- **Oryn** ajudou a garantir água e segurança;
-- **Kael** tentou montar armadilha, se machucou e foi basicamente convencido pelo universo a dormir;
-- **Dhorak** virou segurança particular do baú;
-- **Yann** manteve a fogueira e, pelo menos por um tempo, não arrumou discussão.
+**Lionel** disse não acreditar que merecesse estar no inferno.
 
-Milagres acontecem.
+**Yann** respondeu lembrando o irmão de **Lionel**.
+
+A conversa piorou rapidamente.
 
 ---
 
-## Kael por um fio — e ainda assim insistindo
+## 12. Yann encontra o limite da paciência de Lionel
 
-Mesmo depois de tudo, **Kael** continuava sendo o retrato do “homem que não percebeu que já devia estar descansando”.
+**Yann** começou a zombar do escudo quebrado.
 
-Ele estava exausto, fraco e quase desmontando em tempo real — mas ainda tentou ajudar, observou o que pôde e se recusou a simplesmente deixar o grupo fazer tudo sozinho.
+Chamou-o de peso de porta.
 
-O descanso fez diferença.
+Sugeriu colocá-lo numa moldura.
 
-Mas antes dele funcionar, Kael fez questão de lembrar a todos que às vezes a diferença entre heroísmo e teimosia é só o quanto o corpo aguenta antes de desmaiar.
+Diminuiu seu valor.
 
----
+Depois voltou a provocar **Lionel** sobre o irmão.
 
-## Água, comida e… Yann sendo Yann
+> [!danger] O limite
+> **Yann** costuma testar até onde pode ir.
+>
+> Dessa vez, encontrou a resposta.
 
-Na hora de comer e beber, o grupo percebeu que nem todo mundo estava reagindo do mesmo jeito à estrada.
+**Lionel perdeu o controle** e avançou contra ele.
 
-**Yann** evitou a comida.  
-Depois evitou a água.
+**Dhorak** segurou o paladino antes que a discussão virasse combate.
 
-Disse que a água tinha gosto ruim.
-
-Para os outros, ela parecia normal.
-
-Isso não resolveu nenhuma suspeita antiga.  
-Só acrescentou novas camadas de **“tem algo errado com esse homem.”**
+**Kael** também tentou intervir, apesar de mal conseguir ficar em pé.
 
 ---
 
-## “Não, Enila.”
+## 13. Kael lembra por que o escudo quebrou
 
-Durante a noite, **Yann falou dormindo**.
+**Kael** lembrou **Lionel** de algo simples:
 
-Mais especificamente:
+> [!quote]
+> Se não fosse pelo escudo, todos poderiam estar mortos.
 
+A herança estava quebrada.
+
+Mas havia quebrado mantendo uma passagem aberta.
+
+**Oryn** também reforçou que o sacrifício do escudo havia salvado vidas.
+
+**Lionel** conseguiu se conter.
+
+E reconheceu que, apesar de o grupo estar junto havia pouco tempo, respeito já havia sido construído pelas ações de cada um.
+
+> [!note] O que mudou
+> O escudo deixou de ser apenas uma herança da família **Roarshield**.
+>
+> Agora também era a prova de que **Lionel** havia escolhido salvar o grupo.
+
+A relação com **Yann**, porém, não melhorou.
+
+---
+
+## 14. A estrada sem sol
+
+O grupo seguiu para oeste.
+
+Todos estavam exaustos.
+
+**Kael** ainda sofria com o efeito das sombras:
+
+- mal conseguia caminhar;
+- não podia correr;
+- tinha dificuldade para se agachar;
+- perdia o equilíbrio;
+- transformava qualquer tarefa física em uma negociação com o próprio corpo.
+
+O dia continuava claro.
+
+O sol continuava ausente.
+
+A floresta permanecia silenciosa demais.
+
+---
+
+## 15. Rastros deixam a estrada
+
+Depois de algum tempo, surgiram sinais de que uma carroça havia saído do caminho.
+
+O grupo encontrou:
+
+- sulcos profundos na lama;
+- marcas de roda;
+- cascos;
+- galhos quebrados;
+- madeira partida;
+- rastros seguindo para dentro da mata.
+
+O grupo inicialmente continuou.
+
+Depois, **Dhorak** e **Lionel** voltaram para investigar.
+
+> [!note]
+> Em Baróvia, seguir rastros para dentro da floresta parece uma ideia ruim.
+>
+> Não seguir nenhum rastro também parece uma ideia ruim.
+>
+> A região trabalha com poucas opções confortáveis.
+
+---
+
+## 16. O animal de carga
+
+A primeira descoberta foi o animal que puxava a carroça.
+
+Ele estava morto entre raízes, lama e os próprios arreios.
+
+![[Portal_dos_Jogadores/Imagens/Sessao06/04-animal-de-carga-morto.png]]
+
+*O animal não havia chegado longe. As marcas ao redor não explicavam sozinhas o que acontecera.*
+
+Havia sinais de patas na região.
+
+Mas o grupo não conseguiu concluir se:
+
+- lobos provocaram o acidente;
+- animais chegaram depois;
+- outra criatura atacou;
+- ou a carroça saiu da estrada por um motivo diferente.
+
+---
+
+## 17. A carroça destruída
+
+Mais adiante estava a carroça.
+
+![[Portal_dos_Jogadores/Imagens/Sessao06/02-carroca-destruida.png]]
+
+*A carroça havia saído da estrada, batido entre as árvores e deixado parte da carga protegida por lona.*
+
+Ao redor dos destroços, o grupo encontrou materiais que ainda poderiam ser aproveitados:
+
+| Material recuperado | Estado | Possível uso |
+|---|---|---|
+| **1 machadinha** | Funcional | Cortar madeira, desmontar destroços ou servir como arma improvisada. |
+| **1 lona encerada grande** | Rasgada em uma das pontas | Abrigo, proteção contra umidade ou cobertura para o baú. |
+| **10 metros de corda** | Divididos em dois trechos | Amarração, transporte, escalada ou acampamento. |
+| **1 panela de ferro** | Amassada, mas utilizável | Preparar alimento e aquecer água. |
+| **1 cantil** | Furado, mas reparável | Pode voltar a armazenar água depois de um conserto. |
+| **Tiras de couro e correias** | Rompidas, mas reaproveitáveis | Amarrações, alças, reparos e improvisações. |
+| **Tábuas, raios da roda e madeira seca** | Parte ainda em boas condições | Fogueira, estrutura de abrigo ou fabricação improvisada. |
+| **Pequenas peças metálicas** | Soltas entre os destroços | Reparos, reforços e mecanismos simples. |
+| **Material de fabricação precária** | Quantidade limitada | Suficiente para algumas armas precárias **ou um escudo precário**. |
+
+Também havia um baú de carga.
+
+Fechado.
+
+Lacrado.
+
+Marcado com as iniciais **B.C.**
+
+---
+
+## 18. O registro de remessa
+
+Junto à carga havia um documento protegido.
+
+![[Portal_dos_Jogadores/Imagens/Sessao06/03-registro-de-remessa.jpg]]
+
+*O registro identificava o destinatário e exigia que a carga fosse entregue fechada.*
+
+O manifesto indicava:
+
+| Campo | Informação |
+|---|---|
+| **Destinatário** | **B. Cantemir** |
+| **Destino** | Empório da **Vila de Baróvia** |
+| **Estado exigido** | Carga fechada e protegida da umidade |
+| **Pagamento** | Devido após conferência no recebimento |
+| **Identificação** | Selo comercial **B.C.** |
+
+A carga declarada incluía mantas, mantimentos, óleo, sal, couro, tecido e materiais de reparo.
+
+**Oryn** não detectou magia no baú.
+
+O grupo não o abriu.
+
+---
+
+## 19. O baú divide o grupo
+
+A carga criou uma discussão imediata.
+
+### O plano de Yann
+
+**Yann** sugeriu que parte do grupo fingisse ser responsável pela entrega e que os demais fossem aventureiros contratados após um ataque.
+
+A ideia poderia:
+
+- facilitar a entrada;
+- evitar perguntas;
+- justificar a posse do baú;
+- talvez garantir algum pagamento.
+
+Também exigia mentir para uma pessoa desconhecida numa vila desconhecida enquanto o grupo ainda não havia combinado nem a primeira frase.
+
+### Vet e Oryn
+
+**Vet** e **Oryn** não gostaram da proposta.
+
+Eles lembraram que:
+
+- não sabiam quem era **B. Cantemir**;
+- não sabiam o que havia ocorrido com os verdadeiros transportadores;
+- poderiam ser acusados de roubo;
+- histórias mal combinadas costumam sobreviver menos que aventureiros em casas amaldiçoadas.
+
+### Kael
+
+**Kael** sugeriu abrir o baú, conferir o conteúdo e fechá-lo novamente.
+
+A opção não recebeu apoio suficiente.
+
+### Lionel e Dhorak
+
+**Lionel** preferia entregar a carga lacrada.
+
+**Dhorak** encerrou temporariamente o debate sentando-se sobre o baú.
+
+> [!note] Decisão provisória
+> O baú não foi aberto.
+>
+> **Dhorak** tornou-se oficialmente o sistema de segurança da carga.
+
+---
+
+# O primeiro acampamento em Baróvia
+
+---
+
+## 20. Quase sem equipamento
+
+O grupo precisava descansar.
+
+Mas a **Casa Durst** havia levado quase tudo:
+
+- barracas;
+- sacos de dormir;
+- rações;
+- mochilas;
+- recipientes adequados;
+- grande parte das ferramentas de viagem.
+
+Os destroços da carroça passaram a servir como material de sobrevivência.
+
+> [!warning]
+> O primeiro descanso em Baróvia não começou com conforto.
+>
+> Começou com seis aventureiros olhando para uma carroça quebrada e perguntando o que ainda dava para transformar em teto.
+
+---
+
+## 21. Vet constrói abrigo
+
+**Vet** usou lona, tecido, vegetação e suas ferramentas para criar:
+
+- duas tendas improvisadas;
+- proteção contra a umidade;
+- lugares menos terríveis para deitar;
+- isolamento básico do chão.
+
+| Sem o trabalho de **Vet** | Com o trabalho de **Vet** |
+|---|---|
+| Dormir diretamente na lama | Abrigo improvisado |
+| Exposição completa ao frio | Proteção parcial |
+| Descanso muito pior | Chance real de recuperação |
+
+> [!success]
+> **Vet** transformou restos de acidente em um acampamento funcional.
+
+---
+
+## 22. Oryn encontra água e protege o acampamento
+
+**Oryn** procurou umidade e reuniu água suficiente para ajudar o grupo.
+
+Ele também:
+
+- improvisou um recipiente;
+- ofereceu água a **Kael**;
+- preparou **Alarme** ao redor do acampamento;
+- aproveitou o tempo para estudar o livro de páginas negras.
+
+Para quase todos, a água parecia normal.
+
+**Yann** discordou.
+
+---
+
+## 23. Lionel encontra comida
+
+**Lionel** saiu em busca de alimento.
+
+Conseguiu carne suficiente para parte do grupo.
+
+**Vet** usou a panela recuperada para preparar a refeição.
+
+Comeram:
+
+- **Vet**;
+- **Kael**;
+- **Dhorak**;
+- **Lionel**.
+
+Não comeram:
+
+- **Oryn**, que não consumia carne;
+- **Yann**, que alegou enjoo e depois afirmou ser vegano.
+
+> [!note]
+> Em algum lugar entre a casa viva, o cadáver do animal de carga e a floresta sem sol, **Yann** decidiu que aquele era o momento de anunciar restrições alimentares.
+
+---
+
+## 24. Yann mantém o fogo — e evita a água
+
+**Yann** ajudou com:
+
+- fogueira;
+- música;
+- ambiente do acampamento;
+- primeiro turno de vigia.
+
+Por outro lado:
+
+- não comeu;
+- evitou beber;
+- disse que a água tinha gosto ruim;
+- não explicou por que os outros não sentiam o mesmo.
+
+A música tornou a noite um pouco menos pesada.
+
+O comportamento de **Yann** tornou as suspeitas um pouco mais pesadas.
+
+---
+
+## 25. Dhorak adota o baú
+
+**Dhorak** permaneceu ao lado da carga durante a noite.
+
+Ele:
+
+- impediu que o baú fosse aberto;
+- dormiu junto dele;
+- protegeu o lacre;
+- começou a improvisar uma forma de carregá-lo com lona.
+
+> [!note]
+> O grupo encontrou uma carga comercial.
+>
+> **Dhorak** encontrou uma nova responsabilidade pessoal.
+
+---
+
+## 26. Kael tenta ajudar quando deveria deitar
+
+Mesmo quase sem força, **Kael** tentou construir uma armadilha.
+
+O esforço terminou com:
+
+- ferramenta escapando;
+- braço ou mão ferida;
+- mais dor;
+- nenhuma armadilha realmente funcional.
+
+> [!warning] Diagnóstico do acampamento
+> **Kael** queria contribuir.
+>
+> O corpo dele apresentou uma contraproposta:
+>
+> **deitar e parar de tentar morrer por algumas horas.**
+
+Finalmente, o grupo o convenceu a descansar.
+
+---
+
+## 27. Lobos na escuridão
+
+Durante uma das vigias, **Dhorak** percebeu lobos à distância.
+
+Eles observaram o acampamento.
+
+Não se aproximaram.
+
+Não atacaram.
+
+Depois seguiram caminho.
+
+> [!danger]
+> A noite foi tranquila.
+>
+> Isso não significa que o grupo esteve sozinho.
+
+---
+
+## 28. “Não, Enila.”
+
+Durante o sono, **Yann** começou a murmurar.
+
+> [!quote]
 > **“Não, Enila.”**
 
-Só **Oryn** ouviu.
+Somente **Oryn** ouviu.
 
-Ele chegou a acordar Yann, mas a cena terminou mais como um detalhe estranho e importante do que como uma conversa reveladora.
+Ele acordou **Yann** e comentou que o bardo falava muito enquanto dormia.
 
-Mais um nome.  
-Mais um mistério.  
-Mais um motivo para desconfiar de que Yann é um poço sem fundo de complicações.
+**Yann** não explicou quem era **Enila**.
 
----
+### Quem sabe o quê
 
-## A oração de Vet
+| Informação | Quem sabe |
+|---|---|
+| **Yann** teve um sono agitado | **Oryn** percebeu diretamente |
+| **Yann** disse “Não, **Enila**” | **Somente Oryn** |
+| Quem é **Enila** | Ninguém explicou |
 
-Quando a claridade voltou — aquela claridade pálida, sem sol — **Vet** fez suas orações.
-
-Ela falou disso publicamente.
-
-Tentou buscar **Lathander**.
-
-Mas o momento foi estranho.
-
-Não houve grande manifestação. Não houve sinal evidente de conforto. Só a sensação de que algo ali não estava normal.
-
-Num lugar como Baróvia, até a luz parece vir sem bênção.
+Mais um nome foi acrescentado à coleção de coisas que **Yann** não pretende esclarecer espontaneamente.
 
 ---
 
-## O amanhecer trouxe recuperação… para quase todo mundo
+## 29. Vet reza sob um céu sem sol
 
-Depois do descanso, o grupo conseguiu se recompor.
+Nos primeiros sinais de claridade, **Vet** fez suas orações.
 
-A maior diferença foi em **Kael**, que praticamente voltou da morte clínica social para algo muito mais próximo de uma pessoa funcional.
+Ela falou sobre tentar alcançar **Lathander**.
 
-Já **Yann** não teve a mesma recuperação.
+Ninguém percebeu uma manifestação externa.
 
-Como evitou água e comida, acordou ainda mal, pesado e estranho — o que só reforçou a imagem geral de que ele é, ao mesmo tempo:
+Para **Vet**, porém, o momento foi vazio:
 
-- útil,
-- irritante,
-- carismático,
-- suspeito,
-- e biologicamente duvidoso.
+- nenhum calor;
+- nenhuma presença clara;
+- nenhuma resposta direta;
+- apenas uma sensação distante, difícil de confirmar.
 
----
+> [!danger] A luz de Baróvia
+> **Vet** havia se tornado mais poderosa.
+>
+> Mas, num lugar onde existe dia sem sol, **Lathander** parecia muito distante.
 
-## A Vila de Baróvia finalmente aparece
+A fé ainda funcionava.
 
-Depois do acampamento, o grupo continuou pela estrada.
-
-No fim do caminho, a floresta se abriu.
-
-A [[Vila de Baróvia]] apareceu adiante:
-
-- casas fechadas;
-- janelas escuras;
-- pouco movimento;
-- fumaça em algumas chaminés;
-- uma igreja acima dos telhados;
-- e, muito acima de tudo isso, a presença esmagadora do castelo.
-
-O grupo chegou à entrada da vila:
-
-- quase sem equipamento;
-- carregando um baú que não lhes pertence;
-- com uma história ainda mal combinada;
-- e com a certeza de que a verdadeira aventura em Baróvia estava só começando.
+A presença, não parecia tão simples.
 
 ---
 
-## O que a sessão deixou
+## 30. O descanso muda Kael
 
-> [!tip] O que ficou desta vez
-> - **A Casa da Morte ficou para trás**, mas deixou marcas reais;
-> - o grupo aprendeu que sobreviver nem sempre significa sair inteiro;
-> - **Lionel** quase explodiu;
-> - **Yann** continuou sendo um problema ambulante;
-> - **Kael** quase virou estatística, mas resistiu;
-> - **Vet** assumiu ainda mais o papel de cuidado;
-> - **Dhorak** virou guardião oficial do baú;
-> - **Oryn** saiu com mais perguntas do que respostas;
-> - e Baróvia, enfim, apareceu.
+Depois do descanso longo, **Kael** recuperou a Força roubada pelas sombras.
+
+A diferença era visível.
+
+Antes do descanso:
+
+- corpo murcho;
+- passos curtos;
+- dificuldade para respirar;
+- incapacidade de correr;
+- risco em qualquer esforço.
+
+Depois:
+
+- postura recuperada;
+- movimento normal;
+- aparência saudável;
+- força suficiente para seguir viagem.
+
+> [!success]
+> **Kael** adormeceu parecendo alguém que a **Casa Durst** já havia começado a enterrar.
+>
+> Acordou novamente como caçador.
 
 ---
 
-## Próxima sessão
+## 31. Yann acorda pior
 
-Vocês começam **na entrada da Vila de Baróvia**.
+A recuperação não foi igual para todos.
 
-Há uma carga lacrada para entregar a **B. Cantemir**.  
-Há uma vila silenciosa diante de vocês.  
-E há um castelo observando tudo do alto.
+**Yann** havia recusado comida e não bebera água suficiente.
 
-A estrada sem sol terminou.
+Ao amanhecer, ele estava:
 
-Agora começa Baróvia.
+- tonto;
+- pesado;
+- cambaleando;
+- ainda exausto;
+- insistindo que apenas dormira mal.
+
+A água parecia normal aos outros.
+
+> [!warning]
+> **Kael** entrou no acampamento quase incapaz de caminhar e saiu recuperado.
+>
+> **Yann** entrou falando normalmente e saiu parecendo que havia perdido uma discussão contra a hidratação.
+
+---
+
+## 32. O grupo segue para a vila
+
+**Dhorak** enrolou o baú em lona para facilitar o transporte e esconder a forma da carga.
+
+A discussão sobre a história continuou.
+
+**Yann** ainda queria controlar a narrativa.
+
+**Vet** e **Oryn** continuavam sem intenção de participar da mentira.
+
+**Lionel** queria uma decisão coletiva.
+
+**Kael** preferia saber mais antes de confiar.
+
+**Dhorak** continuava carregando a caixa.
+
+O consenso permanecia descansando em algum lugar que o grupo ainda não havia encontrado.
+
+---
+
+## 33. A Vila de Baróvia aparece
+
+Depois de mais algumas horas, a floresta finalmente se abriu.
+
+A vila surgiu no vale.
+
+> [!summary] Primeira visão da vila
+> Não havia muralha recebendo viajantes.  
+> Não havia guardas pedindo nomes.  
+> Não havia crianças brincando nas ruas.
+>
+> Havia apenas uma comunidade silenciosa sob um céu sem sol.
+
+| O que o grupo viu | A impressão deixada |
+|---|---|
+| **Casas de madeira e pedra** | Construções antigas, fechadas e pouco acolhedoras. |
+| **Portas e janelas fechadas** | Quase ninguém parecia interessado em receber visitantes. |
+| **Ruas quase vazias** | Pouco movimento e nenhum sinal de vida normal. |
+| **Fumaça em poucas chaminés** | A vila era habitada, mas parecia se esconder dentro de si mesma. |
+| **Uma igreja acima dos telhados** | O primeiro ponto claramente reconhecível dentro do povoado. |
+| **Um sino distante** | Um único som quebrando o silêncio. |
+
+E muito acima da vila estava o que realmente dominava a paisagem:
+
+> [!danger] **Castelo Sobre as Montanhas**
+> Torres negras.  
+> Muralhas enormes.  
+> Janelas voltadas para o vale.
+>
+> O castelo não parecia apenas ocupar a montanha.
+>
+> **Parecia observar tudo abaixo.**
+
+---
+
+# Última imagem da sessão
+
+O grupo parou na entrada da [[Vila de Baróvia]].
+
+| Personagem | Como chegou à vila |
+|---|---|
+| **Dhorak** | Carregando um baú lacrado que não pertence ao grupo. |
+| **Lionel** | Levando a herança da família em duas partes. |
+| **Kael** | Finalmente recuperado, depois de quase não conseguir caminhar. |
+| **Oryn** | Com o livro negro, mas sem o orbe perdido para a casa. |
+| **Vet** | Diante de uma igreja, num lugar onde **Lathander** parece distante. |
+| **Yann** | Ainda exausto, cambaleando e guardando o nome **Enila** sem explicação. |
+
+O empório de **B. Cantemir** está em algum lugar adiante.
+
+As ruas estão silenciosas.
+
+O castelo permanece acima de tudo.
+
+> [!warning] Fim de um arco
+> A [[Casa da Morte]] terminou.
+>
+> **Baróvia começou.**
+
+---
+
+# Relações e tensões do grupo
+
+---
+
+## Lionel e Yann — a provocação passou do limite
+
+> [!danger] Tensão aberta
+> **Yann** conseguiu levar **Lionel** ao ponto de avançar fisicamente contra ele.
+>
+> **Dhorak** impediu que a discussão virasse combate.
+
+Não era apenas uma piada sobre um objeto quebrado.
+
+**Yann** tocou em:
+
+- família;
+- culpa;
+- o irmão de **Lionel**;
+- a perda do escudo;
+- algo que **Lionel** considera sagrado.
+
+**Lionel** conseguiu se conter.
+
+Isso não significa que a tensão desapareceu.
+
+> [!warning]
+> Uma nova provocação semelhante pode não terminar apenas com **Dhorak** segurando alguém.
+
+---
+
+## Lionel, Kael e o significado do escudo
+
+**Kael** ajudou **Lionel** a enxergar a perda de outra forma.
+
+O escudo não falhou.
+
+Ele cumpriu sua função até o fim.
+
+> [!quote]
+> O escudo quebrou porque sustentou a passagem.  
+> A passagem salvou o grupo.
+
+O objeto deixou de ser apenas uma herança dos **Roarshield**.
+
+Agora também é a prova de que **Lionel escolheu proteger os companheiros**.
+
+---
+
+## Dhorak e Lionel — força para conter, não ferir
+
+Nesta sessão, **Dhorak** usou sua força em dois momentos decisivos:
+
+| Momento | O que **Dhorak** fez |
+|---|---|
+| **Oryn caiu na saída** | Segurou a porta para que **Lionel** pudesse voltar e resgatá-lo. |
+| **Lionel avançou contra Yann** | Conteve o paladino antes que a tensão se transformasse em violência. |
+
+> [!success]
+> O bárbaro que costuma avançar primeiro também mostrou que sabe quando sua força precisa **manter o grupo unido**.
+
+---
+
+## Oryn e Yann — mais uma peça
+
+Somente **Oryn** ouviu o nome **Enila**.
+
+Ele também continua sendo um dos personagens mais atentos às inconsistências de **Yann**:
+
+- o sangue rejeitado pela casa;
+- a recusa em comer;
+- a recusa em beber;
+- o mal-estar persistente;
+- agora, um nome dito durante um pesadelo.
+
+> [!question]
+> O nome não explica nada sozinho.
+>
+> Mas agora existe — e **Oryn** sabe que **Yann** não pretende explicá-lo espontaneamente.
+
+---
+
+## Vet e Lathander — poder sem presença
+
+**Vet** saiu da casa mais forte.
+
+Suas preces e poderes continuam funcionando.
+
+Mas a sensação de **Lathander** parece distante.
+
+> [!warning] A contradição de Baróvia
+> Existe claridade, mas não existe sol.  
+> A magia responde, mas não traz conforto.
+>
+> **Vet possui o poder da luz num lugar em que a própria luz parece vazia.**
+
+---
+
+## Kael e o grupo — finalmente recuperado
+
+**Kael** sobreviveu porque o grupo insistiu em não abandoná-lo.
+
+Ainda debilitado, ele conseguiu ajudar **Lionel** a não transformar dor em violência.
+
+Depois do descanso, recuperou o próprio corpo.
+
+| Antes do descanso | Depois do descanso |
+|---|---|
+| Mal conseguia caminhar | Voltou a se mover normalmente |
+| Dependia constantemente do grupo | Recuperou sua autonomia |
+| Qualquer esforço era perigoso | Voltou a agir como caçador |
+| Parecia à beira de desabar | Estava pronto para seguir viagem |
+
+> [!success]
+> **Kael** voltou a ser capaz de agir.
+>
+> Mas agora sabe exatamente como é depender completamente dos outros.
+
+---
+
+# O que vocês descobriram
+
+| Descoberta | O que isso muda |
+|---|---|
+| A [[Casa da Morte]] conseguiu puxar objetos, mas não os personagens. | A casa estava enfraquecida depois da fuga. |
+| O **orbe escuro** voltou para dentro. | **Oryn** perdeu uma das principais peças mágicas encontradas. |
+| A casa desapareceu na névoa. | Voltar até ela não parece uma opção simples. |
+| Existe claridade em **Baróvia** sem um sol visível. | O ambiente funciona de maneira diferente do mundo conhecido. |
+| Os portões se abriram sozinhos. | A entrada em Baróvia não exigiu permissão humana. |
+| Uma carroça destinada à vila foi destruída. | Algo perigoso atua nas estradas. |
+| O baú pertence a **B. Cantemir**. | O grupo possui um contato e uma obrigação imediata na vila. |
+| A carga deveria chegar fechada. | Abrir o baú quebraria a instrução do manifesto. |
+| **Vet** não sentiu resposta clara de **Lathander**. | A ligação divina parece distante ou bloqueada. |
+| **Yann** evitou água e comida. | O grupo ganhou mais motivos para suspeitar dele. |
+| **Yann** pronunciou o nome **Enila** durante o sono. | **Oryn** possui uma nova pista sobre o passado do bardo. |
+| Lobos observaram o acampamento sem atacar. | O grupo pode já ter sido notado. |
+| **Castelo Ravenloft** domina a vila. | O poder local está visível antes mesmo de qualquer apresentação. |
+
+---
+
+# Itens e consequências importantes
+
+| Item ou consequência | Estado |
+|---|---|
+| **Escudo Roarshield** | Partido em duas metades e carregado por **Lionel**. |
+| **Orbe escuro** | Perdido; puxado para dentro da **Casa Durst**. |
+| **Livro de páginas negras** | Preservado por **Oryn**. |
+| **Espada curta prateada** | Preservada por **Kael**. |
+| **Manto de Proteção** | Preservado por **Dhorak**. |
+| **Besta de mão** | Preservada por **Yann**. |
+| **Maça** | Preservada por **Vet**. |
+| **Armadura de Lionel** | Preservada. |
+| **Baú de B. Cantemir** | Fechado, lacrado e carregado por **Dhorak**. |
+| **Manifesto de remessa** | Identifica a carga e o destinatário. |
+| **Materiais da carroça** | Machadinha, lona, corda, panela, cantil danificado, couro, madeira e ferragens reaproveitáveis. |
+| **Exaustão de Yann** | Ainda presente após o acampamento. |
+| **Força de Kael** | Recuperada após o descanso longo. |
+
+---
+
+# O que a estrada ensinou
+
+> [!tip] Lições compradas com equipamento, lama e falta de água
+> A **Casa Durst** testou como o grupo lutava.
+>
+> A estrada começou a testar como o grupo **vive**.
+
+| Lição | O que a sessão mostrou |
+|---|---|
+| **Sair vivo ainda pode ter custo** | A casa não levou personagens, mas arrancou quase todo o equipamento. |
+| **Objetos ganham significado pelo uso** | O escudo quebrado vale mais pelo que salvou do que pelo estado em que ficou. |
+| **O grupo precisa combinar histórias** | Seis versões diferentes diante de **B. Cantemir** podem transformar uma entrega em acusação. |
+| **Comida, água e abrigo importam** | **Kael** se recuperou porque conseguiu descansar; **Yann** continuou exausto porque ignorou necessidades básicas. |
+| **Ferramentas comuns salvam aventuras** | Lona, panela, corda, costura e magia utilitária fizeram o acampamento funcionar. |
+| **Destroços também são recursos** | A carroça forneceu abrigo, ferramentas, madeira, metal e material para equipamentos precários. |
+| **Nem todo observador ataca imediatamente** | Os lobos viram o grupo e seguiram adiante. |
+| **Informação também é recurso** | O manifesto deu ao grupo um destino, um nome e uma forma de entrar na vila. |
+| **Provocação tem consequência** | **Yann** descobriu que **Lionel** possui um limite — e chegou muito perto de ultrapassá-lo de vez. |
+
+> [!note] Regra prática
+> Depois de sobreviver a uma casa assassina, talvez seja prudente:
+>
+> **beber água, combinar a história e não insultar a herança quebrada do paladino.**
+
+---
+
+# Próxima sessão
+
+> [!summary] Ponto de partida
+> Vocês começam na **entrada da Vila de Baróvia**.
+>
+> O baú continua fechado.  
+> **B. Cantemir** está em algum lugar da vila.  
+> O grupo ainda não decidiu qual história contará.
+
+## Prioridades imediatas
+
+1. Encontrar o empório de **B. Cantemir**.
+2. Decidir como explicar a posse da carga.
+3. Conseguir armas, armaduras e equipamentos.
+4. Encontrar abrigo e informações.
+5. Descobrir quem governa este lugar.
+6. Entender por que **Castelo Ravenloft** domina toda a paisagem.
+
+E existe uma pergunta que provavelmente será feita cedo ou tarde:
+
+> [!question]
+> **“Onde estão as pessoas que deveriam entregar essa carga?”**
+
+Acima de tudo, **Castelo Ravenloft** observa.
+
+---
+
+## Links úteis
+
+- [[Diario das Sessoes|Voltar ao Diário das Sessões]]
+- [[00_Inicio|Voltar ao início]]
+- [[Itens e Pistas Encontradas|Ver pistas encontradas]]
+- [[Personagens do Grupo|Ver personagens do grupo]]
