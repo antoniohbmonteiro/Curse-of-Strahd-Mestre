@@ -39,7 +39,7 @@ tags:
 > - **Yann**, que evitou comida e água, acordou ainda exausto e cambaleando.
 > - Durante a noite, somente **Oryn** ouviu **Yann** murmurar: **“Não, Enila.”**
 > - **Vet** tentou alcançar **Lathander** sob uma claridade sem sol, mas não sentiu uma resposta clara.
-> - A sessão terminou na **entrada da Vila de Baróvia**, sob a sombra distante do **Castelo Ravenloft**.
+> - A sessão terminou na **entrada da Vila de Baróvia**, sob a sombra distante do **Castelo Sobre as Montanhas**.
 
 ---
 
@@ -124,7 +124,7 @@ tags:
 | **Enila** | Nome murmurado por **Yann** enquanto dormia. Somente **Oryn** ouviu. |
 | **Lathander** | Divindade de **Vet**. Ela tentou alcançá-lo ao amanhecer, sem sentir resposta clara. |
 | **Vila de Baróvia** | Primeiro povoado encontrado depois da **Casa Durst**. Silencioso, fechado e pouco acolhedor. |
-| **Castelo Ravenloft** | Castelo enorme que domina o vale acima da vila. |
+| **Castelo Sobre as Montanhas** | Castelo enorme que domina o vale acima da vila. |
 | **Casa Durst** | Desapareceu na névoa depois de tentar puxar o grupo e seus equipamentos de volta. |
 
 ---
@@ -1161,7 +1161,7 @@ Depois do descanso, recuperou o próprio corpo.
 | **Yann** evitou água e comida. | O grupo ganhou mais motivos para suspeitar dele. |
 | **Yann** pronunciou o nome **Enila** durante o sono. | **Oryn** possui uma nova pista sobre o passado do bardo. |
 | Lobos observaram o acampamento sem atacar. | O grupo pode já ter sido notado. |
-| **Castelo Ravenloft** domina a vila. | O poder local está visível antes mesmo de qualquer apresentação. |
+| **Castelo Sobre as Montanhas** domina a vila. | O poder local está visível antes mesmo de qualquer apresentação. |
 
 ---
 
@@ -1227,14 +1227,14 @@ Depois do descanso, recuperou o próprio corpo.
 3. Conseguir armas, armaduras e equipamentos.
 4. Encontrar abrigo e informações.
 5. Descobrir quem governa este lugar.
-6. Entender por que **Castelo Ravenloft** domina toda a paisagem.
+6. Entender por que **Castelo Sobre as Montanhas** domina toda a paisagem.
 
 E existe uma pergunta que provavelmente será feita cedo ou tarde:
 
 > [!question]
 > **“Onde estão as pessoas que deveriam entregar essa carga?”**
 
-Acima de tudo, **Castelo Ravenloft** observa.
+Acima de tudo, **Castelo Sobre as Montanhas** observa.
 
 ---
 
