@@ -22,7 +22,7 @@ aliases:
 > **Armadura feita com material ruim:** só pode produzir proteção precária, como um escudo de tábuas.  
 > **Armadura feita com material adequado:** pode ser uma armadura verdadeira, sem Durabilidade, desde que haja ferramentas, matéria-prima e tempo suficientes.  
 > **Dhorak:** considerar proficiência com **Ferramentas de Coureiro** para esta regra de campanha.  
-> **Svetlana:** pode fabricar peças de tecido e ajudar com forros, costuras, correias e ajustes usando **Ferramentas de Tecelão**.
+> **Svetlana:** pode trabalhar **Peças de Tecido** e ajudar com forros, costuras, correias e ajustes usando **Ferramentas de Tecelão**.
 
 Esta regra separa dois tipos de criação:
 
@@ -30,6 +30,32 @@ Esta regra separa dois tipos de criação:
 2. **Equipamento verdadeiro**, produzido com materiais adequados, ferramentas corretas e tempo de trabalho.
 
 O objetivo é permitir criatividade e sobrevivência sem transformar materiais encontrados na estrada em equipamento profissional.
+
+## Materiais abstratos no Foundry
+
+Para evitar registrar cada tábua, prego, tira ou retalho separadamente, a campanha usa quatro recursos genéricos de fabricação:
+
+| Recurso | Peso por unidade | O que representa |
+|---|---:|---|
+| **Peça de Madeira** | 1 kg | Tábuas curtas, raios de roda, cabos, ripas e outros pedaços aproveitáveis. |
+| **Peça de Couro** | 0,5 kg | Tiras, correias, retalhos curtidos e partes aproveitáveis de sela ou arreios. |
+| **Peça de Metal** | 0,5 kg | Pregos, rebites, chapas pequenas, ferragens, fivelas e sucata trabalhável. |
+| **Peça de Tecido** | 0,5 kg | Lona, tecido resistente, lã, enchimento, cordões e retalhos aproveitáveis. |
+
+> [!note] Uma unidade abstrata
+> Uma **Peça** não representa necessariamente um único objeto físico. Uma Peça de Metal, por exemplo, pode ser um conjunto de pregos, rebites e uma pequena chapa.
+>
+> Ao vasculhar um local, descreva primeiro os materiais encontrados na ficção e depois registre apenas as Peças recuperadas no inventário.
+
+### O que não vira uma categoria permanente
+
+- **Pedra:** normalmente é encontrada no ambiente. Uma pedra de formato ou qualidade adequada pode ser exigida por uma receita.
+- **Osso:** pode substituir madeira ou metal em criações específicas, quando a construção justificar.
+- **Corda:** continua sendo o item de equipamento normal e pode ser cortada ou consumida diretamente.
+- **Resina, gordura, cera, sal e ingredientes alquímicos:** permanecem materiais específicos quando forem importantes para o projeto.
+
+> [!warning] Quantidade não substitui qualidade
+> Possuir Peças suficientes não torna qualquer projeto possível. A qualidade do material, as ferramentas, o local de trabalho e o tempo ainda determinam se o resultado será precário ou verdadeiro.
 
 ---
 
