@@ -172,6 +172,16 @@ Depois de observar brevemente o grupo, Ismark aproxima-se e oferece uma jarra de
 
 > “Ismark Kolyanovich. Meu pai era o burgomestre desta vila.”
 
+Ao se aproximar de [[Svetlana]], Ismark demora o olhar por um instante em seu cabelo. Não é reconhecimento sobrenatural, apenas uma semelhança visual inesperada.
+
+> “Seu cabelo... minha irmã tem exatamente essa cor. Não é comum por aqui.”
+
+Caso perguntem sobre ela:
+
+> “Ireena. É justamente sobre ela que preciso falar.”
+
+Ismark não consegue explicar a coincidência e não suspeita de qualquer ligação entre as duas. O comentário serve apenas para preparar o primeiro encontro na [[Mansão do Burgomestre]].
+
 Ele pergunta:
 
 - de onde vieram;
