@@ -2,14 +2,17 @@
 tipo: personagem_jogador
 personagem: Lionel Roarshield
 jogador: Xapi
+conteudo: mestre
 tags:
   - pc
   - personagem
+  - mirabar
+  - roarshield
 ---
 
 # Lionel Roarshield
 
-**Resumo rápido:** Leonin Paladin de Xapi; honra, acusação injusta e símbolos de julgamento devem pesar em Baróvia.
+**Resumo rápido:** Leonin Paladino da Coroa; herdeiro acusado da morte do irmão, exilado de [[Mirabar]] com o escudo ancestral Roarshield.
 ^resumo
 
 ## Resumo
@@ -19,13 +22,12 @@ tags:
 | Jogador | Xapi |
 | Ancestralidade | Leonin |
 | Background | Soldier |
-| Classe | Paladin 1 (Oath of Devotion) |
-| Nível | 1 |
-| CA | 18 |
-| PV Máximo | 13 |
-| Iniciativa | 0 |
-| Deslocamento | 30 ft |
-| Foundry Actor | `A vincular` |
+| Classe | Paladin 3 — Oath of the Crown |
+| Nível | 3 |
+| PV Máximo | 31 |
+| Iniciativa | +2 |
+| Deslocamento | 10.5 m / 35 ft |
+| Foundry Actor | `Actor.izyjfHIlEd6pKvCA` |
 
 ## Atributos
 
@@ -33,68 +35,135 @@ tags:
 |---:|---:|---:|---:|---:|---:|
 | 14 | 10 | 17 | 8 | 8 | 16 |
 
-## Idiomas, sentidos e resistências
+## Recursos importantes
 
-- **Sentidos:** darkvision: 60 ft
-- **Idiomas:** Common, Dwarvish, Elvish, Other (unspecified)
-- **Resistências:** —
+- **Conjuração:** CHA; CD 13; ataque +5; espaços 1º: 3.
+- **Daunting Roar:** máximo 1; recarga short_rest.
+- **Savage Attacker:** máximo 1; recarga turn.
+- **Lay on Hands:** máximo 15; recarga long_rest.
+- **Channel Divinity:** máximo 2; recarga short_rest (1 uso), long_rest (todos).
 
-## Recursos
+## Origem
 
-### Conjuração
+Lionel nasceu em [[Mirabar]] dentro da **Casa Roarshield**, a única grande linhagem leonin entre os grupos influentes da cidade.
 
-- **Atributo:** cha
-- **CD:** 13
-- **Ataque:** 5
-- **Espaços:** N1: None, N2: None, N3: None, N4: None, N5: None
+Seu nome representava:
 
-### Recursos de classe/ancestralidade
+- dever;
+- proteção;
+- disciplina;
+- continuidade da família;
+- responsabilidade política.
 
-- Lay on Hands: 5 usos / recarga long
-- Daunting Roar: 1 usos / recarga short
+Ele era herdeiro de uma linhagem inteira, não apenas de riqueza.
 
-## Features importantes
+## A queda
 
-- Lay on Hands
-- Spellcasting
-- Weapon Mastery
-- Daunting Roar
-- Claws
-- Hunter's Instincts
+O irmão de Lionel foi encontrado morto.
 
-## Ganchos pessoais em Baróvia
+Lionel estava perto do corpo quando foi descoberto.
 
-- Acusações falsas e evidências plantadas.
-- Inocentes que precisam de proteção imediata.
-- A pergunta: justiça ou vingança?
+Antes que pudesse viver o luto ou investigar:
+
+- os olhares mudaram;
+- o choque foi interpretado como culpa;
+- a acusação se espalhou;
+- o julgamento pareceu decidido.
+
+Ficar significava aceitar correntes, desonra e possivelmente morte.
+
+Lionel fugiu.
+
+Antes de partir, levou **Roarshield**, o escudo ancestral da família.
+
+Ele não o considera um item substituível. É herança, prova de identidade e símbolo de tudo que ainda pretende recuperar.
+
+As Brumas o alcançaram durante a fuga pelas estradas de Mirabar.
+
+## Roarshield
+
+Estado atual:
+
+- escudo partido e remendado funcionalmente;
+- não será abandonado ou trocado definitivamente;
+- um ferreiro habilidoso poderá restaurar sua estrutura;
+- sua magia verdadeira despertará futuramente através do juramento e das escolhas de Lionel.
 
 ## Objetivos
 
-- A definir
+- Provar que não matou o próprio irmão.
+- Descobrir quem armou a acusação e qual interesse político havia por trás dela.
+- Restaurar Roarshield e despertar o verdadeiro legado do escudo.
+- Retornar a Mirabar capaz de reunir e liderar sua família sem reproduzir a injustiça que o condenou.
 
-## Segredos
+## Ganchos pessoais
 
-- A definir
+- Acusações falsas, provas plantadas e julgamentos decididos antes da investigação.
+- Famílias nobres divididas por medo, interesse e crise de legitimidade.
+- Escudos, juramentos e símbolos usados como prova de autoridade.
+- Mirabar e a Casa Roarshield como promessa de retorno e reparação.
+
+## Segredos e questões abertas
+
+- O verdadeiro assassino do irmão, o motivo e a facção beneficiada ainda não foram definidos.
+- Não está definido quais membros da Casa Roarshield acreditaram em Lionel, permaneceram neutros ou participaram da acusação.
+
+> [!question] Ainda definir
+> - nome do irmão;
+> - posição dele na família;
+> - verdadeiro assassino;
+> - motivo;
+> - facção beneficiada;
+> - quais Roarshield acreditaram em Lionel;
+> - quem permaneceu em silêncio;
+> - quem participou da acusação.
 
 ## Aliados
 
-- A definir
+- **Oryn Fizzlestryke:** Mago de confiança ligado aos Roarshield antes do desastre do portal.
 
 ## Inimigos
 
-- A definir
+- **Conspiradores da morte do irmão:** Identidade e ligação com a crise política de Mirabar ainda não definidas.
 
 ## Dívidas e promessas
 
-- A definir
+- Limpar o nome Roarshield sem abandonar os inocentes que ficaram no meio da crise.
+- Carregar o escudo ancestral até poder devolvê-lo à família com honra.
+- Descobrir a verdade antes de buscar vingança.
 
-## Como usar na Casa da Morte
+## Como usar em Baróvia
 
-> [!tip] Gancho rápido
-> Use uma imagem, som ou objeto da casa para tocar um medo/ferida do personagem. Não explique. Deixe o jogador ligar os pontos.
+- julgamentos sem investigação;
+- governantes que usam lei como aparência;
+- inocentes que precisam de proteção imediata;
+- escolhas entre justiça e vingança;
+- pessoas que o seguem por confiança, não apenas por título;
+- situações em que Roarshield vale mais como símbolo do que como bônus.
+
+## Features estáticas
+
+- Darkvision
+- Claws
+- Hunter's Instincts
+- Daunting Roar
+- Lay on Hands
+- Spellcasting
+- Weapon Mastery
+- Fighting Style
+- Paladin's Smite
+- Blessed Warrior
+- Channel Divinity
+- Tenets of the Crown
+- Oath Spells
+- Champion Challenge
+- Turn the Tide
 
 ## Log pessoal
 
-- [ ] Primeira reação à névoa.
-- [ ] Primeira escolha moral na Casa da Morte.
-- [ ] Primeira marca de Baróvia.
+- [x] Roarshield foi quebrado.
+- [ ] Roarshield recebe reparo funcional.
+- [ ] Roarshield é restaurado por um ferreiro habilidoso.
+- [ ] Lionel faz uma escolha que desperta a magia do escudo.
+- [ ] Surge a primeira pista sobre a morte do irmão.
+- [ ] A crise de Mirabar alcança Baróvia.

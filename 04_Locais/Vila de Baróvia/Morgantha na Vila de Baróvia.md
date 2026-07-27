@@ -21,532 +21,1011 @@ tags:
 
 ![[Morgantha - Beneos.png|500]]
 
-> [!caption] Referência visual
-> Arte de Beneos Battlemaps.  
-> Para os personagens, ela parece uma velha vendedora afável. Os olhos dourados ou avermelhados podem parecer apenas um efeito da lanterna — uma pequena estranheza, não uma revelação.
+> [!summary] Painel de mesa
+> **Entrada recomendada:** fim da tarde do primeiro dia, depois de Bildrath ou durante outro deslocamento sem urgência.  
+> **O que os personagens veem:** uma senhora afável vendendo a única comida quente e perfumada da rua.  
+> **O que Morgantha quer:** vender, observar vulnerabilidades e continuar parecendo inofensiva.  
+> **Preço:** **1 PO por torta inteira**, dividida em **4 porções**.  
+> **Amostra gratuita:** **1 porção**, oferecida ao primeiro interessado real.  
+> **Primeiro consumo:** sonho agradável + **1 Dado de Sonho (1d4)** após o próximo Descanso Longo.  
+> **Se seguirem Morgantha:** descobrem uma dívida e ouvem que ela voltará no dia seguinte.  
+> **Cobrança:** ocorre no segundo dia, caso ainda estejam na vila.  
+> **Não revelar:** bruxa da noite, crianças na receita, coven ou verdade completa do moinho.
 
-> [!summary] Referência rápida
-> **Primeira aparição:** fim da tarde do primeiro dia, após um deslocamento mais tranquilo — idealmente depois do encontro com Bildrath, a caminho da taverna ou da mansão.  
-> **Primeira cena:** apenas venda, conversa e apresentação das tortas.  
-> **Se for seguida:** o grupo descobre que uma família possui uma dívida e que Morgantha voltará no dia seguinte para cobrar “o combinado”.  
-> **Cobrança:** no segundo dia, caso o grupo ainda esteja na vila.  
-> **Se o grupo partir antes:** a criança é levada e poderá ser encontrada posteriormente no [[Velho Moinho de Ossos]].  
-> **Objetivo da cena:** fazer Morgantha parecer útil e estranhamente confortável antes de revelar o sistema de exploração.  
-> **Não revelar agora:** natureza de bruxa, ingredientes, coven, destino das crianças ou funcionamento completo da dependência.
+> [!tip] Fluxo em 1 minuto
+> 1. Leia **O cheiro chega antes dela**.  
+> 2. Mostre a imagem.  
+> 3. Leia **A carroça se aproxima**.  
+> 4. Interprete Morgantha e ofereça a amostra.  
+> 5. Caso alguém coma, leia **O gosto da torta**.  
+> 6. Caso usem magia, consulte **Investigação mágica**.  
+> 7. No próximo descanso, entregue individualmente o sonho correspondente.  
+> 8. Ao acordar, conceda o **Dado de Sonho**.
 
 ---
 
 # Verdade de mestre
 
-> [!danger]- Quem ela realmente é
+> [!danger]- Quem Morgantha realmente é
 > Morgantha é uma bruxa da noite disfarçada de velha vendedora.
 >
-> Ela vende Tortas dos Sonhos para oferecer algumas horas de felicidade aos moradores de Baróvia.
+> As Tortas dos Sonhos oferecem um conforto mágico verdadeiro. Esse alívio cria clientes recorrentes, dívidas e dependência.
 >
-> O alívio gera clientes recorrentes. Quando famílias empobrecidas não conseguem pagar, Morgantha transforma a dívida em controle e pode exigir uma criança.
+> Famílias incapazes de pagar podem ser obrigadas a entregar crianças. Elas são levadas ao [[Velho Moinho de Ossos]] e usadas na preparação de novas tortas.
 >
-> As crianças são levadas ao [[Velho Moinho de Ossos]].
->
-> Na primeira aparição, o papel de Morgantha não é lutar nem revelar tudo. Ela deseja:
+> Na primeira aparição, Morgantha não deseja combate. Ela quer:
 >
 > - vender;
-> - observar os personagens;
-> - identificar vulnerabilidades;
-> - preservar sua aparência de comerciante inofensiva;
-> - seguir operando na vila.
+> - descobrir quem está cansado, enlutado ou vulnerável;
+> - identificar quem desconfia dela;
+> - preservar o acesso à vila;
+> - deixar que o próprio efeito das tortas faça o trabalho.
+
+## Princípio da cena
+
+Morgantha funciona melhor quando a primeira experiência é **realmente agradável**.
+
+Ela não vende uma armadilha que machuca imediatamente.
+
+Ela vende algo bom o bastante para que uma pessoa queira esquecer de perguntar de onde veio.
 
 ---
 
-# Por que esta imagem funciona
+# Preparação rápida
 
-A aparência é boa para a primeira cena porque mistura:
+## Quando colocar a cena
 
-- sorriso acolhedor;
-- idade e desgaste compatíveis com Baróvia;
-- roupas simples;
-- iluminação quente;
-- uma expressão confortável demais para aquele lugar;
-- olhos discretamente inquietantes.
+Use durante um deslocamento sem urgência:
 
-Ela não parece uma “bruxa de conto” imediatamente.
+- após o encontro com Bildrath;
+- no caminho para a taverna;
+- no caminho para a mansão;
+- quando o grupo estiver discutindo onde comer ou descansar;
+- quando a rua parecer silenciosa demais.
 
-Ao mostrar a imagem, descreva a luz da lanterna e o cheiro das tortas antes de chamar atenção para o rosto. Não destaque os olhos como pista automática.
+Evite colocar durante:
 
----
-
-# Primeira aparição
-
-## Momento recomendado
-
-Use no fim da tarde do primeiro dia, durante um deslocamento sem urgência.
-
-Ordem ideal:
-
-1. o grupo termina uma cena mais prática, como Bildrath;
-2. começa a atravessar as ruas;
-3. sente o cheiro antes de ver Morgantha;
-4. moradores demonstram interesse pela carroça;
-5. ela oferece as tortas;
-6. a cena termina antes de qualquer cobrança envolvendo criança.
-
-Não apresente Morgantha durante:
-
-- uma discussão importante com Ismark;
-- a descoberta de Doru;
+- a revelação de Doru;
 - o funeral de Kolyan;
-- outro momento emocional que ela acabaria roubando.
+- uma discussão decisiva com Ireena;
+- outra cena emocional que Morgantha acabaria roubando.
 
-## Narração
+## O que mostrar na imagem
 
-> [!quote] Entrada da cena
-> O cheiro chega antes do som.
->
-> Massa quente, frutas cozidas e especiarias.
->
-> Durante alguns segundos, a rua deixa de cheirar a madeira molhada, lama e fumaça velha.
->
-> Então vocês escutam o pequeno sino preso a uma carroça.
->
-> Uma senhora de cabelos brancos empurra o veículo devagar. Uma lanterna pendurada ilumina seu sorriso e as tortas cobertas por um pano limpo.
->
-> Algumas cortinas se abrem.
->
-> Pela primeira vez desde que entraram na vila, os moradores parecem desejar alguma coisa.
+A arte funciona porque Morgantha parece:
+
+- acolhedora;
+- cansada, mas saudável;
+- simples;
+- confortável demais para Baróvia;
+- discretamente inquietante.
+
+Não destaque os olhos como pista automática. Sob a lanterna, a coloração pode parecer apenas reflexo quente.
 
 ---
 
-# Como interpretar Morgantha
+# Primeira aparição — narração pronta
 
-## Primeira impressão
+## 1. O cheiro chega antes dela
 
-- gentil;
-- tranquila;
-- maternal;
-- ligeiramente divertida;
-- confortável em um lugar onde todos parecem assustados;
-- interessada nos personagens sem interrogá-los diretamente.
+> [!quote] Leia em voz alta
+> O cheiro chega antes de qualquer som.
+>
+> Massa amanteigada. Frutas cozidas. Especiarias quentes.
+>
+> Por alguns segundos, a rua deixa de cheirar a lama, madeira úmida e fumaça velha.
+>
+> Uma janela se abre.
+>
+> Depois outra.
+>
+> Pessoas que haviam se escondido quando vocês passaram agora observam alguma coisa com uma atenção quase faminta.
+
+Faça uma pausa antes de revelar a carroça.
+
+## 2. A carroça se aproxima
+
+> [!quote] Leia em voz alta
+> Um pequeno sino toca na esquina.
+>
+> Uma senhora de cabelos brancos surge empurrando uma carroça estreita. Uma lanterna presa ao puxador lança luz sobre seu rosto sorridente e sobre uma cesta coberta por um pano limpo.
+>
+> Ela não olha para o castelo.
+>
+> Não olha para as janelas fechadas.
+>
+> Apenas continua andando como alguém perfeitamente à vontade naquela rua.
+>
+> Quando percebe vocês, o sorriso aumenta um pouco.
+>
+> “Ora… rostos novos.”
+
+Mostre a imagem neste momento.
+
+## 3. Quando ela revela as tortas
+
+> [!quote] Leia em voz alta
+> A velha solta uma das mãos da carroça e ergue o pano.
+>
+> Pequenas tortas de crosta dourada estão organizadas em fileiras. Ainda quentes, elas liberam uma névoa fina de vapor perfumado.
+>
+> O cheiro é simples, doméstico e quase ofensivamente confortável naquele lugar.
+>
+> Por um instante, vocês se lembram de que comida também pode significar segurança.
+
+---
+
+# Interpretando Morgantha
 
 ## Voz
 
 - baixa e calorosa;
-- chama pessoas de “querido”, “minha filha” ou “meu jovem”;
-- fala como comerciante acostumada a clientes difíceis;
-- nunca tem pressa;
-- não se ofende facilmente.
+- maternal sem parecer frágil;
+- utiliza “querido”, “minha filha” e “meu jovem”;
+- nunca demonstra pressa;
+- responde suspeitas como se fossem hábitos compreensíveis de viajantes cansados.
+
+## Postura
+
+- não demonstra medo do grupo;
+- fica perto da carroça;
+- observa quem olha para as tortas;
+- presta atenção especial em quem tenta esconder fome;
+- registra mentalmente nomes, relações e inseguranças.
 
 ## Maneirismos
 
-- oferece a torta antes de perguntar o nome;
-- observa quem parece cansado ou faminto;
-- lembra o nome imediatamente;
-- conhece moradores pelo nome e pela família;
-- toca levemente a carroça quando esconde algo;
-- sorri diante de desconfiança, como se já tivesse ouvido aquilo muitas vezes.
+- oferece antes de perguntar;
+- limpa a faca antes de cortar a amostra;
+- sabe o nome de moradores e de seus filhos;
+- toca a borda da carroça quando omite algo;
+- sorri com especial paciência para a pessoa mais desconfiada.
 
-## O que ela vende
+## Abertura sugerida
 
-Morgantha chama as tortas de:
+> “Tortas dos Sonhos.”
+>
+> “Não curam a vida, infelizmente.”
+>
+> “Mas podem oferecer algumas horas longe dela.”
 
-- **Tortas dos Sonhos**;
-- “uma noite tranquila”;
-- “algumas horas longe de Baróvia”;
-- “um pequeno descanso”.
+Caso perguntem o preço:
 
-Preço normal:
+> “Uma moeda de ouro pela torta inteira.”
+>
+> “Quatro porções generosas.”
+>
+> “A primeira prova não custa nada.”
 
-> **1 PO por torta.**
+---
 
-Para aumentar a chance de alguém experimentar, ela oferece **uma torta gratuita ao primeiro personagem genuinamente interessado**.
+# A amostra gratuita
 
-> “A primeira é presente.”
+Morgantha não entrega uma torta inteira.
+
+Ela escolhe uma torta, corta cuidadosamente **uma das quatro porções** e a oferece em um pequeno pedaço de papel encerado ou pano limpo.
+
+> [!quote] Ao oferecer
+> “A primeira porção é presente.”
 >
 > “Ninguém deveria comprar um sonho sem antes provar que ainda consegue sonhar.”
 
-Ela não oferece uma torta grátis para cada personagem automaticamente.
+Apenas o primeiro interessado recebe a porção gratuita automaticamente.
+
+Caso os demais peçam amostras, Morgantha pode:
+
+- vender uma torta;
+- oferecer outra porção gratuitamente apenas se isso favorecer a cena;
+- brincar dizendo que “generosidade também precisa pagar pela farinha”.
 
 ---
 
-# Falas rápidas
+# O gosto da torta
 
-> “Uma noite de descanso vale mais que ouro por estas bandas.”
+## Ao dar a primeira mordida
 
-> “Não curam a vida. Apenas permitem esquecê-la por algumas horas.”
+> [!quote] Leia para quem comer
+> A crosta se rompe com um estalo delicado.
+>
+> Por dentro, o recheio está quente e macio, temperado com ervas, cebolas adocicadas e alguma especiaria que você reconhece sem conseguir nomear.
+>
+> Primeiro vem o sal.
+>
+> Depois uma doçura discreta.
+>
+> A manteiga derrete na língua e o sabor muda por um instante — não completamente, mas o suficiente para lembrar uma refeição feita quando você se sentia seguro.
+>
+> Não há gosto estranho.
+>
+> Não há amargor.
+>
+> Apenas comida quente, bem preparada e melhor do que qualquer coisa deveria ser naquela rua.
+>
+> Por alguns segundos, Baróvia parece muito distante.
 
-> “A primeira é presente.”
+## Depois de terminar a porção
 
-> “Claro que são especiais. Farinha comum não afasta pesadelos.”
+> [!quote] Leia para quem terminou
+> O calor da torta permanece no peito depois que o sabor desaparece.
+>
+> Seus ombros relaxam antes que você perceba.
+>
+> O cansaço continua ali, mas parece menos urgente.
+>
+> Como se, pela primeira vez desde que as Brumas se fecharam, alguma coisa tivesse prometido que você poderá dormir sem ser perseguido.
 
-> “Eu não pergunto o que meus clientes desejam esquecer.”
+## Reação de Morgantha
 
-> “A vila tem pouca comida e ainda menos gentileza. Tento vender um pouco das duas.”
+Ela observa apenas o suficiente para confirmar o efeito.
 
-> “Desconfiança é saudável, querido. Só não deixe que ela também o impeça de dormir.”
+> “Viu?”
+>
+> “Ainda existe descanso no mundo.”
+
+Não descreva êxtase, perda de controle ou compulsão imediata.
 
 ---
 
-# Torta dos Sonhos — primeiro uso
+# Regra das porções
 
-> [!success] Eco de um Sonho Feliz
-> A primeira torta consumida por um personagem não exige salvaguarda e não causa penalidade imediata.
->
-> Durante o próximo Descanso Longo, o personagem vivencia um sonho profundamente agradável, baseado em algo que perdeu, deseja ou considera seguro.
->
-> Ao concluir o descanso, recebe **1 Dado de Sonho (1d4)**.
->
-> Uma vez antes do próximo Descanso Longo, pode adicionar esse d4 a um teste de d20 depois de rolar o d20, mas antes de saber se teve sucesso.
->
-> O dado desaparece no próximo Descanso Longo e não acumula com outra Torta dos Sonhos.
+> [!success] Torta dos Sonhos
+> - **1 torta inteira:** 1 PO.
+> - **Porções por torta:** 4.
+> - **Quantidade mínima para ativar a magia:** 1 porção completa.
+> - **Mordida pequena ou migalha:** sem efeito mágico.
+> - **Torta dividida:** cada personagem que consumir uma porção completa é afetado individualmente.
+> - **Benefício acumulável:** não.
+> - **Primeiro benefício:** apenas uma vez por personagem.
 
-## Princípio da primeira torta
+## Primeiro consumo de cada personagem
 
-A primeira experiência deve ser realmente boa.
+Durante o próximo Descanso Longo, a criatura experimenta um sonho agradável criado a partir de memórias, necessidades e desejos pessoais.
 
-Não use:
+Ao concluir o descanso, recebe:
 
-- salvaguarda escondida;
-- penalidade imediata;
-- pesadelo;
-- dano;
-- compulsão automática;
-- perda de controle do personagem.
+> **1 Dado de Sonho (1d4).**
 
-A armadilha é o desejo de repetir uma experiência agradável, não uma punição invisível na primeira mordida.
+Antes do próximo Descanso Longo, o personagem pode adicionar o d4 a um teste de d20:
 
-## Uso repetido
+- depois de rolar o d20;
+- antes de saber se teve sucesso.
 
-- registre quantas tortas cada personagem consumiu;
-- não improvise uma penalidade na primeira sessão;
-- a regra de desejo e dependência deve começar apenas a partir de consumo repetido;
-- feche a mecânica completa antes de um personagem pedir a segunda ou terceira torta.
+O dado desaparece no próximo Descanso Longo.
+
+## Comer mais de uma porção
+
+- duas porções não concedem dois dados;
+- uma torta inteira continua concedendo apenas um dado;
+- dividir uma torta entre quatro personagens permite que os quatro recebam o benefício;
+- porções adicionais contam para o futuro sistema de desejo e dependência;
+- registre o total de porções consumidas.
+
+## Svetlana e Transe
+
+Svetlana não precisa dormir.
+
+Caso coma uma porção, o sonho ocorre durante seu próximo **Transe**. Ela experimenta a visão com a mesma intensidade e recebe normalmente o Dado de Sonho ao concluir o descanso.
 
 ---
 
-# O que a magia revela
+# Sonhos preparados para cada personagem
 
-## [[Oryn Fizzlestryke]] — Detectar Magia
+> [!warning] Uso de mestre
+> Entregue os sonhos individualmente, por mensagem privada ou narração direcionada.
+>
+> Os sonhos:
+>
+> - não são profecias;
+> - não revelam fatos desconhecidos;
+> - não confirmam que o futuro será assim;
+> - misturam memória e desejo;
+> - devem parecer mais reais e confortáveis que sonhos comuns.
+>
+> A magia retira imagens da mente do próprio personagem. Morgantha não precisa conhecer conscientemente o conteúdo.
 
-Oryn possui Detectar Magia e pode conjurá-la como ritual.
+---
 
-### Nas tortas
+## Svetlana — A cidade que Baróvia nunca tocou
 
-Ele percebe uma aura de **Encantamento**.
+> [!quote] Leia para Svetlana
+> Você abre os olhos sob um céu claro.
+>
+> Está em Mirabar.
+>
+> Não como ela existe em suas lembranças, com ruas onde a riqueza de alguns sempre tornava a pobreza dos outros mais visível.
+>
+> Aqui, nenhuma criança pede comida nos degraus de uma casa nobre.
+>
+> Nenhuma família se esconde do frio sob marquises.
+>
+> As lojas estão abertas. As fontes correm limpas. Há pão suficiente nas bancas para que ninguém conte moedas antes de sentir o cheiro.
+>
+> Pessoas de roupas simples caminham ao lado de mercadores, soldados e nobres sem abaixar os olhos.
+>
+> Quando reconhecem você, sorriem.
+>
+> Não porque esperam uma bênção.
+>
+> Não porque precisam pedir ajuda.
+>
+> Apenas porque estão felizes por vê-la.
+>
+> Sua mãe atravessa a praça carregando flores. Seu pai conversa com artesãos perto de uma mesa longa, preparada para qualquer pessoa que queira se sentar.
+>
+> Ao redor deles, a cidade parece ter aprendido uma verdade simples:
+>
+> ninguém precisa sofrer para que outra pessoa viva bem.
+>
+> Os sinos tocam.
+>
+> Não anunciam guerra, morte ou cerimônia.
+>
+> Anunciam o começo de mais um dia comum.
+>
+> Sua mãe segura sua mão.
+>
+> “Olhe.”
+>
+> O sol nasce por trás dos telhados.
+>
+> Pela primeira vez, a luz não precisa salvar ninguém.
+>
+> Ela apenas aquece a cidade.
 
-A magia está relacionada a:
+### Ao despertar
 
-- sonhos;
-- emoções;
-- sensação de segurança;
-- alteração da experiência durante o sono.
+> Durante alguns segundos, você ainda escuta os sinos.
+>
+> A lembrança mais dolorosa não é ter deixado aquele lugar.
+>
+> É saber que ele nunca existiu exatamente daquela forma.
 
-Ela não revela:
+## Kael Varzhen — Uma caçada que termina
+
+> [!quote] Leia para Kael
+> A trilha diante de você é clara.
+>
+> Nenhuma pegada desaparece. Nenhum cheiro termina no meio do caminho. Nenhuma pista foi colocada para fazê-lo chegar tarde demais.
+>
+> Você segue marcas através de uma floresta iluminada e alcança uma clareira.
+>
+> Não há cadáver.
+>
+> Não há cela.
+>
+> Não há criatura esperando na escuridão.
+>
+> Dhorak está ali, livre, sentado diante de uma fogueira.
+>
+> Ao redor dele estão outras pessoas que você procurou e não conseguiu salvar. Nenhuma está ferida.
+>
+> Ninguém pergunta por que você demorou.
+>
+> Dhorak apenas levanta uma caneca em sua direção.
+>
+> “Sabia que encontraria o caminho.”
+>
+> Você se senta.
+>
+> Pela primeira vez, uma investigação terminou antes de alguém precisar sangrar.
+
+### Ao despertar
+
+> Por alguns segundos, você ainda consegue sentir o calor da fogueira — um fogo que não exigiu sangue para existir.
+
+---
+
+## Lionel Roarshield — O nome que permaneceu
+
+> [!quote] Leia para Lionel
+> Você está no ponto mais alto de Mirabar.
+>
+> Abaixo, as ruas estão cheias.
+>
+> Não há fome nas portas. Não há soldados carregando ordens injustas. Não há famílias escondendo medo atrás de janelas fechadas.
+>
+> Estandartes com o símbolo dos Roarshield se movem ao vento — não como aviso de domínio, mas como promessa de proteção.
+>
+> Em seu braço está Roarshield.
+>
+> Inteiro.
+>
+> O metal nobre não possui rachaduras, remendos ou marcas que você precise esconder. O símbolo da família permanece firme no centro.
+>
+> Ao seu lado está seu irmão.
+>
+> Vivo.
+>
+> Ele sorri como alguém que nunca precisou ser lembrado através de culpa.
+>
+> Atrás de vocês, sua família aguarda.
+>
+> Guerreiros, conselheiros, parentes, servidores e crianças com o mesmo nome.
+>
+> Ninguém discute se você merece estar à frente.
+>
+> Ninguém exige que prove sua força contra o próprio sangue.
+>
+> Seu irmão coloca uma mão em seu ombro.
+>
+> “Eles estão esperando.”
+>
+> Você desce os degraus.
+>
+> Quando fala, sua família escuta.
+>
+> Não por medo.
+>
+> Não por tradição vazia.
+>
+> Porque confia que você não deixará ninguém para trás.
+>
+> Quando ergue Roarshield diante deles, o escudo não é apenas uma herança.
+>
+> É o símbolo de uma família inteira, viva e unida, escolhendo seguir você.
+
+### Ao despertar
+
+> Seu braço procura o peso de Roarshield antes que você abra os olhos.
+>
+> Por um instante, você ainda sente a mão de seu irmão sobre o ombro.
+
+## Dhorak Khal — Nenhuma corrente
+
+> [!quote] Leia para Dhorak
+> Você está diante de uma grande fogueira sob um céu aberto.
+>
+> Não há grades.
+>
+> Não há arquibancadas.
+>
+> Não há ninguém decidindo quanto vale seu corpo.
+>
+> Os clãs estão reunidos ao redor do fogo. Não para assistir a um duelo. Para ouvir.
+>
+> Seu pai está entre eles.
+>
+> Vivo.
+>
+> Ele não parece desapontado. Não pergunta por que você perdeu. Não exige que prove força.
+>
+> Apenas segura seu antebraço e diz:
+>
+> “Você voltou por conta própria.”
+>
+> Atrás de você, as correntes da arena estão no chão.
+>
+> Não quebradas por outra criatura.
+>
+> Quebradas por suas mãos.
+>
+> Kael está próximo, e além dele caminham homens e mulheres que antes usavam coleiras dos D'Kazarov.
+>
+> Ninguém o chama de mercadoria.
+>
+> Quando seu povo grita seu nome, não há sangue na areia.
+
+### Ao despertar
+
+> Suas mãos estão fechadas.
+>
+> Por alguns segundos, você ainda sente metal cedendo entre os dedos.
+
+---
+
+## Oryn Fizzlestryke — escolha um dos sonhos
+
+> [!tip] Uso de mestre
+> Escolha a versão que melhor combina com o momento:
+>
+> - **O portal nunca explodiu:** toca diretamente na culpa e na vida que poderia ter continuado.
+> - **A vida entre os druidas:** oferece paz, pertencimento e uma relação saudável entre magia e natureza.
+>
+> Não use as duas na mesma noite.
+
+### Opção A — O portal nunca abriu
+
+> [!quote] Leia para Oryn
+> Você está diante do portal.
+>
+> As runas estão corretas.
+>
+> Os cálculos também.
+>
+> Ainda assim, alguma coisa dentro de você decide esperar.
+>
+> Sua mão permanece longe do último símbolo.
+>
+> Nada explode.
+>
+> Nenhuma luz rasga o espaço.
+>
+> Nenhuma força atravessa a sala.
+>
+> A névoa não encontra uma passagem.
+>
+> Atrás de você, alguém pergunta se o experimento funcionará amanhã.
+>
+> Você olha novamente para as anotações e encontra o erro — pequeno, quase elegante, escondido entre duas linhas que pareciam perfeitas.
+>
+> Você ri.
+>
+> Não de nervosismo.
+>
+> De alívio.
+>
+> Passa a noite corrigindo o projeto.
+>
+> Ao amanhecer, todos ainda estão ali.
+>
+> A oficina está inteira.
+>
+> O mundo continua exatamente onde deveria estar.
+>
+> E você possui todo o tempo necessário para tentar outra vez — com mais cuidado.
+
+#### Ao despertar
+
+> Durante alguns segundos, você se lembra com absoluta clareza de onde estava o erro.
+>
+> Quando tenta anotá-lo, percebe que aquela versão do portal nunca existiu.
+>
+> O alívio, porém, permanece.
+
+### Opção B — A clareira dos druidas
+
+> [!quote] Leia para Oryn
+> Você desperta em uma casa pequena construída entre raízes antigas.
+>
+> A janela está aberta.
+>
+> O cheiro de terra molhada entra junto com o som de água correndo.
+>
+> Do lado de fora, druidas trabalham sem pressa.
+>
+> Alguns cuidam de plantas. Outros ensinam crianças a reconhecer pegadas, constelações e os nomes secretos das árvores.
+>
+> Seu livro está aberto sobre uma mesa.
+>
+> Pequenos brotos crescem ao redor das páginas sem danificá-las.
+>
+> Magia e natureza não disputam espaço ali.
+>
+> Uma completa a outra.
+>
+> Quando você sai, alguém entrega uma caneca quente e pergunta se pretende ensinar hoje ou explorar a floresta.
+>
+> As duas opções são boas.
+>
+> Nenhuma escolha ameaça abrir um caminho para algo terrível.
+>
+> Você passa o dia conversando com animais, corrigindo mapas e ajudando jovens druidas a transformar curiosidade em cuidado.
+>
+> Ao anoitecer, todos se reúnem ao redor de uma fogueira.
+>
+> Ninguém pergunta quando você partirá.
+>
+> Aquele lugar já o considera parte dele.
+
+#### Ao despertar
+
+> Por alguns segundos, você sente o cheiro da terra depois da chuva.
+>
+> Uma folha pequena repousa sobre seu livro.
+>
+> Quando você pisca, ela não está mais ali.
+
+## Yann Vaelor — A canção que chegou ao fim
+
+> [!warning] Não antecipar o segredo
+> Este sonho não menciona fome, coração, mordidas, transformação ou natureza vampírica. Ele deve funcionar mesmo que Yann ainda não compreenda ou não tenha revelado o que aconteceu com ele.
+
+> [!quote] Leia para Yann
+> Você está sobre um pequeno palco.
+>
+> O salão está cheio, mas não apertado. Há calor vindo da lareira, copos batendo sobre as mesas e pessoas tentando acompanhar um refrão que você ensinou errado de propósito.
+>
+> Seus antigos companheiros estão ali.
+>
+> Todos eles.
+>
+> Um afina um instrumento que nunca permanece afinado. Outro conta a mesma história pela terceira vez, acrescentando detalhes diferentes a cada repetição.
+>
+> Alguém chama seu nome e exige outra música.
+>
+> Você começa a tocar.
+>
+> Ninguém interrompe.
+>
+> Nenhuma porta se abre de repente.
+>
+> Nenhum grito vem da rua.
+>
+> Nenhuma presença escondida transforma a noite em outra coisa.
+>
+> A canção chega ao último verso.
+>
+> Depois ao último acorde.
+>
+> E, quando o silêncio finalmente surge, ele existe apenas porque todos estão esperando para aplaudir.
+>
+> Seus companheiros erguem os copos.
+>
+> Um deles sorri e diz:
+>
+> “Dessa vez você terminou a história.”
+>
+> Vocês permanecem juntos até o salão esvaziar.
+>
+> Quando saem, a estrada diante de vocês é longa, iluminada e completamente comum.
+>
+> Ninguém está faltando.
+
+### Ao despertar
+
+> Por alguns segundos, você ainda escuta o aplauso.
+>
+> A melodia permanece inteira em sua memória.
+>
+> É uma música que você nunca conseguiu terminar acordado.
+
+# Narração coletiva ao despertar
+
+Caso mais de um personagem tenha comido, leia isto depois das mensagens individuais:
+
+> [!quote] Leia em voz alta
+> O descanso termina de forma diferente para alguns de vocês.
+>
+> Não porque tenham dormido mais.
+>
+> Mas porque, por algumas horas, Baróvia não conseguiu entrar nos sonhos.
+>
+> A lembrança começa a perder detalhes assim que vocês despertam.
+>
+> O conforto, porém, permanece.
+>
+> Uma pequena certeza de que, em algum lugar dentro de vocês, ainda existe algo que este lugar não conseguiu tocar.
+
+Entregue o **Dado de Sonho** aos personagens afetados.
+
+---
+
+# Investigação mágica
+
+## Detectar Magia — narração para Oryn
+
+### Ao observar as tortas
+
+> [!quote] Leia para Oryn
+> Quando sua percepção se ajusta à magia, fios suaves de luz aparecem sobre as tortas.
+>
+> Não formam runas ou selos.
+>
+> A aura se espalha pela massa como calor atravessando tecido.
+>
+> Encantamento.
+>
+> Delicado, estável e construído para despertar apenas depois que alguém dormir.
+>
+> A magia não parece atacar a mente.
+>
+> Parece convidá-la a ir para algum lugar agradável.
+
+### O que Oryn descobre
+
+Sem teste:
+
+- escola de Encantamento;
+- efeito ligado a sonhos, emoções e descanso;
+- magia deliberada e estável;
+- ativação associada ao consumo e ao próximo repouso.
+
+Não descobre:
 
 - ingredientes;
-- ossos de crianças;
-- identidade de Morgantha;
-- localização do moinho;
+- crianças;
+- moinho;
 - coven;
-- consequências completas do uso repetido.
+- natureza de Morgantha;
+- dependência futura.
 
-Morgantha não nega a magia:
+### Resposta de Morgantha
 
-> “Naturalmente são mágicas.”
+> “Naturalmente são mágicas, querido.”
 >
-> “Farinha comum não consegue oferecer uma noite sem Baróvia.”
+> “Farinha comum não consegue afastar pesadelos.”
 
-### Em Morgantha
+Ela não parece surpresa ou acuada.
 
-A aparência humana dela é tratada nesta campanha como uma transformação sobrenatural inata, não como uma magia ativa sustentada.
+## Detectar Magia em Morgantha
 
-Portanto, Detectar Magia não revela automaticamente uma aura de Transmutação ao redor dela.
+A aparência humana dela é uma transformação sobrenatural inata, não uma magia ativa sustentada.
 
-Caso Morgantha conjure uma magia ou mantenha algum efeito mágico ativo durante a cena, esse efeito pode ser detectado normalmente.
+Ela não apresenta automaticamente uma aura de Transmutação.
 
-## Arcanismo nas tortas
+Efeitos mágicos ativos utilizados por Morgantha continuam detectáveis normalmente.
 
-Oryn possui especialização em Arcanismo. Recompense uma análise direcionada.
+## Arcanismo direcionado
 
-- **CD 11:** a magia foi criada para afetar sonhos;
-- **CD 14:** o bem-estar é deliberadamente intenso, não apenas sono sem pesadelos;
-- **CD 17:** a fórmula parece feita para incentivar repetição emocional, embora isso não prove compulsão ou dependência.
+- **CD 11:** a magia foi criada para afetar sonhos.
+- **CD 14:** o conforto será anormalmente intenso e personalizado.
+- **CD 17:** a fórmula parece pensada para fazer uma pessoa desejar repetir a experiência.
 
-Um teste não revela ingredientes não mágicos.
+Mesmo com sucesso alto, Oryn não descobre ingredientes não mágicos.
 
 ## Identificar
 
 Revela:
 
-- o efeito do próximo sono;
-- o Dado de Sonho;
+- necessidade de uma porção completa;
+- efeito no próximo sono ou Transe;
+- Dado de Sonho;
 - duração do benefício;
 - escola de Encantamento.
 
 Não revela:
 
 - ingredientes;
-- origem das crianças;
 - identidade da fabricante;
-- efeitos ainda ligados a consumo repetido;
-- destino dos clientes endividados.
+- origem das crianças;
+- moinho;
+- consequências completas de consumo repetido.
 
-## [[Svetlana]] — Detectar Veneno e Doença
+## Detectar Veneno e Doença — narração para Svetlana
 
-Não encontra veneno nem doença convencional.
-
-A torta é perigosa por:
-
-- exploração;
-- ingredientes;
-- magia onírica;
-- uso repetido;
-- dependência.
-
-Ela não é tratada como um alimento envenenado.
+> [!quote] Leia para Svetlana
+> Sua magia percorre a torta.
+>
+> Você não encontra veneno.
+>
+> Não encontra doença.
+>
+> Nada ali tenta apodrecer o corpo, interromper a respiração ou contaminar o sangue.
+>
+> Seja qual for o perigo daquela comida, ele não pertence às formas que sua oração foi feita para revelar.
 
 ---
 
-# Reações de Morgantha ao grupo
+# Caso desconfiem
 
-## Alguém come
+## Perguntam onde são assadas
 
-Ela observa a reação sem comemorar.
+> “Fora da vila.”
+>
+> “Aqui as cozinhas são pequenas e os ratos são ambiciosos.”
 
-> “Durma bem esta noite.”
+Caso insistam:
 
-Passa a considerar aquela pessoa um cliente possível.
+> “Minhas filhas ajudam com o preparo.”
 
-## Todos recusam
+Ela não oferece a localização exata.
 
-Ela aceita sem insistência excessiva.
+## Perguntam os ingredientes
 
-> “Prudência também ajuda uma pessoa a continuar viva.”
+> “Farinha, manteiga, carne, frutas secas, cebola, ervas e uma receita mais antiga do que vocês.”
 
-Isso não encerra a cena nem a torna hostil.
-
-## Exigem saber onde são feitas
-
-> “Fora da vila. Aqui as cozinhas são pequenas e os ratos, ambiciosos.”
-
-Ela menciona possuir ajudantes, mas não entrega a localização precisa imediatamente.
+A resposta contém verdade suficiente para resistir a suspeitas superficiais.
 
 ## Acusam as tortas de serem perigosas
 
 > “Tudo que permite esquecer Baróvia pode se tornar perigoso quando alguém decide nunca mais acordar.”
 
-A resposta é verdadeira o suficiente para parecer honesta.
+## Todos recusam
 
-## Tentam tomar a carroça ou prender Morgantha
+> “Prudência é uma virtude rara.”
+>
+> “Guardem-na. Ela pesa menos que comida.”
 
-Ela evita combate em público.
+Morgantha permanece cordial.
 
-Prioridades:
+## Tentam apreender a carroça
+
+Morgantha chama atenção dos moradores e evita confronto aberto.
+
+Não conceda fuga automática. Caso o grupo consiga cercá-la, use a ficha do Foundry e preserve suas prioridades:
 
 1. manter a cobertura;
-2. atrair atenção dos moradores;
-3. afastar-se;
-4. escapar se necessário;
-5. revelar o mínimo possível.
-
-Não transforme a fuga em sucesso automático. Use a ficha no Foundry caso os personagens realmente consigam cercá-la.
+2. evitar combate;
+3. escapar;
+4. revelar o mínimo possível;
+5. retaliar posteriormente.
 
 ---
 
-# Moradores durante a venda
+# Caso sigam Morgantha no primeiro dia
 
-Mostre dois ou três comportamentos, não todos.
+## O percurso
 
-- alguém compra rapidamente e esconde a torta;
-- uma pessoa pede crédito;
-- um morador irritado pergunta por que ela demorou;
-- uma criança observa o alimento pela janela;
-- um adulto fecha a porta ao perceber que os personagens estão olhando;
-- alguém defende Morgantha como “a única pessoa que ainda traz algum conforto”.
+Morgantha:
 
-Os clientes não são estúpidos.
+- vende para outras casas;
+- oferece tortas a crédito;
+- anota nomes;
+- escuta desculpas sem julgar;
+- sabe exatamente quais portas evitar e quais irão abrir.
 
-Eles estão:
+## A casa dos Jarov — narração
 
-- traumatizados;
-- sem dormir;
-- enlutados;
-- famintos por lembranças agradáveis;
-- escolhendo algumas horas de fuga.
-
----
-
-# Caso o grupo siga Morgantha no primeiro dia
-
-Seguir Morgantha deve produzir informação real.
-
-Ela visita outras casas, vende a crédito e registra nomes.
-
-Depois para diante da casa da família Jarov.
-
-## O que o grupo presencia
-
-- a porta abre apenas parcialmente;
-- os pais estão nervosos;
-- Morgantha pergunta pelo pagamento;
-- eles pedem mais um dia;
-- uma criança, [[Lucian Jarov]], observa atrás de um adulto;
-- Morgantha aceita a espera.
-
+> [!quote] Leia em voz alta
+> A carroça para diante de uma casa pequena.
+>
+> Morgantha não toca o sino.
+>
+> Ela bate três vezes.
+>
+> A porta abre apenas o suficiente para revelar o rosto cansado de um homem. Uma mulher aparece atrás dele. Entre os dois, um menino observa a velha.
+>
+> Ninguém sorri.
+>
+> Morgantha consulta uma pequena anotação presa à lateral da carroça.
+>
+> “O pagamento?”
+>
+> O homem pede mais tempo.
+>
+> A velha não discute.
+>
+> Apenas olha para o menino por um instante.
+>
 > “Amanhã.”
 >
 > “Amanhã venho buscar o que foi combinado.”
 
-Ela olha para Lucian apenas por um instante.
+Ela segue caminho.
 
-Não afirma diante do grupo que levará a criança.
+## O que os pais revelam
 
-## O que os pais sabem
-
-Caso sejam abordados depois:
+Caso sejam abordados:
 
 - compraram tortas repetidamente;
-- não possuem mais dinheiro;
-- prometeram uma forma alternativa de pagamento;
-- sabem que Morgantha pretende levar Lucian;
-- tentam convencer a si mesmos de que será apenas trabalho ou aprendizado;
-- sentem vergonha e medo.
+- devem **5 PO**;
+- não possuem o dinheiro;
+- aceitaram uma alternativa de pagamento;
+- Morgantha pretende levar [[Lucian Jarov]];
+- tentam acreditar que será trabalho ou aprendizagem;
+- têm vergonha e medo.
 
-## A dívida
+Pagar as 5 PO impede a cobrança imediata, mas não resolve:
 
-Use **5 PO** como valor atual.
-
-O grupo pode pagar antes da cobrança.
-
-Morgantha aceita o dinheiro porque preservar a aparência e o acesso à vila é mais valioso que insistir naquele momento.
-
-Isso salva Lucian da cobrança imediata, mas não resolve:
-
-- a dependência dos pais;
+- a dependência;
 - outras famílias;
-- o moinho;
-- Morgantha.
-
-## Seguir até fora da vila
-
-Não bloqueie uma investigação bem-sucedida.
-
-Caso consigam acompanhá-la sem serem percebidos:
-
-- ela deixa a vila;
-- segue uma rota compatível com a região do moinho;
-- o grupo pode obter uma pista concreta.
-
-Caso perceba que está sendo seguida, Morgantha pode parar e falar diretamente:
-
-> “Vocês poderiam simplesmente perguntar para onde vou.”
-
-Ela evita conduzi-los de maneira óbvia até seu covil, mas não ganha teleporte narrativo apenas para preservar o mistério.
+- Morgantha;
+- o moinho.
 
 ---
 
-# Segundo dia — A cobrança
+# Segundo dia — a cobrança
 
-Use a cobrança apenas se:
+## Gatilhos
 
-- o grupo permanecer na vila;
-- procurar a família;
-- vigiar Morgantha;
-- estiver circulando pelas ruas no momento apropriado.
+Use a cena caso:
 
-## Entrada da cena
+- o grupo permaneça na vila;
+- procure os Jarov;
+- vigie Morgantha;
+- circule pelas ruas no momento apropriado.
 
-> [!quote] A cobrança
-> A voz de Morgantha continua baixa e educada.
+Caso partam antes, Morgantha leva Lucian fora de cena.
+
+## Narração
+
+> [!quote] Leia em voz alta
+> A voz de Morgantha continua baixa.
 >
 > Isso torna a discussão pior.
 >
-> Um homem bloqueia a porta com o próprio corpo. Atrás dele, uma mulher segura um menino pelos ombros.
+> O pai de Lucian bloqueia a porta com o próprio corpo. A mãe segura o menino pelos ombros.
 >
-> A velha não ergue a voz.
+> Morgantha permanece diante deles com as mãos apoiadas na carroça.
+>
+> Não há raiva em seu rosto.
+>
+> Não há pressa.
 >
 > “O prazo terminou.”
 >
-> Ela estende a mão.
+> Ela estende uma das mãos.
 >
 > “Vim buscar o que foi combinado.”
 
-Morgantha apresenta Lucian como:
+## Como Morgantha apresenta o acordo
+
+Ela chama Lucian de:
 
 - ajudante;
 - aprendiz;
 - pagamento temporário;
 - responsabilidade assumida pelos pais.
 
-Ela nunca diz na rua o que realmente acontecerá.
+Ela nunca revela na rua o destino real da criança.
 
----
+## Intervenções
 
-# Possíveis intervenções
+### Pagam a dívida
 
-## Pagam a dívida
+Morgantha aceita 5 PO.
 
-Morgantha aceita as 5 PO.
+> “Vejam só.”
+>
+> “Às vezes a generosidade chega antes da cobrança.”
 
-> “Vejam só. Às vezes a generosidade realmente chega antes da cobrança.”
+### Exigem mais tempo
 
-Lucian permanece com a família.
+Ela pode conceder prazo curto se isso proteger sua cobertura.
 
-Morgantha registra o interesse dos personagens.
-
-## Negociam mais tempo
-
-Ela pode conceder um último prazo se isso proteger sua cobertura.
-
-O novo prazo deve ser curto.
-
-## Ameaçam Morgantha
-
-Ela mede o grupo e pode abandonar a cobrança naquele dia.
-
-Não demonstra medo comum.
+### Ameaçam Morgantha
 
 > “Então vocês pretendem assumir todas as dívidas desta vila?”
 
-## Atacam
+Ela pode recuar naquele dia e passar a planejar.
 
-Ela prioriza escapar e preservar o segredo.
+### Atacam
 
-Não precisa lutar até a morte.
+Ela prioriza escapar.
 
-Caso revele natureza sobrenatural, a campanha salta imediatamente para uma relação hostil com o moinho.
+Caso revele sua natureza, o arco do moinho começa com hostilidade aberta.
 
-## Ignoram
+### Ignoram
 
-Lucian é levado.
-
-Ele poderá ser encontrado posteriormente no [[Velho Moinho de Ossos]].
-
-## O grupo deixa a vila antes
-
-A cobrança acontece sem eles.
-
-Lucian desaparece, e moradores podem dizer depois:
-
-> “A velha veio buscar o pagamento.”
+Lucian é levado e poderá ser encontrado no [[Velho Moinho de Ossos]].
 
 ---
 
-# O que esta cena deve produzir
+# Ligação com os Durst
 
-Ao final da primeira aparição, os jogadores podem pensar:
+> [!info] O moinho da escritura
+> O [[Velho Moinho de Ossos]] é o antigo moinho da família Durst citado nos documentos encontrados em [[Casa da Morte]].
+>
+> A escritura demonstra a propriedade histórica, mas não transforma automaticamente os personagens em proprietários legais.
+>
+> Depois da queda dos Durst, o moinho permaneceu abandonado até ser ocupado por Morgantha e suas filhas.
 
-> “Essa senhora é estranha, mas as tortas realmente funcionam.”
+## Caso apresentem a escritura a Morgantha
 
-Ao final da investigação ou cobrança:
+> “Que curioso.”
+>
+> “E qual de vocês é Rosavalda Durst?”
 
-> “Ela não vende apenas comida. Está prendendo famílias por meio das dívidas.”
+Ou:
 
-A revelação completa deve permanecer para o [[Velho Moinho de Ossos]]:
+> “Os Durst deixaram muitas coisas apodrecerem.”
+>
+> “A casa, os filhos, a reputação…”
+>
+> “O moinho apenas encontrou novos ocupantes.”
 
-- natureza de Morgantha;
-- filhas;
-- coven;
-- crianças aprisionadas;
-- ingredientes;
-- escala do horror.
+Morgantha não abandona o local por causa de um documento.
+
+A escritura funciona como:
+
+- ligação entre a Casa da Morte e o moinho;
+- motivo para visitar a propriedade;
+- argumento para investigar;
+- possível fonte de conflito com Morgantha.
+
+---
+
+# Revelação futura no moinho
+
+Quando descobrirem a receita, lembre ao grupo:
+
+- quem aceitou a porção gratuita;
+- quem dividiu uma torta;
+- quem descreveu o sonho como maravilhoso;
+- quem utilizou o Dado de Sonho;
+- quem comprou tortas adicionais.
+
+O ingrediente está misturado à massa.
+
+Não existe porção “limpa”.
+
+O choque deve surgir da memória:
+
+> “Nós dividimos aquilo.”
+
+Não apenas:
+
+> “Alguém comeu uma torta.”
 
 ---
 
@@ -555,45 +1034,47 @@ A revelação completa deve permanecer para o [[Velho Moinho de Ossos]]:
 ## Estado inicial
 
 - **Cobertura de Morgantha:** intacta;
-- **tortas oferecidas ao grupo:** não;
-- **família Jarov:** endividada;
+- **grupo encontrou Morgantha:** não;
+- **amostra oferecida:** não;
+- **família Jarov:** deve 5 PO;
 - **Lucian:** ainda com os pais;
-- **cobrança:** marcada para o segundo dia;
-- **moinho:** ainda não relacionado diretamente;
-- **Morgantha considera o grupo:** clientes e curiosidades, não inimigos.
+- **cobrança:** prevista para o segundo dia;
+- **moinho:** ainda não relacionado diretamente às tortas;
+- **escritura Durst:** pode estar com o grupo;
+- **Morgantha considera o grupo:** clientes em potencial.
 
-## Atualizar durante a campanha
+## Controle de consumo
 
-- [ ] Morgantha apareceu no primeiro dia.
+| Personagem | Porções | Primeiro benefício | Sonho narrado | Dado recebido | Dado usado | Observações |
+|---|---:|---|---|---|---|---|
+| Svetlana | 0 | Não | Não | Não | Não | Transe |
+| Kael Varzhen | 0 | Não | Não | Não | Não |  |
+| Lionel Roarshield | 0 | Não | Não | Não | Não |  |
+| Dhorak Khal | 0 | Não | Não | Não | Não |  |
+| Oryn Fizzlestryke | 0 | Não | Não | Não | Não |  |
+| Yann Vaelor | 0 | Não | Não | Não | Não |  |
+
+## Checklist
+
+- [ ] Morgantha apareceu.
 - [ ] A imagem foi mostrada.
-- [ ] Ofereceu a primeira torta gratuitamente.
-- [ ] Alguém comprou tortas.
-- [ ] Alguém comeu uma torta.
+- [ ] A carroça foi descrita.
+- [ ] A primeira porção foi oferecida.
+- [ ] Uma torta foi comprada.
+- [ ] Uma torta foi dividida.
+- [ ] Alguém comeu.
+- [ ] O gosto foi narrado.
 - [ ] Oryn usou Detectar Magia.
-- [ ] Oryn analisou a aura.
 - [ ] Svetlana usou Detectar Veneno e Doença.
 - [ ] O grupo seguiu Morgantha.
-- [ ] Descobriu a dívida da família Jarov.
-- [ ] Conversou com os pais.
+- [ ] Descobriu a dívida dos Jarov.
 - [ ] Pagou a dívida.
-- [ ] Presenciou a cobrança no segundo dia.
-- [ ] Impediu Morgantha de levar Lucian.
+- [ ] Presenciou a cobrança.
+- [ ] Impediu que Lucian fosse levado.
 - [ ] Morgantha levou Lucian.
-- [ ] Morgantha foi atacada.
-- [ ] Morgantha revelou natureza sobrenatural.
-- [ ] O grupo descobriu a direção do moinho.
-- [ ] Morgantha passou a considerar o grupo inimigo.
-
-## Consumo das tortas
-
-| Personagem | Quantidade | Primeiro sonho | Dado usado | Observações |
-|---|---:|---|---|---|
-| Svetlana | 0 |  |  |  |
-| Kael | 0 |  |  |  |
-| Dhorak | 0 |  |  |  |
-| Lionel | 0 |  |  |  |
-| Yann | 0 |  |  |  |
-| Oryn | 0 |  |  |  |
+- [ ] O moinho foi relacionado aos Durst.
+- [ ] O grupo descobriu a receita.
+- [ ] A reação dos personagens à verdade foi registrada.
 
 ## Registro de mudanças permanentes
 

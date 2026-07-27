@@ -2,14 +2,17 @@
 tipo: personagem_jogador
 personagem: Dhorak Khal
 jogador: Salguod
+conteudo: mestre
 tags:
   - pc
   - personagem
+  - mirabar
+  - khal-draken
 ---
 
 # Dhorak Khal
 
-**Resumo rápido:** Goliath Barbarian de Salguod; força, sobrevivência e sistemas cruéis que transformam pessoas em propriedade.
+**Resumo rápido:** Goliath Bárbaro Berserker; herdeiro traído da Tribo Khal Draken, vendido aos D’Kazarov e libertado por uma fuga aberta pelo Vampiro da Sombra.
 ^resumo
 
 ## Resumo
@@ -19,13 +22,12 @@ tags:
 | Jogador | Salguod |
 | Ancestralidade | Goliath |
 | Background | Gladiador |
-| Classe | Barbarian 1 |
-| Nível | 1 |
-| CA | 14 |
-| PV Máximo | 14 |
-| Iniciativa | 2 |
-| Deslocamento | 35 ft |
-| Foundry Actor | `A vincular` |
+| Classe | Barbarian 3 — Path of the Berserker |
+| Nível | 3 |
+| PV Máximo | 32 |
+| Iniciativa | +2 |
+| Deslocamento | 10.5 m / 35 ft |
+| Foundry Actor | `Actor.1Ncp72ox4wQmTTdm` |
 
 ## Atributos
 
@@ -33,44 +35,83 @@ tags:
 |---:|---:|---:|---:|---:|---:|
 | 17 | 14 | 14 | 8 | 10 | 12 |
 
-## Idiomas, sentidos e resistências
+## Recursos importantes
 
-- **Sentidos:** —
-- **Idiomas:** Common, Giant
-- **Resistências:** —
+- **Conjuração principal:** nenhuma.
+- **Stone's Endurance:** máximo 2; recarga long_rest.
+- **Savage Attacker:** máximo 1; recarga turn.
+- **Rage:** máximo 3; recarga short_rest (1 uso), long_rest (todos).
 
-## Recursos
+## Tribo Khal Draken
 
-### Conjuração
+A Tribo Khal Draken nasceu da união recente de vários clãs bárbaros da região de [[Mirabar]].
 
-- Sem conjuração principal registrada.
+A união é:
 
-### Recursos de classe/ancestralidade
+- poderosa;
+- respeitada;
+- politicamente relevante;
+- recente;
+- vulnerável a disputas internas.
 
-- Rage: 2 usos / recarga long
-- Stone's Endurance: 2 usos / recarga long
+Com a morte do pai de Dhorak, o caminho natural era que ele assumisse por mérito e respeito.
 
-## Features importantes
+## O duelo
 
-- Rage
-- Unarmored Defense
-- Weapon Mastery
-- Savage Attacker
-- Giant Ancestry
-- Powerful Build
-- Stone's Endurance (Stone Giant)
+Um primo mais fraco apresentou desafio.
 
-## Ganchos pessoais em Baróvia
+Ele entrou na luta com confiança incompatível com suas chances.
 
-- Cela, grade, arena e corpo traído.
-- Força usada contra sistemas cruéis.
-- Cheiro metálico e frio como eco da criatura.
+Durante o combate, Dhorak sentiu:
+
+- força sem resposta;
+- reflexos atrasados;
+- falta de fôlego;
+- o próprio corpo traindo-o.
+
+Dhorak perdeu.
+
+Não sabe se foi:
+
+- veneno;
+- maldição;
+- ritual;
+- drenagem;
+- outra manipulação.
+
+Se tivesse vencido, teria poupado o primo.
+
+Derrotado, foi condenado e vendido aos D’Kazarov.
+
+## A arena
+
+Na arena, Dhorak deixou de ser herdeiro e virou mercadoria.
+
+Prisioneiros começaram a desaparecer. Um amigo foi morto pela criatura que rondava o lugar.
+
+[[Kael Varzhen]] procurou Dhorak como testemunha.
+
+A relação entre os dois se transformou em amizade.
+
+Quando a criatura atacou a cela, Kael chegou a tempo. A presença espalhou escuridão, fugiu e rompeu as proteções da arena.
+
+Dhorak decidiu seguir a criatura com Kael.
+
+As Brumas transformaram a perseguição em travessia.
 
 ## Objetivos
 
 - Descobrir o que causou a fraqueza no duelo e quem interferiu no seu corpo.
 - Entender o que é a criatura da escuridão e impedir novos desaparecimentos.
 - Derrubar a lógica da arena e libertar quem ainda está preso aos D'Kazarov.
+
+## Ganchos pessoais
+
+- Sinais de uma força externa no duelo: veneno, maldição, ritual, ou manipulação sobrenatural.
+- Rumores de prisioneiros sumindo em lugares diferentes, com o mesmo padrão: fraqueza, frio, cheiro metálico.
+- O primo agora governa com medo e crueldade, sustentado por algo que não parece apenas político.
+- A crise de Mirabar pode ter oferecido cobertura política ou financeira para a traição contra Dhorak.
+- A Tribo Khal Draken pode se fragmentar ou ser usada por uma das forças que disputam a cidade.
 
 ## Segredos
 
@@ -92,13 +133,32 @@ tags:
 - Promessa a Kael: não abandonar a investigação e compartilhar qualquer pista nova.
 - Voto pessoal: se tiver chance, vai quebrar o ciclo da arena e tirar outros da coleira dos D'Kazarov.
 
-## Como usar na Casa da Morte
+## Como usar em Baróvia
 
-> [!tip] Gancho rápido
-> Use uma imagem, som ou objeto da casa para tocar um medo/ferida do personagem. Não explique. Deixe o jogador ligar os pontos.
+- sistemas que transformam pessoas em propriedade;
+- líderes fracos sustentados por força externa;
+- provas de liderança que não dependam apenas de vencer duelo;
+- pessoas presas que Dhorak poderia libertar;
+- o Vampiro da Sombra tentando reivindicar a fuga como presente;
+- ecos da Khal Draken em tribos e clãs barovianos.
+
+## Features estáticas
+
+- Giant Ancestry
+- Powerful Build
+- Stone's Endurance
+- Rage
+- Unarmored Defense
+- Weapon Mastery
+- Danger Sense
+- Reckless Attack
+- Primal Knowledge
+- Frenzy
 
 ## Log pessoal
 
-- [ ] Primeira reação à névoa.
-- [ ] Primeira escolha moral na Casa da Morte.
-- [ ] Primeira marca de Baróvia.
+- [ ] Descobre a primeira pista sobre a sabotagem do duelo.
+- [ ] O Vampiro da Sombra afirma ter libertado Dhorak.
+- [ ] Encontra informação sobre os D’Kazarov.
+- [ ] Recebe notícia da Tribo Khal Draken.
+- [ ] Decide o que significa liderar sem repetir a regra “quem manda é a força”.
