@@ -18,10 +18,10 @@ tags:
 
 ## Última sessão
 
-> [!summary] Sessão 06 — A Estrada sem Sol
-> Vocês escaparam da **Casa da Morte**, mas a casa arrancou quase todos os equipamentos antes de desaparecer na névoa. Depois de atravessarem os portões de **Baróvia**, encontraram uma carroça destruída, um animal de carga morto e um baú lacrado destinado a **B. Cantemir**, dono do empório da vila. O primeiro acampamento trouxe descanso, novas suspeitas sobre **Yann** e uma prece sem resposta clara para **Vet**. A sessão terminou na entrada da **Vila de Baróvia**, sob a presença distante do **Castelo Sobre as Montanhas**.
+> [!summary] Sessão 08 — Agora Eu Não Sinto Mais
+> Na igreja da **Vila de Baróvia**, o grupo precisou decidir o destino de **Doru**, filho amaldiçoado de **Donavich**, preso havia anos por uma fome de sangue que começou após seu encontro com **Strahd**. Sem uma cura conhecida, **Donavich** aceitou que manter o filho acorrentado e faminto já não era misericórdia. **Kael** e **Oryn** encerraram seu sofrimento, enquanto **Lionel** gravou o nome de **Doru** no verso quebrado do **Roarshield**. Mais tarde, uma velha chamada **Morganta** apareceu pelas ruas vendendo **Tortas dos Sonhos** encantadas — e **Dhorak** descobriu que, pelo menos durante uma noite, elas cumprem exatamente o que prometem.
 >
-> **Ler recap:** [[Sessao 06 - Recap dos Jogadores|Sessão 06 — A Estrada sem Sol]]
+> **Ler recap:** [[Sessao 08 - Recap dos Jogadores|Sessão 08 — Agora Eu Não Sinto Mais]]
 
 ---
 
@@ -38,6 +38,8 @@ tags:
 
 ## Diário da campanha
 
+- [[Sessao 08 - Recap dos Jogadores|Sessão 08 — Agora Eu Não Sinto Mais]]
+- [[Sessao 07 - Recap dos Jogadores|Sessão 07 — Pai, Estou com Fome]]
 - [[Sessao 06 - Recap dos Jogadores|Sessão 06 — A Estrada sem Sol]]
 - [[Sessao 05 - Recap dos Jogadores|Sessão 05 — Um Deve Morrer]]
 - [[Sessao 04 - Recap dos Jogadores|Sessão 04 — A Casa Ouviu]]

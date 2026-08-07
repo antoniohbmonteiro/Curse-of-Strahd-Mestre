@@ -96,6 +96,49 @@ Não encha a cena com uma multidão. A ausência dos moradores deve ser percept�
 
 ---
 
+# Da vigília ao funeral
+
+Kolyan permanece velado dentro da [[Igreja da Vila de Baróvia]] durante a noite.
+
+Donavich explica que o rito completo exige que o sepultamento aconteça na primeira claridade:
+
+> “Durante a noite, nós o preparamos.”
+>
+> “Quando a manhã chegar, mesmo que Baróvia tente escondê-la, nós o entregaremos à terra.”
+
+Durante a madrugada:
+
+- Kolyan permanece diante do altar, coberto e cercado por duas velas;
+- Ireena pode permanecer em vigília junto ao pai;
+- Ismark identifica e começa a preparar a sepultura da família;
+- Donavich organiza as vestes, o símbolo e as palavras do rito;
+- Svetlana pode realizar uma bênção ou ajudar na vigília;
+- o grupo pode permanecer na nave da igreja;
+- a [[Marcha dos Cem]] acontece à meia-noite caso seja testemunhada.
+
+Quando a escuridão começa a perder força, o sino é tocado uma única vez e o corpo é levado da igreja ao cemitério em um cortejo curto.
+
+## Narração — saída para o amanhecer
+
+> [!quote]
+> A noite não termina de uma vez.
+>
+> Primeiro, o negro das janelas se torna cinza. Depois, as velas junto ao corpo de Kolyan parecem um pouco menos necessárias.
+>
+> Donavich se levanta, ajeita as vestes e toca o sino uma única vez.
+>
+> O som atravessa a igreja, a vila silenciosa e o cemitério coberto de névoa.
+>
+> “É hora.”
+>
+> Ismark toma uma das alças. Ireena ocupa a outra sem esperar que alguém tente afastá-la.
+>
+> As portas da igreja se abrem para uma manhã sem sol, mas ainda assim mais clara que a noite.
+>
+> O cortejo começa.
+
+---
+
 # Funeral de Kolyan
 
 ## Objetivo emocional
@@ -112,13 +155,16 @@ Ele deve permitir que:
 
 ## Ordem sugerida
 
-1. chegada e preparação da sepultura;
-2. silêncio da família;
-3. rito conduzido por Donavich, Svetlana ou ambos;
-4. palavras de Ismark;
-5. palavras ou gesto de Ireena;
-6. fechamento da sepultura;
-7. decisão sobre a saída da vila.
+1. vigília noturna na [[Igreja da Vila de Baróvia]];
+2. [[Marcha dos Cem]] à meia-noite, caso o grupo permaneça;
+3. preparação final da sepultura;
+4. sino e cortejo ao primeiro clarão;
+5. silêncio da família;
+6. rito conduzido por Donavich, Svetlana ou ambos;
+7. palavras de Ismark;
+8. palavras ou gesto de Ireena;
+9. fechamento da sepultura;
+10. pedido de escolta e decisão sobre a saída da vila.
 
 Não obrigue os jogadores a fazer discursos. Um gesto, uma oração ou alguns segundos de silêncio já funcionam.
 
@@ -628,7 +674,7 @@ A transição recomendada é:
 
 ## Estado inicial
 
-- **Kolyan:** ainda não sepultado;
+- **Kolyan:** velado na igreja até o amanhecer, ainda não sepultado;
 - **Marcha:** acontece todas as noites;
 - **Conhecimento do grupo:** nenhum;
 - **Donavich:** conhece a lenda e fragmentos históricos;
@@ -637,7 +683,9 @@ A transição recomendada é:
 
 ## Atualizar durante a campanha
 
+- [ ] O grupo permaneceu na igreja durante a vigília.
 - [ ] O grupo entrou no cemitério.
+- [ ] O cortejo saiu ao primeiro clarão.
 - [ ] Kolyan foi sepultado.
 - [ ] Donavich conduziu o rito.
 - [ ] Svetlana conduziu o rito.

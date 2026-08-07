@@ -74,15 +74,18 @@ A igreja ainda oferece:
 
 # Fluxo principal
 
-1. **Chegada à igreja:** prédio deteriorado e sinais de abandono.
-2. **Donavich:** encontrado rezando, exausto e defensivo.
-3. **Primeiro grito:** Doru chama pelo pai e pede sangue.
-4. **Conversa:** Donavich tenta esconder ou suavizar a verdade.
+1. **Chegada com Kolyan:** Donavich recebe o corpo e explica que o rito completo ocorrerá ao amanhecer.
+2. **Preparação do corpo:** Kolyan é limpo, vestido, coberto e colocado diante do altar para a vigília.
+3. **Reunir o grupo:** Yann, Dhorak e Lionel precisam chegar à igreja.
+4. **Primeiro grito:** Doru chama pelo pai e pede sangue.
 5. **Reações condicionais:** Vet, Yann, ambos ou nenhum.
 6. **Revelação:** Doru é filho de Donavich e cria de Strahd.
-7. **Decisão:** investigar, adiar, tentar curar, manter preso, matar ou libertar.
-8. **Funeral:** preparar Kolyan ou seguir até o cemitério.
-9. **Consequências:** estado de Donavich, Doru e confiança da vila.
+7. **Decisão:** examinar, alimentar, procurar cura, manter preso, matar ou libertar.
+8. **Vigília:** o grupo pode permanecer e descansar na nave da igreja.
+9. **Meia-noite:** a [[Marcha dos Cem]] pode ser testemunhada.
+10. **Fuga condicional:** Doru só consegue romper a contenção caso tenha bebido sangue humano.
+11. **Amanhecer:** cortejo e funeral no [[Cemitério da Vila de Baróvia]].
+12. **Consequências:** estado de Donavich, Doru, Ireena, Ismark e confiança da vila.
 
 ---
 
@@ -176,6 +179,79 @@ Donavich tenta retomar o controle.
 > “Coloquem-no diante do altar. O burgomestre terá seu rito.”
 
 Ele evita olhar para a passagem do subsolo.
+
+## O rito completo ocorre ao amanhecer
+
+Donavich não pretende realizar um sepultamento apressado durante a noite.
+
+> “Prepararei o corpo esta noite. Quando a primeira claridade tocar estas janelas, nós o entregaremos à terra.”
+>
+> “Kolyan serviu esta vila durante a longa noite. Não será enterrado às escondidas, como se sua vida fosse motivo de vergonha.”
+
+O corpo permanece velado diante do altar até o amanhecer.
+
+## Narração — preparando o corpo de Kolyan
+
+> [!quote] Leia em voz alta
+> Donavich afasta um dos bancos e coloca diante do altar uma mesa baixa de madeira, marcada por anos de cera e orações.
+>
+> Sobre ela, ele dispõe uma bacia de água, panos limpos, um pequeno frasco de óleo e uma peça de tecido escuro grande o bastante para cobrir o corpo.
+>
+> Quando o lençol é retirado, o sacerdote permanece imóvel por alguns segundos. A culpa em seu rosto não desaparece quando ele começa a trabalhar.
+>
+> Ismark ajuda a erguer o pai enquanto Donavich limpa a lama, o sangue seco e as marcas deixadas pelos últimos dias. Ireena segura a cabeça de Kolyan com cuidado e ajeita seus cabelos antes que o corpo seja vestido novamente.
+>
+> Os dedos do morto são unidos sobre o peito. Donavich passa o óleo sobre sua testa e traça, com o polegar, a forma simples de um sol nascente.
+>
+> Depois, ele acende duas velas: uma junto à cabeça, outra junto aos pés.
+>
+> O tecido funerário cobre Kolyan até os ombros.
+>
+> Por alguns instantes, a igreja fica em silêncio.
+>
+> Então uma corrente se arrasta sob o piso.
+>
+> “Pai…”
+>
+> Donavich fecha os olhos, mas não interrompe o rito.
+>
+> “Esta noite, ele será velado. Ao amanhecer, receberá todas as palavras que lhe são devidas.”
+
+## Participação dos personagens
+
+- **Ireena** permanece junto à cabeça do pai e ajuda a ajeitar suas roupas.
+- **Ismark** auxilia no peso e nas tarefas práticas, evitando falar sobre o próprio luto.
+- **Svetlana** pode lavar as mãos do morto, realizar uma bênção ou usar *Descanso Tranquilo* sem teste.
+- Outros personagens podem carregar água, afastar bancos, acender velas ou permanecer em silêncio.
+- Não peça testes para atos respeitosos e apropriados.
+
+---
+
+# Velório até o amanhecer
+
+Kolyan permanece diante do altar durante toda a noite.
+
+Donavich oferece a nave da igreja como abrigo:
+
+> “Não tenho camas, comida quente ou conforto. Mas estas paredes ainda são consagradas.”
+>
+> “Afastem os bancos. Descansem, se conseguirem.”
+
+## Permanecer na igreja
+
+O grupo pode usar seus cobertores e sacos de dormir entre os bancos ou junto às paredes.
+
+A igreja oferece:
+
+- abrigo contra chuva, vento e frio;
+- espaço protegido para Ireena e Ismark;
+- acesso ao altar e ao corpo de Kolyan;
+- proximidade com Donavich e Doru;
+- condições suficientes para um Descanso Longo.
+
+Os gritos de Doru tornam o descanso desconfortável, mas não o impedem automaticamente.
+
+Caso Doru tenha recebido sangue humano, a vigília e a [[Marcha dos Cem]] podem criar a distração necessária para uma tentativa de fuga.
 
 ---
 
@@ -588,6 +664,41 @@ Ele aceita parte da culpa:
 
 ---
 
+# Contenção de Doru
+
+O porão possui duas barreiras diferentes.
+
+## Porta da escada
+
+- uma porta pesada e reforçada fecha o acesso ao subsolo;
+- a porta é trancada por fora;
+- uma pequena abertura permite observar e conversar;
+- móveis e tábuas podem reforçar a passagem;
+- Doru não alcança a porta enquanto permanece preso às correntes.
+
+## Correntes
+
+- uma algema pesada prende um dos pulsos;
+- uma segunda corrente envolve a cintura ou um tornozelo;
+- ambas estão ligadas a um anel de ferro cravado na parede;
+- a pedra ao redor do anel está rachada;
+- Donavich percebeu a rachadura, mas Doru nunca teve força suficiente para explorá-la.
+
+> [!important] Regra central da cena
+> **Sem beber sangue humano, Doru está fraco demais para romper a parede, escapar das algemas ou forçar a porta.**
+>
+> Ele pode ameaçar, implorar e manipular, mas não consegue fugir sozinho.
+
+## O que percebem
+
+**Sem teste:** Doru está extremamente debilitado e suas tentativas de puxar a corrente não produzem resultado.
+
+**Investigação CD 12:** a pedra ao redor do anel está rachada, mas seria necessário recuperar muita força para arrancá-lo.
+
+**Medicina ou Intuição CD 13:** a fraqueza não é encenação; a fome realmente domina seu corpo.
+
+---
+
 # Examinar Doru
 
 Donavich não abre completamente a contenção de imediato.
@@ -718,21 +829,81 @@ Se escapar:
 
 Sangue pode acalmá-lo temporariamente, mas não curá-lo.
 
-Isso cria um problema moral e prático:
+Doru começa pedindo pouco:
 
-- sangue de animal oferece pouco alívio;
-- sangue humano é muito mais eficaz;
-- Donavich pode aceitar qualquer esperança;
-- Doru passa a negociar por novas doses;
-- Yann pode ser pressionado a explicar como administra a própria fome.
+> “Uma taça.”
+>
+> “Um corte pequeno.”
+>
+> “Eu não preciso matar ninguém.”
+>
+> “Depois eu consigo pensar.”
 
 Doru para Yann:
 
 > “Diga a eles que não precisa matar.”
-
+>
 > “Diga quanto basta.”
 
 Não obrigue Yann a conhecer ou revelar uma solução que o jogador não definiu.
+
+### Sangue de animal
+
+Produz alívio pequeno e breve.
+
+- Doru consegue organizar melhor algumas frases;
+- a fome continua evidente;
+- ele não recupera força suficiente para escapar;
+- ele continua pedindo sangue humano;
+- suas correntes permanecem seguras.
+
+### Sangue humano
+
+Restaura temporariamente a força vampírica de Doru.
+
+- sua voz fica mais firme;
+- seus movimentos deixam de parecer fracos;
+- a regeneração volta a reparar ferimentos;
+- ele passa a conseguir romper o próprio corpo para sair da algema;
+- ele pode arrancar o anel da parede rachada;
+- use a ficha normal de **Cria Vampírica** caso o confronto comece.
+
+A melhora não precisa parecer ameaçadora imediatamente.
+
+> [!quote] Depois de beber
+> Doru bebe devagar no início.
+>
+> Então segura o recipiente com as duas mãos e termina tudo de uma vez.
+>
+> Por alguns segundos, nada acontece.
+>
+> Depois, seus ombros se endireitam. O tremor desaparece de seus dedos. Quando ergue o rosto, a voz está mais firme.
+>
+> “Obrigado.”
+>
+> Ele olha para o recipiente vazio.
+>
+> “Agora eu consigo pensar.”
+
+O sangue humano concede a Doru força suficiente para uma tentativa de fuga durante a mesma noite. Não o obriga a tentar imediatamente.
+
+### O preço da lucidez
+
+Depois de beber sangue humano, Doru pode conversar com clareza sobre:
+
+- a rebelião;
+- o Castelo Ravenloft;
+- Strahd;
+- sua transformação;
+- a culpa que sente pelo pai.
+
+A lucidez é verdadeira, mas também lhe permite observar:
+
+- quem possui a chave;
+- quem está próximo da porta;
+- onde Vet está posicionada;
+- qual rota oferece melhor fuga;
+- quem pode fornecer mais sangue.
 
 ---
 
@@ -750,10 +921,14 @@ Isso pode se tornar missão futura sem prometer que a cura existe.
 
 # Abrir a contenção
 
-> [!danger] Encontro perigoso
-> Use a ficha de **Cria Vampírica** no Foundry.
+> [!danger] Encontro condicional
+> Doru não é um combate obrigatório.
 >
-> Doru não é um combate obrigatório e não luta como um soldado disciplinado. Ele está faminto, desesperado e procura uma oportunidade de se alimentar ou fugir.
+> **Faminto e sem sangue humano:** está fraco demais para escapar e não utiliza toda a capacidade da ficha.
+>
+> **Depois de beber sangue humano:** recupera força e regeneração; use normalmente a ficha de **Cria Vampírica** no Foundry.
+
+Doru não luta como um soldado disciplinado. Ele procura sangue, uma abertura e uma rota de fuga.
 
 ## Antes de abrir
 
@@ -778,28 +953,111 @@ O grupo pode:
 
 ## Comportamento em combate
 
-- tenta agarrar e morder alguém vulnerável;
-- prioriza fuga após conseguir se alimentar;
+### Doru faminto
+
+- mal consegue sustentar o próprio peso;
+- tenta agarrar apenas quem se aproxima demais;
+- não rompe as correntes;
+- não força a porta;
+- pode ser contido novamente sem uma fuga automática;
+- continua perigoso para uma pessoa isolada ao alcance da mordida.
+
+### Doru após beber sangue humano
+
+- tenta esconder por alguns minutos quanto recuperou;
+- agarra e morde alguém vulnerável caso precise de mais força;
+- prioriza fuga em vez de lutar até a destruição;
 - hesita brevemente diante de Yann, por reconhecimento e curiosidade;
 - reage violentamente à luz de Vet;
-- não luta até a destruição se houver rota de fuga;
+- usa paredes e teto para evitar a linha de frente;
 - Donavich implora para que parem.
+
+---
+
+# Como Doru pode escapar
+
+Doru só consegue executar esta fuga depois de beber sangue humano.
+
+## Primeira barreira — a algema
+
+Ele não precisa quebrar o ferro.
+
+> [!quote] Ossos sob o metal
+> Doru puxa o braço uma vez. A corrente estala, mas permanece presa.
+>
+> Ele olha para o próprio pulso.
+>
+> Depois olha para vocês.
+>
+> “Desculpem.”
+>
+> Com um movimento seco, força a mão contra a algema. O polegar se desloca, ossos cedem sob o metal e o pulso se dobra num ângulo impossível.
+>
+> A mão atravessa a abertura.
+>
+> Antes mesmo de ele se levantar, os dedos começam a retornar ao lugar.
+
+## Segunda barreira — a parede
+
+Com a força restaurada, Doru usa a corrente solta como alavanca e arranca da pedra o anel já rachado.
+
+Sinais prévios:
+
+- poeira caindo ao redor do encaixe;
+- pedra se partindo;
+- metal tensionado;
+- golpes abafados sob o piso;
+- um silêncio repentino depois do último impacto.
+
+## Terceira barreira — a porta
+
+Mesmo livre das correntes, Doru ainda precisa superar a porta.
+
+Ele consegue fugir apenas se:
+
+- alguém tiver deixado a porta aberta;
+- a abertura tiver sido ampliada para um exame;
+- houver pouca vigilância;
+- a porta não tiver sido reforçada;
+- ou uma distração, como a [[Marcha dos Cem]], afastar o grupo.
+
+A fuga não é automática. Preparação e vigilância continuam funcionando.
+
+## Momento recomendado
+
+Doru não precisa tentar fugir logo depois de beber.
+
+Ele pode conversar, demonstrar lucidez e fazer Donavich acreditar que houve progresso.
+
+Mais tarde, durante a vigília:
+
+> **Crac.**
+>
+> Depois:
+>
+> **Clang.**
+>
+> E então o som de uma corrente sendo arrastada lentamente pelos degraus.
 
 ---
 
 # O funeral de Kolyan
 
-A cena completa do sepultamento ocorre no [[Cemitério da Vila de Baróvia]], mas a igreja prepara o rito.
+A cena completa do sepultamento ocorre no [[Cemitério da Vila de Baróvia]] ao amanhecer.
+
+Durante a noite, Kolyan permanece velado diante do altar.
 
 ## Antes do funeral
 
 Donavich:
 
-- limpa as vestes;
-- acende velas;
+- prepara e limpa o corpo;
+- limpa as próprias vestes;
+- mantém velas acesas junto à cabeça e aos pés;
 - prepara o símbolo do Morninglord;
-- pede alguns minutos diante do corpo;
-- tenta assumir novamente o papel de sacerdote.
+- pede alguns minutos diante de Kolyan;
+- tenta assumir novamente o papel de sacerdote;
+- explica que o rito completo começa na primeira claridade.
 
 ## Se Vet estiver presente
 
@@ -1001,9 +1259,16 @@ Se prometeram ajudar Doru:
 - [ ] Donavich revelou que Doru é seu filho.
 - [ ] O grupo examinou Doru.
 - [ ] O grupo tentou curar Doru.
+- [ ] Doru recebeu sangue de animal.
+- [ ] Doru recebeu sangue humano.
+- [ ] Doru recuperou força vampírica.
+- [ ] A contenção foi reforçada.
+- [ ] Doru tentou romper a própria mão para sair da algema.
 - [ ] Doru permaneceu preso.
 - [ ] Doru foi morto.
 - [ ] Doru escapou.
 - [ ] O grupo prometeu procurar uma cura.
-- [ ] Vet participou do rito de Kolyan.
-- [ ] O funeral foi encaminhado para o cemitério.
+- [ ] Kolyan foi preparado para o velório.
+- [ ] O grupo passou a noite na igreja.
+- [ ] Vet participou da preparação ou bênção de Kolyan.
+- [ ] O funeral foi encaminhado para o cemitério ao amanhecer.
