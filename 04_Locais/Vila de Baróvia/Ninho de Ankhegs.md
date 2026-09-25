@@ -193,7 +193,7 @@ Leia antes que confirmem que entram.
 >
 > Cerca de alguns metros dentro da caverna existe um corpo humano caído de lado, ainda vestido com restos de equipamento de viagem. Parte da roupa está escurecida e rasgada; uma das pernas desaparece atrás de uma pedra.
 >
-> Mais ao fundo, outro corpo está parcialmente coberto por terra revolvida.
+> Mais ao fundo, vocês percebem **três corpos próximos uns dos outros**, quase na mesma direção. As roupas e partes do equipamento dos três estão marcadas pela mesma corrosão clara.
 >
 > E junto ao primeiro cadáver existe uma coisa que chama atenção imediatamente:
 >
@@ -227,7 +227,7 @@ As duas escolhas são válidas.
 
 Qualquer personagem que observe a entrada percebe:
 
-- existem **pelo menos dois corpos de aventureiros** visíveis;
+- existem vários corpos de aventureiros visíveis, incluindo **três caídos quase na mesma linha**;
 - um **Martelo de Guerra aparentemente intacto** está ao alcance de quem avançar até o primeiro corpo;
 - houve violência recente;
 - existe corrosão química ou ácida;
@@ -256,7 +256,8 @@ Use testes apenas quando tentarem obter conclusões adicionais.
 | Identificar a criatura pelos sinais | **Natureza CD 13** | Predador subterrâneo semelhante a um Ankheg; usa mandíbulas e ácido |
 | Avaliar a corrosão | **Investigação ou Natureza CD 12** | Não é ferrugem; o metal foi atacado rapidamente por substância corrosiva |
 | Procurar vibrações ou movimento | **Percepção CD 13** | Raspar distante sob a terra; a origem muda de posição |
-| Examinar os mortos sem avançar muito | **Investigação CD 12** | Equipamentos foram destruídos de formas diferentes: impacto, mandíbulas e corrosão |
+| Examinar os mortos sem avançar muito | **Investigação CD 12** | Equipamentos foram destruídos de formas diferentes: impacto, mandíbulas e corrosão. Três cadáveres próximos receberam o mesmo tipo de queimadura ácida |
+| Estudar os três corpos corroídos | **Investigação ou Natureza CD 14** | A corrosão forma uma trajetória contínua e estreita: **uma única jorrada atravessou os três em linha**, em vez de três ataques separados |
 | Mapear o piso antes de caminhar | **Investigação ou Sobrevivência CD 14** | Identifica áreas onde o solo está mais oco e túneis passam próximos da superfície |
 | Determinar se existe magia na corrosão | **Arcana CD 11** | Não há sinal de efeito mágico; é uma secreção ou ácido natural |
 
@@ -266,7 +267,8 @@ Com **18+** em Natureza, Sobrevivência ou Investigação aplicado aos sinais do
 
 - existem fortes indícios de **mais de um predador**;
 - as criaturas percebem movimento através do solo;
-- ficar amontoado favorece ataques em linha e emboscadas;
+- os três cadáveres corroídos foram atingidos por um ataque **em linha**, não por uma explosão;
+- alinhar vários personagens diante da mesma criatura pode permitir que ela atinja todos com uma única jorrada;
 - um predador desse tipo provavelmente tentaria **isolar uma presa**, não trocar golpes até morrer.
 
 Não revele o mapa inteiro nem o número exato automaticamente.
@@ -673,7 +675,9 @@ Há:
 
 - um cadáver claramente visível;
 - o **Martelo de Guerra intacto** junto ao corpo;
-- um segundo cadáver parcialmente soterrado mais ao fundo;
+- **três aventureiros mortos próximos uns dos outros, quase alinhados**;
+- corrosão contínua atravessando roupas, equipamentos e o chão na mesma direção;
+- outro cadáver parcialmente soterrado mais ao fundo;
 - solo revolvido ao redor dos mortos;
 - marcas de ácido;
 - equipamentos muito danificados;
@@ -745,6 +749,10 @@ Isso serve para:
 >
 > Uma mão imóvel sob uma camada de terra.
 >
+> Mais ao fundo, **três aventureiros morreram muito próximos uns dos outros, quase na mesma linha**.
+>
+> Nos três, partes das roupas e do equipamento parecem queimadas pela mesma substância corrosiva.
+>
 > O primeiro cadáver ainda possui parte do equipamento preso ao corpo.
 >
 > E ao lado dele, quase limpo demais em comparação com todo o resto, está o martelo de guerra.
@@ -760,7 +768,15 @@ Isso serve para:
 >
 > Outras foram comidas por corrosão.
 >
-> Em um dos cadáveres, a terra cobre metade do corpo como se alguma coisa tivesse tentado puxá-lo para baixo.
+> Nos três corpos que caíram juntos, porém, existe um padrão.
+>
+> A queimadura atravessa o primeiro, continua pelo chão, alcança o segundo e segue até o terceiro.
+>
+> Não parecem três manchas diferentes.
+>
+> Parece **uma única jorrada que atravessou os três em linha**.
+>
+> Em outro cadáver, a terra cobre metade do corpo como se alguma coisa tivesse tentado puxá-lo para baixo.
 >
 > Essas pessoas não morreram há anos.
 >
