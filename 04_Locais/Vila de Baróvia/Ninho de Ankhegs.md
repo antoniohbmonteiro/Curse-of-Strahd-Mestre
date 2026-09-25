@@ -189,13 +189,23 @@ Leia antes que confirmem que entram.
 >
 > Outros simplesmente desaparecem sob o chão.
 >
-> Perto da pedra, algo que um dia foi parte de uma arma está coberto por corrosão áspera e esbranquiçada.
+> Então vocês percebem que os ossos não estão sozinhos.
 >
-> Mais adiante, entre lama e folhas, vocês conseguem distinguir ossos.
+> Cerca de alguns metros dentro da caverna existe um corpo humano caído de lado, ainda vestido com restos de equipamento de viagem. Parte da roupa está escurecida e rasgada; uma das pernas desaparece atrás de uma pedra.
+>
+> Mais ao fundo, outro corpo está parcialmente coberto por terra revolvida.
+>
+> E junto ao primeiro cadáver existe uma coisa que chama atenção imediatamente:
+>
+> **um martelo de guerra.**
+>
+> Ao contrário do restante do equipamento espalhado pelo chão, ele parece inteiro. A cabeça metálica ainda está presa ao cabo e não há corrosão evidente à distância.
+>
+> Ao redor dos corpos, pedaços de metal deformado apresentam aquela mesma corrosão áspera e esbranquiçada.
 >
 > Nenhum rastro recente parece sair da caverna.
 
-Então pergunte apenas:
+Faça uma pausa.
 
 > **“O que vocês fazem?”**
 
@@ -203,7 +213,13 @@ Não pergunte automaticamente:
 
 > “Querem investigar?”
 
-A informação está diante deles. A decisão é deles.
+Os corpos e a arma servem ao mesmo tempo como **aviso e tentação**.
+
+Um personagem pode decidir investigar.
+
+Também pode simplesmente caminhar até o martelo.
+
+As duas escolhas são válidas.
 
 ---
 
@@ -211,12 +227,19 @@ A informação está diante deles. A decisão é deles.
 
 Qualquer personagem que observe a entrada percebe:
 
+- existem **pelo menos dois corpos de aventureiros** visíveis;
+- um **Martelo de Guerra aparentemente intacto** está ao alcance de quem avançar até o primeiro corpo;
 - houve violência recente;
 - existe corrosão química ou ácida;
 - alguma criatura grande se desloca por baixo da terra;
-- pelo menos uma pessoa morreu na região;
+- parte dos corpos e equipamentos foi deslocada ou parcialmente soterrada;
 - o interior oferece vários pontos onde algo poderia emergir;
 - avançar em formação apertada é arriscado.
+
+> [!tip] Não esconda a recompensa
+> O martelo deve ser visto **antes** do combate.
+>
+> A ideia é permitir que a ganância, urgência ou falta de cautela dos jogadores também possa iniciar a cena.
 
 Não esconda esses sinais atrás de testes.
 
@@ -333,8 +356,38 @@ Use a imprudência contra a **posição** deles.
 
 ## Posição inicial
 
-- **Ankheg 1:** enterrado ou oculto à frente, próximo da primeira área ampla.
+- **Ankheg 1:** enterrado sob o solo revolvido próximo ao **primeiro cadáver e ao Martelo de Guerra visível**.
 - **Ankheg 2:** abaixo de uma rota lateral ou atrás da formação.
+
+O primeiro Ankheg pode permanecer imóvel enquanto o grupo observa à distância.
+
+### Gatilho rápido — alguém vai direto ao corpo ou à arma
+
+Se alguém simplesmente avançar para:
+
+- pegar o Martelo de Guerra;
+- revistar o cadáver;
+- puxar o corpo;
+- ou passar por cima da área de solo revolvido;
+
+o primeiro Ankheg reage imediatamente.
+
+> [!quote]
+> Seus dedos estão a poucos centímetros do cabo quando a terra sob o cadáver se move.
+>
+> Não afunda.
+>
+> **Sobe.**
+>
+> O corpo morto é lançado para o lado quando alguma coisa enorme rompe o chão logo abaixo dele.
+
+Role iniciativa.
+
+Não transforme a aproximação em dano automático. O custo de não investigar é **começar a luta na posição escolhida pelo predador**, com um personagem já adiantado e próximo dele.
+
+### Se avançarem juntos sem cuidado
+
+O primeiro Ankheg emerge quando boa parte do grupo entra na primeira área ampla.
 
 O segundo não precisa aparecer imediatamente.
 
@@ -614,12 +667,23 @@ Serve para mostrar que o lugar já foi humano.
 
 Área ampla o bastante para o primeiro Ankheg emergir.
 
+É aqui que ficam **a primeira tentação e o primeiro aviso concreto**.
+
 Há:
 
-- solo revolvido;
+- um cadáver claramente visível;
+- o **Martelo de Guerra intacto** junto ao corpo;
+- um segundo cadáver parcialmente soterrado mais ao fundo;
+- solo revolvido ao redor dos mortos;
 - marcas de ácido;
 - equipamentos muito danificados;
-- sangue antigo.
+- sangue antigo;
+- o primeiro Ankheg enterrado próximo da presa abandonada.
+
+> [!danger] O cadáver é isca, não armadilha mecânica
+> O Ankheg não posicionou conscientemente o martelo para atrair aventureiros.
+>
+> Ele apenas aprendeu que criaturas vivas se aproximam de restos e que o solo próximo aos corpos é um excelente ponto para atacar.
 
 ## 3. Túneis laterais
 
@@ -658,16 +722,45 @@ Não precisa haver ovos ou filhotes.
 
 # Os aventureiros mortos
 
-## Narração — primeiros restos
+Parte dos corpos é **visível desde a entrada**.
+
+Não espere o fim do combate para revelar que havia aventureiros ali.
+
+Isso serve para:
+
+- confirmar a história de [[Bildrath Cantemir]];
+- mostrar que pessoas equipadas morreram naquele lugar;
+- colocar uma recompensa concreta diante dos personagens;
+- permitir que alguém imprudente avance para pegar equipamento;
+- iniciar o combate organicamente sem uma cutscene obrigatória.
+
+## Narração — observando os corpos à distância
 
 > [!quote]
-> O que parecia apenas um monte de tecido começa a ganhar forma quando vocês se aproximam.
+> Agora que vocês sabem onde olhar, fica impossível confundir aquilo com simples restos de animais.
 >
-> Uma mochila.
+> Botas.
 >
-> Um braço ainda preso à alça.
+> Uma mochila rasgada.
 >
-> Pedaços de metal estão espalhados pela terra, alguns dobrados pelo impacto, outros cobertos por corrosão.
+> Uma mão imóvel sob uma camada de terra.
+>
+> O primeiro cadáver ainda possui parte do equipamento preso ao corpo.
+>
+> E ao lado dele, quase limpo demais em comparação com todo o resto, está o martelo de guerra.
+
+## Narração — primeiros restos de perto
+
+> [!quote]
+> De perto, fica ainda mais claro como essas pessoas morreram.
+>
+> Uma mochila foi rasgada de alto a baixo.
+>
+> Partes de metal estão dobradas como se tivessem recebido um impacto brutal.
+>
+> Outras foram comidas por corrosão.
+>
+> Em um dos cadáveres, a terra cobre metade do corpo como se alguma coisa tivesse tentado puxá-lo para baixo.
 >
 > Essas pessoas não morreram há anos.
 >
