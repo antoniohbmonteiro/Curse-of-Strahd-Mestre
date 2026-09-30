@@ -18,6 +18,10 @@ tags:
 
 | Sessão | Título | Resumo |
 |---:|---|---|
+| 09 | [[Sessao 09 - Recap dos Jogadores|A Felicidade Tem um Preço]] | Depois de enterrar Kolyan e Doru, o grupo aceita escoltar Ireena até Vallaki, impede Morganta de receber uma criança como pagamento pelas Tortas dos Sonhos e descobre que Dhorak quer outra porção mais do que deveria. Antes da viagem, seguem uma pista sobre aventureiros desaparecidos — até os lobos começarem a uivar. |
+| 08 | [[Sessao 08 - Recap dos Jogadores|Agora Eu Não Sinto Mais]] | O grupo descobre a fome de sangue de Doru, ajuda Donavich a aceitar que o filho não pode continuar preso naquele sofrimento e encerra sua condição. Mais tarde, Morganta aparece vendendo Tortas dos Sonhos, e Dhorak descobre que elas cumprem a promessa de uma noite perfeita. |
+| 07 | [[Sessao 07 - Recap dos Jogadores|Pai, Estou com Fome]] | O grupo entra na Vila de Baróvia, conhece Cantemir, Ireena, Ismark e algumas Vistani, descobre que Strahd é um lorde vampiro e termina na igreja diante do segredo de Donavich: Doru, seu filho, está preso debaixo do templo e pede comida. |
+| 06 | [[Sessao 06 - Recap dos Jogadores|A Estrada sem Sol]] | O grupo finalmente escapa da Casa Durst, perde quase todo o equipamento, vê o Roarshield se partir para salvar a fuga e acampa pela primeira vez em Baróvia antes de alcançar a vila silenciosa sob um céu sem sol. |
 | 05 | [[Sessao 05 - Recap dos Jogadores|Um Deve Morrer]] | O grupo encontra Bianca nas celas, recusa o sacrifício exigido pela casa, desperta Lorghoth e inicia uma fuga brutal que termina com Kael vivo por um fio e o escudo de Lionel partido em dois. |
 | 04 | [[Sessao 04 - Recap dos Jogadores|A Casa Ouviu]] | O grupo remove a larva deixada no corpo de Dhorak, enfrenta mortos-vivos e sombras no porão, lê a carta de Elizabeth e descobre que Walter foi entregue em um ritual que acordou algo pior do que esperavam. |
 | 03 | [[Sessao 03 - Recap dos Jogadores|Os Ossos e o Porão]] | O grupo encontra os verdadeiros espíritos de Rose e Thorn, descobre Biscuit, dá descanso às crianças, enfrenta o Sem Osso no armário e quase perde Dhorak para a criatura do poço. |
@@ -29,10 +33,10 @@ tags:
 
 ## Última sessão
 
-> [!summary] Sessão 05 — Um Deve Morrer
-> Vocês encontraram uma cuba que exigia sangue, viram a casa rejeitar a oferta de Yann, libertaram Bianca das celas e chegaram a uma câmara onde o cântico exigia uma morte. Lionel tentou se oferecer. Oryn atingiu Bianca e viu o corpo dela se desfazer em pó. A casa rejeitou aquilo, despertou Lorghoth e obrigou vocês a fugir. Kael sobreviveu por um fio, e o escudo de Lionel se partiu para manter a passagem aberta.
+> [!summary] Sessão 09 — A Felicidade Tem um Preço
+> A manhã começou com **Dhorak feliz demais** e terminou com lobos uivando na estrada. Entre uma coisa e outra, o grupo enterrou **Kolyan** e **Doru**, aceitou levar **Ireena** até **Vallaki**, impediu **Morganta** de receber uma criança como pagamento e viu Dhorak admitir que queria outra **Torta dos Sonhos** mais do que deveria. **Cantemir** ainda apontou o caminho para aventureiros desaparecidos ao sul — e o grupo decidiu investigar antes de partir.
 >
-> **Ler agora:** [[Sessao 05 - Recap dos Jogadores|Sessão 05 — Um Deve Morrer]]
+> **Ler agora:** [[Sessao 09 - Recap dos Jogadores|Sessão 09 — A Felicidade Tem um Preço]]
 
 ---
 
@@ -55,6 +59,18 @@ tags:
 
 6. **Sessão 05 — Um Deve Morrer**  
    Vocês recusaram a morte exigida pelo ritual, despertaram Lorghoth e correram pela casa viva. Kael sobreviveu no limite, e o escudo Roarshield se partiu para salvar o grupo.
+
+7. **Sessão 06 — A Estrada sem Sol**  
+   Vocês escaparam da Casa Durst, perderam equipamentos para a casa, acamparam pela primeira vez em Baróvia e terminaram diante da Vila de Baróvia sob a sombra de um castelo distante.
+
+8. **Sessão 07 — Pai, Estou com Fome**  
+   Vocês conheceram Ireena e Ismark, descobriram que Strahd é um lorde vampiro, ouviram falar de Madame Eva e terminaram na igreja diante da fome de Doru.
+
+9. **Sessão 08 — Agora Eu Não Sinto Mais**  
+   Vocês descobriram o que Doru desejava, encerraram seu sofrimento e conheceram Morganta e suas Tortas dos Sonhos. Dhorak foi o primeiro a provar.
+
+10. **Sessão 09 — A Felicidade Tem um Preço**  
+    Vocês enterraram Kolyan e Doru, aceitaram a escolta de Ireena, impediram uma criança de ser entregue a Morganta e deixaram a vila para investigar aventureiros desaparecidos — com lobos anunciando o próximo problema.
 
 ---
 
