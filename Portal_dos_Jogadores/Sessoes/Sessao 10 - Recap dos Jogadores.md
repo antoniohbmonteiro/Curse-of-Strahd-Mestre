@@ -21,9 +21,7 @@ tags:
 >
 > Depois, os rosnados.
 >
-> Quando perceberam, a estrada já não era mais apenas uma estrada.
->
-> **Era o centro de um círculo.**
+> Quando perceberam, **os lobos já estavam ao redor deles.**
 
 ---
 
