@@ -1,7 +1,7 @@
 ---
 tipo: local
 regiao: Vila de Baróvia
-status: preparado
+status: resolvido
 conteudo: mestre
 fonte: Curse of Strahd Reloaded + Beneos Battlemaps + adaptação da campanha
 aliases:
@@ -1274,3 +1274,113 @@ Faça uma pausa.
 - Beneos Battlemaps — Barovian Ankheg Nest
 - _D&D Basic Rules 2024_ — Ankheg
 - _Arcana Unleashed_ — Lucky Foot, Dispelling Ammunition, Potion of Dragon's Breath
+
+
+---
+
+# Registro de mesa — Sessão 10
+
+> [!success] Encontro resolvido
+> O grupo chegou ao ninho durante a **Sessão 10** e eliminou a ameaça subterrânea imediata.
+>
+> Para a continuidade completa, consultar [[Sessão 10 — Título a definir]] / `02_Sessoes/Sessao 10/Sessao_10_Nota_Mestre.md`.
+
+## Como o encontro realmente aconteceu
+
+- o grupo chegou já no fim da tarde;
+- sangue seco e restos humanos confirmaram que aquele era o local indicado por [[Bildrath Cantemir]];
+- [[Yann Vaelor]] fez reconhecimento invisível;
+- um **Servo Invisível** foi destruído por uma garra que saiu de um ponto no chão;
+- o grupo percebeu que o predador reagia às **vibrações dos passos**;
+- [[Oryn Fizzlestryke]] utilizou Mão Mágica para recuperar o **Martelo de Guerra** e a **Espada Longa Quebrada** sem se aproximar dos corpos;
+- [[Svetlana]] sugeriu abandonar o local em vez de arriscar a vida pelo loot;
+- o grupo decidiu permanecer e montar um plano.
+
+## Lionel como isca
+
+A preparação da cena realmente importou.
+
+[[Lionel Roarshield]] declarou antes de entrar que:
+
+1. pisaria deliberadamente na área;
+2. esperaria a criatura acompanhar seus passos;
+3. ficaria atento ao ponto de ruptura;
+4. **saltaria para trás no instante do ataque**.
+
+[[Dhorak Khal]] posicionou-se acima com uma pedra grande preparada.
+
+[[Yann Vaelor]] concedeu Inspiração.
+
+Quando o predador rompeu o chão, Lionel executou o plano:
+
+> a criatura surgiu exatamente onde ele estava;
+>
+> Lionel saltou para trás;
+>
+> as garras fecharam no vazio.
+
+Dhorak imediatamente derrubou a pedra sobre a criatura.
+
+> [!success] Resultado
+> Este foi um caso claro em que a investigação e a descrição prévia da estratégia mudaram a posição inicial do combate.
+>
+> Preservar essa lembrança como recompensa de planejamento.
+
+## Pistas que se pagaram
+
+Os corpos corroídos em linha antecipavam o comportamento do ácido.
+
+Durante o combate, uma jorrada atingiu personagens alinhados e Vet verbalizou que os cadáveres também estavam naquela formação.
+
+A pista ambiental funcionou como pretendido.
+
+## Momentos importantes
+
+- Lionel recuperou confiança usando o Martelo de Guerra e Smite.
+- Dhorak agarrou um dos predadores e o reposicionou para os aliados.
+- Kael sofreu uma sequência longa de falhas, mas terminou o último predador ativo.
+- O solo finalmente ficou silencioso depois da luta.
+
+## Loot realmente entregue em mesa
+
+- 1 **Martelo de Guerra** intacto
+- 1 **Espada Longa Quebrada**
+- 1 **Cota de Malha parcialmente corroída**
+- 1 **Lanterna Coberta**
+- **2 Peças de Metal**
+- **90 PO**
+- 1 **Lucky Foot**
+- 1 **Dispelling Ammunition**
+- 1 **Potion of Dragon's Breath**
+
+> [!warning] Diferença da preparação
+> A quantidade de ouro entregue em mesa foi **90 PO**.
+>
+> Esse valor prevalece sobre a tabela de preparação acima.
+
+## Waterdeep
+
+Yann procurou identificação entre os mortos.
+
+Encontrou documentação ligando pelo menos um dos aventureiros a **Waterdeep, Faerûn**.
+
+Isso tornou público para o grupo que:
+
+- aqueles mortos também eram estrangeiros;
+- pessoas de Faerûn já chegaram a Baróvia antes deles;
+- o grupo anterior havia aceitado ajudar a vila contra as criaturas subterrâneas.
+
+Não foi descoberto:
+
+- como chegaram a Baróvia;
+- se vieram juntos;
+- se atravessaram as Brumas da mesma forma que os personagens;
+- quem ou o que os trouxe.
+
+## Estado final do local
+
+- ameaça imediata: **resolvida**;
+- aventureiros anteriores: encontrados mortos;
+- loot principal: recuperado;
+- uso futuro do local: opcional;
+- não adicionar novo monstro surpresa apenas para reabrir o encontro.
