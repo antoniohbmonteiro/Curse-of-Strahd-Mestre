@@ -1283,7 +1283,7 @@ Faça uma pausa.
 > [!success] Encontro resolvido
 > O grupo chegou ao ninho durante a **Sessão 10** e eliminou a ameaça subterrânea imediata.
 >
-> Para a continuidade completa, consultar [[Sessão 10 — Título a definir]] / `02_Sessoes/Sessao 10/Sessao_10_Nota_Mestre.md`.
+> Para a continuidade completa, consultar [[Sessao_10_Nota_Mestre|Sessão 10 — O Chão Escuta]].
 
 ## Como o encontro realmente aconteceu
 
