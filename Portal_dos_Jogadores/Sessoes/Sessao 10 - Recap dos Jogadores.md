@@ -21,1220 +21,918 @@ tags:
 >
 > Depois, os rosnados.
 >
-> Mais tarde, no silêncio de uma caverna, vocês descobriram algo pior:
+> Quando perceberam, a estrada já não era mais apenas uma estrada.
 >
-> **ali, até o chão parecia escutar.**
+> **Era o centro de um círculo.**
 
 ---
 
 > [!summary] Resumo rápido
-> - Os uivos da sessão anterior se aproximaram até o grupo perceber que estava **cercado por seis lobos e um animal muito maior**.
-> - **Kael** avançou contra um dos lobos mais afastados, enquanto o restante da party ficou cercado pela matilha.
-> - **Vet** respondeu com **Radiância da Alvorada**, liberando luz radiante em área e atingindo boa parte dos lobos de uma só vez.
-> - **Dhorak** derrubou o maior animal da matilha, tomou sua cabeça como troféu e tentou quebrar a coragem dos sobreviventes.
-> - Um dos lobos conseguiu fugir com **uma orelha cortada**. Antes de desaparecer entre as árvores, ele **olhou para trás e encarou o grupo**.
-> - Depois da luta, **Kael** tentou esconder os rastros, **Oryn** encontrou uma erva curativa e **Lionel** pediu a Vet que lhe ensinasse mais sobre **Lathander**.
-> - Seguindo a marcação de **B. Cantemir**, o grupo encontrou uma velha caverna junto à água, cheia de sangue seco, corpos e equipamento abandonado.
-> - **Yann** entrou invisível para reconhecer o local e usou um **Servo Invisível** para testar o caminho.
-> - Uma enorme garra saiu do chão e destruiu o servo, revelando que alguma coisa caçava **por baixo da terra**.
-> - O grupo percebeu que o predador acompanhava as **vibrações dos passos**.
-> - **Oryn** usou **Mão Mágica** para recuperar um **Martelo de Guerra** intacto e uma **Espada Longa Quebrada** sem precisar se aproximar dos corpos.
-> - Vet chegou a sugerir que talvez fosse melhor simplesmente ir embora. O restante do grupo olhou para todo aquele equipamento e tomou outra decisão.
-> - **Lionel** se ofereceu como isca: caminhou deliberadamente até o predador, esperou o ataque e **saltou para trás no instante em que a criatura rompeu o chão**.
-> - **Dhorak**, esperando acima, completou o plano derrubando uma grande pedra sobre ela.
-> - Durante o combate, o grupo descobriu por que vários cadáveres estavam alinhados: as criaturas conseguiam lançar **ácido em linha**.
-> - Lionel recuperou o ritmo usando o novo martelo e energia divina; Dhorak chegou a **agarrar e reposicionar** uma das criaturas para os aliados.
-> - **Kael** enfrentou uma sequência quase ofensiva de erros nos dados... até finalmente acertar e terminar a última ameaça.
-> - Entre os mortos, o grupo recuperou **90 PO, armas, armadura, materiais e três consumíveis mágicos**.
-> - **Yann** encontrou ainda uma identificação importante:
+> - Os uivos da sessão anterior se aproximaram até o grupo ser cercado por **seis lobos e um animal muito maior**.
+> - **Kael** avançou para enfrentar um dos lobos mais afastados enquanto o restante do grupo segurava o centro do cerco.
+> - **Vet** respondeu com uma explosão de **luz radiante em área**, atingindo boa parte da matilha e mudando completamente o ritmo da luta.
+> - **Dhorak** matou o maior dos lobos, ergueu sua cabeça ensanguentada e tentou quebrar a coragem dos restantes.
+> - Um dos lobos conseguiu escapar, ferido por um **corte evidente na orelha**. Antes de desaparecer entre as árvores, ele parou e **olhou para trás, diretamente para vocês**.
+> - Depois da luta, **Lionel** ficou incomodado com o próprio desempenho e pediu para Vet lhe ensinar mais sobre **Lathander**.
+> - Seguindo a marca deixada por Cantemir, vocês encontraram uma antiga caverna junto à água, coberta por sangue seco, cadáveres e equipamento abandonado.
+> - **Yann** entrou invisível para reconhecer o local e depois usou um **Servo Invisível** para testar o caminho.
+> - Uma garra rompeu o chão e destruiu o servo, revelando que alguma coisa caçava **por baixo da terra**.
+> - **Oryn** usou Mão Mágica para retirar um Martelo de Guerra intacto e uma Espada Longa quebrada sem se aproximar dos corpos.
+> - Depois de muita discussão — incluindo Vet sugerindo simplesmente **ir embora** — o grupo decidiu ficar.
+> - **Lionel se ofereceu como isca**.
+> - A criatura acompanhou seus passos sob o chão. Quando finalmente rompeu a terra para atacá-lo, Lionel **saltou para trás**, fazendo as garras fecharem no vazio.
+> - **Dhorak**, já preparado acima, derrubou uma pedra sobre a criatura.
+> - A luta dentro do ninho trouxe ácido, ataques subterrâneos, agarrões e uma quantidade memorável de ataques errados.
+> - Dhorak chegou a **agarrar uma das criaturas** e segurá-la para os companheiros.
+> - Depois de uma sequência particularmente cruel de dados, **Kael acertou e terminou a última criatura**.
+> - Entre os mortos, o grupo recuperou equipamento, ouro, materiais e **três consumíveis mágicos**.
+> - **Yann encontrou identificação de Waterdeep** em um dos cadáveres.
 >
-> **aqueles aventureiros também vieram de Faerûn.**
->
-> Mais especificamente, de **Waterdeep**.
+> Aqueles aventureiros também eram de **Faerûn**.
 
 ---
 
-# A sessão em três imagens
+## A sessão em três movimentos
 
-| Imagem | O que ficou |
+| | O que aconteceu |
 |---|---|
-| 🐺 **O círculo** | Sete animais fecharam a estrada. A resposta de Vet foi colocar **luz no meio da matilha**. |
-| 🩸 **A orelha** | Um único lobo escapou ferido — e fez questão de **olhar para trás** antes de sumir. |
-| 🦁 **O salto** | Lionel entrou sabendo que o chão o seguia. Quando a criatura subiu, **ele já estava saindo do lugar**. |
+| 🐺 **O cerco** | Uma matilha fechou a estrada, Vet incendiou a escuridão com luz radiante e um único lobo escapou marcado. |
+| 🕳️ **O chão** | O grupo encontrou o ninho, descobriu que alguma coisa os ouvia caminhar e decidiu transformar a emboscada em armadilha. |
+| ⚔️ **Os mortos de Waterdeep** | Depois da batalha, o loot respondeu uma pergunta prática — e os cadáveres abriram outra muito maior sobre Baróvia. |
 
 ---
 
-## Onde paramos
+# O cerco
 
-> [!warning] Cena atual
-> O grupo está dentro da caverna indicada por **B. Cantemir**, depois de derrotar as criaturas que viviam sob o solo e vasculhar os restos dos aventureiros mortos.
->
-> O lugar finalmente está silencioso.
->
-> Entre os pertences encontrados existe uma identificação de **Waterdeep, Faerûn**.
->
-> Isso significa que aquelas pessoas não nasceram em Baróvia.
->
-> **Elas chegaram aqui de fora, assim como vocês.**
->
-> A tarde, porém, está acabando.
->
-> Vocês ainda precisam retornar à **Vila de Baróvia**, descansar e, na manhã seguinte, partir com **Ireena** em direção a **Vallaki**.
+## 1. Os uivos estavam mais perto
 
----
+A sessão anterior terminou com uivos.
 
-## Objetivos atuais
+A nova começou quando eles deixaram de ser distantes.
 
-> [!question] O que vem agora?
-> - sair da caverna e organizar o equipamento recuperado;
-> - retornar à Vila de Baróvia antes que a estrada fique ainda pior;
-> - decidir o que será reparado, usado, vendido ou guardado;
-> - descansar;
-> - partir com **Ireena** para **Vallaki**;
-> - encontrar o padre **Lucian Petrovich**;
-> - continuar investigando como estrangeiros de **Faerûn** acabam em Baróvia;
-> - e, talvez, prestar um pouco mais de atenção aos lobos que conseguem fugir.
+Primeiro um.
 
----
-
-## Perguntas em aberto
-
-- Como os aventureiros de **Waterdeep** chegaram a Baróvia?
-- Vieram pelas mesmas Brumas que trouxeram vocês?
-- Quantos outros grupos de estrangeiros já passaram por aqui?
-- **B. Cantemir** sabe mais sobre aventureiros anteriores?
-- Existe alguém que conseguiu entrar em Baróvia **e depois sair**?
-- O que exatamente eram as criaturas encontradas sob a caverna?
-- Havia apenas aquele ninho ou existem outros túneis pela região?
-- O lobo ferido conseguiu sobreviver depois de fugir?
-- Por que **Lionel** ficou tão interessado na fé de Vet e em **Lathander**?
-- O que espera o grupo na estrada para **Vallaki**?
-- E quanto tempo ainda falta até escurecer?
-
----
-
-# O que aconteceu
-
----
-
-## 1. Os uivos ficaram perto demais
-
-A sessão anterior terminou com lobos uivando ao redor da estrada.
-
-Desta vez, eles responderam.
+Depois outro.
 
 Mais perto.
 
-Depois de alguns instantes, os uivos deram lugar a outra coisa.
+Então vieram os rosnados.
 
-**Rosnados.**
+O grupo percebeu tarde demais que os animais já haviam tomado posições entre as árvores.
 
-Não havia mais dúvida de que os animais estavam se aproximando.
+**Seis lobos.**
 
-Quando o grupo conseguiu distinguir formas entre árvores, pedras e névoa, já era tarde para fingir que aquilo era apenas fauna local.
+E, entre eles, um animal muito maior que os demais.
 
-Havia lobos em várias direções.
+![[Portal_dos_Jogadores/Imagens/Sessao10/01-cerco-dos-lobos.jpg]]
 
-**Seis menores.**
+*Por alguns instantes, a estrada deixou de ter frente e costas. Havia dentes em todas as direções.*
 
-E um animal consideravelmente maior que os outros.
+**Kael** não ficou esperando o círculo fechar completamente.
 
-A matilha não atravessou a estrada por acaso.
+Partiu atrás de um dos lobos mais afastados, abrindo distância do restante da formação.
 
-Ela havia fechado um círculo.
+Os outros ficaram no centro.
 
-![[Portal_dos_Jogadores/Imagens/Sessao10/01-cerco-dos-lobos.webp]]
+**Lionel** à frente.
 
-*Seis lobos menores e uma fera muito maior fecharam o círculo. No centro, a party decidiu não correr.*
+**Dhorak** procurando o maior alvo.
 
----
+**Oryn**, **Yann** e **Vet** tentando encontrar espaço entre animais que já sabiam exatamente de onde atacar.
 
-## 2. Kael abre a formação
+E então Vet decidiu que, se todos queriam ficar perto...
 
-Enquanto o restante do grupo se preparava para receber a matilha, **Kael** tomou outra decisão.
-
-Um dos lobos estava mais afastado.
-
-Ele foi atrás.
-
-A movimentação tirou Kael do centro da formação e transformou a luta em duas pequenas histórias ao mesmo tempo:
-
-- a party tentando sobreviver ao cerco;
-- Kael perseguindo e enfrentando um dos animais fora do miolo da batalha.
-
-Não era a posição mais confortável do mundo.
-
-Para um caçador, talvez fosse exatamente a posição esperada.
+ela podia aproveitar isso.
 
 ---
 
-## 3. Baróvia não tinha sol. Vet trouxe luz mesmo assim.
+## 2. A manhã acendeu
 
-Os lobos estavam próximos uns dos outros.
+A luz veio de uma vez.
 
-Próximos demais.
+**Vet** abriu espaço em torno de si com uma onda de energia radiante que atingiu grande parte da matilha.
 
-Para **Vet**, isso significava uma oportunidade.
+Alguns dos lobos conseguiram resistir melhor.
 
-Ela ergueu seu símbolo sagrado.
+Outros não.
 
-E usou **Radiância da Alvorada**.
+Mas mesmo aqueles que suportaram a primeira explosão sentiram o impacto.
 
 > [!success] O momento de Vet
-> Luz radiante explodiu ao redor dela.
+> Cercada por lobos numa floresta cinzenta de Baróvia, Vet transformou o centro da matilha no pior lugar possível para se estar.
 >
-> Não uma chama.
+> **Radiance of the Dawn atingiu vários inimigos de uma vez e mudou a luta.**
+
+Não foi só o dano.
+
+Foi a imagem.
+
+No meio de uma terra onde o céu parecia incapaz de produzir um amanhecer de verdade, **a luz apareceu em torno dela mesmo assim**.
+
+Lionel percebeu.
+
+E tentou responder com a própria energia divina.
+
+Nem tudo funcionou como ele queria.
+
+Mas a comparação ficou.
+
+---
+
+## 3. Dhorak escolhe o maior
+
+Enquanto a luz quebrava a formação dos lobos, **Dhorak** tinha um objetivo muito simples:
+
+o maior deles.
+
+Ele avançou.
+
+A luta foi curta e violenta.
+
+Quando terminou, o animal estava morto.
+
+Dhorak então fez algo que provavelmente não constava de nenhum manual de etiqueta de Mirabar.
+
+**Cortou a cabeça do lobo.**
+
+Ergueu o troféu.
+
+Coberto de sangue.
+
+E tentou mostrar para o restante da matilha exatamente o que acontecia com quem ficasse.
+
+A mensagem funcionou.
+
+Os lobos começaram a hesitar.
+
+Depois começaram a fugir.
+
+---
+
+## 4. Um deles olhou para trás
+
+Nem todos conseguiram escapar.
+
+Um deles, porém, conseguiu.
+
+Ferido.
+
+Sangrando.
+
+Com um **corte muito visível em uma das orelhas**.
+
+O lobo correu em direção à floresta.
+
+Houve uma última tentativa de pará-lo.
+
+Falhou.
+
+Ele alcançou as árvores.
+
+E então aconteceu uma coisa pequena.
+
+Pequena demais para mudar o resultado da batalha.
+
+Mas específica demais para passar despercebida.
+
+![[Portal_dos_Jogadores/Imagens/Sessao10/02-lobo-orelha-cortada.jpg]]
+
+*Ferido, com a orelha marcada, o último lobo alcançou a floresta.*
+
+Antes de desaparecer...
+
+**ele olhou para trás.**
+
+Não para a estrada.
+
+Não para a cabeça do animal morto.
+
+**Para vocês.**
+
+Por um instante, os olhos encontraram os de seus perseguidores.
+
+Então ele sumiu entre as árvores.
+
+> [!warning] Algo para lembrar
+> Se algum dia vocês virem novamente um lobo com **uma das orelhas cortadas**...
 >
-> Não uma tocha.
->
-> **Luz divina.**
->
-> Em uma floresta de Baróvia onde o próprio sol parecia ausente, Vet acendeu alguma coisa que os lobos não conseguiram ignorar.
+> provavelmente não precisarão perguntar se já o encontraram antes.
 
-Vários animais foram atingidos de uma só vez.
+---
 
-Alguns resistiram melhor.
+# Depois dos lobos
 
-Outros, pior.
+## 5. Couro, uma cabeça e um péssimo café da manhã
 
-Mas até aqueles que suportaram parte da energia foram afetados.
+Depois da luta, o grupo fez aquilo que aventureiros fazem quando deixam de ser atacados por animais:
 
-A matilha inteira sentiu o golpe.
+começou a aproveitar o cadáver dos animais.
 
-O efeito não foi importante apenas pelo dano.
+**Dhorak** conseguiu retirar material aproveitável das peles e manteve consigo a **cabeça do lobo maior**.
 
-Foi importante porque, naquele instante, uma luta que parecia começar com o grupo sendo **caçado** mudou de direção.
+A ideia já estava formada:
+
+> transformar aquilo em algum tipo de **elmo**.
+
+A conservação de outras partes do animal foi...
+
+menos bem-sucedida.
+
+**Kael** tentou apagar ou confundir os rastros deixados pelo grupo.
+
+**Oryn**, procurando alguma coisa útil entre a vegetação, encontrou uma pequena erva com propriedades curativas e decidiu usá-la ali mesmo.
+
+E Lionel continuava irritado.
+
+Não com os lobos.
+
+Com ele mesmo.
+
+---
+
+## 6. “Me ensina sobre Lathander.”
+
+O combate não tinha saído como **Lionel** queria.
+
+A arma improvisada não ajudava.
+
+Alguns ataques falharam.
+
+E, ao lado dele, Vet havia acabado de transformar uma matilha inteira num espetáculo de luz.
+
+Lionel comentou que a fé dela parecia...
+
+maior.
+
+Mais presente.
+
+Mais capaz de responder.
+
+Então perguntou se Vet poderia lhe ensinar mais sobre **Lathander**.
+
+Vet não prometeu respostas para tudo.
+
+Mas disse que poderiam conversar melhor quando voltassem.
+
+Que ele poderia acompanhá-la ao templo.
 
 > [!note]
-> **Lionel percebeu.**
+> Não foi uma conversão.
 >
-> Depois de passar parte do combate frustrado com os próprios ataques e com o estado de seu equipamento, ele viu Vet atingir praticamente o campo inteiro com fé transformada em luz.
-
-Aquilo ficaria na cabeça dele depois.
-
----
-
-## 4. O maior da matilha
-
-Enquanto a luz de Vet castigava vários alvos, **Dhorak** escolheu o problema mais óbvio:
-
-**o maior lobo.**
-
-Ele avançou diretamente contra a criatura.
-
-O combate terminou com o animal no chão.
-
-Dhorak não parou aí.
-
-Cortou a cabeça da fera.
-
-Ergueu-a diante dos outros lobos.
-
-Sangue no corpo.
-
-Troféu na mão.
-
-A mensagem não precisava de tradução.
-
-> [!quote]
-> O maior de vocês caiu.
+> Foi uma pergunta.
 >
-> **Quem é o próximo?**
-
-A matilha começou a perder a vontade de continuar.
-
----
-
-## 5. Um deles olhou para trás
-
-Alguns animais ainda morreram enquanto tentavam fugir.
-
-Um não.
-
-Ferido, ele conseguiu alcançar as árvores.
-
-Havia algo fácil de reconhecer nele agora:
-
-**uma das orelhas estava cortada.**
-
-Sangue marcava o pelo ao redor do ferimento.
-
-O lobo correu.
-
-Chegou à cobertura da mata.
-
-E poderia simplesmente ter desaparecido.
-
-Mas não desapareceu imediatamente.
-
-Parou por um instante.
-
-Virou a cabeça.
-
-E olhou para trás.
-
-Diretamente para vocês.
-
-![[Portal_dos_Jogadores/Imagens/Sessao10/02-lobo-orelha-cortada.webp]]
-
-*Um corte na orelha. Sangue no pelo. E um último olhar antes de desaparecer entre as árvores.*
-
-> [!warning] Uma imagem difícil de esquecer
-> Vocês não deram um nome àquele lobo.
->
-> Mas, depois daquele olhar...
->
-> **provavelmente saberiam reconhecê-lo.**
-
-Então ele sumiu na floresta.
-
----
-
-## 6. Tudo que um lobo pode oferecer depois de morto
-
-Com a estrada novamente silenciosa, **Dhorak** decidiu que os animais não precisavam servir apenas como memória.
-
-Ele começou a trabalhar.
-
-Do encontro, conseguiu aproveitar:
-
-- **2 unidades de couro/peles de lobo**;
-- **a cabeça do lobo maior**.
-
-A intenção para a cabeça foi anunciada rapidamente:
-
-> **um elmo.**
-
-Se Baróvia insistia em enviar criaturas para cima do grupo, Dhorak parecia bastante disposto a transformar algumas delas em equipamento.
-
----
-
-## 7. Kael apaga o caminho
-
-Enquanto Dhorak lidava com troféus, **Kael** voltou a pensar como caçador.
-
-O grupo havia:
-
-- lutado no meio da estrada;
-- deixado sangue;
-- deixado pegadas;
-- atraído atenção;
-- e ainda pretendia retornar por aquela região.
-
-Kael tentou reduzir os rastros que deixavam para trás.
-
-Não era apenas sobre os lobos.
-
-Era sobre não tornar a própria rota uma placa escrita:
-
-**“seis aventureiros passaram por aqui.”**
-
----
-
-## 8. Oryn encontra algo que não morde
-
-**Oryn**, por sua vez, procurou recursos na vegetação.
-
-Desta vez a floresta entregou algo que não tentou matá-lo.
-
-Uma erva com propriedades curativas.
-
-Consumida ali mesmo, ela ajudou Oryn a se recuperar um pouco antes de continuar a viagem.
-
-> [!note]
-> Depois de Casa Durst, lobos, tortas mágicas e pessoas sendo puxadas pela terra...
->
-> **uma planta simplesmente ser uma planta útil já conta como vitória.**
-
----
-
-## 9. Lionel olha para a luz de Vet
-
-O combate acabou.
-
-A frustração de **Lionel** não.
-
-Sua arma improvisada não estava ajudando.
-
-Os ataques não saíam como queria.
-
-E, ao lado dele, Vet havia acabado de transformar o campo de batalha em uma explosão de luz.
-
-Lionel falou com ela.
-
-Não sobre dano.
-
-Sobre **fé**.
-
-Perguntou sobre **Lathander**.
-
-Sobre aquilo em que Vet acreditava.
-
-E pediu que ela lhe ensinasse mais.
-
-Vet aceitou conversar quando tivessem tempo e mencionou que, ao retornarem, Lionel poderia acompanhá-la ao templo.
-
-> [!note] Uma conversa que ficou para depois
-> Lionel não tomou nenhuma decisão religiosa naquela estrada.
->
-> Mas alguma coisa no que viu **despertou curiosidade suficiente para ele perguntar**.
+> E, em Baróvia, talvez isso já seja bastante.
 
 ---
 
 # O lugar marcado por Cantemir
 
----
+## 7. Sangue velho
 
-## 10. Sangue, água e uma caverna
+O grupo retomou a caminhada.
 
-O grupo continuou para o sul.
+A estrada foi ficando menos definida.
 
-Mais tarde, encontrou a região que **B. Cantemir** havia marcado.
+A vegetação abriu espaço para água, barro e pedra.
 
-Perto da água, uma abertura escura cortava a pedra.
+Havia restos de madeira.
 
-Restos antigos denunciavam que pessoas já haviam utilizado o lugar:
+Cordas antigas.
 
-- madeira apodrecida;
-- pedaços de corda;
-- restos de um pequeno barco;
-- estruturas abandonadas.
+Parte de um pequeno barco.
 
-Havia também outra coisa.
+Sinais de que aquele lugar já havia sido usado por pessoas.
 
-**Sangue.**
+E havia sangue.
 
-Muito.
+Muito sangue.
 
-Já seco.
+Seco.
 
-Kael observou a área e chegou à conclusão mais simples possível:
+**Kael** observou a área e chegou à conclusão mais importante naquele momento:
 
 aquilo parecia um **ninho**.
 
-Ou, pelo menos, um lugar onde alguma coisa havia aprendido a viver depois que as pessoas pararam de usá-lo.
+Ou um covil.
+
+O que quer que vivesse ali tinha transformado um lugar humano em território próprio.
 
 ---
 
-## 11. Yann avalia o “vinho”
+## 8. Yann avalia a safra
 
-Quando Dhorak confirmou que o sangue estava seco, **Yann** resolveu realizar uma análise extremamente científica.
+Dhorak confirmou que o sangue estava velho.
 
-Raspou um pouco.
+Seco havia algum tempo.
+
+**Yann**, demonstrando um nível bastante particular de dedicação à investigação...
+
+raspou um pouco.
 
 Levou à boca.
 
-E tentou tratar aquilo como se estivesse apenas avaliando um vinho muito ruim.
+E tentou agir como se estivesse apenas avaliando um vinho de qualidade duvidosa.
 
-A reação não tornou a situação menos estranha.
+O grupo seguiu em frente.
 
-> [!warning]
-> Considerando as perguntas que Yann já fez sobre sangue nas últimas sessões...
->
-> **a coleção de comportamentos difíceis de explicar continua crescendo.**
-
-Ninguém recebeu uma explicação melhor naquele momento.
+Como aparentemente já era tradição.
 
 ---
 
-## 12. O primeiro a entrar não podia ser visto
+## 9. Invisível primeiro
 
-Yann decidiu reconhecer a caverna antes que todos entrassem.
+Yann decidiu não entrar às cegas.
 
-Ficou **invisível**.
+Lançou **Invisibilidade** e avançou sozinho para reconhecer o interior da caverna.
 
-E avançou.
+Encontrou:
 
-Lá dentro encontrou coisas suficientes para confirmar a história de Cantemir.
-
-Havia aventureiros mortos.
-
-Mais de um.
-
-Também havia:
-
+- cadáveres de aventureiros;
 - sangue;
-- equipamentos abandonados;
-- uma espada quebrada;
-- um **Martelo de Guerra aparentemente intacto**;
-- formações estranhas junto aos restos;
-- áreas do chão que não pareciam confiáveis.
+- partes de equipamento;
+- estruturas estranhas próximas aos corpos;
+- uma **Espada Longa quebrada**;
+- um **Martelo de Guerra intacto**;
+- vários pontos do chão que pareciam suspeitos.
 
-Cantemir estava certo em pelo menos uma coisa:
+Voltou.
 
-**o grupo anterior realmente tinha vindo até ali.**
+Contou o que havia visto.
 
-A pergunta era o que havia matado todos eles.
+Ainda não sabiam exatamente o que estava lá embaixo.
+
+Então Yann resolveu perguntar ao chão de uma maneira diferente.
 
 ---
 
-## 13. O voluntário que não era uma pessoa
+## 10. O servo que encontrou a resposta
 
-Yann decidiu fazer outro teste.
+Um **Servo Invisível** entrou na caverna.
 
-Conjurou um **Servo Invisível**.
+Passo a passo.
 
-Se alguma coisa estivesse esperando uma criatura viva entrar...
+Sem colocar nenhum dos personagens em risco.
 
-seria melhor descobrir sem oferecer um companheiro de verdade.
+Por alguns instantes, nada aconteceu.
 
-O servo avançou.
+Então ele se aproximou demais dos cadáveres.
 
-Chegou próximo dos corpos.
+A terra se rompeu.
 
-E alguma coisa aconteceu muito rápido.
-
-O chão se rompeu.
-
-Uma enorme garra surgiu de baixo.
+Uma garra enorme saiu de baixo.
 
 Agarrou o servo.
 
 E o destruiu.
 
-Depois desapareceu novamente.
+Silêncio de novo.
+
+A resposta era bastante clara.
 
 > [!danger]
-> O problema não estava escondido atrás de uma pedra.
->
-> Não estava num túnel à frente.
->
-> **Estava embaixo de vocês.**
+> **Alguma coisa estava esperando debaixo do chão.**
 
 ---
 
-## 14. Um passo. Um som.
+## 11. Quando vocês andavam, ela andava
 
-Yann e **Oryn** começaram a testar a descoberta.
+Yann e Oryn avançaram com mais cuidado.
+
+E perceberam o padrão.
 
 Um passo.
 
-Alguma coisa se movia sob o chão.
+Movimento sob a terra.
 
 Paravam.
 
-O ruído diminuía.
+O som diminuía.
 
 Outro passo.
 
 O movimento voltava.
 
-Mais perto.
+A coisa sob o chão não precisava enxergar vocês.
 
-Aos poucos, o comportamento ficou claro:
+**Ela escutava a caminhada.**
 
-**o predador estava acompanhando as vibrações.**
+Ou sentia cada vibração.
 
-Ele não precisava enxergar vocês.
+Foi aí que o título da sessão começou a fazer sentido.
 
-O chão contava onde estavam.
+> **O chão escuta.**
 
----
+Oryn encontrou uma solução para pelo menos parte do problema.
 
-## 15. Oryn rouba dos mortos sem chegar perto deles
+Usando **Mão Mágica**, conseguiu retirar à distância:
 
-O perigo estava perto dos cadáveres.
+- o **Martelo de Guerra** intacto;
+- a **Espada Longa quebrada**.
 
-O equipamento também.
-
-Oryn encontrou uma solução que exigia menos heroísmo e mais magia utilitária.
-
-**Mão Mágica.**
-
-Sem caminhar até o ponto onde o servo havia sido destruído, ele conseguiu trazer para o grupo:
-
-- um **Martelo de Guerra** completo;
-- uma **Espada Longa Quebrada**.
-
-> [!success] Magia utilitária também vence encontros
-> O grupo não precisou lutar para conquistar os primeiros itens.
->
-> Primeiro entendeu a ameaça.
->
-> Depois usou alcance e criatividade para tirar alguma coisa dela.
-
-O martelo estava em condições muito melhores do que quase todo equipamento encontrado desde a Casa Durst.
-
-Para Lionel, aquilo chamaria atenção rapidamente.
+Sem oferecer uma perna para descobrir o que mais havia ali.
 
 ---
 
-## 16. “E se a gente simplesmente for embora?”
+# A pergunta mais sensata da sessão
 
-Veio então talvez a pergunta mais sensata da tarde.
+## 12. “E se a gente simplesmente for embora?”
 
-**Vet** olhou para:
+Depois da descoberta, começou a reunião estratégica.
 
-- corpos;
-- sangue;
-- uma criatura enterrada;
-- equipamento corroído;
-- uma caverna que claramente já havia matado aventureiros;
+Cordas.
 
-e sugeriu:
+Pedras.
 
-> **talvez fosse melhor não lutar.**
+Corpos.
 
-Era possível ir embora.
+Iscas.
 
-O grupo sabia disso.
+Magia.
 
-Não havia ninguém vivo pedindo resgate.
+O barco.
 
-A criatura não estava perseguindo vocês pela floresta.
+A água.
 
-A saída ainda estava ali.
+Paredes.
 
-Então todos olharam novamente para o equipamento espalhado entre os mortos.
+Disco Flutuante.
 
-O grupo havia chegado a Baróvia praticamente sem recursos.
+Mão Mágica.
 
-Muita coisa que carregavam ainda era improvisada, quebrada ou recuperada de outros lugares.
+Planos dentro de planos.
 
-E aqueles cadáveres tinham exatamente aquilo que faltava.
+Até que **Vet** apresentou uma alternativa revolucionária:
 
-A prudência apresentou seu argumento.
+> [!quote] **Vet**
+> **“Será que não seria interessante a gente evitar essa batalha e talvez ir embora?”**
 
-A necessidade respondeu.
+Houve um problema.
 
-**Eles ficaram.**
+Vocês tinham visto os equipamentos.
 
----
+E estavam precisando muito de equipamentos.
 
-# O chão escuta
+A prudência fez seu melhor argumento.
 
----
+A ganância — ou necessidade logística, dependendo de quem conta — venceu.
 
-## 17. Lionel tem uma ideia
+Vocês ficaram.
 
-A criatura acompanhava passos.
-
-Então **Lionel** propôs dar a ela exatamente aquilo que queria.
-
-Um alvo.
-
-Ele explicou o plano antes de entrar.
-
-Não seria:
-
-> “vou andar lá e ver o que acontece.”
-
-Seria:
-
-1. caminhar deliberadamente para dentro;
-2. sentir o predador acompanhá-lo;
-3. controlar os próprios passos;
-4. esperar o instante do ataque;
-5. **saltar para trás quando o chão se rompesse**.
-
-Enquanto isso, **Dhorak** buscou uma posição elevada.
-
-Encontrou uma grande pedra.
-
-Preparou-se para empurrá-la quando o predador aparecesse.
-
-**Yann** ajudou com Inspiração Bárdica.
-
-O plano estava montado.
-
-Agora alguém precisava convencer a criatura de que Lionel era uma refeição fácil.
+Mas, dessa vez, não entrariam sem plano.
 
 ---
 
-## 18. Passo.
+# Lionel entra sozinho
 
-Lionel entrou.
+## 13. A armadilha muda de lado
 
-**Passo.**
+**Lionel** se ofereceu como isca.
 
-Algo se moveu embaixo.
+O plano era simples.
+
+Na teoria.
+
+Ele entraria na caverna.
+
+Daria alguns passos.
+
+Prestaria atenção ao movimento abaixo.
+
+Quando a criatura se aproximasse...
+
+esperaria o ataque.
+
+E saltaria para trás.
+
+Enquanto isso, **Dhorak** subiu para uma posição acima da área e preparou uma grande pedra.
+
+**Yann** usou sua Inspiração para ajudar os dois.
+
+Então Lionel entrou.
+
+Um passo.
+
+O chão respondeu.
 
 Ele parou.
 
-O som também diminuiu.
+O movimento parou.
 
-Lionel avançou novamente.
+Mais um passo.
 
-O ruído voltou.
+A coisa se aproximou.
 
-Mais perto.
+Lionel diminuiu o ritmo.
 
-**Passo.**
+Continuou.
 
-Terra raspando sob pedra.
+Passo por passo.
 
-**Passo.**
+Até ficar perto demais dos cadáveres.
 
-O som acompanhando.
+O som abaixo dele ficou mais forte.
 
-Ele já não estava apenas suspeitando.
+E então...
 
-Sabia que a criatura o seguia.
-
-Lionel continuou até chegar perto dos corpos.
-
-Então o chão respondeu.
+o chão explodiu.
 
 ---
 
-## 19. O salto
+## 14. O salto
 
-A terra explodiu para cima.
+A criatura rompeu a terra exatamente onde Lionel estava.
 
-Pedra.
+Barro, pedra e restos foram lançados para os lados.
 
-Barro.
+Garras abriram-se.
 
-Restos.
+Mandíbulas vieram logo atrás.
 
-Uma criatura de carapaça rompeu o chão exatamente onde Lionel estava.
+Mas Lionel já sabia o que estava esperando.
 
-Garras e mandíbulas vieram junto.
+![[Portal_dos_Jogadores/Imagens/Sessao10/03-lionel-ankheg.jpg]]
 
-Mas havia um problema.
+*O chão se rompeu. Lionel já estava saindo do lugar.*
 
-**Lionel estava esperando por isso.**
+**Ele saltou para trás.**
 
-No instante em que o chão cedeu, ele lançou o corpo para trás.
+As garras fecharam no vazio.
 
-Um salto inteiro.
+Por uma fração de segundo, uma criatura que havia matado aventureiros usando o próprio terreno como vantagem estava completamente exposta.
 
-Armadura e capa acompanhando o movimento.
+Porque, daquela vez...
 
-As garras fecharam onde ele estava um momento antes.
+**a presa sabia que seria atacada.**
 
-No vazio.
-
-![[Portal_dos_Jogadores/Imagens/Sessao10/03-o-chao-escuta.webp]]
-
-*A criatura rompeu o chão exatamente onde Lionel queria. O detalhe importante: quando as garras chegaram, ele já não estava mais ali.*
-
-> [!success] O predador caiu na armadilha
-> Não foi apenas uma esquiva.
->
-> O grupo havia:
->
-> - descoberto como a criatura caçava;
-> - testado a informação;
-> - preparado posições;
-> - escolhido uma isca;
-> - anunciado a reação antes do ataque.
->
-> **Dessa vez, quem estava esperando debaixo do chão foi surpreendido.**
-
-E Dhorak ainda não havia feito sua parte.
-
----
-
-## 20. A pedra de Dhorak
-
-Assim que a criatura emergiu, **Dhorak** empurrou a grande pedra preparada de cima.
-
-O plano tinha duas partes.
-
-Lionel fazia o monstro aparecer.
-
-Dhorak fazia o aparecimento doer.
+E Dhorak estava esperando.
 
 A pedra caiu.
 
-E a investigação terminou.
-
-**Agora era combate.**
-
----
-
-# A luta na caverna
-
----
-
-## 21. O que matou os aventureiros
-
-No começo da exploração, os corpos já haviam mostrado algo estranho.
-
-Alguns estavam próximos.
-
-Quase alinhados.
-
-Partes de roupas e equipamento apresentavam o mesmo tipo de corrosão.
-
-Durante a luta, o grupo descobriu o motivo.
-
-A criatura abriu as mandíbulas.
-
-E lançou um **jato de ácido em linha**.
-
-Quando personagens ficaram posicionados na mesma direção, mais de um foi atingido pelo mesmo ataque.
-
-Foi então que Vet percebeu o detalhe.
-
-> [!quote] **Vet**
-> **“Realmente, os cadáveres estavam todos em linha.”**
-
-A pista estava ali antes do combate.
-
-Só ganhou significado quando o mesmo perigo apontou para vocês.
-
----
-
-## 22. Lionel encontra o próprio ritmo
-
-Contra os lobos, Lionel havia saído frustrado.
-
-Na caverna, a história começou diferente.
-
-O **Martelo de Guerra** recuperado por Oryn estava em suas mãos.
-
-Era uma arma de verdade.
-
-Pesada.
-
-Inteira.
-
-Confiável.
-
-Quando um golpe finalmente entrou, Lionel fez aquilo que um paladino faz quando decide que um ataque precisa significar mais.
-
-Canalizou poder divino.
-
-O martelo desceu.
-
-Energia acompanhou o golpe.
-
-E a criatura recebeu ambos ao mesmo tempo.
-
-> [!success]
-> Depois de assistir Vet incendiar o campo com luz, Lionel finalmente teve seu próprio momento de responder:
+> [!success] Um plano que funcionou
+> O mais importante nessa cena não foi apenas Lionel conseguir evitar o golpe.
 >
-> **martelo, fé e um Smite bem colocado.**
-
-As referências a Lathander durante a luta talvez não tenham sido teologicamente impecáveis.
-
-Vet poderá corrigir isso depois.
+> Vocês descobriram **como a criatura caçava**, montaram uma estratégia em torno disso e obrigaram o predador a aparecer onde queriam.
+>
+> Pela primeira vez dentro daquele ninho, **a emboscada era de vocês**.
 
 ---
 
-## 23. Dhorak decide que a criatura não vai para lugar nenhum
+# A luta debaixo da terra
 
-Dhorak encontrou outra utilidade para toda aquela força.
+## 15. Ácido
 
-Em vez de simplesmente continuar tentando cortar uma das criaturas, ele a **agarrou**.
+O primeiro problema ficou evidente rápido.
+
+As criaturas não tinham apenas garras.
+
+Elas podiam expelir **ácido em linha**.
+
+E o interior da caverna não oferecia tanto espaço quanto parecia.
+
+Em determinado momento, vários personagens ficaram alinhados.
+
+O ataque atravessou a formação.
+
+Então Vet olhou novamente para os cadáveres encontrados antes da luta.
+
+Vários deles também haviam morrido quase na mesma linha.
+
+A pista estava ali desde o começo.
+
+Só ficou mais convincente depois que começou a derreter gente viva.
+
+---
+
+## 16. Lionel encontra o ritmo
+
+A luta contra os lobos havia terminado com Lionel frustrado.
+
+A luta na caverna começou diferente.
+
+O **Martelo de Guerra** recuperado funcionava.
+
+Os golpes começaram a encontrar o alvo.
+
+E, desta vez, quando a energia divina veio...
+
+ela veio junto.
+
+Lionel descarregou um **Smite** em um golpe descendente contra uma das criaturas.
+
+Depois de passar a manhã olhando para a luz de Vet e perguntando se sua própria fé tinha o mesmo peso...
+
+ele finalmente teve seu momento.
+
+Martelo.
+
+Energia divina.
+
+Impacto.
+
+E uma criatura subterrânea que não levantou de novo.
+
+---
+
+## 17. Dhorak decide que o monstro não vai a lugar nenhum
+
+Em outro ponto da luta, **Dhorak** decidiu parar de tentar apenas acertar a criatura.
+
+Ele a agarrou.
+
+Com as próprias mãos.
 
 Segurou.
 
-Arrastou.
+Puxou.
 
 Reposicionou.
 
-Virou o corpo dela para oferecer uma abertura melhor aos companheiros.
+E virou o corpo do predador para oferecer um alvo melhor para os aliados.
 
-> [!note]
-> Por alguns instantes, o plano tático do grupo foi basicamente:
->
-> **“Dhorak, segura esse negócio.”**
->
-> E funcionou melhor do que deveria.
+O plano foi resumido numa estratégia bastante bárbara:
 
-Mesmo apanhando e recebendo ácido, o bárbaro continuou usando o próprio corpo para impedir que a criatura escolhesse livremente onde lutar.
+> **“Agora bate.”**
+
+Mesmo tomando dano e ácido, Dhorak continuou segurando a criatura enquanto os outros tentavam terminar o serviço.
 
 ---
 
-## 24. Kael contra o verdadeiro inimigo: os dados
+## 18. Kael versus probabilidade
 
-**Kael** conhece monstros.
+E então havia **Kael**.
 
-O problema daquela tarde não era conhecimento.
+Kael tinha uma arma.
 
-Era probabilidade.
+Kael tinha um alvo.
+
+Em alguns momentos, Kael tinha até um alvo sendo **segurado por Dhorak**.
+
+O que Kael não tinha...
+
+eram dados interessados em colaborar.
 
 Ataque.
 
 Erro.
 
-Outro ataque.
+Ataque.
 
 Erro.
 
-Uma nova chance.
+Mais um.
 
-Erro.
+Mais um.
 
-A sequência começou a ficar pessoal.
+A frustração foi crescendo proporcionalmente à quantidade de números que se recusavam a ser úteis.
 
-E, como se o universo quisesse testar até onde a paciência de um Blood Hunter conseguia chegar, houve momentos em que **Dhorak estava literalmente segurando a criatura no lugar**...
+Até que finalmente veio o acerto.
 
-e Kael continuava errando.
+E, depois de toda aquela sequência...
 
-> [!danger] Situação crítica
-> Em algum momento, deixou de ser:
+**Kael terminou a última criatura.**
+
+> [!success]
+> Às vezes o golpe final é heroico porque foi perfeito.
 >
-> “Kael não acertou.”
->
-> E virou:
->
-> **“Os dados declararam guerra contra Kael.”**
-
-A raiva foi acumulando.
-
-Até que, finalmente, o ataque entrou.
-
-Depois outro.
-
-E, quando chegou a hora de terminar a última ameaça ainda ativa...
-
-**foi Kael quem recebeu a chance.**
-
-Depois de tantos erros, a finalização veio com toda a violência acumulada dos turnos anteriores.
-
-A criatura descobriu que estatística ruim eventualmente acaba.
+> Às vezes é heroico porque o dado finalmente decidiu **parar de sacanear você**.
 
 ---
 
-## 25. O silêncio volta
+# O que os mortos deixaram
 
-Quando a última ameaça caiu, ninguém confiou imediatamente no chão.
+## 19. O silêncio voltou
 
-Ainda esperaram.
+Depois da luta, vocês esperaram.
 
-Algum ruído.
+Nenhum tremor.
 
-Outro tremor.
+Nenhuma garra.
 
-Mais uma garra.
+Nenhum ruído se movendo sob o chão.
 
-Nada.
+Só a água e a respiração de quem ainda estava vivo.
 
-A água voltou a ser o som mais constante da caverna.
+Foi então que o ninho deixou de ser uma arena.
 
-E, pela primeira vez, os mortos podiam ser examinados sem que alguma coisa tentasse puxar alguém para baixo.
+E voltou a ser aquilo que vocês tinham vindo procurar:
 
----
+**o túmulo de outro grupo de aventureiros.**
 
-## 26. Kael encontra um dos seus
+Kael encontrou um **tiefling** entre os mortos.
 
-Entre os cadáveres havia um **tiefling**.
+Parou.
 
-Kael parou.
+E fez uma breve oração por ele.
 
-Não conhecia aquele aventureiro.
+Depois vocês começaram a vasculhar os corpos e equipamentos.
 
-Não sabia sua história.
-
-Mas reservou alguns instantes para uma oração.
-
-Um gesto pequeno diante de alguém que havia chegado de fora de Baróvia, enfrentado uma coisa que não compreendia e terminado enterrado numa caverna.
-
-Naquele momento, o grupo ainda não sabia o quanto aquela semelhança iria crescer.
+Dessa vez, ninguém precisava correr.
 
 ---
 
-# O que ficou com vocês
+# Loot da Sessão 10
 
----
-
-## 27. Equipamento recuperado
-
-Depois de controlar o local e procurar com calma, o grupo conseguiu recuperar bastante coisa.
-
-> [!success] Loot da Sessão 10
+> [!success] O que vocês recuperaram
+> O grupo saiu do ninho com equipamento de verdade, materiais úteis, ouro e alguns itens bem menos comuns.
 >
-> | Item | Estado / o que vocês sabem |
-> |---|---|
-> | **Martelo de Guerra** | Completo, intacto e pronto para uso. |
-> | **Espada Longa Quebrada** | A maior parte da arma sobreviveu; precisa de reparo. |
-> | **Cota de Malha parcialmente corroída** | Danificada pelo ácido, mas ainda parece recuperável. |
-> | **Lanterna Coberta** | Funcional. |
-> | **2 Peças de Metal** | Material aproveitável para reparos ou criação. |
-> | **90 PO** | Recuperadas entre os pertences dos mortos. |
-> | **Lucky Foot / Pé de Coelho da Sorte** | Pequeno consumível mágico ligado a corrigir um momento de péssima sorte. |
-> | **Dispelling Ammunition** | Uma única munição encantada para interferir com magia. |
-> | **Potion of Dragon's Breath** | Poção mágica que permite ao usuário expelir temporariamente um sopro elemental. |
+> **A distribuição atual entre os personagens fica nas fichas do Foundry.**
 
-> [!warning] Itens mágicos
-> Os três últimos são **consumíveis**.
->
-> Depois que sua propriedade é usada, não contem com uma segunda carga.
+| Item | Estado / o que vocês sabem |
+|---|---|
+| **Martelo de Guerra** | Intacto e pronto para uso. Lionel já descobriu que funciona muito melhor que uma arma improvisada. |
+| **Espada Longa** | Quebrada, mas com boa parte da arma ainda aproveitável. |
+| **Cota de Malha** | Parcialmente corroída pelo ácido; ainda pode valer um reparo. |
+| **Lanterna Coberta** | Suja, mas funcional. |
+| **2 Peças de Metal** | Material aproveitável retirado dos equipamentos destruídos. |
+| **90 PO** | Recuperados entre os pertences dos aventureiros mortos. |
+| **Lucky Foot** | Pequeno pé de coelho encantado. Oryn não demonstrou grande entusiasmo com a estética. |
+| **Dispelling Ammunition** | Uma única munição encantada para interferir com magia. |
+| **Potion of Dragon's Breath** | Poção capaz de conceder temporariamente um sopro elemental. |
 
-A distribuição atual dos itens fica nas fichas do **Foundry**.
+Além disso, do encontro com os lobos:
+
+| Troféu / material | Estado |
+|---|---|
+| **2 peles/couros de lobo** | Material recuperado por Dhorak. |
+| **Cabeça do lobo maior** | Dhorak pretende tentar transformá-la em um elmo. |
 
 ---
 
-## 28. O pior item possível para Oryn
+## 20. Três coisas estranhas
 
-O **Lucky Foot** chamou atenção por um motivo muito específico.
+Entre todo o loot, três itens chamaram atenção especial.
 
-Era literalmente um **pé de coelho preservado**.
+### 🍀 Lucky Foot
 
-Oryn, harengon, teve a oportunidade única de descobrir que em algum lugar de Faerûn existe alguém que olhou para uma parte amputada de um coelho e pensou:
+Era exatamente o que o nome sugeria.
 
-**“isso deve trazer sorte.”**
+Um **pé de coelho preservado**.
 
-A reação dele foi proporcional à descoberta.
+Mágico.
 
-> [!note]
-> O item é mágico.
->
-> Isso não torna a escolha estética menos questionável.
+Consumível.
+
+E particularmente desconfortável para o único harengon do grupo.
+
+**Oryn não pareceu apreciar a ironia.**
+
+### 🏹 Dispelling Ammunition
+
+Uma única munição marcada por pequenos símbolos.
+
+Feita para interferir com magia quando usada corretamente.
+
+Não havia muitas.
+
+Na verdade...
+
+havia **uma**.
+
+### 🐉 Potion of Dragon's Breath
+
+Um frasco contendo um líquido estranho, carregado de energia elemental.
+
+Por algum tempo, quem beber poderá fazer algo normalmente reservado a criaturas muito maiores:
+
+**respirar destruição.**
 
 ---
 
 # Waterdeep
 
----
+## 21. Eles também vieram de fora
 
-## 29. Yann procura nomes, não apenas moedas
+O ouro e os itens explicavam por que aqueles aventureiros tinham chamado a atenção de Cantemir.
 
-Depois de procurar equipamento, **Yann** foi atrás de outra coisa.
+Mas **Yann** procurava outra coisa.
+
+Nomes.
 
 Documentos.
 
-Identificação.
+Alguma pista que dissesse quem eram aquelas pessoas.
 
-Qualquer pista que dissesse quem eram aquelas pessoas.
+Entre os pertences de um dos mortos, encontrou identificação.
 
-Encontrou.
+O lugar de origem não era Baróvia.
 
-Entre os pertences havia uma identificação ligada a uma cidade conhecida.
+Era um nome conhecido.
 
-Não uma cidade de Baróvia.
+> [!info] **Waterdeep**
+> Uma das maiores cidades de **Faerûn**.
 
-**Waterdeep.**
+Por alguns segundos, todo o resto do ninho ficou menos importante.
 
-Em **Faerûn**.
+Aquelas pessoas não haviam nascido ali.
 
-A descoberta mudou imediatamente o significado dos corpos.
+Não eram moradores que decidiram enfrentar alguma criatura próxima à vila.
 
-Até então, eles eram:
+**Eram estrangeiros.**
 
-> aventureiros que vieram ajudar a vila e morreram.
+Como vocês.
 
-Agora eram também:
+Vieram de Faerûn.
 
-> **pessoas de fora que chegaram a Baróvia antes de vocês.**
+Chegaram a Baróvia.
 
-Cantemir havia dito que aquele grupo passou pela vila aproximadamente um mês antes, comprou equipamentos e saiu para investigar as criaturas que atacavam através do solo.
+Passaram pela Vila de Baróvia.
 
-Eles chegaram até a caverna.
+Aceitaram ajudar contra as criaturas que atacavam através do chão.
 
-E não voltaram.
+E terminaram naquela caverna.
+
+> [!question]
+> **Como eles chegaram aqui?**
+>
+> Vocês ainda não sabem.
+
+Mas agora existe uma certeza nova:
+
+> **vocês não foram os primeiros.**
 
 ---
 
-## 30. Vocês não foram os primeiros
+# Quem fez o quê
 
-> [!info] Descoberta importante
-> Pelo menos parte do grupo morto veio de **Waterdeep, Faerûn**.
->
-> Isso prova uma coisa que vocês ainda não tinham visto tão concretamente:
->
-> **Baróvia já recebeu outros estrangeiros de Faerûn antes de vocês.**
-
-Isso não responde:
-
-- como eles chegaram;
-- por qual caminho;
-- se foram trazidos juntos;
-- quem os trouxe;
-- se algum integrante de grupos anteriores conseguiu escapar de Baróvia.
-
-Mas muda a pergunta.
-
-Antes:
-
-> **“Como nós viemos parar aqui?”**
-
-Agora existe outra:
-
-> **“Quantas outras pessoas vieram parar aqui também?”**
-
-E, talvez mais importante:
-
-> **“O que aconteceu com elas?”**
-
-Naquela caverna, vocês encontraram uma resposta possível.
-
----
-
-# O que cada um fez de marcante
-
-| Personagem | O que ficou da Sessão 10 |
+| Personagem | Destaque da sessão |
 |---|---|
-| **Vet / Svetlana** | Transformou o cerco dos lobos com **Radiância da Alvorada**, atingindo boa parte da matilha; foi a principal voz da prudência no ninho; reconheceu durante a luta a pista dos cadáveres alinhados; e despertou em Lionel uma curiosidade real sobre **Lathander**. |
-| **Lionel** | Entrou frustrado na sessão, mas terminou com dois grandes momentos: elaborou e executou a manobra de **atrair a criatura e saltar para trás** no instante do ataque, depois voltou a encontrar confiança usando o **Martelo de Guerra + poder divino**. |
-| **Dhorak** | Derrubou o maior lobo, tomou a cabeça como troféu, recuperou peles, preparou a pedra para o plano de Lionel e depois **agarrou/reposicionou** uma criatura para facilitar os ataques do grupo. |
-| **Kael** | Saiu da formação para enfrentar um lobo afastado, tentou esconder os rastros após a batalha, passou por uma sequência brutal de azar no ninho e mesmo assim conseguiu **encerrar a última ameaça**; depois ainda parou para rezar pelo tiefling morto. |
-| **Oryn** | Encontrou uma erva curativa, participou dos testes para entender como o predador rastreava passos e usou **Mão Mágica** para recuperar equipamento antes do combate; também descobriu que seu povo aparentemente possui uma relação comercial problemática com amuletos de sorte. |
-| **Yann** | Fez o reconhecimento invisível, usou **Servo Invisível** para revelar a emboscada sem sacrificar um aliado, ajudou o plano com Inspiração Bárdica, realizou mais um comportamento inexplicavelmente casual envolvendo sangue e, no fim, foi quem encontrou a pista que ligava os mortos a **Waterdeep**. |
+| **Vet / Svetlana** | Mudou o combate contra os lobos com **Radiance of the Dawn**, questionou se valia a pena entrar no ninho e despertou em Lionel uma curiosidade sincera sobre Lathander. |
+| **Lionel** | Passou da frustração contra os lobos para um dos grandes momentos da sessão: **entrou como isca, leu o movimento sob o chão e saltou para trás no instante do ataque**. Depois encontrou ritmo com o Martelo de Guerra e Smite. |
+| **Dhorak** | Matou o maior lobo, guardou a cabeça como troféu, preparou a pedra para o plano de Lionel e depois **agarrou uma criatura subterrânea** para facilitar os ataques do grupo. |
+| **Kael** | Abriu distância no cerco dos lobos, tentou ocultar os rastros depois da luta, percebeu que a caverna era um ninho e, depois de uma sequência brutal de azar, **terminou a última criatura**. Também parou para prestar respeito a um tiefling morto. |
+| **Oryn** | Encontrou uma erva curativa, usou **Mão Mágica** para recuperar equipamentos sem se aproximar da emboscada e ajudou a entender como as criaturas reagiam ao movimento. Também ganhou um novo motivo para desconfiar de pés de coelho. |
+| **Yann** | Fez o reconhecimento invisível, usou o **Servo Invisível** para descobrir a emboscada sem sacrificar um companheiro, deu Inspiração durante o plano e encontrou a pista que mudou o significado dos mortos: **Waterdeep**. |
 
 ---
 
-# O que vocês descobriram
+# O que vocês aprenderam
 
 | Descoberta | O que isso significa por enquanto |
 |---|---|
-| Um dos lobos escapou com uma orelha marcada. | Ele sobreviveu ao combate e desapareceu na floresta. |
-| Há criaturas na região que caçam por baixo do solo. | Movimento e vibração podem revelar a posição de quem caminha sobre elas. |
-| Os cadáveres corroídos estavam alinhados. | O ataque ácido das criaturas podia atravessar vários alvos na mesma direção. |
-| O local indicado por Cantemir realmente continha os aventureiros desaparecidos. | A informação dele estava correta. |
-| Havia equipamentos ainda recuperáveis entre os mortos. | O desvio trouxe recursos reais para a party. |
-| Pelo menos um dos mortos possuía identificação de Waterdeep. | Outros estrangeiros de **Faerûn** chegaram a Baróvia antes do grupo atual. |
-| Lionel demonstrou interesse em Lathander. | Vet e Lionel deixaram uma conversa religiosa pendente. |
-| Yann provou sangue seco encontrado no local. | A lista de coisas estranhas que ele faz quando sangue aparece continua aumentando. |
+| Um lobo com a **orelha cortada** sobreviveu ao confronto. | Ele fugiu para a floresta depois de olhar para trás. |
+| As criaturas do ninho percebiam movimento através do solo. | Parar, observar e controlar os próprios passos realmente fazia diferença. |
+| O ataque ácido funcionava em linha. | Os cadáveres encontrados antes da luta já carregavam essa pista. |
+| O local realmente era o destino dos aventureiros mencionados por Cantemir. | A história dele estava correta. |
+| Os mortos possuíam equipamento útil e itens mágicos. | O desvio valeu recursos reais para o grupo. |
+| Pelo menos um dos aventureiros era de **Waterdeep**. | Outras pessoas de Faerûn chegaram a Baróvia antes de vocês. |
+| Lionel quer saber mais sobre **Lathander**. | Vet prometeu conversar melhor com ele quando houver oportunidade. |
 
 ---
 
-# Itens e consequências importantes
+# Onde paramos
 
-| Item ou consequência | Estado |
-|---|---|
-| **Martelo de Guerra** | Recuperado intacto; já mostrou ser muito mais confiável que algumas armas improvisadas do grupo. |
-| **Espada Longa Quebrada** | Recuperada; precisa de reparo. |
-| **Cota de Malha corroída** | Recuperada; danificada, mas potencialmente reparável. |
-| **Lanterna Coberta** | Recuperada e funcional. |
-| **2 Peças de Metal** | Disponíveis para crafting/reparo. |
-| **90 PO** | Recuperadas do grupo morto. |
-| **Lucky Foot** | Consumível mágico. |
-| **Dispelling Ammunition** | 1 munição mágica consumível. |
-| **Potion of Dragon's Breath** | 1 poção mágica consumível. |
-| **2 peles/couros de lobo** | Recuperadas por Dhorak. |
-| **Cabeça do lobo maior** | Mantida por Dhorak, que quer transformá-la em um elmo. |
-| **Lobo de orelha cortada** | Fugiu vivo para a floresta. |
-| **Aventureiros de Waterdeep** | Encontrados mortos no ninho. |
-
----
-
-# Relações e mudanças
-
-## Vet e Lionel — luz emprestada não é a mesma coisa que fé
-
-Lionel viu o que Vet fez no combate.
-
-Não apenas como combatente.
-
-Como clériga.
-
-A eficiência daquela luz apareceu justamente num momento em que ele estava se sentindo pouco útil.
-
-Então fez algo que Lionel nem sempre faz facilmente:
-
-**perguntou.**
-
-Vet não lhe entregou uma resposta pronta.
-
-Mas deixou a porta aberta para uma conversa sobre Lathander quando retornarem.
-
-Talvez não leve a nada.
-
-Talvez leve.
-
-O importante é que, pela primeira vez, Lionel quis saber.
-
----
-
-## Lionel e Dhorak — confiança em dois movimentos
-
-O plano contra a criatura subterrânea só funcionava se os dois cumprissem exatamente suas partes.
-
-Lionel precisava acreditar que conseguiria provocar o ataque e sair.
-
-Dhorak precisava esperar.
-
-Não pular antes.
-
-Não jogar a pedra antes.
-
-Não perder a janela.
-
-Lionel entrou.
-
-A criatura surgiu.
-
-Lionel saltou.
-
-Dhorak derrubou a pedra.
-
-> [!success]
-> Não foi um combo escrito na ficha.
+> [!warning] Cena atual
+> A ameaça dentro da caverna foi derrotada.
 >
-> **Foi um plano que nasceu na mesa.**
+> Os corpos foram vasculhados.
+>
+> O equipamento foi recuperado.
+>
+> E vocês acabaram de descobrir que os mortos vieram de **Faerûn**.
+>
+> Do lado de fora, porém, a tarde está acabando.
+>
+> O plano original continua sendo voltar para a **Vila de Baróvia**, descansar e partir com **Ireena para Vallaki** na manhã seguinte.
 
 ---
 
-## Kael — persistir até os dados pedirem desculpa
+# Perguntas que ficaram
 
-Nada que Kael fizesse parecia funcionar por boa parte do segundo combate.
-
-Isso poderia ter transformado a luta inteira num trecho frustrante.
-
-Em vez disso, virou uma história.
-
-Porque ele continuou tentando.
-
-E quando finalmente acertou, não foi um ataque qualquer.
-
-Foi o golpe que encerrou a ameaça.
-
-> [!note]
-> Às vezes o dado conta uma história bonita.
->
-> Às vezes ele passa vinte minutos insultando você antes.
-
----
-
-## Yann — cada resposta cria duas perguntas
-
-Yann foi extremamente útil naquela caverna.
-
-Sem o reconhecimento invisível e o Servo Invisível, alguém de verdade poderia ter descoberto a emboscada da pior forma.
-
-Sem procurar documentos depois, Waterdeep teria permanecido apenas como uma cidade distante.
-
-Ao mesmo tempo...
-
-ele também provou sangue seco do chão.
-
-Então o saldo de perguntas relacionadas a Yann permanece saudável.
-
----
-
-# Três coisas para lembrar
-
-> [!tip] Antes da próxima sessão
->
-> **1. Um lobo escapou.**  
-> Uma das orelhas está cortada. Ele olhou para trás antes de desaparecer.
->
-> **2. Waterdeep.**  
-> O grupo morto veio, ao menos em parte, de Faerûn. Vocês não são os primeiros estrangeiros que Baróvia engoliu.
->
-> **3. Ireena ainda está esperando.**  
-> Tudo isso foi apenas o “desvio rápido” antes da viagem para Vallaki.
+- Como os aventureiros de Waterdeep chegaram a Baróvia?
+- Quantos outros estrangeiros já foram trazidos para cá?
+- Algum grupo anterior conseguiu sair?
+- Cantemir sabia que eles eram de Faerûn?
+- O que os Vistani sabem sobre essas chegadas?
+- O lobo de orelha cortada estava apenas fugindo... ou aquele último olhar significou alguma coisa?
+- Lionel vai realmente acompanhar Vet numa conversa sobre Lathander?
+- Dhorak vai conseguir transformar aquela cabeça num elmo?
+- Quem vai usar os itens mágicos encontrados?
+- E, depois desse desvio, **quanto tempo de luz ainda resta para voltar à vila?**
 
 ---
 
 # Próxima sessão
 
 > [!summary] Ponto de partida
-> A caverna está silenciosa.
+> O ninho está silencioso.
 >
-> O equipamento dos mortos agora está com vocês.
+> **Vet** já fez a luz nascer no meio de uma matilha.
 >
-> Uma identificação de **Waterdeep** tornou aqueles cadáveres muito menos distantes.
+> **Lionel** fez uma criatura subterrânea errar o ataque pulando para trás no instante exato.
 >
-> Lá fora, a tarde está acabando.
+> **Dhorak** carrega a cabeça de um lobo grande demais para caber elegantemente em qualquer mochila.
 >
-> Em algum lugar da floresta, um lobo ferido conseguiu escapar.
+> **Kael** finalmente venceu uma batalha particular contra os próprios dados.
 >
-> Na Vila de Baróvia, **Ireena** espera pela manhã seguinte.
+> **Oryn** agora sabe que pés de coelho mágicos existem e gostaria talvez de não saber.
 >
-> E o plano continua sendo o mesmo:
+> **Yann** segura a prova de que aqueles mortos vieram de Waterdeep.
 >
-> **voltar, descansar e partir para Vallaki.**
-
-> [!danger]
-> Só existe um pequeno problema.
+> Vocês conseguiram o equipamento que vieram buscar.
 >
-> **Vocês ainda precisam fazer o caminho de volta.**
+> Só falta uma coisa:
+>
+> **voltar para casa antes que Baróvia fique escura.**
 
 ---
 
