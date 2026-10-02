@@ -18,6 +18,7 @@ tags:
 
 | Sessão | Título | Resumo |
 |---:|---|---|
+| 10 | [[Sessao 10 - Recap dos Jogadores|O Chão Escuta]] | Cercado por lobos, o grupo responde com a luz de Vet e vê um sobrevivente de orelha cortada desaparecer entre as árvores. Depois encontra os aventureiros perdidos de Cantemir, descobre predadores sob o solo, transforma Lionel em isca para uma emboscada planejada e termina diante de uma revelação: os mortos vieram de Waterdeep, em Faerûn. |
 | 09 | [[Sessao 09 - Recap dos Jogadores|A Felicidade Tem um Preço]] | Depois de enterrar Kolyan e Doru, o grupo aceita escoltar Ireena até Vallaki, impede Morganta de receber uma criança como pagamento pelas Tortas dos Sonhos e descobre que Dhorak quer outra porção mais do que deveria. Antes da viagem, seguem uma pista sobre aventureiros desaparecidos — até os lobos começarem a uivar. |
 | 08 | [[Sessao 08 - Recap dos Jogadores|Agora Eu Não Sinto Mais]] | O grupo descobre a fome de sangue de Doru, ajuda Donavich a aceitar que o filho não pode continuar preso naquele sofrimento e encerra sua condição. Mais tarde, Morganta aparece vendendo Tortas dos Sonhos, e Dhorak descobre que elas cumprem a promessa de uma noite perfeita. |
 | 07 | [[Sessao 07 - Recap dos Jogadores|Pai, Estou com Fome]] | O grupo entra na Vila de Baróvia, conhece Cantemir, Ireena, Ismark e algumas Vistani, descobre que Strahd é um lorde vampiro e termina na igreja diante do segredo de Donavich: Doru, seu filho, está preso debaixo do templo e pede comida. |
@@ -33,10 +34,10 @@ tags:
 
 ## Última sessão
 
-> [!summary] Sessão 09 — A Felicidade Tem um Preço
-> A manhã começou com **Dhorak feliz demais** e terminou com lobos uivando na estrada. Entre uma coisa e outra, o grupo enterrou **Kolyan** e **Doru**, aceitou levar **Ireena** até **Vallaki**, impediu **Morganta** de receber uma criança como pagamento e viu Dhorak admitir que queria outra **Torta dos Sonhos** mais do que deveria. **Cantemir** ainda apontou o caminho para aventureiros desaparecidos ao sul — e o grupo decidiu investigar antes de partir.
+> [!summary] Sessão 10 — O Chão Escuta
+> Os uivos viraram um cerco: seis lobos e uma fera muito maior fecharam a estrada, até **Vet** explodir luz radiante no centro da matilha. Um lobo escapou com a orelha cortada e um último olhar para o grupo. Mais tarde, na caverna indicada por Cantemir, **Yann** e **Oryn** descobriram que os predadores caçavam pelas vibrações do chão. **Lionel** virou a própria isca, saltou para trás quando a criatura emergiu e **Dhorak** completou a armadilha com uma pedra. Depois da luta, os mortos revelaram algo maior: **eles vieram de Waterdeep, em Faerûn**.
 >
-> **Ler agora:** [[Sessao 09 - Recap dos Jogadores|Sessão 09 — A Felicidade Tem um Preço]]
+> **Ler agora:** [[Sessao 10 - Recap dos Jogadores|Sessão 10 — O Chão Escuta]]
 
 ---
 
@@ -71,6 +72,9 @@ tags:
 
 10. **Sessão 09 — A Felicidade Tem um Preço**  
     Vocês enterraram Kolyan e Doru, aceitaram a escolta de Ireena, impediram uma criança de ser entregue a Morganta e deixaram a vila para investigar aventureiros desaparecidos — com lobos anunciando o próximo problema.
+
+11. **Sessão 10 — O Chão Escuta**  
+    Vocês sobreviveram ao cerco da matilha, viram um lobo marcado escapar, encontraram os aventureiros desaparecidos, usaram as vibrações do chão contra os predadores subterrâneos e descobriram que os mortos também vieram de Faerûn.
 
 ---
 
