@@ -211,10 +211,8 @@ Por um instante, os olhos encontraram os de seus perseguidores.
 
 Então ele sumiu entre as árvores.
 
-> [!warning] Algo para lembrar
-> Se algum dia vocês virem novamente um lobo com **uma das orelhas cortadas**...
->
-> provavelmente não precisarão perguntar se já o encontraram antes.
+> [!note]
+> A última visão que tiveram dele foi a **orelha rasgada, marcada de sangue**, antes de desaparecer entre as árvores.
 
 ---
 
