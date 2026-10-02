@@ -2,7 +2,7 @@
 tipo: sessao
 campanha: Curse of Strahd
 sessao: 10
-titulo: "A definir"
+titulo: "O Chão Escuta"
 status: concluida
 local_inicial: "Estrada ao sul da [[Vila de Baróvia]]"
 local_final: "[[Ninho de Ankhegs]]"
@@ -18,7 +18,7 @@ tags:
   - mestre
 ---
 
-# Sessão 10 — Título a definir
+# Sessão 10 — O Chão Escuta
 
 > [!danger] Conteúdo de mestre
 > Nota baseada nas sete faixas da transcrição WhisperX da Sessão 10, no `players.yml` curado, na preparação atual de [[Ninho de Ankhegs]] e em esclarecimentos diretos do mestre sobre a abertura da sessão.
@@ -39,9 +39,7 @@ tags:
 >
 > Esse sobrevivente agora é [[Lobo da Orelha Cortada]] e possui continuidade própria.
 
-> [!tip] Sugestão de título
-> **O Chão Escuta**
->
+> [!note] Por que esse título
 > A sessão inteira foi construída em torno de predadores que percebiam o grupo antes de serem vistos: primeiro a matilha cercando a estrada; depois algo sob a terra respondendo literalmente a cada passo de Lionel.
 
 ---
