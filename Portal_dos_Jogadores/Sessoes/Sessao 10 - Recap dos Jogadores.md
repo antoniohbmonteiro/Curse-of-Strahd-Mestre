@@ -40,6 +40,7 @@ tags:
 > - **Lionel se ofereceu como isca**.
 > - A criatura acompanhou seus passos sob o chão. Quando finalmente rompeu a terra para atacá-lo, Lionel **saltou para trás**, fazendo as garras fecharem no vazio.
 > - **Dhorak**, já preparado acima, derrubou uma pedra sobre a criatura.
+> - Pouco depois, ainda do alto, Dhorak decidiu que descer era opcional e **pulou direto sobre uma das criaturas** para atacá-la.
 > - A luta dentro do ninho trouxe ácido, ataques subterrâneos, agarrões e uma quantidade memorável de ataques errados.
 > - Dhorak chegou a **agarrar uma das criaturas** e segurá-la para os companheiros.
 > - Depois de uma sequência particularmente cruel de dados, **Kael acertou e terminou a última criatura**.
@@ -564,6 +565,8 @@ E Dhorak estava esperando.
 
 A pedra caiu.
 
+**E acertou em cheio.**
+
 > [!success] Um plano que funcionou
 > O mais importante nessa cena não foi apenas Lionel conseguir evitar o golpe.
 >
@@ -575,7 +578,34 @@ A pedra caiu.
 
 # A luta debaixo da terra
 
-## 15. Ácido
+## 15. Dhorak escolhe o caminho mais curto
+
+Dhorak ainda estava numa posição elevada quando olhou para a criatura lá embaixo.
+
+Descer normalmente era uma opção.
+
+Ele escolheu outra.
+
+Perguntou se conseguiria alcançar a cabeça dela dali.
+
+A resposta foi suficiente.
+
+**Dhorak pulou.**
+
+Saiu da altura direto em cima da criatura, já em fúria, atacando com toda a agressividade que tinha guardado para aquele momento.
+
+A queda cobrou seu preço.
+
+Dhorak não pareceu particularmente preocupado com isso.
+
+> [!success] O método Dhorak
+> Primeiro, uma pedra de cima.
+>
+> Depois, **o próprio Dhorak de cima**.
+
+---
+
+## 16. Ácido
 
 O primeiro problema ficou evidente rápido.
 
@@ -599,7 +629,7 @@ Só ficou mais convincente depois que começou a derreter gente viva.
 
 ---
 
-## 16. Lionel encontra o ritmo
+## 17. Lionel encontra o ritmo
 
 A luta contra os lobos havia terminado com Lionel frustrado.
 
@@ -629,7 +659,7 @@ E uma criatura subterrânea que não levantou de novo.
 
 ---
 
-## 17. Dhorak decide que o monstro não vai a lugar nenhum
+## 18. Dhorak decide que o monstro não vai a lugar nenhum
 
 Em outro ponto da luta, **Dhorak** decidiu parar de tentar apenas acertar a criatura.
 
@@ -653,7 +683,7 @@ Mesmo tomando dano e ácido, Dhorak continuou segurando a criatura enquanto os o
 
 ---
 
-## 18. Kael versus probabilidade
+## 19. Kael versus probabilidade
 
 E então havia **Kael**.
 
@@ -696,7 +726,7 @@ E, depois de toda aquela sequência...
 
 # O que os mortos deixaram
 
-## 19. O silêncio voltou
+## 20. O silêncio voltou
 
 Depois da luta, vocês esperaram.
 
@@ -754,7 +784,7 @@ Além disso, do encontro com os lobos:
 
 ---
 
-## 20. Três coisas estranhas
+## 21. Três coisas estranhas
 
 Entre todo o loot, três itens chamaram atenção especial.
 
@@ -796,7 +826,7 @@ Por algum tempo, quem beber poderá fazer algo normalmente reservado a criaturas
 
 # Waterdeep
 
-## 21. Eles também vieram de fora
+## 22. Eles também vieram de fora
 
 O ouro e os itens explicavam por que aqueles aventureiros tinham chamado a atenção de Cantemir.
 
@@ -854,7 +884,7 @@ Mas agora existe uma certeza nova:
 |---|---|
 | **Vet / Svetlana** | Mudou o combate contra os lobos com **Radiance of the Dawn**, questionou se valia a pena entrar no ninho e despertou em Lionel uma curiosidade sincera sobre Lathander. |
 | **Lionel** | Passou da frustração contra os lobos para um dos grandes momentos da sessão: **entrou como isca, leu o movimento sob o chão e saltou para trás no instante do ataque**. Depois encontrou ritmo com o Martelo de Guerra e Smite. |
-| **Dhorak** | Matou o maior lobo, guardou a cabeça como troféu, preparou a pedra para o plano de Lionel e depois **agarrou uma criatura subterrânea** para facilitar os ataques do grupo. |
+| **Dhorak** | Matou o maior lobo, guardou a cabeça como troféu, **acertou a criatura com a pedra preparada para o plano de Lionel, pulou de cima diretamente sobre ela** e depois ainda agarrou outro alvo para facilitar os ataques do grupo. |
 | **Kael** | Abriu distância no cerco dos lobos, tentou ocultar os rastros depois da luta, percebeu que a caverna era um ninho e, depois de uma sequência brutal de azar, **terminou a última criatura**. Também parou para prestar respeito a um tiefling morto. |
 | **Oryn** | Encontrou uma erva curativa, usou **Mão Mágica** para recuperar equipamentos sem se aproximar da emboscada e ajudou a entender como as criaturas reagiam ao movimento. Também ganhou um novo motivo para desconfiar de pés de coelho. |
 | **Yann** | Fez o reconhecimento invisível, usou o **Servo Invisível** para descobrir a emboscada sem sacrificar um companheiro, deu Inspiração durante o plano e encontrou a pista que mudou o significado dos mortos: **Waterdeep**. |
