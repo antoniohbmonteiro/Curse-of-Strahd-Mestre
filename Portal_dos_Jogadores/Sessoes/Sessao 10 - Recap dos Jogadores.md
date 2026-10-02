@@ -929,6 +929,24 @@ Mas agora existe uma certeza nova:
 > Só falta uma coisa:
 >
 > **voltar para casa antes que Baróvia fique escura.**
+>
+> Mas, se isso não acontecer...
+>
+> a próxima noite pode ser diferente de todas as outras.
+>
+> Até agora, vocês dormiram sob algum tipo de abrigo, dentro de uma vila ou próximos de uma estrada principal.
+>
+> **A próxima sessão pode marcar a primeira noite realmente fora disso.**
+>
+> Sem cidade.
+>
+> Sem paredes.
+>
+> Sem estrada principal.
+>
+> **Só vocês e Baróvia.**
+>
+> E isso talvez seja mais ameaçador do que parece.
 
 ---
 
