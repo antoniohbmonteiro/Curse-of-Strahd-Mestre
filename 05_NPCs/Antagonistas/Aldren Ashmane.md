@@ -18,6 +18,8 @@ tags:
 
 # Aldren Ashmane
 
+![[99_Arquivos/Imagens/NPCs/Aldren Ashmane.webp|440]]
+
 > [!danger] Conteúdo de mestre — não publicar
 > O passado compartilhado com Lionel pode ser revelado ao grupo, mas a missão dos perseguidores, a hesitação de Aldren e as possibilidades de traição são bastidores. Uma eventual nota pública deve ser separada desta.
 
