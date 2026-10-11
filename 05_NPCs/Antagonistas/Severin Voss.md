@@ -116,13 +116,15 @@ Um **Quasit**, demônio pequeno e oportunista, atua como familiar/servo de Sever
 - Interpretá-lo como criatura vinculada a Severin por pacto especial ou **variante de familiar de NPC**, não como uso comum de *Find Familiar* com duas criaturas.
 - Definir nome, visual e estatísticas no Foundry depois.
 
-## Outro servo — opção em avaliação
+## Darkmantle — segundo servo
 
-**Sugestão: Gazer**, pequeno aberrante semelhante a um beholder com quatro pedúnculos oculares. Flutua e usa raios de efeito variado, criando surpresa tática sem repetir mephits ou cães de sombra.
+Um **Darkmantle (Manto Sombrio)** acompanha Severin ao lado do Quasit.
 
-- Seria um **servo independente vinculado por magia** (homebrew de vínculo), **não segundo familiar ordinário de *Find Familiar***.
-- Seu uso **ainda não é cânone**; confirmar a escolha e balancear os raios/ações com o restante do combate.
-- Não adicionar mephit: já houve um em campanha, e o mestre quer outra criatura.
+- Criatura oficial de D&D 5e (2024), **ND 1/2**, com voo, emboscada, capacidade de envolver o alvo e escuridão mágica.
+- No acampamento, pode se esconder entre galhos e atacar de cima, atrapalhando a visão dos aventureiros.
+- **Severin simplesmente conseguiu a criatura; não é necessário explicar pacto, ritual ou origem.**
+- Preparar sua ficha e token no Foundry, ajustando o encontro ao grupo de nível 3.
+- **Não usar Gazer nem Mephit.**
 
 ## Pontos de tensão durante o encontro
 
@@ -141,5 +143,5 @@ Um prisioneiro valioso para pistas sobre práticas dos D'Kazarov, o arquimago e 
 - [ ] Definir com precisão qual ordem de execução Severin recebeu e que provas conhece.
 - [ ] Montar ficha e magias no Foundry para nível 3.
 - [ ] Preparar token/ficha do Quasit.
-- [ ] Decidir se o segundo servo será mesmo um Gazer.
+- [ ] Preparar ficha e token do Darkmantle.
 - [ ] Registrar como Vet reagiu ao reconhecimento.
