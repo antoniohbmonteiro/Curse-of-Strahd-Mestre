@@ -32,6 +32,8 @@ A rivalidade era real. **A amizade também.**
 
 ## Uma tarde de chuva
 
+![[Portal_dos_Jogadores/Imagens/Lembranças-Lionel/camaradagem-na-fortaleza-encharcada.png|500]]
+
 Há uma lembrança especialmente nítida.
 
 Chovia sobre o pátio de treinamento. A terra havia virado lama, e cada passo exigia esforço para não escorregar.
