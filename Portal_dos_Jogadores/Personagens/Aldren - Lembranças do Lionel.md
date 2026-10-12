@@ -9,6 +9,7 @@ tags:
 
 # Aldren Ashmane
 *Lembranças de Lionel Roarshield*
+![[99_Arquivos/Imagens/NPCs/Aldren Ashmane.webp|440]]
 
 ## O nome Ashmane
 
