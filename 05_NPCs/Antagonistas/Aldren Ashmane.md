@@ -26,19 +26,20 @@ tags:
 > [!summary] Referência rápida
 > **Origem:** [[Mirabar]], Casa Ashmane — ramo secundário da linhagem de [[Lionel Roarshield]].  
 > **Ancestralidade:** leonin, aproximadamente da idade de Lionel.  
-> **Papel:** antigo amigo, rival e perseguidor; antagonista moralmente complexo, potencial aliado.  
+> **Papel:** **herdeiro da Casa Ashmane**, antigo amigo, rival e perseguidor de Lionel; antagonista moralmente complexo, potencial aliado.  
 > **Objetivo declarado:** capturar Lionel para que responda pela morte do irmão.  
 > **Conflito interno:** admiração antiga, sensação de traição, tristeza, raiva e ressentimento dinástico.  
 > **Condição atual:** também foi tragado pelas Brumas; está perdido em Baróvia.  
 > **Primeira fala:** “Lionel Roarshield. Em nome da sua casa, ordeno que se apresente.”  
-> **Ficha/ND:** ainda não definidos; preparar no Foundry conforme o encontro.
+> **Base no Foundry:** **Knight (ND 3)** com **armadura de placas (CA 18)**, **espada longa única**, sem escudo; verificar dano, PV e reação no ator final.
 
 ---
 
 ## Casa Ashmane
 
 - Um ramo antigo da mesma linhagem ancestral da Casa Roarshield, criado a partir de uma divisão sucessória de gerações anteriores.
-- Os Ashmane conservam nobreza, tradição militar, prestígio e responsabilidades de proteção, mas **não pertencem à linha que pode assumir a liderança principal**.
+- Os Ashmane conservam nobreza, tradição militar, prestígio e responsabilidades de proteção, mas **não pertencem à linha que pode assumir a liderança principal dos Roarshield**.
+- **Aldren é o herdeiro da Casa Ashmane**, não um pretendente com direito automático à sucessão da Casa Roarshield.
 - Entre os seus, isso é motivo tanto de orgulho pelo serviço quanto de ressentimento pelos sacrifícios nunca recompensados com o poder.
 - A Casa Ashmane não é uma segunda dinastia reinante; sua ambição atual pode ser **uma regência, comando militar ou influência sobre a liderança**, sem quebrar automaticamente a tradição de sucessão.
 
@@ -79,17 +80,21 @@ Uma tarde chuvosa no pátio de treinamento. O chão virou lama e Aldren derrubou
 
 Leonin de porte atlético, ombros largos, sem exagero muscular; pelagem areia-dourada, **juba volumosa cinza-prateada**, olhos âmbar, pequena cicatriz antiga no focinho e uma trança discreta presa por anel de prata.
 
-Usa armadura nobre de placas **aço cinza-escuro/gunmetal**, gravuras prateadas, detalhes **vermelho vinho** e capa escura sobre um ombro. Brasão Ashmane sugerido: **cabeça de leão prateada emergindo de chamas carmesins em campo cinzento**. Porta espada longa de família, bem conservada.
+Usa **armadura de placas (CA 18)** nobre de **aço cinza-escuro/gunmetal**, gravuras prateadas, detalhes **vermelho vinho** e capa escura sobre um ombro. Brasão Ashmane sugerido: **cabeça de leão prateada emergindo de chamas carmesins em campo cinzento**. Porta espada longa de família, bem conservada.
 
 **Expressão:** orgulho, cansaço e tristeza contida — não crueldade. Para retrato, variar o cenário; **não colocar Ravenloft ao fundo por padrão**.
 
 ## Situação em Baróvia
 
-Aldren fazia parte da perseguição a Lionel em Faerûn quando as Brumas o alcançaram, junto aos demais perseguidores. Agora está aprisionado, desorientado e sem saber como voltar a Mirabar.
+**Aldren tomou a iniciativa da caçada** por acreditar que Lionel deveria responder pela morte do irmão. Como herdeiro Ashmane, pôde mobilizar seus próprios recursos. A Casa D'Kazarov forneceu ajuda **com facilidade maior do que ele esperava**, e ele aceitou seus agentes e recursos sem compreender o verdadeiro objetivo de Severin e Theren.
+
+Aldren já perseguia Lionel em Faerûn quando as Brumas o alcançaram, junto aos demais perseguidores. Agora está aprisionado, desorientado e sem saber como voltar a Mirabar.
 
 Ouviu rumores de um leonin com escudo nobre e seguiu o rastro. **Sua missão original ainda importa, mas a sobrevivência em Baróvia começa a disputar espaço com ela.**
 
-Na abordagem, Aldren age como líder nominal. Não sabe que o assassino elfo e [[Severin Voss]] têm instruções distintas e que **a morte de Lionel**, não seu julgamento, é o objetivo real deles.
+Na abordagem, Aldren age como líder nominal. **Sua ordem de captura foi escrita e assinada por ele mesmo**, não expedida por tribunal ou pela Casa Roarshield. Não sabe que Theren e [[Severin Voss]] têm instruções distintas e que **a morte de Lionel**, não seu julgamento, é o objetivo real deles.
+
+**Se Lionel se render:** Aldren o desarma, mantém sob guarda e busca um abrigo seguro em Baróvia. Quer devolvê-lo a Mirabar para responder às acusações, mas **não sabe como sair das Brumas**. Não possui rota, prisão ou reforços automáticos. Os companheiros de Lionel podem recusar a custódia.
 
 ## Como interpretar
 
@@ -148,8 +153,8 @@ Em uma conversa emocional, **se o momento merecer**:
 
 ## Pendências para preparação
 
-- [ ] Definir autoridade formal da ordem de captura e sua legitimidade.
+- [x] **Origem da ordem:** decisão pessoal de Aldren, assinada como herdeiro da Casa Ashmane; não tem mandato de tribunal ou Roarshield.
 - [ ] Decidir se Aldren omitiu apenas dúvidas ou encobriu uma evidência concreta.
-- [ ] Montar estatísticas e ações de combate no Foundry.
+- [ ] Finalizar ator no Foundry: Knight ND 3, **placas CA 18**, espada longa única sem escudo; conferir PV, dano e reações.
 - [ ] Decidir a pista concreta que Aldren pode entregar sem resolver o mistério.
 - [ ] Atualizar a nota após as escolhas e o desfecho real do encontro.
