@@ -402,7 +402,7 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 |---|---|---|
 | **Theren** | **22 PO**, arco longo, aljava com **12 flechas**, duas espadas curtas ou uma espada curta + adaga (conforme ator) | Equipamento mundano, recuperável se revistado; *Parry* e veneno de ataque não são propriedades mágicas da arma |
 | **Mara** | Arco e flechas restantes, armadura de couro e equipamentos de rastreamento/viagem (confirmar o inventário no Foundry) | **Hunter's Prey** é técnica aprendida, não poder mágico transferível pelo arco |
-| **Elfo** | **1 bilhete de ordens em cifra simples**, dobrado em couro encerado | **Pista central**; texto abaixo |
+| **Theren** | **1 bilhete de ordens em cifra simples**, dobrado em couro encerado | **Pista central**; texto abaixo |
 | **Severin** | **18 PO**, **1 poção de cura comum (2d4+2 PV)**, foco arcano de prata com pedra de vidro vermelho (**valor de revenda sugerido: 25 PO**) | Foco não é mágico por si só |
 | **Severin** | **1 grimório** com *Shield*, *Magic Missile*, *Web*, *Misty Step* e *Slow* anotadas | Recompensa potencial para [[Oryn Fizzlestryke]]; **copiar segue as regras/custos do mago 2024**. Se Severin fugir com ele, não existe no loot |
 | **Aldren** | Espada longa da família, **meia-armadura nobre** de peças escuras e capa vinho, **anel/sinete Ashmane** | Itens com valor simbólico e político; **não são loot gratuito se ele permanecer vivo e equipado** |
