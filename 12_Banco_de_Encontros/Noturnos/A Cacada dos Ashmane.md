@@ -1,7 +1,7 @@
 ---
 tipo: encontro
 categoria: noturno
-status: pronto-para-mestrar
+status: preparacao-final
 conteudo: mestre
 dg-publish: false
 tags:
@@ -20,13 +20,15 @@ tags:
 > Revelações sobre [[Lionel Roarshield]], [[Aldren Ashmane]], [[Svetlana]] e [[Severin Voss]]. A identidade D'Kazarov de Vet, a ordem de execução e as motivações ocultas são segredos. O encontro **não** deve revelar quem matou o irmão de Lionel — essa verdade continua em aberto.
 
 > [!summary] TELA RÁPIDA — LER NA MESA
-> **Quando:** primeira noite em que o grupo acampar ou estiver vulnerável na estrada fora da Vila de Baróvia. **Não forçar acampamento.**  
+> **Quando:** ao anoitecer no caminho de retorno ou na primeira viagem/acampamento oportuno, **se fizer sentido com as escolhas do grupo**. Não forçar acampamento nem impedir chegada segura à vila.  
 > **Onde:** clareira ou trecho florestal entre o ninho de ankhegs e a estrada de retorno (adaptar se necessário).  
 > **Cena:** sinais estranhos → voz de Aldren → **reconhecimento de Lionel + memória no WhatsApp** → negociação → possível revelação de ordens conflitantes → combate, fuga ou acordo.  
 > **Aldren:** quer **capturar** Lionel; admiração antiga + tristeza + raiva + ressentimento. **Não sabe** da ordem para matá-lo.  
-> **Elfo:** executor sem vínculo pessoal com Vet; quer **matar Lionel**.  
+> **Theren Silvaris:** elfo espião/assassino; quer **matar Lionel**, sem vínculo pessoal com Vet.  
+> **Mara Kestrel:** batedora/rastreadora contratada, com arco e técnicas de caçadora.  
 > **Severin:** mago, leal aos D'Kazarov, conhece Vet e não admite que a matem; **sabe da execução**.  
 > **Servos:** **Quasit** invisível/espião + **Darkmantle** nos galhos.  
+> **Bases de combate:** Aldren **Knight ND 3**; Severin **Mage Apprentice modificado ND 4**; Theren **Spy aprimorado (ND ~2)**; Mara **Scout aprimorada (ND ~1)**; Quasit ND 1; Darkmantle ND 1/2. ND dos homebrews exige validação.  
 > **Frase-chave de Aldren:** “Lionel Roarshield. Em nome da sua casa, ordeno que se apresente.”  
 > **Frase-chave de Severin (se couber):** “Não mate a garota.”  
 > **NÃO FAZER:** iniciativa automática, traição obrigatória, conversão automática de Aldren, identidade familiar de Vet exposta gratuitamente, reforços surgindo para compensar sucesso dos jogadores.  
@@ -37,21 +39,22 @@ tags:
 - [ ] Ler qual foi a decisão dos PCs depois da **Sessão 10**: estavam saindo do ninho de ankhegs com a tarde acabando e queriam voltar à vila.
 - [ ] Se chegarem à vila com segurança, **guardar o encontro para outra noite/viagem**. Não invalidar a escolha deles.
 - [ ] Conferir no Foundry **PV atuais, slots restantes, condições, itens e vigias**. O arquivo curado de PCs registra máximos, não recursos gastos.
-- [ ] Posicionar tokens: Aldren, elfo, Severin, Quasit, Darkmantle. **Não existe mercenária adicional nesta versão.**
+- [ ] Posicionar **seis tokens**: Aldren, Theren Silvaris, Severin Voss, Mara Kestrel, Quasit e Darkmantle.
 - [ ] Abrir as notas [[Aldren Ashmane]] e [[Severin Voss]] só se precisar de profundidade; **todas as falas importantes estão aqui**.
-- [ ] Deixar a mensagem de memória de Lionel pronta; a página pública de Aldren, se publicada, deve ser um **arquivo separado e revisado** (nunca esta nota).
+- [ ] Deixar pronta a página **pública** [[Aldren - Lembranças do Lionel]] (com ilustração da infância) para enviar **somente ao Xapi quando Aldren for reconhecido**. O texto privado abaixo é alternativa caso o portal não esteja disponível. Nunca compartilhar esta nota de mestre.
 - [ ] Lembrar: **Lionel é o foco emocional; Vet ganha uma pista secundária, não a cena inteira.**
 
 ---
 
 # 0 — Contexto secreto (mestre)
 
-Os três perseguidores já estavam envolvidos na caçada a Lionel **em Faerûn**, quando as Brumas também os arrastaram a Baróvia. Não escolheram atravessar planos e **não sabem como sair**. Encontraram indícios de um leonin com escudo nobre e seguiram sua trilha.
+Os quatro perseguidores humanoides já estavam envolvidos na caçada a Lionel **em Faerûn**, quando as Brumas também os arrastaram a Baróvia. Não escolheram atravessar planos e **não sabem como sair**. Encontraram indícios de um leonin com escudo nobre e seguiram sua trilha.
 
 | Quem | O que deseja | O que sabe / não sabe |
 |---|---|---|
 | **[[Aldren Ashmane]]** | Levar Lionel a responder pela morte do irmão | Acredita sinceramente na culpa; **não sabe** que o elfo e Severin vieram executar |
-| **Elfo assassino** (nome a definir) | Eliminar Lionel e não deixar testemunhas inconvenientes | Sabe da ordem letal; **não conhece Vet** |
+| **Theren Silvaris** (elfo espião/assassino) | Eliminar Lionel e não deixar testemunhas inconvenientes | Sabe da ordem letal; **não conhece Vet** |
+| **Mara Kestrel** (batedora humana) | Rastrear os alvos e garantir linhas de tiro para a caçada | Não há vínculo particular estabelecido com Vet; detalhes do contrato não definidos |
 | **[[Severin Voss]]** | Cumprir a execução em nome de seus patronos | Sabe para quem trabalha, conhece os negócios sujos da casa, **reconhece Vet** e a protege por lealdade |
 | **Quasit** | Espionar, provocar, sobreviver | Servo de Severin; não precisa explicar como foi obtido |
 | **Darkmantle** | Caçar e defender-se | Segundo servo de Severin; **simplesmente está com ele** |
@@ -111,7 +114,7 @@ Os três perseguidores já estavam envolvidos na caçada a Lionel **em Faerûn**
 **PARE.** Dê a Lionel tempo para reagir. **Lionel reconhece Aldren automaticamente:** nada de teste para identificar um amigo de infância.
 
 > [!important] AÇÃO NO MOMENTO DA REVELAÇÃO
-> Mandar a **lembrança privada no WhatsApp do Xapi** (abaixo). Caso a foto/retrato de Aldren esteja pronta, revelá-la agora. A lembrança não diz a Lionel o que sentir ou como agir.
+> Enviar ao Xapi a página **[[Aldren - Lembranças do Lionel]]**, com a imagem dos dois na infância. Se o portal não estiver disponível, usar a lembrança privada abaixo. Revelar o retrato adulto de Aldren nesse instante. Não determinar o que Lionel sente ou faz.
 >
 > **Se o grupo reconhecer a Casa Ashmane:** é ramo secundário da dinastia Roarshield, historicamente militar e excluído da sucessão principal.
 
@@ -267,7 +270,8 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 |---|---|---|
 | Fogueira/acampamento | Centro | Ponto de reconhecimento e luz, **não armadilha automática** |
 | **Aldren** | A 9–12 m do grupo | À vista, espada inicialmente na bainha |
-| **Elfo** | Árvore lateral a 15–21 m | Cobertura, linha de tiro, opção de recuo |
+| **Theren** | Árvore lateral a 15–21 m | Cobertura, linha de tiro, opção de recuo |
+| **Mara** | Outro flanco, a 18–24 m | Cobertura e tiro de arco; não começar colada ao elfo |
 | **Severin** | Atrás de tronco a 18–24 m | Meia cobertura, alcance de *Web* |
 | **Darkmantle** | Copa de árvore a 3–5 m de altura | Ataque de cima ou aura de escuridão |
 | **Quasit** | Inseto/morcego espiando ou invisível | Observação e manobras; não causa dano antes da iniciativa |
@@ -278,9 +282,11 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 
 **Aldren (se hostil):** mantém pressão corpo a corpo e tenta **reduzir Lionel para captura**, não executá-lo. Pode proteger elfo/Severin por reação enquanto acredita estarem em missão legítima. Se descobrir a ordem, pode parar de atacar, pedir explicações ou mudar de lado conforme conversa.
 
-**Elfo:** busca ângulo para acertar Lionel; usa árvore, mobilidade e a vulnerabilidade gerada pelo controle mágico. Se Aldren bloquear execução, elfo pode **ameaçá-lo** ou tentar atacá-lo — não automaticamente.
+**Theren:** busca ângulo para acertar Lionel; usa cobertura e recursos do *Spy* (incluindo veneno, se constar no ator). Possui *Parry* aprimorado como reação. Se Aldren bloquear a execução, pode ameaçá-lo ou tentar atacá-lo — não automaticamente.
 
-**Severin:** *Web* para dividir linha de frente; usa *Misty Step* para escapar de Dhorak/Kael, *Shield* em emergência, *Magic Missile* se alvo exigir pressão; evita matar Vet. **Nunca abrir com Fireball**.
+**Mara:** mantém distância e dispara com arco. Com **Hunter's Prey (PHB 2024)**, escolhe **Colossus Slayer** ou **Horde Breaker** ao terminar um Descanso Curto ou Longo; apenas uma opção ativa de cada vez. Decidir qual está ativa antes de iniciar a cena.
+
+**Severin:** conjurador de controle **ND 4 pretendido**. Escolhe *Web* para bloquear passagem ou *Slow* para enfraquecer vários alvos; **não mantém ambos** (concentração). Usa *Misty Step* para escapar da linha de frente, *Shield* em emergência e *Magic Missile* para pressionar; mantém suas ações e magias originais do *Mage Apprentice* no Foundry. Evita matar Vet. **Sem Fireball**.
 
 **Quasit:** espionagem → invisibilidade ou *Scare* quando houver alvo favorável → garras se protegido. É covarde e tenta sobreviver.
 
@@ -288,27 +294,40 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 
 ### Rodadas de referência (não roteiro)
 
-- **Rodada 1:** alguém declara hostilidade → iniciativas. Aldren tenta conter, elfo busca tiro, Severin prioriza posição/controle.
+- **Rodada 1:** alguém declara hostilidade → iniciativas. Aldren tenta conter, Theren busca tiro, Mara cobre um flanco, Severin prioriza posição/controle.
 - **Rodada 2:** o campo se divide. Evidência das ordens conflitantes pode surgir; dê espaço a gritos, rendição, intervenção e mudança de alvo.
-- **Rodada 3+:** se plano falha, elfo busca fuga ou execução rápida; Severin protege a própria vida e Vet; Aldren precisa decidir sua posição.
+- **Rodada 3+:** se o plano falha, Theren busca fuga ou execução rápida; Mara se reposiciona; Severin protege a própria vida e Vet; Aldren precisa decidir sua posição.
 - **Fim:** quando houver fuga, rendição, acordo ou vitória; não continuar atacando personagens caídos apenas para “fechar ND”.
 
-## Fichas rápidas provisórias — HOMEBREW (D&D 5e 2024)
+## Bases para os atores do Foundry — D&D 2024/Monster Manual 2025
 
-> [!warning] Uso imediato, até finalizar atores no Foundry
-> Estes **não são blocos oficiais** de Aldren/Severin/elfo. Valores criados para seis PCs de nível 3; revisar após testar e conferir PV atuais. **Para Quasit e Darkmantle usar as fichas oficiais de 2025 no Foundry**, resumos abaixo.
+> [!warning] Ajustes homebrew; conferir nos atores antes da sessão
+> Os valores abaixo são **decisões de preparação**, não blocos oficiais completos. Ao importar, preservar as ações e características oficiais do ator-base, aplicando **somente** os ajustes listados. Validar ND por defesa, dano e magias; o ND indicado para Theren e Mara é estimativa, não um cálculo fechado.
 
-| NPC | CA | PV | Iniciativa | Desloc. | Ataques / magia |
-|---|---:|---:|---:|---|---|
-| **Aldren**, guerreiro nobre (ND **estimado 1**) | **17** | **38** | +2 | 9 m | Espada longa +5, **1d8+3** cortante (1 ataque) |
-| **Elfo**, executor (ND **estimado 2**) | **15** | **34** | +3 | 9 m | Arco longo +5, **1d8+3** perfurante (1 ataque); ou **2** ataques de espada curta +5, **1d6+3** cada |
-| **Severin**, mago de controle (ND **estimado 2**) | **12** | **30** | +2 | 9 m | Magias: ataque +5; CD **13**; truque *Ray of Frost* |
+| NPC | Stat block base | ND pretendido | Ajustes fechados / por conferir |
+|---|---|---:|---|
+| **Aldren Ashmane** | **Knight** | **3** | Espada longa única; estilo nobre e defensivo. **Conferir CA/PV/ataques após personalizar no Foundry**, não usar a ficha provisória antiga de 38 PV |
+| **Severin Voss** | **Mage Apprentice** | **4 (homebrew)** | **CA 15, PV ~65, ataque mágico +6, CD 14**; conservar ações/magias originais e acrescentar lista abaixo |
+| **Theren Silvaris** | **Spy** | **~2 (homebrew)** | **CA 15, PV 42, ataque +5**; conservar veneno e ataques do ator Spy; ganhar reação **Parry (+2 CA contra um ataque corpo a corpo que o acertaria)** |
+| **Mara Kestrel** | **Scout** | **~1 (homebrew)** | **CA 14, PV 32, ataque +5**, dois ataques do Scout; ganhar **Hunter's Prey** (Ranger Hunter, PHB 2024) |
+| **Quasit** | **Quasit (2025)** | **1** | Usar ficha oficial |
+| **Darkmantle** | **Darkmantle (2025)** | **1/2** | Usar ficha oficial |
 
-**Aldren — reação Guarda da Casa (homebrew):** quando criatura a até **1,5 m** que ele consiga ver for atingida, Aldren reduz o dano em **1d8+2** (uma reação). Pode proteger um inimigo de Lionel no começo e **um aliado de Lionel** caso mude de lado. Espada e armadura são equipamentos reais, não invocações descartáveis.
+**Hunter's Prey — Mara (PHB 2024):** ao finalizar um Descanso Curto ou Longo, escolhe **uma** das opções: **Colossus Slayer**, +1d8 dano uma vez por turno contra criatura que já perdeu PV; **Horde Breaker**, uma vez em seu turno ao atacar com arma, outro ataque com a mesma arma contra uma **criatura diferente a até 1,5 m do alvo original**, dentro do alcance, que ela ainda não tenha atacado naquele turno. **Não acumula ambas.** Registrar escolha ativa antes do combate.
 
-**Elfo — Ataque preciso (homebrew):** **1 vez por turno**, causa **+1d6** de dano em um ataque que acertar se teve vantagem ou se um aliado estiver a até 1,5 m do alvo e ele não tiver desvantagem. **Ação bônus:** Desengajar **ou** Esconder-se (respeitar a regra de esconder-se). **Não somar um veneno poderoso oculto ao dano.** Se combate ficar fácil, deixar inimigos usarem terreno; **não aumentar dano no meio**.
+**Severin — acrescentar às magias originais do Mage Apprentice (2025):**
 
-**Severin — espaços:** **1º círculo 3**, **2º círculo 2** (controle de recursos por combate; anotar gastos). **Escudo Arcano / Shield** (reação, +5 CA até próximo turno, usa espaço de 1º); **Magic Missile / Mísseis Mágicos** (1º, três projéteis de 1d4+1); **Web / Teia** (2º, concentração, cubo de 6 m, terreno difícil; salvaguarda DES CD 13 para evitar Contido ao entrar/começar turno; preso pode gastar ação para Atletismo CD 13); **Misty Step / Passo Nebuloso** (2º, ação bônus, teleporte de 9 m); **Ray of Frost / Raio de Gelo** (truque; +5 para atingir, 1d8 frio e redução de deslocamento conforme magia). Ao conjurar magia de ação bônus, aplicar normalmente as limitações de conjuração da versão 2024.
+| Magia | Círculo | Uso proposto |
+|---|---:|---|
+| *Shield* (Escudo Arcano) | 1º | 2/dia, reação |
+| *Magic Missile* (Mísseis Mágicos) | 1º | 2/dia |
+| *Web* (Teia) | 2º | 1/dia, concentração |
+| *Misty Step* (Passo Nebuloso) | 2º | 1/dia, ação bônus |
+| *Slow* (Lentidão) | 3º | 1/dia, concentração |
+
+**Original do Mage Apprentice:** manter as ações originais (incluindo *Arcane Burst*) e as magias que vierem no ator importado; não trocar pelo sistema antigo de espaços **3/2** da ficha provisória. *Web* e *Slow* **não funcionam simultaneamente**. Ao usar *Misty Step*, observar a regra de 2024 para gasto de espaços/magias no mesmo turno. **ND 4 ainda exige teste de equilíbrio** com os seis PCs nível 3.
+
+**Aldren:** *Knight* é a base combinada, mas sua armadura exata e CA devem concordar com o equipamento realmente criado no Foundry. A antiga reação **Guarda da Casa** não é concedida automaticamente por cima do Knight; se usada, é habilidade homebrew adicional a ser balanceada.
 
 ### Servos oficiais — consulta rápida
 
@@ -321,12 +340,11 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 
 ### Orçamento 2024 e regulagem HONESTA
 
-- Seis personagens de **nível 3**: **Baixo 900 XP · Moderado 1.350 XP · Alto 2.400 XP** (regras de encontro 2024, soma direta, sem multiplicador de quantidade).
-- Com **Aldren ND estimado 1 (200)** + **elfo ND estimado 2 (450)** + **Severin ND estimado 2 (450)** + **Quasit ND 1 (200)** + **Darkmantle ND 1/2 (100)** = **~1.400 XP**; **em torno do moderado**, com risco ampliado por emboscada, controle e recursos gastos.
-- Se **Aldren mudar de lado**, restam **~1.200 XP** hostis: **deixe ficar mais fácil**. Esta é a recompensa da decisão dos PCs.
-- **Se o grupo estiver muito ferido:** ofereça negociação convincente antes de iniciativa, faça os perseguidores priorizarem captura, retire Darkmantle da linha de frente como vigia que foge ou posicione os adversários mais distantes **desde o início**. Não descarte ações escolhidas pelos jogadores retroativamente.
-- **Se estiverem descansados:** use os cinco combatentes e o terreno, mas lembre que controle em área pode pesar mais que o orçamento.
-- **Não tratar ND homebrew como cálculo fechado de CR:** validar no Foundry e revisar após um teste em mesa simulada.
+- Seis personagens de **nível 3**: **Baixo 900 XP · Moderado 1.350 XP · Alto 2.400 XP** (orçamento 2024, soma direta).
+- Com ND **pretendido**, não verificado: Aldren ND 3 (**700 XP**) + Severin ND 4 (**1.100**) + Theren ~ND 2 (**450**) + Mara ~ND 1 (**200**) + Quasit ND 1 (**200**) + Darkmantle ND 1/2 (**100**) = **~2.750 XP**, **acima do orçamento alto**. Muito cuidado se o grupo estiver debilitado após o ninho de ankhegs.
+- **Se Aldren mudar de lado**, restam **~2.050 XP hostis**, **e o próprio Aldren luta em favor dos PCs**: a dificuldade prática diminui mais do que a subtração de XP sugere. **Não dar reforços nem buffar os demais no meio da luta.**
+- **Antes da sessão**, se o grupo ainda estiver muito ferido/sem recursos: conferir Foundry; dar uma saída diplomática de verdade, posições e objetivos verossímeis; considerar retirar um servo **antes de começar o encontro**, se necessário. Não mudar fichas em reação ao sucesso dos jogadores.
+- ND modificado **não é garantido** só por atribuir o número: confirmar CA, PV, dano por rodada, magias, concentração e ações no Foundry. *Web*, *Slow*, escuridão e pressão focada em personagens já feridos podem pesar mais que o XP sugere.
 
 ---
 
@@ -382,15 +400,16 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 
 | Origem | Itens / quantidades | Observações |
 |---|---|---|
-| **Elfo** | **22 PO**, arco longo, aljava com **12 flechas**, duas espadas curtas ou uma espada curta + adaga (conforme token) | Equipamento mundano, recuperável se revistado |
+| **Theren** | **22 PO**, arco longo, aljava com **12 flechas**, duas espadas curtas ou uma espada curta + adaga (conforme ator) | Equipamento mundano, recuperável se revistado; *Parry* e veneno de ataque não são propriedades mágicas da arma |
+| **Mara** | Arco e flechas restantes, armadura de couro e equipamentos de rastreamento/viagem (confirmar o inventário no Foundry) | **Hunter's Prey** é técnica aprendida, não poder mágico transferível pelo arco |
 | **Elfo** | **1 bilhete de ordens em cifra simples**, dobrado em couro encerado | **Pista central**; texto abaixo |
 | **Severin** | **18 PO**, **1 poção de cura comum (2d4+2 PV)**, foco arcano de prata com pedra de vidro vermelho (**valor de revenda sugerido: 25 PO**) | Foco não é mágico por si só |
-| **Severin** | **1 grimório** com *Shield*, *Magic Missile*, *Web* e *Misty Step* anotadas | Recompensa potencial para [[Oryn Fizzlestryke]]; **copiar segue as regras/custos do mago 2024**. Se Severin fugir com ele, não existe no loot |
+| **Severin** | **1 grimório** com *Shield*, *Magic Missile*, *Web*, *Misty Step* e *Slow* anotadas | Recompensa potencial para [[Oryn Fizzlestryke]]; **copiar segue as regras/custos do mago 2024**. Se Severin fugir com ele, não existe no loot |
 | **Aldren** | Espada longa da família, **meia-armadura nobre** de peças escuras e capa vinho, **anel/sinete Ashmane** | Itens com valor simbólico e político; **não são loot gratuito se ele permanecer vivo e equipado** |
 | **Aldren** | **1 ordem de captura assinada por ele**, sem prova conclusiva de legitimidade | Mostra que Aldren esperava **levar Lionel vivo** |
 | **Quasit / Darkmantle** | **Nenhum tesouro intrínseco** | Sem “gema no monstro” ou componentes mágicos automáticos |
 
-**Detalhe econômico:** a meia-armadura e a espada são itens úteis; se os jogadores as tomarem, respeitar o ganho real. Seu brasão, ajuste à anatomia leonin, desgaste e mercado restrito de Baróvia podem complicar revenda **sem anular a escolha**. A armadura da ficha de Aldren corresponde à meia-armadura: CA base 15 + até 2 de DES = **CA 17**, coerente com seu visual de placas.
+**Equipamento de Aldren:** espada e armadura são itens reais e utilizáveis se forem obtidos legitimamente. **Lionel também é leonin:** não criar incompatibilidade anatômica artificial. O brasão Ashmane é uma decisão narrativa do jogador, não penalidade automática. **Antes da sessão, definir se a ficha importada de Knight usa armadura de placas ou se a adaptação de Aldren usa meia-armadura**, e manter **CA, inventário e loot coerentes**; não declarar CA 17 e armadura de Knight ao mesmo tempo sem conferir o Foundry.
 
 ### Bilhete cifrado do elfo (handout lido após decifrar)
 
@@ -468,6 +487,12 @@ Não presumir que eles conseguem mandar mensagens até Mirabar; todos estão pre
 
 ---
 
+## Se o grupo voltar à Vila de Baróvia com tempo de sessão
+
+Não iniciar outro combate por obrigação. Oferecer uma cena breve de chegada e espaço para **descanso, reparo de equipamentos, crafting, evolução de nível (se o marco já tiver sido decidido)** e **RP livre**. Usar o tempo para Lionel processar Aldren e Vet decidir se comenta seu reconhecimento de Severin, sem impor confissões. O Foundry continua sendo a fonte de recursos atuais, gastos e inventário. **Se a viagem de retorno não ocorrer como planejado, não forçar.**
+
+---
+
 # 9 — Checklist pós-sessão (preencher aqui)
 
 - [ ] Data / sessão: __________
@@ -477,12 +502,14 @@ Não presumir que eles conseguem mandar mensagens até Mirabar; todos estão pre
 - [ ] Qual fala de Lionel mais abalou Aldren? __________
 - [ ] Aldren ficou contra, neutro ou ao lado do grupo? __________
 - [ ] Vet reconheceu Severin? Quem mais descobriu a ligação D'Kazarov? __________
-- [ ] Elfo: vivo / fugiu / capturado / morto? __________
+- [ ] Theren: vivo / fugiu / capturado / morto? __________
+- [ ] Mara: viva / fugiu / capturada / morta? __________
 - [ ] Severin: vivo / fugiu / capturado / morto? __________
 - [ ] Quasit / Darkmantle: destinos __________
 - [ ] Quais pistas foram encontradas? __________
 - [ ] Loot entregue e quem recebeu (confirmar no Foundry): __________
 - [ ] Atualizar [[Aldren Ashmane]], [[Severin Voss]] e o recap público **somente com fatos revelados**.
+- [ ] Se voltaram à vila: registrar descanso, crafting, reparos, interpretação entre PCs e se houve avanço de nível (somente se o marco for confirmado).
 
 ---
 
