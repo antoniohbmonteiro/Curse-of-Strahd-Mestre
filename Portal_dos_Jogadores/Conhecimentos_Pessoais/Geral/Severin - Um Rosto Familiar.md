@@ -11,6 +11,8 @@ tags:
 # Severin Voss
 *Um rosto familiar de Mirabar*
 
+![[Portal_dos_Jogadores/Imagens/Lembrancas-Severin/severin-um-rosto-familiar.jpg|430]]
+
 > [!quote] Uma lembrança difusa
 > Nem sempre é um nome que permanece na memória. Às vezes, é o rosto de alguém que estava sempre por perto.
 
