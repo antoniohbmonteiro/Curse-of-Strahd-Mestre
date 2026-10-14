@@ -88,9 +88,11 @@ Usa **armadura de placas (CA 18)** nobre de **aço cinza-escuro/gunmetal**, grav
 
 **Aldren tomou a iniciativa da caçada** por acreditar que Lionel deveria responder pela morte do irmão. Como herdeiro Ashmane, pôde mobilizar seus próprios recursos. A Casa D'Kazarov forneceu ajuda **com facilidade maior do que ele esperava**, e ele aceitou seus agentes e recursos sem compreender o verdadeiro objetivo de Severin e Theren.
 
-Aldren já perseguia Lionel em Faerûn quando as Brumas o alcançaram, junto aos demais perseguidores. Agora está aprisionado, desorientado e sem saber como voltar a Mirabar.
+Aldren **já caçava Lionel em Faerûn** com Severin, Theren e Mara quando **as Brumas também engoliram os perseguidores**. Eles não chegaram ao lado de Lionel: foram parar em **outra região de Baróvia**, desorientados, sem saber onde estavam ou como retornar a Mirabar.
 
-Ouviu rumores de um leonin com escudo nobre e seguiu o rastro. **Sua missão original ainda importa, mas a sobrevivência em Baróvia começa a disputar espaço com ela.**
+Depois ouviram boatos de um **grupo de aventureiros incomuns**: alguém descreveu **“um coelho andando e falando como gente”** (na verdade [[Oryn Fizzlestryke]]), outro contou ter visto **“um sujeito com cara de leão”**. Aldren associou a segunda descrição a Lionel e passou a seguir a pista.
+
+**Aldren suspeita, equivocadamente e sem provas, que Lionel usou magia ou a ajuda dos novos companheiros para fugir para outra dimensão**, arrastando os perseguidores sem querer. Essa interpretação nasce da coincidência e de seu ressentimento; **não é a verdade sobre as Brumas**. Sua missão original ainda importa, mas a sobrevivência em Baróvia começa a disputar espaço com ela.
 
 Na abordagem, Aldren age como líder nominal. **Sua ordem de captura foi escrita e assinada por ele mesmo**, não expedida por tribunal ou pela Casa Roarshield. Não sabe que Theren e [[Severin Voss]] têm instruções distintas e que **a morte de Lionel**, não seu julgamento, é o objetivo real deles.
 
@@ -107,6 +109,10 @@ Na abordagem, Aldren age como líder nominal. **Sua ordem de captura foi escrita
 > “Lionel Roarshield. Em nome da sua casa, ordeno que se apresente.”
 
 > “Você não faz ideia do que deixou para trás.”
+
+> “Ouvi histórias de um grupo de aventureiros. Um coelho... um homem com cara de leão. Foi esse grupo que ajudou você? Foi assim que fugiu de Mirabar, para outro mundo?”
+
+> “Eu estava no seu encalço quando a névoa nos engoliu. Quer que eu acredite que você não teve nada a ver com isso?”
 
 > “Não faça isso, Lionel. Não use o que fomos para justificar o que você fez.”
 
