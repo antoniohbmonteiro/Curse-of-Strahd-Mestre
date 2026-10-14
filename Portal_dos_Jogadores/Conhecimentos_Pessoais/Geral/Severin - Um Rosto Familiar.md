@@ -16,24 +16,24 @@ tags:
 > [!quote] Uma lembrança difusa
 > Nem sempre é um nome que permanece na memória. Às vezes, é o rosto de alguém que estava sempre por perto.
 
-## O homem ao lado do mago
+## O aprendiz ao lado do mago
 
 Em [[Mirabar - Publico|Mirabar]], quem frequentava os círculos ligados à **Casa D'Kazarov** talvez se lembre de um jovem de cabelos escuros, roupas sóbrias e modos discretos.
 
 **Severin Voss.**
 
-Ele dificilmente era o centro das atenções. Em reuniões, visitas e cerimônias, costumava ficar **um passo atrás do mago principal da casa**, ouvindo enquanto o outro falava.
+**Severin era o aprendiz e assistente arcano do mago principal dos D'Kazarov.** Não era o grande mago da casa: em reuniões, visitas e cerimônias, costumava ficar **um passo atrás de seu mestre**, observando e aprendendo enquanto o outro falava.
 
-Às vezes segurava um grimório ou uma pasta de documentos; em outras, observava os presentes e aguardava uma instrução. Sua postura era impecável, sua voz contida, seus movimentos cuidadosos.
+Às vezes carregava grimórios e documentos; em outras, acompanhava uma explicação ou recebia instruções discretas. Sua postura era disciplinada, a voz contida e os movimentos cuidadosos.
 
 Não era o tipo de pessoa que se impunha pela presença. Ainda assim, parecia conhecer bem os corredores que frequentava.
 
 ## O que ficou na memória
 
-- Um rosto jovem e sério, visto repetidas vezes perto do mesmo mago.
+- Um rosto jovem e sério, sempre próximo ao **mago principal, de quem era aprendiz**.
 - Livros, papéis e símbolos arcanos carregados com cuidado.
 - Poucas palavras, atenção constante.
-- A impressão de que era **alguém de confiança**, embora raramente falasse em público.
+- A impressão de um **aprendiz dedicado e de confiança**, que ouvia mais do que falava.
 
 Talvez nem todos recordassem seu nome. Mas quem o viu algumas vezes ao lado do mago reconheceria aquele rosto.
 
