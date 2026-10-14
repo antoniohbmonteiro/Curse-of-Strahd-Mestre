@@ -437,7 +437,7 @@ Se Severin ou Theren tentarem executá-lo mesmo rendido, Aldren pode perceber a 
 > [!quote] TEXTO PARA MOSTRAR
 > “Lionel Roarshield deverá ser apresentado sob custódia para responder pela morte de seu irmão.  
 > É vedada sua execução durante a condução.  
- > — Aldren Ashmane, herdeiro da Casa Ashmane.”
+> — Aldren Ashmane, herdeiro da Casa Ashmane.”
 
 **Investigação/História CD 12–14:** o documento é autêntico, assinado por Aldren como herdeiro da sua casa, mas **não há mandado do conselho nem autoridade Roarshield**; isso não significa que ele tenha direito legal de prender Lionel.
 
