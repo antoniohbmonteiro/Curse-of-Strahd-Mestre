@@ -20,8 +20,8 @@ tags:
 > Revelações sobre [[Lionel Roarshield]], [[Aldren Ashmane]], [[Svetlana]] e [[Severin Voss]]. A identidade D'Kazarov de Vet, a ordem de execução e as motivações ocultas são segredos. O encontro **não** deve revelar quem matou o irmão de Lionel — essa verdade continua em aberto.
 
 > [!summary] TELA RÁPIDA — LER NA MESA
-> **Quando:** ao anoitecer no caminho de retorno ou na primeira viagem/acampamento oportuno, **se fizer sentido com as escolhas do grupo**. Não forçar acampamento nem impedir chegada segura à vila.  
-> **Onde:** clareira ou trecho florestal entre o ninho de ankhegs e a estrada de retorno (adaptar se necessário).  
+> **Quando e onde:** **(A) Ninho dos ankhegs**, se permanecerem no local, ou **(B) Estrada para a Vila de Baróvia**, se começarem a voltar. Ajustar à hora real da cena; **não exigir anoitecer, descanso ou acampamento**.  
+> **Aberturas:** [[#1 — Presságios no ninho ou na estrada]]; posicionamento específico em [[#Mapa prático para Foundry]].  
 > **Cena:** sinais estranhos → voz de Aldren → **reconhecimento de Lionel + memória no WhatsApp** → negociação → possível revelação de ordens conflitantes → combate, fuga ou acordo.  
 > **Aldren:** **herdeiro Ashmane**, decidiu por conta própria caçar e **capturar** Lionel; aceitou com facilidade ajuda D'Kazarov. Não sabe da ordem secreta de execução.  
 > **Theren Silvaris:** elfo espião/assassino; quer **matar Lionel**, sem vínculo pessoal com Vet.  
@@ -32,12 +32,12 @@ tags:
 > **Frase-chave de Aldren:** “Lionel Roarshield. Em nome da sua casa, ordeno que se apresente.”  
 > **Frase-chave de Severin (se couber):** “Não mate a garota.”  
 > **NÃO FAZER:** iniciativa automática, traição obrigatória, conversão automática de Aldren, identidade familiar de Vet exposta gratuitamente, reforços surgindo para compensar sucesso dos jogadores.  
-> **Ir para:** [[#1 — Presságios na noite]] · [[#2 — Aldren se revela]] · [[#3 — Conversa e testes]] · [[#5 — Se houver combate]] · [[#7 — Loot e pistas]] · [[#8 — Desfechos]]
+> **Ir para:** [[#1 — Presságios no ninho ou na estrada]] · [[#2 — Aldren se revela]] · [[#3 — Conversa e testes]] · [[#5 — Se houver combate]] · [[#7 — Loot e pistas]] · [[#8 — Desfechos]]
 
 ## Preparação de 30 segundos
 
-- [ ] Ler qual foi a decisão dos PCs depois da **Sessão 10**: estavam saindo do ninho de ankhegs com a tarde acabando e queriam voltar à vila.
-- [ ] Se chegarem à vila com segurança, **guardar o encontro para outra noite/viagem**. Não invalidar a escolha deles.
+- [ ] Após a **Sessão 10**, perguntar/observar a escolha real: **ficam no ninho** → usar a abertura A; **seguem de volta para a vila** → usar a abertura B.
+- [ ] Os perseguidores já estão rastreando os rumores sobre o grupo; podem encontrá-lo **em qualquer dos dois lugares**, sem depender de um acampamento. Se o grupo conseguir evitar o contato ou chegar à vila sem ser alcançado, **guardar o encontro para depois**, respeitando as escolhas.
 - [ ] Conferir no Foundry **PV atuais, slots restantes, condições, itens e vigias**. O arquivo curado de PCs registra máximos, não recursos gastos.
 - [ ] Posicionar **seis tokens**: Aldren, Theren Silvaris, Severin Voss, Mara Kestrel, Quasit e Darkmantle.
 - [ ] Abrir as notas [[Aldren Ashmane]] e [[Severin Voss]] só se precisar de profundidade; **todas as falas importantes estão aqui**.
@@ -80,33 +80,44 @@ Aldren passou a seguir esses relatos e quaisquer rastros coerentes; **não sabe 
 
 ---
 
-# 1 — Presságios na noite
+# 1 — Presságios no ninho ou na estrada
 
-> [!recite] Narração — se o grupo acampar
-> O vento passa entre as árvores e agita as últimas brasas da fogueira. Há umidade no ar, cheiro de folhas molhadas e madeira fria.  
->  
-> Em algum momento, vocês percebem que os ruídos pequenos da floresta diminuíram. Nada de grilos. Nada de asas.  
->  
-> Só o estalo de um galho, longe da luz.  
->  
-> E depois outro, de um ponto diferente.
+> [!important] ESCOLHER UMA ABERTURA
+> **A — Ficam no ninho dos ankhegs:** o encontro começa ali, dentro ou próximo à entrada, conforme onde os PCs estiverem. **B — Seguem para a Vila de Baróvia:** a abordagem acontece no trecho florestal da estrada. Ambas funcionam com luz do fim de tarde, crepúsculo ou noite; **não presumir fogueira, descanso ou turno de vigia**.
 
-> [!recite] Narração alternativa — se estiverem na estrada, sem acampamento
-> O último resto de claridade desaparece entre os troncos. A estrada vai ficando estreita, e a luz das lanternas transforma as árvores em silhuetas altas.  
+### A — Se permanecerem no ninho dos ankhegs
+
+> [!recite] Narração — ninho
+> O cheiro acre do ninho ainda paira no ar. A terra revolvida está marcada pela passagem dos ankhegs, e fragmentos de carapaça se misturam à lama. Por um instante, tudo parece quieto demais, como se o lugar finalmente tivesse esgotado seus horrores.  
 >  
-> Um ruído seco vem da vegetação ao lado do caminho. Alguns passos adiante, outro galho estala — mais longe, como se alguém estivesse acompanhando o ritmo da caminhada.
+> Então um som diferente atravessa o silêncio: **pedrinhas cedendo sob passos cuidadosos**, vindos da direção da entrada.  
+>  
+> Não é o arrastar de uma criatura escavando. Há uma pausa... e outro passo. **Alguém está se aproximando.**
+
+**Condução:** se os PCs estiverem **no interior**, os sons chegam pela entrada ou pelas galerias que se ligam a ela; dê chance de se esconderem, saírem ou assumirem posição. Se estiverem **fora**, na área da boca do ninho, os passos vêm da mata e do terreno revolvido. Não colocar inimigos surgindo magicamente em galerias fechadas nem fazer novos ankhegs aparecerem só para criar tensão.
+
+### B — Se iniciarem a volta para a Vila de Baróvia
+
+> [!recite] Narração — estrada
+> A estrada de Baróvia se estende entre troncos úmidos e raízes expostas. O céu está pesado, e as árvores parecem se inclinar sobre o caminho. A cada passo, a terra macia abafa o som das botas.  
+>  
+> Um galho estala à esquerda. Alguns instantes depois, outro ruído vem do lado oposto.  
+>  
+> **Há alguém acompanhando o grupo entre as árvores.** E, pelo cuidado com que se movem, não parecem viajantes perdidos.
+
+**Condução:** usar a luz e o horário que já estiverem estabelecidos no jogo. Se ainda for de tarde, **não narrar escuridão repentina**; se for noite, usar as lanternas e o alcance da iluminação existente. Os perseguidores podem tentar bloquear a passagem ou se apresentar antes de qualquer ataque.
 
 ### O que os jogadores podem perceber
 
 | Ação / teste | CD sugerida | Informação / efeito |
 |---|---:|---|
-| **Sabedoria (Percepção)** ativa ou passiva | **13** | Passos contidos, metal discreto, mais de uma posição ocupada entre as árvores; evita serem completamente surpreendidos |
-| **Sabedoria (Sobrevivência)**, procurando rastros | **13** | Botas e passos organizados: **caçadores inteligentes**, não predadores locais |
-| **Sabedoria (Intuição)** sobre o silêncio e a aproximação | **12** | Não parecem animais investindo contra o acampamento: **alguém está tentando obter uma posição vantajosa** |
+| **Sabedoria (Percepção)** ativa ou passiva | **13** | **Ninho:** passos e metal próximos à entrada, ruído que ecoa pela terra; **estrada:** movimentos em mais de um ponto entre as árvores. Podem perceber a aproximação antes da abordagem |
+| **Sabedoria (Sobrevivência)**, procurando rastros | **13** | Marcas de botas em terra úmida (**ninho**) ou junto às margens da trilha (**estrada**): **gente rastreando pessoas**, não novos ankhegs ou animais locais |
+| **Sabedoria (Intuição)** sobre os movimentos, se houver contato suficiente | **12** | Não parece um ataque de feras: **os recém-chegados estão buscando vantagem de posição e avaliando o grupo**, sem hostilidade automática |
 | **Inteligência (Investigação)** em vestígio deixado | **14** | Marca de bota, tecido fino, ou sinal de lâmina bem cuidada — equipamento de estrangeiros |
-| **Magia ou inspeção dos galhos** | Varia | Permite notar indícios do Darkmantle ou do Quasit **se a ação realmente puder detectá-los**; não revelar invisibilidade automaticamente por um teste comum |
+| **Magia ou inspeção do alto** | Varia | **Ninho:** teto e saliências; **estrada:** galhos e copas. Detectar Darkmantle ou Quasit apenas se a ação realmente puder fazê-lo; não revelar invisibilidade automaticamente por um teste comum |
 
-**Falha não bloqueia a cena.** Personagens atentos percebem mais cedo e podem se reposicionar, esconder companheiros, apagar a fogueira, tentar negociar primeiro ou fugir. A fala de Aldren acontece quando ele decidir se apresentar ou quando for descoberto.
+**Falha não bloqueia a cena.** Personagens atentos podem perceber antes, se esconder, cobrir a entrada do ninho, recuar por uma galeria, usar o terreno da estrada, negociar ou fugir. **Não presumir fogueira ou acampamento.** A fala de Aldren acontece quando ele decidir se apresentar ou for descoberto.
 
 > [!tip] Regra de 2024 — surpresa
 > Se uma criatura for surpreendida no início de um combate, tem **desvantagem na iniciativa**, não perde automaticamente o primeiro turno. Inimigos escondidos/invisíveis seguem suas regras próprias. Use iniciativa quando hostilidade realmente começar.
@@ -115,14 +126,21 @@ Aldren passou a seguir esses relatos e quaisquer rastros coerentes; **não sabe 
 
 # 2 — Aldren se revela
 
-> [!recite] Narração — primeira aparição
-> Entre dois troncos, uma figura alta entra lentamente no alcance da luz.  
+> [!recite] Narração — primeira aparição no ninho
+> À entrada do ninho, uma silhueta alta se recorta contra a claridade de fora. O recém-chegado avança apenas o suficiente para ser visto. É um **leonin de juba cinza-prateada**, vestido com armadura de placas cinza-escura, detalhes prateados e um manto vermelho profundo. Uma mão repousa na espada longa; a outra permanece à vista.  
 >  
-> É um leonin, com armadura cinza-escura marcada por prata e um manto vermelho profundo sobre o ombro. A juba volumosa tem a cor das cinzas. Uma das mãos repousa sobre a espada; a outra permanece visível.  
->  
-> Ele para antes de chegar perto demais da fogueira. Seus olhos procuram alguém entre vocês.  
+> Seus olhos procuram alguém entre vocês.  
 >  
 > “**Lionel Roarshield. Em nome da sua casa, ordeno que se apresente.**”
+
+> [!recite] Narração alternativa — primeira aparição na estrada
+> Entre dois troncos à margem da estrada, uma figura alta sai da sombra das árvores e para no caminho. É um **leonin de juba cinza-prateada**, vestido com armadura de placas cinza-escura, detalhes prateados e um manto vermelho profundo. Uma mão repousa na espada longa; a outra permanece à vista.  
+>  
+> Seus olhos percorrem o grupo até encontrar Lionel.  
+>  
+> “**Lionel Roarshield. Em nome da sua casa, ordeno que se apresente.**”
+
+**Se os personagens estiverem fundo demais no ninho:** Aldren chama da entrada ou avança por um acesso transitável; não teleportar sua aparição para dentro da caverna.
 
 **PARE.** Dê a Lionel tempo para reagir. **Lionel reconhece Aldren automaticamente:** nada de teste para identificar um amigo de infância. **Se Aldren reparar em Oryn**, o harengon confirma o boato do “coelho” que o trouxe até ali; deixe o reconhecimento afetar a interpretação sem obrigar Aldren a revelar de imediato de onde veio a pista.
 
@@ -281,19 +299,31 @@ Não bloqueie a iniciativa. Aldren pode gritar “Eu queria falar!” e se defen
 
 ## Mapa prático para Foundry
 
-Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
+**Escolher o mapa de acordo com a ação dos PCs; não deslocar o grupo artificialmente para uma clareira.**
+
+### A — Ninho dos ankhegs (mapa existente)
+
+- **Aldren:** aproxima-se pelo acesso principal, visível quando decide falar; espada inicialmente embainhada.
+- **Theren e Mara:** buscam ângulos **junto à entrada ou do lado de fora**, usando pedras, relevo e vegetação; só atiram para o interior se houver **linha de visão real**.
+- **Severin:** atrás da entrada, pedras ou relevo; *Web* pode bloquear uma passagem **se houver alcance e linha de efeito**. Não presumir corredor com dimensões inventadas.
+- **Darkmantle:** teto/saliência **se houver altura e superfície adequadas**, ou próximo da boca da caverna; não atravessa o teto.
+- **Quasit:** observa disfarçado ou invisível onde consiga efetivamente entrar.
+- **Terreno:** aproveitar terra solta, pilares, buracos e galerias **que já existem no mapa do Foundry**. Respeitar acessos e iluminação. Se o combate começar dentro, personagens e inimigos podem disputar a entrada, não aparecer cercando os PCs sem caminho possível.
+
+### B — Estrada para a Vila de Baróvia
+
+Trecho florestal com a estrada atravessando o centro; **~30 × 24 m** somente se for preciso improvisar um mapa.
 
 | Elemento | Posição sugerida | Uso |
 |---|---|---|
-| Fogueira/acampamento | Centro | Ponto de reconhecimento e luz, **não armadilha automática** |
-| **Aldren** | A 9–12 m do grupo | À vista, espada inicialmente na bainha |
-| **Theren** | Árvore lateral a 15–21 m | Cobertura, linha de tiro, opção de recuo |
-| **Mara** | Outro flanco, a 18–24 m | Cobertura e tiro de arco; não começar colada ao elfo |
-| **Severin** | Atrás de tronco a 18–24 m | Meia cobertura, alcance de *Web* |
-| **Darkmantle** | Copa de árvore a 3–5 m de altura | Ataque de cima ou aura de escuridão |
-| **Quasit** | Inseto/morcego espiando ou invisível | Observação e manobras; não causa dano antes da iniciativa |
+| **Aldren** | Caminho à frente ou lateral, a 9–12 m | Revela-se sem espada em punho |
+| **Theren** | Árvores laterais, a 15–21 m | Cobertura, linha de tiro, recuo |
+| **Mara** | Flanco oposto, a 18–24 m | Arco e cobertura, sem colar em Theren |
+| **Severin** | Atrás de tronco a 18–24 m | Meia cobertura, controle |
+| **Darkmantle** | Copa de árvore a 3–5 m, se houver | Emboscada por cima |
+| **Quasit** | Oculto na vegetação ou invisível | Observação, sem ataque antes da iniciativa |
 
-**Cobertura:** troncos grossos dão meia ou três quartos conforme posição; vegetação baixa cria ocultação leve; tronco caído pode ser superado com movimento/pequeno teste se interessante. **Não criar abismo ou risco mortal gratuito**.
+**Cobertura e terreno:** troncos e pedras podem fornecer cobertura conforme posição; vegetação pode obscurecer; distância, linha de visão e terreno devem corresponder ao mapa utilizado. **Nada de desfiladeiros ou perigos mortais gratuitos.**
 
 ### Táticas por inimigo
 
