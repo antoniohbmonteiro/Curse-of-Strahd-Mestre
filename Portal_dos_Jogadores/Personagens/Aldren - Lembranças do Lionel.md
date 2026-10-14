@@ -23,7 +23,7 @@ Havia um velho lema associado à família:
 
 ## O garoto com quem você cresceu
 
-**Aldren Ashmane** era um leonin praticamente da sua idade. Muito antes de qualquer título ou responsabilidade pesar sobre seus ombros, vocês dividiram os pátios de treinamento de Mirabar.
+**Aldren Ashmane**, herdeiro da Casa Ashmane, era um leonin praticamente da sua idade. Muito antes de qualquer título ou responsabilidade pesar sobre seus ombros, vocês dividiram os pátios de treinamento de Mirabar.
 
 Treinavam juntos, disputavam vitórias e provocavam um ao outro. Aldren era **orgulhoso, competitivo e teimoso**. Detestava perder, mas nunca se intimidava com seu sobrenome.
 
