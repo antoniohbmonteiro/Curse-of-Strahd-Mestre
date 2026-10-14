@@ -23,7 +23,7 @@ tags:
 > **Quando:** ao anoitecer no caminho de retorno ou na primeira viagem/acampamento oportuno, **se fizer sentido com as escolhas do grupo**. Não forçar acampamento nem impedir chegada segura à vila.  
 > **Onde:** clareira ou trecho florestal entre o ninho de ankhegs e a estrada de retorno (adaptar se necessário).  
 > **Cena:** sinais estranhos → voz de Aldren → **reconhecimento de Lionel + memória no WhatsApp** → negociação → possível revelação de ordens conflitantes → combate, fuga ou acordo.  
-> **Aldren:** quer **capturar** Lionel; admiração antiga + tristeza + raiva + ressentimento. **Não sabe** da ordem para matá-lo.  
+> **Aldren:** **herdeiro Ashmane**, decidiu por conta própria caçar e **capturar** Lionel; aceitou com facilidade ajuda D'Kazarov. Não sabe da ordem secreta de execução.  
 > **Theren Silvaris:** elfo espião/assassino; quer **matar Lionel**, sem vínculo pessoal com Vet.  
 > **Mara Kestrel:** batedora/rastreadora contratada, com arco e técnicas de caçadora.  
 > **Severin:** mago, leal aos D'Kazarov, conhece Vet e não admite que a matem; **sabe da execução**.  
@@ -52,7 +52,7 @@ Os quatro perseguidores humanoides já estavam envolvidos na caçada a Lionel **
 
 | Quem | O que deseja | O que sabe / não sabe |
 |---|---|---|
-| **[[Aldren Ashmane]]** | Levar Lionel a responder pela morte do irmão | Acredita sinceramente na culpa; **não sabe** que o elfo e Severin vieram executar |
+| **[[Aldren Ashmane]]** | Como herdeiro Ashmane, capturar Lionel e levá-lo a responder pela morte do irmão | **Escolheu iniciar a caçada** e assinou a própria ordem; aceitou ajuda dos D'Kazarov, mas **desconhece** a missão de execução de Severin e Theren |
 | **Theren Silvaris** (elfo espião/assassino) | Eliminar Lionel e não deixar testemunhas inconvenientes | Sabe da ordem letal; **não conhece Vet** |
 | **Mara Kestrel** (batedora humana) | Rastrear os alvos e garantir linhas de tiro para a caçada | Não há vínculo particular estabelecido com Vet; detalhes do contrato não definidos |
 | **[[Severin Voss]]** | Cumprir a execução em nome de seus patronos | Sabe para quem trabalha, conhece os negócios sujos da casa, **reconhece Vet** e a protege por lealdade |
@@ -60,6 +60,8 @@ Os quatro perseguidores humanoides já estavam envolvidos na caçada a Lionel **
 | **Darkmantle** | Caçar e defender-se | Segundo servo de Severin; **simplesmente está com ele** |
 
 **Importante:** os D'Kazarov têm interesse real na eliminação do herdeiro, mas **não está estabelecido que mandaram matar o irmão**. Não decidir a autoria do homicídio improvisando durante a sessão.
+
+**Origem da caçada:** Aldren, **herdeiro da Casa Ashmane**, decidiu pessoalmente ir atrás de Lionel. Não foi enviado por tribunal ou pela Casa Roarshield. Os D'Kazarov ofereceram agentes e recursos **com facilidade surpreendente**, e ele aceitou a ajuda para uma **captura** sem saber dos objetivos letais de Severin e Theren. Isso não estabelece quem assassinou o irmão de Lionel.
 
 **Por que Aldren ainda está com eles?** A missão virou também questão de sobrevivência. Ele sente a autoridade escorrer entre os dedos, mas não quer confessar que perdeu o controle da própria caçada.
 
@@ -284,7 +286,7 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 
 **Theren:** busca ângulo para acertar Lionel; usa cobertura e recursos do *Spy* (incluindo veneno, se constar no ator). Possui *Parry* aprimorado como reação. Se Aldren bloquear a execução, pode ameaçá-lo ou tentar atacá-lo — não automaticamente.
 
-**Mara:** mantém distância e dispara com arco. Com **Hunter's Prey (PHB 2024)**, escolhe **Colossus Slayer** ou **Horde Breaker** ao terminar um Descanso Curto ou Longo; apenas uma opção ativa de cada vez. Decidir qual está ativa antes de iniciar a cena.
+**Mara:** mantém distância e dispara com arco. Sua escolha de **Hunter's Prey (PHB 2024)** para este encontro é **Horde Breaker**, já definida. Não usa *Colossus Slayer* nesta luta.
 
 **Severin:** conjurador de controle **ND 4 pretendido**. Escolhe *Web* para bloquear passagem ou *Slow* para enfraquecer vários alvos; **não mantém ambos** (concentração). Usa *Misty Step* para escapar da linha de frente, *Shield* em emergência e *Magic Missile* para pressionar; mantém suas ações e magias originais do *Mage Apprentice* no Foundry. Evita matar Vet. **Sem Fireball**.
 
@@ -306,14 +308,14 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 
 | NPC | Stat block base | ND pretendido | Ajustes fechados / por conferir |
 |---|---|---:|---|
-| **Aldren Ashmane** | **Knight** | **3** | Espada longa única; estilo nobre e defensivo. **Conferir CA/PV/ataques após personalizar no Foundry**, não usar a ficha provisória antiga de 38 PV |
+| **Aldren Ashmane** | **Knight** | **3** | **Armadura de placas, CA 18**, sem escudo, espada longa única versátil (1d8 com uma mão ou 1d10 com duas, + atributo); PV **52** do Knight como referência; conferir dano/ataques do ator após trocar a arma |
 | **Severin Voss** | **Mage Apprentice** | **4 (homebrew)** | **CA 15, PV ~65, ataque mágico +6, CD 14**; conservar ações/magias originais e acrescentar lista abaixo |
 | **Theren Silvaris** | **Spy** | **~2 (homebrew)** | **CA 15, PV 42, ataque +5**; conservar veneno e ataques do ator Spy; ganhar reação **Parry (+2 CA contra um ataque corpo a corpo que o acertaria)** |
 | **Mara Kestrel** | **Scout** | **~1 (homebrew)** | **CA 14, PV 32, ataque +5**, dois ataques do Scout; ganhar **Hunter's Prey** (Ranger Hunter, PHB 2024) |
 | **Quasit** | **Quasit (2025)** | **1** | Usar ficha oficial |
 | **Darkmantle** | **Darkmantle (2025)** | **1/2** | Usar ficha oficial |
 
-**Hunter's Prey — Mara (PHB 2024):** ao finalizar um Descanso Curto ou Longo, escolhe **uma** das opções: **Colossus Slayer**, +1d8 dano uma vez por turno contra criatura que já perdeu PV; **Horde Breaker**, uma vez em seu turno ao atacar com arma, outro ataque com a mesma arma contra uma **criatura diferente a até 1,5 m do alvo original**, dentro do alcance, que ela ainda não tenha atacado naquele turno. **Não acumula ambas.** Registrar escolha ativa antes do combate.
+**Hunter's Prey — Mara (PHB 2024): Horde Breaker ATIVO.** Uma vez em seu turno, ao atacar com arma, pode atacar novamente com a mesma arma **outra criatura a até 1,5 m do alvo original**, dentro do alcance, que ela ainda não tenha atacado neste turno. Conservar os dois ataques básicos do *Scout*. O ataque extra só existe quando esses requisitos ocorrerem. **Colossus Slayer não está ativo.**
 
 **Severin — acrescentar às magias originais do Mage Apprentice (2025):**
 
@@ -327,7 +329,7 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 
 **Original do Mage Apprentice:** manter as ações originais (incluindo *Arcane Burst*) e as magias que vierem no ator importado; não trocar pelo sistema antigo de espaços **3/2** da ficha provisória. *Web* e *Slow* **não funcionam simultaneamente**. Ao usar *Misty Step*, observar a regra de 2024 para gasto de espaços/magias no mesmo turno. **ND 4 ainda exige teste de equilíbrio** com os seis PCs nível 3.
 
-**Aldren:** *Knight* é a base combinada, mas sua armadura exata e CA devem concordar com o equipamento realmente criado no Foundry. A antiga reação **Guarda da Casa** não é concedida automaticamente por cima do Knight; se usada, é habilidade homebrew adicional a ser balanceada.
+**Aldren:** ficou definido **placas (CA 18), espada longa única e nenhum escudo**. Preservar as reações oficiais do *Knight* importado; não conceder a antiga **Guarda da Casa** por cima delas sem balancear. Revisar o dano ao substituir a arma original pelo uso da espada longa.
 
 ### Servos oficiais — consulta rápida
 
@@ -382,6 +384,14 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 - O Quasit pode tentar seguir, **mas não conceder rastreamento infalível**.
 - Sem combate resolutivo: rastro, novo rumor e chance de reencontro futuro.
 
+## Se Lionel aceitar ser preso
+
+**Plano de Aldren:** desarmar Lionel e mantê-lo sob custódia, com vigia e amarras se necessário, **sem ferir por crueldade**. Buscar abrigo seguro em acampamento ou na Vila de Baróvia; tentar encontrar uma saída das Brumas para retornar a Mirabar. **Ele não conhece caminho para sair de Baróvia.** Não tem prisão, portal ou escolta adicional garantida. O grupo pode negociar, resistir ou tentar libertar Lionel; **a rendição de Lionel não obriga os demais PCs a colaborar**.
+
+> **Se Lionel perguntar “Para onde você vai me levar?”:** “Por enquanto, ficará sob minha guarda. Também estou preso nesta terra. Quando encontrarmos um caminho de volta, você responderá em Mirabar. Vivo.”
+
+Se Severin ou Theren tentarem executá-lo mesmo rendido, Aldren pode perceber a diferença de ordens e reagir. **Não tornar essa traição automática.**
+
 ## Se pedirem rendição / capturarem alguém
 
 - **Aldren** negocia se puder proteger a honra; oferece espada em sinal de trégua se convencido, **não como prêmio automático**.
@@ -405,11 +415,11 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 | **Theren** | **1 bilhete de ordens em cifra simples**, dobrado em couro encerado | **Pista central**; texto abaixo |
 | **Severin** | **18 PO**, **1 poção de cura comum (2d4+2 PV)**, foco arcano de prata com pedra de vidro vermelho (**valor de revenda sugerido: 25 PO**) | Foco não é mágico por si só |
 | **Severin** | **1 grimório** com *Shield*, *Magic Missile*, *Web*, *Misty Step* e *Slow* anotadas | Recompensa potencial para [[Oryn Fizzlestryke]]; **copiar segue as regras/custos do mago 2024**. Se Severin fugir com ele, não existe no loot |
-| **Aldren** | Espada longa da família, **meia-armadura nobre** de peças escuras e capa vinho, **anel/sinete Ashmane** | Itens com valor simbólico e político; **não são loot gratuito se ele permanecer vivo e equipado** |
-| **Aldren** | **1 ordem de captura assinada por ele**, sem prova conclusiva de legitimidade | Mostra que Aldren esperava **levar Lionel vivo** |
+| **Aldren** | Espada longa da família, **armadura de placas nobre** (CA 18), capa vinho, anel/sinete Ashmane | Equipamento real, valioso e saqueável se for tomado; não é loot gratuito se ele permanecer vivo e equipado |
+| **Aldren** | **1 ordem de captura assinada pelo próprio herdeiro Ashmane** | **Ordem particular**, não um mandado da Casa Roarshield ou de um tribunal; quer Lionel **vivo** |
 | **Quasit / Darkmantle** | **Nenhum tesouro intrínseco** | Sem “gema no monstro” ou componentes mágicos automáticos |
 
-**Equipamento de Aldren:** espada e armadura são itens reais e utilizáveis se forem obtidos legitimamente. **Lionel também é leonin:** não criar incompatibilidade anatômica artificial. O brasão Ashmane é uma decisão narrativa do jogador, não penalidade automática. **Antes da sessão, definir se a ficha importada de Knight usa armadura de placas ou se a adaptação de Aldren usa meia-armadura**, e manter **CA, inventário e loot coerentes**; não declarar CA 17 e armadura de Knight ao mesmo tempo sem conferir o Foundry.
+**Equipamento de Aldren:** armadura de **placas**, espada e sinete são itens reais. **Lionel também é leonin**: não inventar incompatibilidade anatômica ou penalidade pelo brasão Ashmane. Se o grupo conquistar a armadura, pode usá-la ou vendê-la normalmente conforme a situação e as regras; a escolha do que fazer com o brasão é do jogador.
 
 ### Bilhete cifrado do elfo (handout lido após decifrar)
 
@@ -427,9 +437,9 @@ Clareira de aproximadamente **30 × 24 m**, trilha atravessando o centro.
 > [!quote] TEXTO PARA MOSTRAR
 > “Lionel Roarshield deverá ser apresentado sob custódia para responder pela morte de seu irmão.  
 > É vedada sua execução durante a condução.  
-> — Aldren Ashmane.”
+ > — Aldren Ashmane, herdeiro da Casa Ashmane.”
 
-**Investigação/História CD 12–14:** documento consistente com a intenção de Aldren, mas **autoridade externa não verificada**; o texto não demonstra que um conselho legitimamente expediu essa ordem.
+**Investigação/História CD 12–14:** o documento é autêntico, assinado por Aldren como herdeiro da sua casa, mas **não há mandado do conselho nem autoridade Roarshield**; isso não significa que ele tenha direito legal de prender Lionel.
 
 ### Outras pistas (mesmo sem loot)
 
@@ -459,7 +469,7 @@ Não presumir que eles conseguem mandar mensagens até Mirabar; todos estão pre
 
 | Desfecho | O que muda agora | Como usar depois |
 |---|---|---|
-| **Aldren ainda inimigo** | Tenta capturar Lionel e mantém distância emocional | Reencontro com dúvidas acumuladas; talvez encontre pistas por conta própria |
+| **Aldren ainda inimigo** | Tenta capturar Lionel e mantê-lo em Baróvia até achar caminho de volta | Reencontro com dúvidas acumuladas; talvez encontre pistas por conta própria |
 | **Aldren aceita trégua** | Não perdoa nem absolve; suspende a violência sob condições | Pode se tornar rival respeitoso e fonte de informações |
 | **Aldren salva Lionel / muda de lado** | Rompe com a execução; luta deixa de ser tão difícil | Relação pode ser reconstruída **ao longo de sessões**, não instantaneamente |
 | **Severin escapa** | Conhece posições e poderes do grupo; Vet sabe que alguém dos D'Kazarov está em Baróvia | Agente recorrente, negociador perigoso, sem teletransporte ou acesso automático a Mirabar |
