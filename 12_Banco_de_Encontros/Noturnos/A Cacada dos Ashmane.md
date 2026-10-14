@@ -127,7 +127,7 @@ Aldren passou a seguir esses relatos e quaisquer rastros coerentes; **não sabe 
 # 2 — Aldren se revela
 
 > [!recite] Narração — primeira aparição no ninho
-> À entrada do ninho, uma silhueta alta se recorta contra a claridade de fora. O recém-chegado avança apenas o suficiente para ser visto. É um **leonin de juba cinza-prateada**, vestido com armadura de placas cinza-escura, detalhes prateados e um manto vermelho profundo. Uma mão repousa na espada longa; a outra permanece à vista.  
+> Na entrada do ninho, uma silhueta alta destaca-se junto à passagem para o exterior. O recém-chegado avança apenas o suficiente para ser visto. É um **leonin de juba cinza-prateada**, vestido com armadura de placas cinza-escura, detalhes prateados e um manto vermelho profundo. Uma mão repousa na espada longa; a outra permanece à vista.  
 >  
 > Seus olhos procuram alguém entre vocês.  
 >  
@@ -554,7 +554,7 @@ Não iniciar outro combate por obrigação. Oferecer uma cena breve de chegada e
 
 - [ ] Data / sessão: __________
 - [ ] O grupo acampou, viajou ou postergou a cena? __________
-- [ ] Quem estava de vigia? __________
+- [ ] Onde aconteceu (ninho ou estrada)? Estavam descansando, explorando ou caminhando? __________
 - [ ] Lionel reconheceu Aldren? Como reagiu? __________
 - [ ] Qual fala de Lionel mais abalou Aldren? __________
 - [ ] Aldren ficou contra, neutro ou ao lado do grupo? __________
