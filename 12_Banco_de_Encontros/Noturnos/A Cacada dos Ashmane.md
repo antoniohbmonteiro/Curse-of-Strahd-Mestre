@@ -22,7 +22,7 @@ tags:
 > [!summary] TELA RÁPIDA — LER NA MESA
 > **Quando e onde:** **(A) Ninho dos ankhegs**, se permanecerem no local, ou **(B) Estrada para a Vila de Baróvia**, se começarem a voltar. Ajustar à hora real da cena; **não exigir anoitecer, descanso ou acampamento**.  
 > **Aberturas:** [[#1 — Presságios no ninho ou na estrada]]; posicionamento específico em [[#Mapa prático para Foundry]].  
-> **Cena:** sinais estranhos → voz de Aldren → **reconhecimento de Lionel + memória no WhatsApp** → negociação → possível revelação de ordens conflitantes → combate, fuga ou acordo.  
+> **Cena:** sinais estranhos → voz de Aldren → **reconhecimento de Lionel + link às lembranças públicas** → negociação → possível revelação de ordens conflitantes → combate, fuga ou acordo.  
 > **Aldren:** **herdeiro Ashmane**, decidiu por conta própria caçar e **capturar** Lionel; aceitou com facilidade ajuda D'Kazarov. Não sabe da ordem secreta de execução.  
 > **Theren Silvaris:** elfo espião/assassino; quer **matar Lionel**, sem vínculo pessoal com Vet.  
 > **Mara Kestrel:** batedora/rastreadora contratada, com arco e técnicas de caçadora.  
@@ -41,7 +41,7 @@ tags:
 - [ ] Conferir no Foundry **PV atuais, slots restantes, condições, itens e vigias**. O arquivo curado de PCs registra máximos, não recursos gastos.
 - [ ] Posicionar **seis tokens**: Aldren, Theren Silvaris, Severin Voss, Mara Kestrel, Quasit e Darkmantle.
 - [ ] Abrir as notas [[Aldren Ashmane]] e [[Severin Voss]] só se precisar de profundidade; **todas as falas importantes estão aqui**.
-- [ ] Deixar pronta a página **pública** [[Aldren - Lembranças do Lionel]] (com ilustração da infância) para enviar **somente ao Xapi quando Aldren for reconhecido**. O texto privado abaixo é alternativa caso o portal não esteja disponível. Nunca compartilhar esta nota de mestre.
+- [ ] Deixar pronta a página **pública** [[Portal_dos_Jogadores/Personagens/Aldren - Lembranças do Lionel|Aldren — Lembranças do Lionel]] (com a ilustração da infância) para abrir/enviar **somente ao Xapi quando Lionel reconhecer Aldren**. Nunca compartilhar esta nota de mestre.
 - [ ] Lembrar: **Lionel é o foco emocional; Vet ganha uma pista secundária, não a cena inteira.**
 
 ---
@@ -145,32 +145,10 @@ Aldren passou a seguir esses relatos e quaisquer rastros coerentes; **não sabe 
 **PARE.** Dê a Lionel tempo para reagir. **Lionel reconhece Aldren automaticamente:** nada de teste para identificar um amigo de infância. **Se Aldren reparar em Oryn**, o harengon confirma o boato do “coelho” que o trouxe até ali; deixe o reconhecimento afetar a interpretação sem obrigar Aldren a revelar de imediato de onde veio a pista.
 
 > [!important] AÇÃO NO MOMENTO DA REVELAÇÃO
-> Enviar ao Xapi a página **[[Aldren - Lembranças do Lionel]]**, com a imagem dos dois na infância. Se o portal não estiver disponível, usar a lembrança privada abaixo. Revelar o retrato adulto de Aldren nesse instante. Não determinar o que Lionel sente ou faz.
+> **Abrir as lembranças públicas de Lionel:** [[Portal_dos_Jogadores/Personagens/Aldren - Lembranças do Lionel|Aldren — Lembranças do Lionel]].  
+> **Enviar o link ao Xapi no WhatsApp** (ou apresentar a nota, incluindo a ilustração da infância), **somente quando Lionel reconhecer Aldren**. Revelar também o retrato adulto de Aldren. Não determinar o que Lionel sente ou como reage.  
 >
 > **Se o grupo reconhecer a Casa Ashmane:** é ramo secundário da dinastia Roarshield, historicamente militar e excluído da sucessão principal.
-
-> [!example]- WHATSAPP DE LIONEL — lembrança pronta
-> 🦁 **UMA LEMBRANÇA DE MIRABAR**  
->  
-> Você conhece aquele rosto.  
->  
-> **Aldren Ashmane.**  
->  
-> A Casa Ashmane descende de um ramo antigo da linhagem dos Roarshield. Orgulhosos de suas tradições militares, os Ashmane serviram à casa principal por gerações, embora nunca pudessem ocupar a liderança reservada à linhagem de Lionel.  
->  
-> Mas Aldren nunca foi apenas um sobrenome para você. Vocês cresceram juntos, treinaram com as mesmas armas e disputaram vitórias nos pátios de Mirabar. Ele era orgulhoso, competitivo e teimoso. E você sabia que podia confiar nele.  
->  
-> Você se lembra de uma tarde de chuva. A lama cobria o pátio e Aldren acabara de derrubá-lo pela terceira vez. Ele estendeu a mão e, rindo, provocou:  
->  
-> *“Vamos, Lionel. Um futuro rei não pode ficar deitado na lama.”*  
->  
-> Havia respeito naquela rivalidade. Aldren parecia acreditar que você seria um líder digno do nome Roarshield.  
->  
-> Então seu irmão morreu. Vieram a acusação, a desgraça e a fuga. Você não sabe o que Aldren ouviu ou no que passou a acreditar depois disso.  
->  
-> Agora aquele mesmo leonin está diante de você. O rosto cansado, a postura rígida, nenhum vestígio do sorriso daquela tarde chuvosa.  
->  
-> **Aldren Ashmane olha diretamente para você.**
 
 ### O que fica evidente sem rolagem
 
