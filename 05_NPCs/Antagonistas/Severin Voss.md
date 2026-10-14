@@ -67,6 +67,7 @@ Severin conhece seu rosto e a reconhece como filha de seus patronos. **Matar “
 - Se Vet estiver atrapalhando a missão, Severin tentará **isolá-la, contê-la ou afastá-la**, preferindo meios não letais.
 - Se um aliado mirar nela com intenção letal, ele ordena que pare; **pode interferir fisicamente ou com magia** se for necessário.
 - Se Vet o enxergar ou ouvir claramente, **permitir o reconhecimento naturalmente**, sem forçar um segredo que sua personagem conhece.
+- **Nota pública para mostrar nesse momento:** [[Portal_dos_Jogadores/Conhecimentos_Pessoais/Geral/Severin - Um Rosto Familiar|Severin — Um rosto familiar]]. Ela menciona apenas um rosto familiar de Mirabar, **sem revelar a identidade familiar de Vet** ou as ordens de execução.
 - O motivo da proteção pode intrigar o grupo sem roubar o primeiro momento de Lionel com Aldren.
 
 ### Frases prontas
