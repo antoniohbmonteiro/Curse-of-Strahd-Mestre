@@ -48,7 +48,18 @@ tags:
 
 # 0 — Contexto secreto (mestre)
 
-Os quatro perseguidores humanoides já estavam envolvidos na caçada a Lionel **em Faerûn**, quando as Brumas também os arrastaram a Baróvia. Não escolheram atravessar planos e **não sabem como sair**. Encontraram indícios de um leonin com escudo nobre e seguiram sua trilha.
+**A perseguição começou em Faerûn.** Aldren já estava atrás de **Lionel Roarshield**, com Theren, Mara e Severin, quando as **Brumas os engoliram também**. Eles **não atravessaram junto com Lionel**: foram lançados em **outro ponto de Baróvia**, longe dos aventureiros, e passaram algum tempo desorientados, tentando entender onde estavam. Nenhum deles escolheu a travessia, e **não sabem como sair**.
+
+### Como reencontraram a pista — os boatos
+
+Depois de perderem o rastro inicial, os perseguidores ouviram de viajantes e moradores relatos sobre **um grupo de aventureiros incomuns** cruzando a região. As descrições eram imprecisas, mas duas chamaram a atenção de Aldren:
+
+- **“Um coelho que anda e fala como gente.”** — descrição popular de [[Oryn Fizzlestryke]], o harengon, sem que os informantes saibam seu nome.
+- **“Um sujeito com cara de leão.”** — pista que Aldren associa imediatamente a Lionel, mesmo que ninguém tenha identificado o homem pelo nome.
+
+Aldren passou a seguir esses relatos e quaisquer rastros coerentes; **não sabe antecipadamente os nomes ou poderes dos demais personagens**. Ele pode mencionar as informações como boatos, **não como conhecimento onisciente da posição atual do grupo**.
+
+**Interpretação equivocada de Aldren:** como estava perseguindo Lionel quando as Brumas o tragaram, Aldren **suspeita que Lionel arranjou algum tipo de fuga mágica para outro mundo**, possivelmente **com ajuda desse grupo**; chega a cogitar que os caçadores foram arrastados pela mesma magia. É uma **acusação ou hipótese de Aldren, NÃO a verdade sobre as Brumas**. Ele não tem provas de que Lionel escolheu vir a Baróvia. A frustração e a coincidência o levam a procurar um culpado.
 
 | Quem | O que deseja | O que sabe / não sabe |
 |---|---|---|
@@ -113,7 +124,7 @@ Os quatro perseguidores humanoides já estavam envolvidos na caçada a Lionel **
 >  
 > “**Lionel Roarshield. Em nome da sua casa, ordeno que se apresente.**”
 
-**PARE.** Dê a Lionel tempo para reagir. **Lionel reconhece Aldren automaticamente:** nada de teste para identificar um amigo de infância.
+**PARE.** Dê a Lionel tempo para reagir. **Lionel reconhece Aldren automaticamente:** nada de teste para identificar um amigo de infância. **Se Aldren reparar em Oryn**, o harengon confirma o boato do “coelho” que o trouxe até ali; deixe o reconhecimento afetar a interpretação sem obrigar Aldren a revelar de imediato de onde veio a pista.
 
 > [!important] AÇÃO NO MOMENTO DA REVELAÇÃO
 > Enviar ao Xapi a página **[[Aldren - Lembranças do Lionel]]**, com a imagem dos dois na infância. Se o portal não estiver disponível, usar a lembrança privada abaixo. Revelar o retrato adulto de Aldren nesse instante. Não determinar o que Lionel sente ou faz.
@@ -164,7 +175,11 @@ Os quatro perseguidores humanoides já estavam envolvidos na caçada a Lionel **
 | Gatilho | Aldren responde |
 |---|---|
 | **Abertura / exigência** | “Lionel Roarshield. Em nome da sua casa, ordeno que se apresente.” |
-| **‘O que está fazendo aqui?’** | “Eu poderia perguntar o mesmo. Nem eu sei que terra é esta. Mas encontrá-lo não deixou de ser meu dever.” |
+| **‘O que está fazendo aqui?’** | “Eu estava atrás de você, Lionel. Então aquela maldita névoa engoliu todos nós. Acordamos longe daqui, sem saber onde estávamos.” |
+| **Aldren vê Oryn / fala dos boatos** | “Ouvi histórias sobre um bando de aventureiros. Um coelho andando como gente... e outro com cara de leão. Achei que fossem delírios. Até encontrar você.” |
+| **Lionel pergunta como o encontraram** | “Os boatos. Um coelho e um leonin viajando juntos. Não foi difícil imaginar de quem estavam falando.” |
+| **Aldren suspeita de fuga mágica** | “Foi esse grupo que ajudou você? Foi assim que fugiu de Mirabar? Para outra dimensão?” |
+| **Lionel nega ter provocado as Brumas** | “Então me explique como nós também acabamos aqui. Eu estava no seu encalço, e de repente não havia mais estrada alguma.” |
 | **Lionel pergunta sobre a família** | “Você não faz ideia do que deixou para trás. Outros tiveram que recolher os pedaços.” |
 | **Lionel lembra a amizade** | “Não faça isso, Lionel. Não use o que fomos para justificar o que você fez.” |
 | **‘Sou inocente!’** | “Eu sei. Foi exatamente o que eu disse quando encontraram seu irmão. Eu defendi você. Diante de todos. E então você fugiu.” |
@@ -447,6 +462,8 @@ Se Severin ou Theren tentarem executá-lo mesmo rendido, Aldren pode perceber a 
 |---|---|
 | Aldren conversar com Lionel | “**Eu defendi você. Diante de todos.**” — ele acreditou na inocência dele no início |
 | Aldren relatar notícias de Mirabar | A queda do herdeiro agravou a crise de prestígio; **pode haver quem ainda apoie Lionel** (identidades ainda a definir) |
+| Aldren explicar como encontrou o grupo | Os perseguidores **caíram em outro ponto de Baróvia**; ouviram **boatos de um coelho falante e de um homem com cara de leão** e seguiram a pista, sem informação prévia precisa sobre todos os PCs |
+| Aldren acusar Lionel de fuga planar | **Suspeita pessoal, não descoberta:** ele imagina que Lionel e os novos companheiros provocaram a travessia, mas não tem provas |
 | Vet reconhecer Severin | Era acompanhante visível do grande mago D'Kazarov em Mirabar — ligação **conhecida de Vet**, não segredo para ela |
 | Personagens ouvirem “não mate a garota” | Severin tem interesse em preservar Vet apesar de atacar Lionel |
 | Inspecionarem o foco/selos de Severin | Arcanismo **CD 14**: linguagem arcana de contratos; alguém familiarizado com Mirabar pode associar à casa |
