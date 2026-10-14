@@ -30,7 +30,7 @@ tags:
 > **Conhece:** [[Svetlana]] (Vet), vista em Mirabar junto ao mago principal. **Vet também pode reconhecê-lo.**  
 > **Prioridade:** cumprir a ordem contra [[Lionel Roarshield]], **sem permitir que Vet seja morta**.  
 > **Condição atual:** tragado pelas Brumas; está perdido em Baróvia como os demais perseguidores.  
-> **Ficha/ND:** pendente de balanceamento para seis personagens de nível 3.
+> **Base:** Mage Apprentice (MM 2025) aprimorado; **ND 4 pretendido**, CA 15, PV ~65, ataque mágico +6, CD 14. Validar ator no Foundry.
 
 ---
 
@@ -89,7 +89,7 @@ Se Aldren ordenar que suspenda a execução:
 
 ## Aparência sugerida
 
-Humano adulto (aproximadamente 30–40 anos), feições refinadas, expressão controlada, roupas de mago cinza-escuras com discretos detalhes vinho e prata, grimório e anéis/sinetes arcanos. Aparência limpa e respeitável de **assistente de um mago poderoso**, não um cultista ostensivo.
+Humano jovem adulto (aproximadamente **28–30 anos**), feições refinadas, expressão controlada, roupas de mago cinza-escuras com discretos detalhes vinho e prata, grimório e anéis/sinetes arcanos. Aparência limpa e respeitável de **assistente de um mago poderoso**, não um cultista ostensivo.
 
 A identidade visual deve se distinguir da heráldica cinza e vermelha de Aldren; possível assinatura pessoal: tinta de selos e runas de contrato.
 
@@ -98,12 +98,14 @@ A identidade visual deve se distinguir da heráldica cinza e vermelha de Aldren;
 > [!warning] Preparação, ainda sem ficha final
 > Conjurador de controle: o perigo está na divisão do grupo, posicionamento, proteção dos aliados e controle de movimentação — não em dano explosivo desproporcional a personagens de nível 3.
 
-**Magias candidatas (revisar ficha e regras de 2024 antes do Foundry):**
-- *Web (Teia)* — contenção e negação de espaço;
-- *Misty Step (Passo Nebuloso)* — reposicionamento;
-- *Shield (Escudo Arcano)* — defesa;
-- *Magic Missile (Mísseis Mágicos)* — pressão confiável;
-- *Ray of Frost (Raio de Gelo)* — impedir aproximação.
+**Magias adicionais definidas (aos poderes e magias originais do Mage Apprentice 2025):**
+- *Shield (Escudo Arcano)* — 2/dia, reação;
+- *Magic Missile (Mísseis Mágicos)* — 2/dia;
+- *Web (Teia)* — 1/dia, concentração;
+- *Misty Step (Passo Nebuloso)* — 1/dia;
+- *Slow (Lentidão)* — 1/dia, concentração.
+
+Manter as ações e magias que já vierem no bloco original (inclusive *Arcane Burst*). *Web* e *Slow* não podem ser mantidas juntas. **Não usar Fireball.**
 
 **Tática:** preparar terreno favorável, manter cobertura, usar servos para reconhecimento e distração, evitar linha de frente. Ele é perigoso e inteligente, mas **não onisciente**, e pode recuar.
 
@@ -141,7 +143,7 @@ Um prisioneiro valioso para pistas sobre práticas dos D'Kazarov, o arquimago e 
 
 - [ ] Definir nome e papel do mago principal da Casa D'Kazarov, sem publicá-los antes da hora.
 - [ ] Definir com precisão qual ordem de execução Severin recebeu e que provas conhece.
-- [ ] Montar ficha e magias no Foundry para nível 3.
+- [ ] Finalizar ficha Mage Apprentice aprimorada para **ND 4 pretendido**, com magias extras, no Foundry; validar o equilíbrio.
 - [ ] Preparar token/ficha do Quasit.
 - [ ] Preparar ficha e token do Darkmantle.
 - [ ] Registrar como Vet reagiu ao reconhecimento.
