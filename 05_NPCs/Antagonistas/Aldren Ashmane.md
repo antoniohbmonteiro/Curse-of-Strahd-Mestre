@@ -62,7 +62,7 @@ Uma tarde chuvosa no pátio de treinamento. O chão virou lama e Aldren derrubou
 
 > “Vamos, Lionel. Um futuro rei não pode ficar deitado na lama.”
 
-**Na revelação:** enviar ao jogador a lembrança de infância; não determinar a emoção nem a resposta de Lionel.
+**Na revelação:** abrir [[Portal_dos_Jogadores/Conhecimentos_Pessoais/Lionel/Aldren - Lembranças do Lionel|Aldren — Lembranças do Lionel]]; não determinar a emoção nem a resposta de Lionel.
 
 ## A morte do irmão
 
