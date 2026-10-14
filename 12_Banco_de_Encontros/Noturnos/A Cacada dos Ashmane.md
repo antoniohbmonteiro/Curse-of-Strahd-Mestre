@@ -41,7 +41,8 @@ tags:
 - [ ] Conferir no Foundry **PV atuais, slots restantes, condições, itens e vigias**. O arquivo curado de PCs registra máximos, não recursos gastos.
 - [ ] Posicionar **seis tokens**: Aldren, Theren Silvaris, Severin Voss, Mara Kestrel, Quasit e Darkmantle.
 - [ ] Abrir as notas [[Aldren Ashmane]] e [[Severin Voss]] só se precisar de profundidade; **todas as falas importantes estão aqui**.
-- [ ] Deixar pronta a página **pública** [[Portal_dos_Jogadores/Personagens/Aldren - Lembranças do Lionel|Aldren — Lembranças do Lionel]] (com a ilustração da infância) para abrir/enviar **somente ao Xapi quando Lionel reconhecer Aldren**. Nunca compartilhar esta nota de mestre.
+- [ ] Deixar pronta a página **pública** [[Portal_dos_Jogadores/Conhecimentos_Pessoais/Lionel/Aldren - Lembranças do Lionel|Aldren — Lembranças do Lionel]] (com a ilustração da infância) para abrir/enviar **somente ao Xapi quando Lionel reconhecer Aldren**. Nunca compartilhar esta nota de mestre.
+- [ ] Deixar disponível a nota pública [[Portal_dos_Jogadores/Conhecimentos_Pessoais/Geral/Severin - Um Rosto Familiar|Severin — Um rosto familiar]]; **mostrar quando Severin for reconhecido**, não antes do reencontro.
 - [ ] Lembrar: **Lionel é o foco emocional; Vet ganha uma pista secundária, não a cena inteira.**
 
 ---
@@ -145,7 +146,7 @@ Aldren passou a seguir esses relatos e quaisquer rastros coerentes; **não sabe 
 **PARE.** Dê a Lionel tempo para reagir. **Lionel reconhece Aldren automaticamente:** nada de teste para identificar um amigo de infância. **Se Aldren reparar em Oryn**, o harengon confirma o boato do “coelho” que o trouxe até ali; deixe o reconhecimento afetar a interpretação sem obrigar Aldren a revelar de imediato de onde veio a pista.
 
 > [!important] AÇÃO NO MOMENTO DA REVELAÇÃO
-> **Abrir as lembranças públicas de Lionel:** [[Portal_dos_Jogadores/Personagens/Aldren - Lembranças do Lionel|Aldren — Lembranças do Lionel]].  
+> **Abrir as lembranças públicas de Lionel:** [[Portal_dos_Jogadores/Conhecimentos_Pessoais/Lionel/Aldren - Lembranças do Lionel|Aldren — Lembranças do Lionel]].  
 > **Enviar o link ao Xapi no WhatsApp** (ou apresentar a nota, incluindo a ilustração da infância), **somente quando Lionel reconhecer Aldren**. Revelar também o retrato adulto de Aldren. Não determinar o que Lionel sente ou como reage.  
 >
 > **Se o grupo reconhecer a Casa Ashmane:** é ramo secundário da dinastia Roarshield, historicamente militar e excluído da sucessão principal.
@@ -231,6 +232,9 @@ Não bloqueie a iniciativa. Aldren pode gritar “Eu queria falar!” e se defen
 
 - **Lionel:** Aldren imediatamente.
 - **Vet:** **Severin** assim que puder vê-lo ou ouvi-lo com clareza. Era presença recorrente ao lado do famoso mago principal D'Kazarov em Mirabar. **Não pedir teste para reconhecer um conhecido.**
+
+> [!info] LEMBRANÇA PÚBLICA — SEVERIN
+> Quando Vet reconhecer Severin (ou alguém com passado em Mirabar o identificar), abrir [[Portal_dos_Jogadores/Conhecimentos_Pessoais/Geral/Severin - Um Rosto Familiar|Severin — Um rosto familiar]]. Mostrar como um **rosto conhecido de Mirabar**, sem explicar por que obedece aos D'Kazarov ou revelar a ligação familiar de Vet. Esta é uma memória secundária: **não interromper a cena emocional de Lionel com Aldren**.
 - **Elfo:** Vet **não o conhece**. A identidade completa do assassino fica em aberto.
 - **Kael e Dhorak:** podem reconhecer marcas, materiais ou estilo de contratos mágicos associados à rede D'Kazarov; **não assumem automaticamente** que todo objeto arcano pertence à casa.
 
