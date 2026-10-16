@@ -52,23 +52,13 @@ Texto de ligação curtinho. Não repita os tópicos da timeline.
 
 ## ⭐ Os aventureiros
 
-> [!cos-party] 🛡️ Personagem 1
-> Uma ação marcante, em no máximo duas linhas.
-
-> [!cos-party] ☀️ Personagem 2
-> Outro destaque da sessão.
-
-> [!cos-party] 🔥 Personagem 3
-> Um momento de roleplay ou magia.
-
-> [!cos-party] 🪓 Personagem 4
-> Trabalho em equipe ou ação criativa.
-
-> [!cos-party] 🎵 Personagem 5
-> Algo memorável.
-
-> [!cos-party] ⚔️ Personagem 6
-> Outro feito importante.
+> [!cos-party-grid] Destaques dos aventureiros
+> - **🛡️ Personagem 1** — Uma ação marcante, em até duas linhas.
+> - **☀️ Personagem 2** — Outro destaque da sessão.
+> - **🔥 Personagem 3** — Um momento de roleplay ou magia.
+> - **🪓 Personagem 4** — Trabalho em equipe ou ação criativa.
+> - **🎵 Personagem 5** — Algo memorável.
+> - **⚔️ Personagem 6** — Outro feito importante.
 
 > [!cos-finale] Próximo capítulo
 > ### Onde paramos
