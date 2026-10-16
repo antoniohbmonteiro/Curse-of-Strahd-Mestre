@@ -339,3 +339,34 @@ body.theme-light .callout[data-callout^="cos-"],
 @media print {
   .callout[data-callout^="cos-"] { box-shadow: none; break-inside: avoid; }
 }
+
+
+/* Compatibilidade com o Obsidian: no modo de leitura, callouts podem
+   receber um wrapper .el-blockquote. O wrapper também precisa virar coluna. */
+.markdown-reading-view .el-blockquote:has(.callout[data-callout="cos-party"]),
+.markdown-preview-view .el-blockquote:has(.callout[data-callout="cos-party"]) {
+  display: inline-block;
+  box-sizing: border-box;
+  width: calc(33.333% - 12px);
+  margin: 7px 6px 7px 0;
+  vertical-align: top;
+}
+.markdown-reading-view .el-blockquote:has(.callout[data-callout="cos-party"]) > .callout,
+.markdown-preview-view .el-blockquote:has(.callout[data-callout="cos-party"]) > .callout {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+@media (max-width: 760px) {
+  .markdown-reading-view .el-blockquote:has(.callout[data-callout="cos-party"]),
+  .markdown-preview-view .el-blockquote:has(.callout[data-callout="cos-party"]) {
+    width: calc(50% - 10px);
+  }
+}
+@media (max-width: 470px) {
+  .markdown-reading-view .el-blockquote:has(.callout[data-callout="cos-party"]),
+  .markdown-preview-view .el-blockquote:has(.callout[data-callout="cos-party"]) {
+    width: 100%;
+    margin: 6px 0;
+  }
+}
