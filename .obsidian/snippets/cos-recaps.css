@@ -213,7 +213,7 @@
 }
 .callout[data-callout="cos-party-grid"] > .callout-content > ul {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 212px), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 255px), 1fr));
   gap: 12px;
   margin: 0;
   padding: 0;
@@ -222,9 +222,10 @@
 .callout[data-callout="cos-party-grid"] > .callout-content > ul > li {
   display: block;
   min-width: 0;
-  min-height: 125px;
+  min-height: 120px;
   margin: 0;
-  padding: 16px;
+  padding: 15px 14px 14px 108px;
+  position: relative;
   list-style: none;
   border-radius: 16px;
   border: 1px solid var(--cos-border);
@@ -253,10 +254,62 @@
     gap: 10px;
   }
   .callout[data-callout="cos-party-grid"] > .callout-content > ul > li {
-    min-height: 0;
+    min-height: 102px;
   }
 }
 
+
+/* Avatar em posição fixa, independente do markup de imagem do Obsidian
+   ou do conversor de imagens do Digital Garden. */
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li > p {
+  position: static;
+  margin: 0;
+}
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li .internal-embed,
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li .image-embed {
+  position: absolute;
+  top: 15px;
+  left: 14px;
+  display: block;
+  width: 78px !important;
+  height: 78px !important;
+  max-width: 78px;
+  margin: 0 !important;
+  overflow: hidden;
+  border-radius: 14px;
+  border: 1px solid var(--cos-border);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, .24);
+}
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li .internal-embed img,
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li .image-embed img,
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li > p > img,
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li > img {
+  width: 78px !important;
+  height: 78px !important;
+  min-width: 78px;
+  max-width: 78px !important;
+  object-fit: cover !important;
+  object-position: center 35%;
+  border-radius: 14px !important;
+}
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li > p > img,
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li > img {
+  position: absolute;
+  top: 15px;
+  left: 14px;
+}
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li strong {
+  display: block;
+  color: var(--cos-gold);
+  font-size: .94rem;
+  line-height: 1.2;
+  margin: 0 0 7px;
+}
+@media (max-width: 430px) {
+  .callout[data-callout="cos-party-grid"] > .callout-content > ul > li {
+    padding-left: 100px;
+  }
+}
 /* 5 — Descoberta: carta, pista ou item; sem falsa imagem decorativa. */
 .callout[data-callout="cos-discovery"] {
   --callout-icon: lucide-scroll-text;
