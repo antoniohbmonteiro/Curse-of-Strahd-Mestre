@@ -128,23 +128,13 @@ No fim do confronto, dois adversários encontraram respostas muito diferentes.
 
 ## ⭐ Os aventureiros desta noite
 
-> [!cos-party] 🛡️ Lionel
-> **Ouviu e foi ouvido.** Convenceu Aldren a guardar a espada e poupou a arqueira rendida.
-
-> [!cos-party] ☀️ Svetlana
-> **Protegeu o grupo.** Acertou Severin com Raio Guia e ouviu uma notícia sobre o pai.
-
-> [!cos-party] 🔥 Oryn
-> **O inesperado.** Tentou conjurar gelo, produziu fogo e defendeu perseguir Severin.
-
-> [!cos-party] 🪓 Dhorak
-> **Sem delicadeza no combate.** Fabricou uma armadura, agarrou Severin e protegeu Aldren.
-
-> [!cos-party] 🎵 Yann
-> **A vida de Aldren.** Consertou a besta, salvou o cavaleiro e derrubou um inimigo de tanto rir.
-
-> [!cos-party] ⚔️ Kael
-> **O crítico chegou.** Derrubou o assassino com uma finalização brutal.
+> [!cos-party-grid] Destaques dos aventureiros
+> - **🛡️ Lionel** — Convenceu Aldren a guardar a espada e poupou a arqueira rendida.
+> - **☀️ Svetlana** — Protegeu o grupo com bênçãos e cura; ouviu uma notícia sobre o pai.
+> - **🔥 Oryn** — Tentou conjurar gelo, produziu fogo e defendeu perseguir Severin.
+> - **🪓 Dhorak** — Fabricou uma armadura, agarrou Severin e protegeu Aldren.
+> - **🎵 Yann** — Consertou a besta, salvou Aldren e derrubou um inimigo de tanto rir.
+> - **⚔️ Kael** — Conseguiu um crítico devastador contra o assassino.
 
 ## 🌫️ O homem que ainda corre
 
