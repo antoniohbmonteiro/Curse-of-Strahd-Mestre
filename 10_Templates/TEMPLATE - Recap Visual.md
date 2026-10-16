@@ -53,12 +53,12 @@ Texto de ligação curtinho. Não repita os tópicos da timeline.
 ## ⭐ Os aventureiros
 
 > [!cos-party-grid] Destaques dos aventureiros
-> - **🛡️ Personagem 1** — Uma ação marcante, em até duas linhas.
-> - **☀️ Personagem 2** — Outro destaque da sessão.
-> - **🔥 Personagem 3** — Um momento de roleplay ou magia.
-> - **🪓 Personagem 4** — Trabalho em equipe ou ação criativa.
-> - **🎵 Personagem 5** — Algo memorável.
-> - **⚔️ Personagem 6** — Outro feito importante.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/lionel-head.webp|84]] **🛡️ Lionel** — Descreva o destaque do personagem em uma ou duas linhas.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/svetlana-head.webp|84]] **☀️ Svetlana** — Descreva o destaque do personagem em uma ou duas linhas.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/oryn-head.webp|84]] **🔥 Oryn** — Descreva o destaque do personagem em uma ou duas linhas.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/dhorak-head.webp|84]] **🪓 Dhorak** — Descreva o destaque do personagem em uma ou duas linhas.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/yann-head.webp|84]] **🎵 Yann** — Descreva o destaque do personagem em uma ou duas linhas.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/kael-head.webp|84]] **⚔️ Kael** — Descreva o destaque do personagem em uma ou duas linhas.
 
 > [!cos-finale] Próximo capítulo
 > ### Onde paramos
