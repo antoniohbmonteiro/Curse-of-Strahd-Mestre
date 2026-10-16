@@ -11,8 +11,8 @@ aliases:
   - "Sessão 11 — Quando o Passado Encontra Baróvia (protótipo visual)"
 ---
 
-> [!cos-hero] Capa do capítulo
-> ![[99_Arquivos/Imagens/NPCs/Aldren Ashmane.webp|440]]
+> [!cos-hero-wide] Capa cinematográfica do capítulo
+> ![[Portal_dos_Jogadores/Imagens/Sessao11/01-aldren-na-entrada.jpg]]
 >
 > **CURSE OF STRAHD · SESSÃO 11**
 >
@@ -20,9 +20,6 @@ aliases:
 >
 > A primeira noite no ninho deveria ser um descanso. Em vez disso, **Mirabar encontrou os aventureiros.**
 
-<!-- ARTE FUTURA 01 — trocar o retrato do cos-hero por:
-![[Portal_dos_Jogadores/Imagens/Sessao11/01-aldren-na-entrada.jpg]]
-Aldren à entrada, Lionel diante dele e Severin quase escondido nas sombras. -->
 
 > [!cos-timeline] A noite em três momentos
 > 1. **🌙 O acampamento** — Uma carta de Waterdeep, um enterro e alguns preparativos para dormir.
@@ -72,9 +69,8 @@ Aldren havia acreditado na acusação. Ainda assim, ouviu.
 >
 > **Aldren hesitou. Depois, guardou a arma.**
 
-<!-- ARTE FUTURA 02 — inserir nesta seção, quando a imagem estiver pronta:
-![[Portal_dos_Jogadores/Imagens/Sessao11/02-lionel-e-aldren.jpg]]
-Lionel ajoelhado diante de Aldren, Roarshield partido no chão. -->
+> [!cos-frame] Lionel e Aldren · O escudo partido
+> ![[Portal_dos_Jogadores/Imagens/Sessao11/02-lionel-e-aldren.jpg]]
 
 ## 🕯️ Outra sombra de Mirabar
 
@@ -118,9 +114,8 @@ Aldren voltou a se levantar. Agora, lutava contra os homens que o tinham acompan
 >
 > O mago parou, assustado. Não era a magia que escolhera. E, naquela luta, não houve tempo para entender o motivo.
 
-<!-- ARTE FUTURA 03 — inserir no lugar ou após o spotlight:
-![[Portal_dos_Jogadores/Imagens/Sessao11/03-oryn-fogo.jpg]]
-Oryn conjurando fogo involuntariamente, com expressão assustada. -->
+> [!cos-frame] Oryn · O fogo inesperado
+> ![[Portal_dos_Jogadores/Imagens/Sessao11/03-oryn-fogo.jpg]]
 
 No fim do confronto, dois adversários encontraram respostas muito diferentes.
 
@@ -140,7 +135,7 @@ No fim do confronto, dois adversários encontraram respostas muito diferentes.
 
 Severin estava ferido. A emboscada havia fracassado. Yann ainda tentou atingi-lo com a besta, mas uma proteção mágica bloqueou o disparo.
 
-**Passo Nebuloso. Uma arrancada na direção da mata.**
+**Passo Nebuloso. Uma arrancada pela margem do rio, rumo à escuridão.**
 
 Severin escapou do campo de batalha.
 
@@ -150,9 +145,8 @@ O harengon respondeu:
 
 **“Segue.”**
 
-<!-- ARTE FUTURA 04 — inserir antes do finale:
-![[Portal_dos_Jogadores/Imagens/Sessao11/04-severin-fuga.jpg]]
-Severin ferido, fugindo pelas árvores na noite. -->
+> [!cos-frame] Severin Voss · A fuga pela margem do rio
+> ![[Portal_dos_Jogadores/Imagens/Sessao11/04-severin-fuga.jpg]]
 
 > [!cos-finale] Continua · Sessão 12
 > ### A noite não terminou.
