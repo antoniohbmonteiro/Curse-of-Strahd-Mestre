@@ -63,7 +63,7 @@ As regras principais também reconhecem os próprios callouts \`cos-*\`, evitand
 | **Cena ilustrada** | \`> [!cos-scene] ...\` | Imagem à esquerda e texto curto |
 | **Cena invertida** | \`> [!cos-scene-right] ...\` | Imagem à direita para alternância |
 | **Spotlight** | \`> [!cos-spotlight] ...\` | Escolha heroica, anomalia, fala |
-| **Party** | \`> [!cos-party] Nome\` | Até seis minicartões consecutivos |
+| **Party grid** | \`> [!cos-party-grid] Destaques\` | Um único callout com lista de seis itens; grid responsivo |
 | **Descoberta** | \`> [!cos-discovery] ...\` | Carta, pista, item |
 | **Timeline** | \`> [!cos-timeline] ...\` | Lista numerada de três a quatro marcos |
 | **Finale** | \`> [!cos-finale] ...\` | Última cena e decisão da sessão |
@@ -86,7 +86,7 @@ As regras principais também reconhecem os próprios callouts \`cos-*\`, evitand
 - **Capa:** uma única frase de contexto, sem contar a sessão inteira.
 - **Cenas:** geralmente 2 a 4 frases. **Evitar paredões.**
 - **Spotlight:** reservar para um acontecimento que realmente mereça atenção.
-- **Destaques da party:** um feito por personagem e no máximo duas linhas por cartão.
+- **Destaques da party:** um feito por personagem e no máximo duas linhas por cartão. Use **um único callout `cos-party-grid` com seis itens de lista**. Não use seis callouts separados, pois o Obsidian os empilha.
 - **Timeline:** mostrar a progressão, não repetir todas as cenas.
 - **Nada de duplo resumo:** não repetir a mesma descrição em três lugares diferentes.
 - **Nada de segredos de mestre, voz do Oryn ou retorno do lobo previstos:** publicar só aquilo que os jogadores sabem.
