@@ -1,0 +1,341 @@
+/*
+ * Curse of Strahd — Recaps visuais v1
+ * Compartilhado entre Obsidian (CSS snippet) e Digital Garden (SCSS).
+ * Componentes baseados em callouts: cos-hero, cos-scene, cos-scene-right,
+ * cos-spotlight, cos-party, cos-discovery, cos-timeline e cos-finale.
+ * Escopo estrito: outros documentos permanecem intactos.
+ */
+
+/* Identidade visual por componente, sem substituir a paleta do ITS Theme. */
+.callout[data-callout^="cos-"] {
+  --cos-ink: var(--text-normal, #e9e4df);
+  --cos-muted: var(--text-muted, #ada8a7);
+  --cos-border: rgba(190, 175, 156, .19);
+  --cos-red: #b45d65;
+  --cos-gold: #d8b878;
+  --cos-card: #25252b;
+  --cos-deep: #17181e;
+  --callout-icon: lucide-book-open;
+  --callout-color: 185, 106, 113;
+  --callout-radius: 20px;
+  --callout-border-width: 0;
+  --callout-padding: 0;
+  box-sizing: border-box;
+  color: var(--cos-ink);
+  border: 1px solid var(--cos-border);
+  border-radius: 20px;
+  background: linear-gradient(140deg, rgba(51, 44, 53, .66), rgba(29, 30, 37, .88));
+  box-shadow: 0 12px 34px rgba(0, 0, 0, .13);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  margin: 20px 0;
+  padding: 0;
+}
+.callout[data-callout^="cos-"] *,
+.callout[data-callout^="cos-"] *::before,
+.callout[data-callout^="cos-"] *::after { box-sizing: border-box; }
+.callout[data-callout^="cos-"] > .callout-title {
+  padding: 16px 20px 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--cos-gold);
+  font-size: .70rem;
+  letter-spacing: .14em;
+  font-weight: 780;
+  text-transform: uppercase;
+}
+.callout[data-callout^="cos-"] .callout-title-inner { font-weight: 800; }
+.callout[data-callout^="cos-"] .callout-icon {
+  opacity: .8;
+}
+.callout[data-callout^="cos-"] > .callout-content {
+  padding: 14px 20px 20px;
+  overflow: visible;
+  color: var(--cos-ink);
+  font-size: .94rem;
+  line-height: 1.55;
+}
+.callout[data-callout^="cos-"] > .callout-content > :first-child { margin-top: 0; }
+.callout[data-callout^="cos-"] > .callout-content > :last-child { margin-bottom: 0; }
+.callout[data-callout^="cos-"] .callout-content p { margin: 0 0 12px; }
+.callout[data-callout^="cos-"] .callout-content strong { color: #f0e9e2; }
+.callout[data-callout^="cos-"] .callout-content a { color: #d7bc88; }
+.callout[data-callout^="cos-"] .callout-content img {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  object-fit: cover;
+}
+.callout[data-callout^="cos-"] .callout-content .internal-embed,
+.callout[data-callout^="cos-"] .callout-content .image-embed { display: block; max-width: 100%; }
+.callout[data-callout^="cos-"] .callout-content h2,
+.callout[data-callout^="cos-"] .callout-content h3 {
+  color: #f7f1e9;
+  font-weight: 720;
+  letter-spacing: -.035em;
+  line-height: 1.14;
+  margin: 3px 0 13px;
+}
+
+/* 1 — Hero: retrato real à esquerda, título grande e contexto à direita. */
+.callout[data-callout="cos-hero"] {
+  --callout-icon: lucide-moon-star;
+  border: 1px solid rgba(207, 159, 114, .24);
+  border-radius: 24px;
+  background: radial-gradient(circle at 14% 10%, rgba(137, 63, 70, .19), transparent 43%),
+              linear-gradient(145deg, #2d252e, #171a20 75%);
+  box-shadow: 0 22px 50px rgba(0, 0, 0, .23);
+  margin-top: 4px;
+}
+.callout[data-callout="cos-hero"] > .callout-title { display: none; }
+.callout[data-callout="cos-hero"] > .callout-content {
+  display: grid;
+  grid-template-columns: minmax(0, 42%) minmax(0, 58%);
+  align-content: center;
+  column-gap: 0;
+  padding: 0;
+}
+.callout[data-callout="cos-hero"] > .callout-content > p:first-child:has(img) {
+  grid-column: 1;
+  grid-row: 1 / span 8;
+  margin: 0;
+  min-height: 280px;
+}
+.callout[data-callout="cos-hero"] > .callout-content > p:first-child:has(img) img {
+  height: 100%;
+  min-height: 300px;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: center 30%;
+  border-radius: 0;
+}
+.callout[data-callout="cos-hero"] > .callout-content > :not(p:first-child:has(img)) {
+  grid-column: 2;
+  margin-left: 28px;
+  margin-right: 28px;
+}
+.callout[data-callout="cos-hero"] > .callout-content > p:nth-child(2) {
+  align-self: end;
+  padding-top: 32px;
+  font-size: .71rem;
+  color: var(--cos-gold);
+  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: .17em;
+}
+.callout[data-callout="cos-hero"] > .callout-content h2,
+.callout[data-callout="cos-hero"] > .callout-content h3 {
+  font-size: clamp(1.7rem, 3vw, 2.75rem);
+  max-width: 16ch;
+}
+.callout[data-callout="cos-hero"] > .callout-content > :last-child { padding-bottom: 26px; color: #cdc1bb; }
+.callout[data-callout="cos-hero"] > .callout-content:not(:has(img)) {
+  display: block;
+  padding: 26px 30px;
+}
+
+/* 2 — Cena ilustrada: permite imagens reais usando ![[arquivo]]. */
+.callout[data-callout="cos-scene"],
+.callout[data-callout="cos-scene-right"] {
+  --callout-icon: lucide-clapperboard;
+  background: linear-gradient(130deg, #28252c, #20232b);
+}
+.callout[data-callout="cos-scene"] > .callout-content:has(img),
+.callout[data-callout="cos-scene-right"] > .callout-content:has(img) {
+  display: grid;
+  grid-template-columns: minmax(0, 40%) minmax(0, 60%);
+  gap: 0 22px;
+  align-content: center;
+}
+.callout[data-callout="cos-scene"] > .callout-content > p:first-child:has(img),
+.callout[data-callout="cos-scene-right"] > .callout-content > p:first-child:has(img) {
+  grid-column: 1;
+  grid-row: 1 / span 8;
+  margin: 0;
+}
+.callout[data-callout="cos-scene"] > .callout-content > p:first-child:has(img) img,
+.callout[data-callout="cos-scene-right"] > .callout-content > p:first-child:has(img) img {
+  aspect-ratio: 4 / 5;
+  max-height: 270px;
+  object-fit: cover;
+  object-position: center 36%;
+}
+.callout[data-callout="cos-scene"] > .callout-content:has(img) > :not(p:first-child:has(img)),
+.callout[data-callout="cos-scene-right"] > .callout-content:has(img) > :not(p:first-child:has(img)) {
+  grid-column: 2;
+}
+.callout[data-callout="cos-scene-right"] > .callout-content:has(img) {
+  grid-template-columns: minmax(0, 60%) minmax(0, 40%);
+}
+.callout[data-callout="cos-scene-right"] > .callout-content > p:first-child:has(img) { grid-column: 2; }
+.callout[data-callout="cos-scene-right"] > .callout-content:has(img) > :not(p:first-child:has(img)) { grid-column: 1; }
+.callout[data-callout="cos-scene"] .callout-content h3,
+.callout[data-callout="cos-scene-right"] .callout-content h3 { font-size: clamp(1.28rem, 2.4vw, 1.75rem); }
+
+/* 3 — Spotlight: use para uma escolha decisiva ou revelação, não a cada parágrafo. */
+.callout[data-callout="cos-spotlight"] {
+  --callout-icon: lucide-sparkles;
+  border-color: rgba(214, 174, 116, .35);
+  background: radial-gradient(circle at 100% 0%, rgba(157, 96, 94, .18), transparent 57%),
+              linear-gradient(120deg, #29232b, #171e25);
+}
+.callout[data-callout="cos-spotlight"] > .callout-content {
+  padding-top: 18px;
+  padding-bottom: 28px;
+}
+.callout[data-callout="cos-spotlight"] .callout-content h2,
+.callout[data-callout="cos-spotlight"] .callout-content h3 { font-size: clamp(1.55rem, 3vw, 2.2rem); }
+.callout[data-callout="cos-spotlight"] .callout-content > p:last-child {
+  font-size: 1.04rem;
+  max-width: 62ch;
+}
+
+/* 4 — Party cards: use seis callouts consecutivos. Grid sem HTML nem plugins. */
+.callout[data-callout="cos-party"] {
+  --callout-icon: lucide-user-round;
+  display: inline-block;
+  vertical-align: top;
+  width: calc(33.333% - 12px);
+  margin: 7px 6px 7px 0;
+  min-height: 130px;
+  border-radius: 15px;
+  box-shadow: none;
+  background: linear-gradient(145deg, #2a2931, #202128);
+}
+.callout[data-callout="cos-party"] > .callout-title {
+  letter-spacing: .035em;
+  font-size: .8rem;
+  text-transform: none;
+  padding: 14px 13px 3px;
+  color: #e3c58d;
+}
+.callout[data-callout="cos-party"] > .callout-content {
+  padding: 4px 13px 16px;
+  font-size: .82rem;
+  line-height: 1.4;
+}
+.callout[data-callout="cos-party"] .callout-content p { margin-bottom: 4px; }
+
+/* 5 — Descoberta: carta, pista ou item; sem falsa imagem decorativa. */
+.callout[data-callout="cos-discovery"] {
+  --callout-icon: lucide-scroll-text;
+  background: linear-gradient(120deg, rgba(85, 69, 59, .41), #25252c);
+  border-left: 3px solid var(--cos-gold);
+}
+.callout[data-callout="cos-discovery"] .callout-content { padding-top: 10px; }
+.callout[data-callout="cos-discovery"] .callout-content strong { color: #f1d6a3; }
+
+/* 6 — Timeline: três a quatro marcos dentro de lista numerada comum. */
+.callout[data-callout="cos-timeline"] {
+  --callout-icon: lucide-route;
+  box-shadow: none;
+  background: linear-gradient(110deg, #23232b, #29252d);
+}
+.callout[data-callout="cos-timeline"] .callout-content ol {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  counter-reset: cos-step;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+.callout[data-callout="cos-timeline"] .callout-content li {
+  counter-increment: cos-step;
+  background: rgba(255, 255, 255, .035);
+  border: 1px solid rgba(255, 255, 255, .07);
+  border-radius: 11px;
+  padding: 14px;
+  margin: 0;
+  font-size: .81rem;
+}
+.callout[data-callout="cos-timeline"] .callout-content li::before {
+  content: "0" counter(cos-step);
+  display: block;
+  margin-bottom: 8px;
+  color: var(--cos-gold);
+  font-size: .73rem;
+  font-weight: 800;
+  letter-spacing: .12em;
+}
+
+/* 7 — Finale: último estado real da sessão, sem profecia metagame. */
+.callout[data-callout="cos-finale"] {
+  --callout-icon: lucide-moon;
+  background: linear-gradient(125deg, #331e2b, #1c202a 75%);
+  border-color: rgba(177, 92, 99, .38);
+  border-radius: 21px;
+}
+.callout[data-callout="cos-finale"] > .callout-content { padding-top: 18px; padding-bottom: 26px; }
+.callout[data-callout="cos-finale"] .callout-content h2,
+.callout[data-callout="cos-finale"] .callout-content h3 { font-size: 1.75rem; }
+
+/* Página com hero: largura editorial no site, sem alterar o resto do Garden. */
+body:has(.callout[data-callout="cos-hero"]) {
+  --dg-content-max-width: 880px;
+  --dg-content-font-size: 16px;
+  --dg-content-line-height: 1.55;
+}
+body:has(.callout[data-callout="cos-hero"]) .content > header h1 {
+  font-size: 1rem;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+/* Tema claro: manter legibilidade para quem não usa dark mode. */
+body.theme-light .callout[data-callout^="cos-"],
+.theme-light .callout[data-callout^="cos-"] {
+  color: #f5eee8;
+}
+
+/* Layout responsivo. */
+@media (max-width: 760px) {
+  .callout[data-callout="cos-party"] { width: calc(50% - 10px); }
+  .callout[data-callout="cos-hero"] > .callout-content {
+    display: block;
+    padding: 0;
+  }
+  .callout[data-callout="cos-hero"] > .callout-content > p:first-child:has(img) { min-height: 0; margin: 0; }
+  .callout[data-callout="cos-hero"] > .callout-content > p:first-child:has(img) img {
+    height: 225px;
+    min-height: 0;
+    aspect-ratio: 16 / 9;
+    object-position: center 29%;
+  }
+  .callout[data-callout="cos-hero"] > .callout-content > :not(p:first-child:has(img)) {
+    margin-left: 19px;
+    margin-right: 19px;
+  }
+  .callout[data-callout="cos-hero"] > .callout-content > p:nth-child(2) { padding-top: 19px; }
+  .callout[data-callout="cos-hero"] > .callout-content h2 { font-size: 1.85rem; }
+  .callout[data-callout="cos-scene"] > .callout-content:has(img),
+  .callout[data-callout="cos-scene-right"] > .callout-content:has(img) { display: block; }
+  .callout[data-callout="cos-scene"] .callout-content > p:first-child:has(img),
+  .callout[data-callout="cos-scene-right"] .callout-content > p:first-child:has(img) { margin-bottom: 14px; }
+  .callout[data-callout="cos-scene"] .callout-content > p:first-child:has(img) img,
+  .callout[data-callout="cos-scene-right"] .callout-content > p:first-child:has(img) img {
+    aspect-ratio: 16 / 9;
+    max-height: 240px;
+  }
+  .callout[data-callout="cos-timeline"] .callout-content ol { grid-template-columns: 1fr; gap: 8px; }
+  .callout[data-callout="cos-timeline"] .callout-content li {
+    display: grid;
+    grid-template-columns: 32px 1fr;
+    align-items: center;
+    gap: 12px;
+  }
+  .callout[data-callout="cos-timeline"] .callout-content li::before { margin-bottom: 0; }
+}
+@media (max-width: 470px) {
+  .callout[data-callout="cos-party"] { width: 100%; min-height: 0; margin: 6px 0; }
+  .callout[data-callout^="cos-"] > .callout-content { padding-left: 15px; padding-right: 15px; }
+  .callout[data-callout^="cos-"] > .callout-title { padding-left: 15px; padding-right: 15px; }
+  .callout[data-callout="cos-hero"] > .callout-content { padding: 0; }
+}
+/* Impressão limpa, sem sombras e com contraste. */
+@media print {
+  .callout[data-callout^="cos-"] { box-shadow: none; break-inside: avoid; }
+}
