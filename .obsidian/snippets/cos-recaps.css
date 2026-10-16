@@ -193,31 +193,69 @@
   max-width: 62ch;
 }
 
-/* 4 — Party cards: use seis callouts consecutivos. Grid sem HTML nem plugins. */
-.callout[data-callout="cos-party"] {
-  --callout-icon: lucide-user-round;
-  display: inline-block;
-  vertical-align: top;
-  width: calc(33.333% - 12px);
-  margin: 7px 6px 7px 0;
-  min-height: 130px;
-  border-radius: 15px;
+/* 4 — Party grid. Um único callout com lista Markdown de seis itens.
+   Garante uma grade real no Obsidian (onde cada callout é um bloco isolado)
+   e no Digital Garden, sem depender dos wrappers de cada renderer. */
+.callout[data-callout="cos-party-grid"] {
+  --callout-icon: lucide-users;
+  width: 100%;
+  display: block;
+  border: 0;
   box-shadow: none;
-  background: linear-gradient(145deg, #2a2931, #202128);
+  background: transparent;
+  overflow: visible;
+  padding: 0;
 }
-.callout[data-callout="cos-party"] > .callout-title {
-  letter-spacing: .035em;
-  font-size: .8rem;
-  text-transform: none;
-  padding: 14px 13px 3px;
-  color: #e3c58d;
+.callout[data-callout="cos-party-grid"] > .callout-title { display: none; }
+.callout[data-callout="cos-party-grid"] > .callout-content {
+  padding: 0;
+  overflow: visible;
 }
-.callout[data-callout="cos-party"] > .callout-content {
-  padding: 4px 13px 16px;
-  font-size: .82rem;
-  line-height: 1.4;
+.callout[data-callout="cos-party-grid"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 212px), 1fr));
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
-.callout[data-callout="cos-party"] .callout-content p { margin-bottom: 4px; }
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li {
+  display: block;
+  min-width: 0;
+  min-height: 125px;
+  margin: 0;
+  padding: 16px;
+  list-style: none;
+  border-radius: 16px;
+  border: 1px solid var(--cos-border);
+  background: var(--cos-card);
+  line-height: 1.45;
+  font-size: .87rem;
+  break-inside: avoid;
+}
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li::marker {
+  content: "";
+}
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li > strong,
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li > p > strong {
+  display: block;
+  color: var(--cos-gold);
+  font-size: 1rem;
+  font-weight: 750;
+  margin-bottom: 8px;
+}
+.callout[data-callout="cos-party-grid"] > .callout-content > ul > li > p {
+  margin: 0;
+}
+@media (max-width: 520px) {
+  .callout[data-callout="cos-party-grid"] > .callout-content > ul {
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 185px), 1fr));
+    gap: 10px;
+  }
+  .callout[data-callout="cos-party-grid"] > .callout-content > ul > li {
+    min-height: 0;
+  }
+}
 
 /* 5 — Descoberta: carta, pista ou item; sem falsa imagem decorativa. */
 .callout[data-callout="cos-discovery"] {
@@ -338,37 +376,6 @@ body.theme-light .callout[data-callout^="cos-"],
 /* Impressão limpa, sem sombras e com contraste. */
 @media print {
   .callout[data-callout^="cos-"] { box-shadow: none; break-inside: avoid; }
-}
-
-
-/* Compatibilidade com o Obsidian: no modo de leitura, callouts podem
-   receber um wrapper .el-blockquote. O wrapper também precisa virar coluna. */
-.markdown-reading-view .el-blockquote:has(.callout[data-callout="cos-party"]),
-.markdown-preview-view .el-blockquote:has(.callout[data-callout="cos-party"]) {
-  display: inline-block;
-  box-sizing: border-box;
-  width: calc(33.333% - 12px);
-  margin: 7px 6px 7px 0;
-  vertical-align: top;
-}
-.markdown-reading-view .el-blockquote:has(.callout[data-callout="cos-party"]) > .callout,
-.markdown-preview-view .el-blockquote:has(.callout[data-callout="cos-party"]) > .callout {
-  display: block;
-  width: 100%;
-  margin: 0;
-}
-@media (max-width: 760px) {
-  .markdown-reading-view .el-blockquote:has(.callout[data-callout="cos-party"]),
-  .markdown-preview-view .el-blockquote:has(.callout[data-callout="cos-party"]) {
-    width: calc(50% - 10px);
-  }
-}
-@media (max-width: 470px) {
-  .markdown-reading-view .el-blockquote:has(.callout[data-callout="cos-party"]),
-  .markdown-preview-view .el-blockquote:has(.callout[data-callout="cos-party"]) {
-    width: 100%;
-    margin: 6px 0;
-  }
 }
 
 
