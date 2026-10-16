@@ -129,12 +129,12 @@ No fim do confronto, dois adversários encontraram respostas muito diferentes.
 ## ⭐ Os aventureiros desta noite
 
 > [!cos-party-grid] Destaques dos aventureiros
-> - **🛡️ Lionel** — Convenceu Aldren a guardar a espada e poupou a arqueira rendida.
-> - **☀️ Svetlana** — Protegeu o grupo com bênçãos e cura; ouviu uma notícia sobre o pai.
-> - **🔥 Oryn** — Tentou conjurar gelo, produziu fogo e defendeu perseguir Severin.
-> - **🪓 Dhorak** — Fabricou uma armadura, agarrou Severin e protegeu Aldren.
-> - **🎵 Yann** — Consertou a besta, salvou Aldren e derrubou um inimigo de tanto rir.
-> - **⚔️ Kael** — Conseguiu um crítico devastador contra o assassino.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/lionel-head.webp|84]] **🛡️ Lionel** — Convenceu Aldren a guardar a espada e poupou a arqueira rendida.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/svetlana-head.webp|84]] **☀️ Svetlana** — Protegeu o grupo com bênçãos e cura; ouviu uma notícia sobre o pai.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/oryn-head.webp|84]] **🔥 Oryn** — Tentou conjurar gelo, produziu fogo e defendeu perseguir Severin.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/dhorak-head.webp|84]] **🪓 Dhorak** — Fabricou uma armadura, agarrou Severin e protegeu Aldren.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/yann-head.webp|84]] **🎵 Yann** — Consertou a besta, salvou Aldren e derrubou um inimigo de tanto rir.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/kael-head.webp|84]] **⚔️ Kael** — Conseguiu um crítico devastador contra o assassino.
 
 ## 🌫️ O homem que ainda corre
 
