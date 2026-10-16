@@ -18,6 +18,7 @@ tags:
 
 | Sessão | Título | Resumo |
 |---:|---|---|
+| 11 | [[Sessao 11 - Recap dos Jogadores|Quando o Passado Encontra Baróvia]] | A primeira noite fora da vila é interrompida pela chegada de Aldren Ashmane e Severin Voss. Lionel convence o antigo amigo a baixar a espada, mas uma flecha envenenada inicia a batalha. O grupo salva Aldren, enfrenta os agressores, vê Oryn conjurar fogo no lugar de gelo e termina decidido a perseguir Severin pela noite. |
 | 10 | [[Sessao 10 - Recap dos Jogadores|O Chão Escuta]] | Cercado por lobos, o grupo responde com a luz de Vet e vê um sobrevivente de orelha cortada desaparecer entre as árvores. Depois encontra os aventureiros perdidos de Cantemir, descobre predadores sob o solo, transforma Lionel em isca para uma emboscada planejada e termina diante de uma revelação: os mortos vieram de Waterdeep, em Faerûn. |
 | 09 | [[Sessao 09 - Recap dos Jogadores|A Felicidade Tem um Preço]] | Depois de enterrar Kolyan e Doru, o grupo aceita escoltar Ireena até Vallaki, impede Morganta de receber uma criança como pagamento pelas Tortas dos Sonhos e descobre que Dhorak quer outra porção mais do que deveria. Antes da viagem, seguem uma pista sobre aventureiros desaparecidos — até os lobos começarem a uivar. |
 | 08 | [[Sessao 08 - Recap dos Jogadores|Agora Eu Não Sinto Mais]] | O grupo descobre a fome de sangue de Doru, ajuda Donavich a aceitar que o filho não pode continuar preso naquele sofrimento e encerra sua condição. Mais tarde, Morganta aparece vendendo Tortas dos Sonhos, e Dhorak descobre que elas cumprem a promessa de uma noite perfeita. |
@@ -34,10 +35,10 @@ tags:
 
 ## Última sessão
 
-> [!summary] Sessão 10 — O Chão Escuta
-> Os uivos viraram um cerco: seis lobos e uma fera muito maior fecharam a estrada, até **Vet** explodir luz radiante no centro da matilha. Um lobo escapou com a orelha cortada e um último olhar para o grupo. Mais tarde, na caverna indicada por Cantemir, **Yann** e **Oryn** descobriram que os predadores caçavam pelas vibrações do chão. **Lionel** virou a própria isca, saltou para trás quando a criatura emergiu e **Dhorak** completou a armadilha com uma pedra. Depois da luta, os mortos revelaram algo maior: **eles vieram de Waterdeep, em Faerûn**.
+> [!summary] Sessão 11 — Quando o Passado Encontra Baróvia
+> O grupo acampou próximo ao ninho e tentou descansar, mas **Aldren Ashmane** chegou à procura de Lionel. O antigo amigo ouviu sua defesa e baixou a espada; então **Severin Voss** o traiu com uma flecha envenenada. No combate, **Yann salvou Aldren**, **Dhorak agarrou Severin**, **Vet amparou os companheiros**, **Kael finalizou o assassino** e **Lionel poupou uma arqueira rendida**. **Oryn tentou conjurar gelo, mas saiu fogo.** Severin fugiu noite adentro — e o grupo decidiu persegui-lo.
 >
-> **Ler agora:** [[Sessao 10 - Recap dos Jogadores|Sessão 10 — O Chão Escuta]]
+> **Ler agora:** [[Sessao 11 - Recap dos Jogadores|Sessão 11 — Quando o Passado Encontra Baróvia]]
 
 ---
 
@@ -75,6 +76,9 @@ tags:
 
 11. **Sessão 10 — O Chão Escuta**  
     Vocês sobreviveram ao cerco da matilha, viram um lobo marcado escapar, encontraram os aventureiros desaparecidos, usaram as vibrações do chão contra os predadores subterrâneos e descobriram que os mortos também vieram de Faerûn.
+
+12. **Sessão 11 — Quando o Passado Encontra Baróvia**  
+    Vocês acamparam nos ermos, reencontraram Aldren, presenciaram a traição de Severin e sobreviveram ao combate. Aldren foi salvo, uma arqueira poupada e Severin fugiu; agora a perseguição aguarda a próxima sessão.
 
 ---
 
