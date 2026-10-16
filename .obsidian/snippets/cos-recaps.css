@@ -506,3 +506,70 @@ body.theme-light .callout[data-callout^="cos-"],
 .markdown-reading-view.cos-recap > .markdown-preview-sizer {
   max-width: 900px;
 }
+
+
+/* Capa panoramica: alternativa ao hero vertical para cenas 16:9 */
+.callout[data-callout="cos-hero-wide"] {
+  border-radius: 22px;
+  border: 1px solid var(--cos-border);
+  background: var(--cos-card);
+  box-shadow: 0 20px 48px rgba(0,0,0,.22);
+}
+.callout[data-callout="cos-hero-wide"] > .callout-title { display: none; }
+.callout[data-callout="cos-hero-wide"] > .callout-content { padding: 0 !important; display: block; }
+.callout[data-callout="cos-hero-wide"] > .callout-content > :first-child:has(img) {
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden;
+}
+.callout[data-callout="cos-hero-wide"] > .callout-content > :first-child:has(img) img {
+  display: block; width: 100% !important; max-width: 100% !important;
+  height: auto !important; aspect-ratio: 16 / 9;
+  object-fit: cover; object-position: center center;
+  border-radius: 0 !important;
+}
+.callout[data-callout="cos-hero-wide"] > .callout-content > :not(:first-child) {
+  margin-left: 0 !important; margin-right: 0 !important;
+  padding-left: clamp(18px, 4vw, 36px); padding-right: clamp(18px, 4vw, 36px);
+}
+.callout[data-callout="cos-hero-wide"] > .callout-content > p:nth-child(2) {
+  color: var(--cos-gold); padding-top: 24px;
+  font-size: .72rem; letter-spacing: .15em; text-transform: uppercase; font-weight: 800;
+}
+.callout[data-callout="cos-hero-wide"] > .callout-content h2 {
+  font-size: clamp(1.75rem, 4vw, 2.55rem); line-height: 1.13;
+  letter-spacing: -.035em; margin: 0 0 15px;
+}
+.callout[data-callout="cos-hero-wide"] > .callout-content > :last-child { padding-bottom: 27px; }
+
+/* Quadros cinematograficos: sem titulo visual ou molduras dentro da imagem */
+.callout[data-callout="cos-frame"] {
+  padding: 0; margin: 18px 0 25px; border: 1px solid var(--cos-border);
+  border-radius: 17px; background: var(--cos-deep); overflow: hidden;
+  box-shadow: 0 12px 30px rgba(0,0,0,.19);
+}
+.callout[data-callout="cos-frame"] > .callout-title { display: none; }
+.callout[data-callout="cos-frame"] > .callout-content { padding: 0 !important; overflow: hidden; }
+.callout[data-callout="cos-frame"] > .callout-content > p:first-child {
+  margin: 0 !important; padding: 0 !important;
+}
+.callout[data-callout="cos-frame"] > .callout-content img {
+  display: block; width: 100% !important; max-width: 100% !important;
+  height: auto !important; aspect-ratio: 16 / 9;
+  object-fit: cover; border-radius: 0 !important;
+}
+
+/* Mesma largura editorial somente para recaps com capa panoramica */
+body:has(.callout[data-callout="cos-hero-wide"]) {
+  --dg-content-max-width: 880px;
+  --dg-content-font-size: 16px;
+  --dg-content-line-height: 1.55;
+}
+body:has(.callout[data-callout="cos-hero-wide"]) .content > header h1 {
+  font-size: 1rem; color: var(--text-muted); font-weight: 500;
+}
+@media (max-width: 760px) {
+  .callout[data-callout="cos-hero-wide"] > .callout-content h2 {
+    font-size: clamp(1.5rem, 6vw, 2rem);
+  }
+}
