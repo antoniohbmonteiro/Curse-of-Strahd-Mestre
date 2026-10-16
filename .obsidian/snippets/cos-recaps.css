@@ -370,3 +370,79 @@ body.theme-light .callout[data-callout^="cos-"],
     margin: 6px 0;
   }
 }
+
+
+/* v1.1 — Paleta adaptativa: o ITS Theme é a fonte de cores no Obsidian.
+   O Garden herda as próprias variáveis de tema. Os detalhes vinho/dourado
+   continuam sendo apenas acentos quando o tema não fornece equivalentes. */
+.callout[data-callout^="cos-"] {
+  --cos-ink: var(--text-normal, #e9e4df);
+  --cos-muted: var(--text-muted, #ada8a7);
+  --cos-red: var(--color-accent, var(--interactive-accent, #b45d65));
+  --cos-gold: var(--color-accent, var(--text-accent, #d8b878));
+  --cos-card: var(--background-secondary, #25252b);
+  --cos-deep: var(--background-primary, #17181e);
+  --cos-border: var(--background-modifier-border, rgba(190, 175, 156, .19));
+  --callout-color: var(--color-accent-rgb, 185, 106, 113);
+  color: var(--cos-ink);
+  border-color: var(--cos-border);
+  background: linear-gradient(135deg,
+    color-mix(in srgb, var(--cos-card) 88%, var(--cos-red) 12%),
+    var(--cos-deep));
+}
+.callout[data-callout^="cos-"] > .callout-title { color: var(--cos-gold); }
+.callout[data-callout^="cos-"] .callout-content strong,
+.callout[data-callout^="cos-"] .callout-content h2,
+.callout[data-callout^="cos-"] .callout-content h3 { color: var(--cos-ink); }
+.callout[data-callout^="cos-"] .callout-content a { color: var(--text-accent, var(--cos-gold)); }
+
+.callout[data-callout="cos-hero"] {
+  background: radial-gradient(circle at 0% 10%,
+      color-mix(in srgb, var(--cos-red) 17%, transparent),
+      transparent 58%),
+    linear-gradient(140deg,
+      color-mix(in srgb, var(--cos-card) 82%, var(--cos-red) 18%),
+      var(--cos-deep));
+}
+.callout[data-callout="cos-scene"],
+.callout[data-callout="cos-scene-right"] {
+  background: linear-gradient(135deg, var(--cos-card), var(--cos-deep));
+}
+.callout[data-callout="cos-spotlight"] {
+  border-color: color-mix(in srgb, var(--cos-gold) 34%, var(--cos-border));
+  background: linear-gradient(135deg,
+    color-mix(in srgb, var(--cos-card) 83%, var(--cos-red) 17%),
+    var(--cos-deep));
+}
+.callout[data-callout="cos-party"] { background: var(--cos-card); }
+.callout[data-callout="cos-discovery"] {
+  border-left-color: var(--cos-gold);
+  background: linear-gradient(115deg,
+    color-mix(in srgb, var(--cos-card) 85%, var(--cos-gold) 15%),
+    var(--cos-deep));
+}
+.callout[data-callout="cos-discovery"] .callout-content strong { color: var(--cos-gold); }
+.callout[data-callout="cos-timeline"] { background: var(--cos-card); }
+.callout[data-callout="cos-timeline"] .callout-content li::before { color: var(--cos-gold); }
+.callout[data-callout="cos-finale"] {
+  border-color: color-mix(in srgb, var(--cos-red) 38%, var(--cos-border));
+  background: linear-gradient(130deg,
+    color-mix(in srgb, var(--cos-card) 73%, var(--cos-red) 27%),
+    var(--cos-deep));
+}
+body.theme-light .callout[data-callout^="cos-"],
+.theme-light .callout[data-callout^="cos-"] { color: var(--cos-ink); }
+
+/* O espaçamento editorial também se aplica ao restante da nota de recap,
+   não só ao conteúdo dentro dos cartões. Não afeta notas comuns do vault. */
+.markdown-preview-view.cos-recap h2:not(.callout h2),
+.markdown-reading-view.cos-recap h2:not(.callout h2) {
+  margin-top: 2.1em;
+  margin-bottom: .7em;
+  letter-spacing: -.025em;
+  color: var(--text-normal);
+}
+.markdown-preview-view.cos-recap > .markdown-preview-sizer,
+.markdown-reading-view.cos-recap > .markdown-preview-sizer {
+  max-width: 900px;
+}
