@@ -126,3 +126,19 @@ Use **um único `cos-party-grid`** com uma lista de seis itens e a imagem no com
 ```
 
 **Imagem de avatar inline:** o CSS a posiciona à esquerda do texto com bordas arredondadas. Os cards são responsivos e não devem usar seis callouts isolados. O site precisa ter os arquivos em `src/site/img/user/Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/` quando a nota for publicada.
+
+
+## Novos componentes panorâmicos
+
+O componente **cos-hero-wide** coloca a imagem horizontal 16:9 em toda a largura do card de abertura, seguida de título e subtítulo. O **cos-frame** insere uma imagem cinematográfica 16:9 entre as cenas, sem exibir título de callout. Ambos mantêm a cor e a largura do tema e não afetam outros recaps.
+
+## Quatro quadros — Sessão 11
+
+Na nota [[Sessao 11 - Versao Cinematografica - REVISAO]], usar estes quatro arquivos de Portal_dos_Jogadores/Imagens/Sessao11/:
+
+1. 01-aldren-na-entrada.jpg — capa panorâmica.
+2. 02-lionel-e-aldren.jpg — após a decisão de Lionel.
+3. 03-oryn-fogo.jpg — após a magia inesperada de Oryn.
+4. 04-severin-fuga.jpg — antes do encerramento.
+
+Antes de publicar, confirmar que os quatro JPGs estão versionados no repositório de mestre e foram sincronizados para o site via Digital Garden. A nota de revisão permanece com dg-publish: false.
