@@ -114,3 +114,15 @@ Os comentários HTML dentro da nota de revisão guardam os locais de inserção.
 - [ ] Substituir a nota oficial sem perder seu permalink.
 - [ ] Publicar/sincronizar pelo plugin Digital Garden.
 - [ ] Conferir o link público no Vercel, incluindo mobile.
+
+## Cards com retratos (versão atual)
+
+Use **um único `cos-party-grid`** com uma lista de seis itens e a imagem no começo da linha. As miniaturas ficam em `Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/`, com sufixo `-head.webp`.
+
+```markdown
+> [!cos-party-grid] Destaques dos aventureiros
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/lionel-head.webp|84]] **🛡️ Lionel** — Convenceu Aldren a guardar a espada.
+> - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/oryn-head.webp|84]] **🔥 Oryn** — O gelo se transformou em fogo.
+```
+
+**Imagem de avatar inline:** o CSS a posiciona à esquerda do texto com bordas arredondadas. Os cards são responsivos e não devem usar seis callouts isolados. O site precisa ter os arquivos em `src/site/img/user/Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/` quando a nota for publicada.
