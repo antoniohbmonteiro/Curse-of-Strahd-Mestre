@@ -30,13 +30,15 @@ tags:
 > [!cos-discovery] Documento encontrado · Uma carta de Waterdeep
 > Os mortos do ninho tinham uma vida antes de Baróvia.
 >
+> **Yann leu em voz alta** a carta encontrada entre os pertences deles.
+>
 > **Corvin Hale e seus companheiros** protegeram uma caravana a caminho de Waterdeep. **Edmund**, o mercador que os contratou, escreveu para agradecer. Na carta, ainda pediu que contassem ao filho a história de um ogro.
 >
 > **Mas aqueles aventureiros acabaram morrendo no ninho.**
 
 O grupo escolheu as pedras altas, perto da caverna, para passar a noite. **Oryn** preparou sopa e Alarme; **Vet** acendeu a fogueira; **Yann** montou a tenda e consertou sua besta. **Lionel** improvisou uma barreira no acesso.
 
-Enquanto o grupo tentava descansar, **Dhorak fez uma armadura para Yann**. Sim, o bárbaro também sabe costurar. E muito bem, por sinal. Ele só não quis emprestar o sino que pegou da carroça de Morganta para proteger o acampamento.
+O grupo conseguiu completar um **Descanso Curto** durante a pausa. Enquanto isso, **Dhorak fez uma armadura para Yann**. Sim, o bárbaro também sabe costurar. E muito bem, por sinal. Ele só não quis emprestar o sino que pegou da carroça de Morganta para proteger o acampamento.
 
 Lionel ainda fez uma coisa que ninguém tinha pedido: **enterrou os aventureiros mortos**. Vet reconheceu o gesto e conversou com ele sobre Lathander. Perto da fogueira, Lionel e Kael ainda discutiram justiça e o limite entre punir e matar.
 
@@ -80,9 +82,13 @@ Aldren chegou convencido de que Lionel era culpado. Mesmo assim, escutou.
 >
 > **Severin Voss**, aprendiz ligado à Casa D'Kazarov, reconheceu Oryn. Os dois se conheciam por causa do desastre mágico de Mirabar.
 >
-> Então olhou para Svetlana.
+> Severin o provocou, chamou-o de **“bichinho dos Roarshield”** e insinuou que ele tinha causado várias mortes naquele desastre. Oryn bateu o cajado no chão e respondeu com magia.
+>
+> Então Severin olhou para Svetlana.
 >
 > **“Senhorita Svetlana, seu pai te procura.”**
+
+Vet disse primeiro que não sabia do que Severin estava falando. Mais tarde, disse a ele que **não precisava de tudo aquilo**, num tom que deu a impressão de que já o conhecia. Mas não explicou o motivo.
 
 Severin exigiu que a levassem sem feri-la. Lionel não aceitou.
 
@@ -111,7 +117,7 @@ Aldren conseguiu se levantar e passou a lutar contra quem tinha chegado ali com 
 >
 > Só que da sua mão saiu **um raio de fogo**.
 >
-> Oryn ficou assustado. Não era a magia que ele tinha tentado usar, e não dava para parar a luta e entender o que aconteceu.
+> Oryn ficou assustado. Não era a magia que ele tinha tentado usar. **Será que as provocações de Severin o deixaram desequilibrado?** Ou o fogo apareceu por outro motivo? Naquele momento, ninguém tinha como saber.
 
 > [!cos-frame] Oryn · O fogo inesperado
 > ![[Portal_dos_Jogadores/Imagens/Sessao11/03-oryn-fogo.jpg]]
