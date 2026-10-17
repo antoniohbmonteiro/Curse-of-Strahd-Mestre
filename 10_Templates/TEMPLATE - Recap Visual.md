@@ -60,6 +60,11 @@ Texto de ligação curtinho. Não repita os tópicos da timeline.
 > - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/yann-head.webp|84]] **🎵 Yann** — Descreva o destaque do personagem em uma ou duas linhas.
 > - ![[Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/kael-head.webp|84]] **⚔️ Kael** — Descreva o destaque do personagem em uma ou duas linhas.
 
+> [!cos-threads] 🧩 Fios em aberto
+> - **🔍 Mistério 1** — Uma pergunta que os jogadores ainda não responderam.
+> - **🧩 Mistério 2** — Um vínculo, promessa ou assunto que continua em aberto.
+> - **🌫️ Mistério 3** — Uma consequência que o grupo ainda precisa descobrir.
+
 > [!cos-finale] Próximo capítulo
 > ### Onde paramos
 >
