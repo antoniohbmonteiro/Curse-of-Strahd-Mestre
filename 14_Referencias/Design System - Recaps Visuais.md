@@ -85,6 +85,7 @@ As regras principais também reconhecem os próprios callouts \`cos-*\`, evitand
 
 - **Capa:** uma única frase de contexto, sem contar a sessão inteira.
 - **Cenas:** geralmente 2 a 4 frases. **Evitar paredões.**
+- **Tom dos recaps:** português brasileiro contemporâneo, direto e natural. Evitar pretérito mais-que-perfeito simples (ex.: “treinara”, “ameaçara”, “faltara”, “exigira”) e expressões que soem como romance antigo. Preferir “treinou”, “estava ameaçando”, “tinha faltado” ou reformular a frase sem formalidade desnecessária. Manter o suspense sem linguagem rebuscada.
 - **Spotlight:** reservar para um acontecimento que realmente mereça atenção.
 - **Destaques da party:** um feito por personagem e no máximo duas linhas por cartão. Use **um único callout `cos-party-grid` com seis itens de lista**. Não use seis callouts separados, pois o Obsidian os empilha.
 - **Timeline:** mostrar a progressão, não repetir todas as cenas.
