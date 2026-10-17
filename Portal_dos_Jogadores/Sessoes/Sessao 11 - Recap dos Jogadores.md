@@ -157,7 +157,7 @@ O harengon respondeu:
 
 > [!cos-threads] Fios em aberto
 > - **🔥 O fogo de Oryn** Por que o Raio de Gelo virou fogo?
-> - **🕯️ Svetlana e o pai** Por que Severin apareceu procurando por ela?
+> - **🕯️ Svetlana e o pai** Como Severin a reconheceu e sabia que o pai dela estava procurando por ela?
 > - **🛡️ Lionel e Aldren** O que muda entre os dois depois desse reencontro?
 > - **🌫️ Severin Voss** Para onde ele está fugindo?
 
