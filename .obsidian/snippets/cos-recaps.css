@@ -729,3 +729,31 @@ body:has(.callout[data-callout="cos-hero-portrait"]) .content > header h1 {
     padding: 16px;
   }
 }
+
+
+/* Garden-only cinematic heading underline.
+   ITS Theme already paints the short line in Obsidian, but the Digital
+   Garden theme does not. .content is the website's main wrapper; the
+   site-only selector avoids a double underline in local Obsidian. */
+.content .callout:is(
+  [data-callout="cos-hero"],
+  [data-callout="cos-hero-wide"],
+  [data-callout="cos-hero-portrait"],
+  [data-callout="cos-scene"],
+  [data-callout="cos-scene-right"],
+  [data-callout="cos-spotlight"],
+  [data-callout="cos-finale"]
+) .callout-content :is(h2, h3)::after {
+  content: "";
+  display: block;
+  position: static;
+  width: 130px;
+  max-width: 42%;
+  height: 3px;
+  padding: 0;
+  margin: 7px 0 0;
+  border: none;
+  border-radius: 0;
+  opacity: 1;
+  background: linear-gradient(90deg, var(--cos-red, #b45d65), transparent);
+}
