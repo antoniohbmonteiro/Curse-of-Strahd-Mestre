@@ -573,3 +573,88 @@ body:has(.callout[data-callout="cos-hero-wide"]) .content > header h1 {
     font-size: clamp(1.5rem, 6vw, 2rem);
   }
 }
+
+
+/* Hero portrait 3:4: imagem inteira na esquerda, texto editorial à direita.
+   Corrige a arte vertical de Aldren, que era cortada pelo hero 16:9. */
+.callout[data-callout="cos-hero-portrait"] {
+  border-radius: 23px; border: 1px solid var(--cos-border);
+  background: var(--cos-card); overflow: hidden;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, .20);
+}
+.callout[data-callout="cos-hero-portrait"] > .callout-title { display: none; }
+.callout[data-callout="cos-hero-portrait"] > .callout-content {
+  display: grid;
+  grid-template-columns: minmax(0, 44%) minmax(0, 56%);
+  grid-template-rows: minmax(16px, 1fr) auto auto auto minmax(16px, 1fr);
+  align-items: stretch;
+  padding: 0 !important;
+  min-height: clamp(400px, 53vw, 520px);
+}
+.callout[data-callout="cos-hero-portrait"] > .callout-content > p:first-child:has(img) {
+  grid-column: 1; grid-row: 1 / 6; margin: 0 !important;
+  background: var(--background-primary, #13171a);
+  min-height: 0; overflow: hidden;
+}
+.callout[data-callout="cos-hero-portrait"] > .callout-content > p:first-child .internal-embed,
+.callout[data-callout="cos-hero-portrait"] > .callout-content > p:first-child .image-embed {
+  height: 100%; width: 100%; display: block;
+}
+.callout[data-callout="cos-hero-portrait"] > .callout-content > p:first-child img {
+  display: block; width: 100% !important; max-width: 100% !important;
+  height: 100% !important; object-fit: contain !important;
+  object-position: center center; border-radius: 0 !important;
+}
+.callout[data-callout="cos-hero-portrait"] > .callout-content > :not(:first-child) {
+  grid-column: 2;
+  margin-left: clamp(18px, 3vw, 30px);
+  margin-right: clamp(18px, 3vw, 30px);
+  padding: 0;
+}
+.callout[data-callout="cos-hero-portrait"] > .callout-content > p:nth-child(2) {
+  grid-row: 2; margin-top: 0; margin-bottom: 10px;
+  color: var(--cos-gold); font-size: .7rem; font-weight: 750;
+  letter-spacing: .13em; text-transform: uppercase;
+}
+.callout[data-callout="cos-hero-portrait"] > .callout-content h2 {
+  grid-row: 3; margin: 0 0 13px;
+  font-size: clamp(1.8rem, 3vw, 2.35rem);
+  line-height: 1.13; font-weight: 770; letter-spacing: -.04em;
+}
+.callout[data-callout="cos-hero-portrait"] > .callout-content > p:last-child {
+  grid-row: 4; margin-top: 0; margin-bottom: 0;
+  font-size: .94rem; line-height: 1.48;
+}
+body:has(.callout[data-callout="cos-hero-portrait"]) {
+  --dg-content-max-width: 880px;
+  --dg-content-font-size: 16px;
+  --dg-content-line-height: 1.55;
+}
+body:has(.callout[data-callout="cos-hero-portrait"]) .content > header h1 {
+  font-size: 1rem; color: var(--text-muted); font-weight: 500;
+}
+@media (max-width: 650px) {
+  .callout[data-callout="cos-hero-portrait"] > .callout-content {
+    display: block; min-height: 0;
+  }
+  .callout[data-callout="cos-hero-portrait"] > .callout-content > p:first-child:has(img),
+  .callout[data-callout="cos-hero-portrait"] > .callout-content > p:first-child .internal-embed,
+  .callout[data-callout="cos-hero-portrait"] > .callout-content > p:first-child .image-embed {
+    height: auto;
+  }
+  .callout[data-callout="cos-hero-portrait"] > .callout-content > p:first-child img {
+    height: auto !important; aspect-ratio: 3 / 4; object-fit: contain !important;
+  }
+  .callout[data-callout="cos-hero-portrait"] > .callout-content > :not(:first-child) {
+    margin-left: 22px; margin-right: 22px;
+  }
+  .callout[data-callout="cos-hero-portrait"] > .callout-content > p:nth-child(2) {
+    padding-top: 24px;
+  }
+  .callout[data-callout="cos-hero-portrait"] > .callout-content h2 {
+    font-size: clamp(1.6rem, 6vw, 2rem);
+  }
+  .callout[data-callout="cos-hero-portrait"] > .callout-content > p:last-child {
+    padding-bottom: 27px;
+  }
+}
