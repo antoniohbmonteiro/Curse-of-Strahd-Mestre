@@ -88,7 +88,7 @@ Aldren chegou convencido de que Lionel era culpado. Mesmo assim, escutou.
 >
 > **“Senhorita Svetlana, seu pai te procura.”**
 
-Vet disse primeiro que não sabia do que Severin estava falando. Mais tarde, disse a ele que **não precisava de tudo aquilo**, num tom que deu a impressão de que já o conhecia. Mas não explicou o motivo.
+Vet disse primeiro que não sabia do que Severin estava falando. Mais tarde, pediu que ele **fosse com calma**, num tom que deu a impressão de que já o conhecia. Mas não explicou o motivo.
 
 Severin exigiu que a levassem sem feri-la. Lionel não aceitou.
 
