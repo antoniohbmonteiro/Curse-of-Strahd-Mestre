@@ -22,7 +22,7 @@ tags:
 | **Site Digital Garden** \`Curse-of-Strahd\` | \`src/site/styles/_cos-recaps.scss\` |
 | **Importação do site** | \`src/site/styles/custom-style.scss\` (linha \`@use "./cos-recaps";\`) |
 | **Modelo de recap** | [[TEMPLATE - Recap Visual]] |
-| **Protótipo Sessão 11** | [[Sessao 11 - Versao Cinematografica - REVISAO]] |
+| **Recap Sessão 11** | [[Sessao 11 - Recap dos Jogadores]] |
 
 > [!important] Dois repositórios, um mesmo estilo
 > O snippet CSS do Obsidian e o arquivo SCSS do Digital Garden contêm as mesmas regras. Alterações futuras precisam ser refletidas **nos dois**, para preservar a aparência.
@@ -35,7 +35,7 @@ tags:
 2. Abra **Configurações → Aparência → Fragmentos CSS**.
 3. Clique em **recarregar fragmentos**, se necessário.
 4. Ative **cos-recaps**.
-5. Abra o protótipo [[Sessao 11 - Versao Cinematografica - REVISAO]] em **modo Leitura**.
+5. Abra o recap [[Sessao 11 - Recap dos Jogadores]] em **modo Leitura**.
 
 A propriedade opcional usada nas notas novas é:
 
@@ -142,22 +142,29 @@ O componente **cos-hero-wide** coloca a imagem horizontal 16:9 em toda a largura
 
 ## Quatro quadros — Sessão 11
 
-Na nota [[Sessao 11 - Versao Cinematografica - REVISAO]], usar estes quatro arquivos de Portal_dos_Jogadores/Imagens/Sessao11/:
+Na nota [[Sessao 11 - Recap dos Jogadores]], usar estes quatro arquivos de Portal_dos_Jogadores/Imagens/Sessao11/:
 
 1. 01-aldren-na-entrada.jpg — capa panorâmica.
 2. 02-lionel-e-aldren.jpg — após a decisão de Lionel.
 3. 03-oryn-fogo.jpg — após a magia inesperada de Oryn.
 4. 04-severin-fuga.jpg — antes do encerramento.
 
-Antes de publicar, confirmar que os quatro JPGs estão versionados no repositório de mestre e foram sincronizados para o site via Digital Garden. A nota de revisão permanece com dg-publish: false.
+Antes de publicar, confirmar que os quatro JPGs estão versionados no repositório de mestre e foram sincronizados para o site via Digital Garden. A nota oficial mantém o permalink e a publicação do recap da Sessão 11.
 
 
 ### Fios em aberto — uso recomendado
 
-Coloque o callout `cos-threads` **depois das cenas e antes do `cos-finale`**. Use uma única lista Markdown (2 a 4 perguntas curtas), sempre com informações que os jogadores já sabem. Evite repetir a última cena do Finale, antecipar segredos de mestre ou transformar a seção em uma lista de tarefas. Com apenas um fio realmente relevante, o componente é opcional.
+Coloque o título `## 🧩 Fios em aberto` e o callout `cos-threads` **depois das cenas e antes do `cos-finale`**. Use uma única lista Markdown (2 a 4 perguntas curtas), sempre com informações que os jogadores já sabem. Evite repetir a última cena do Finale, antecipar segredos de mestre ou transformar a seção em uma lista de tarefas. Com apenas um fio realmente relevante, o componente é opcional.
 
 ```markdown
-> [!cos-threads] 🧩 Fios em aberto
-> - **🔥 Magia inesperada** — Por que o feitiço mudou?
-> - **🌫️ Uma fuga** — Para onde o adversário foi?
+## 🧩 Fios em aberto
+
+> [!cos-threads] Fios em aberto
+> - **🔥 Magia inesperada** Por que o feitiço mudou?
+> - **🌫️ Uma fuga** Para onde o adversário foi?
 ```
+
+
+### Padrão visual consolidado: Fios em aberto
+
+O componente `cos-threads` reutiliza a linguagem visual do `cos-party-grid`: cartões avulsos, fundo do tema, duas colunas quando há espaço e título H2 separado. Não tem moldura envolvendo a grade, nem marcadores ou traços no início das perguntas. É opcional em cada recap; as sessões antigas não precisam de alterações.
