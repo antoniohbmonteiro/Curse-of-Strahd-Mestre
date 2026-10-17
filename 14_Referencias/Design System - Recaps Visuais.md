@@ -128,6 +128,12 @@ Use **um único `cos-party-grid`** com uma lista de seis itens e a imagem no com
 **Imagem de avatar inline:** o CSS a posiciona à esquerda do texto com bordas arredondadas. Os cards são responsivos e não devem usar seis callouts isolados. O site precisa ter os arquivos em `src/site/img/user/Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/` quando a nota for publicada.
 
 
+## Capa com retrato vertical
+
+O callout `cos-hero-portrait` usa imagem vertical 3:4 à esquerda e título/editorial à direita, sem recortar a foto. No celular, empilha foto e texto. Use na Sessão 11 com `01-aldren-na-entrada.jpg` (1086 × 1448). Foi criado porque `cos-hero-wide` forçava proporção 16:9 e cortava a cabeça de Aldren.
+
+`cos-hero-wide` continua reservado a imagens realmente horizontais em 16:9.
+
 ## Novos componentes panorâmicos
 
 O componente **cos-hero-wide** coloca a imagem horizontal 16:9 em toda a largura do card de abertura, seguida de título e subtítulo. O **cos-frame** insere uma imagem cinematográfica 16:9 entre as cenas, sem exibir título de callout. Ambos mantêm a cor e a largura do tema e não afetam outros recaps.
