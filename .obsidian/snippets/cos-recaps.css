@@ -802,11 +802,22 @@ body:has(.callout[data-callout="cos-hero-portrait"]) .content > header h1 {
 /* ITS WOTC portal: restored readable spacing and type for recap components.
    Digital Garden's main tag is .content, absent from local Obsidian reading
    view. Only recaps containing cos-* callouts are affected; 00–10 untouched. */
+/* Explicit typography, not just custom properties: the WOTC serif
+   font is already computed on body, so redefining --font-text alone on the
+   child .content does not change its inherited font-family. */
 .content:has(.callout[data-callout^="cos-"]) {
   --font-text: "Inter", "Segoe UI", Roboto, Arial, sans-serif;
   --font-default: "Inter", "Segoe UI", Roboto, Arial, sans-serif;
   --font-text-size: 16px;
+  font-family: var(--font-text) !important;
+  font-size: 16px;
   line-height: 1.63;
+}
+/* Apply to prose, not headings: WOTC heading typography stays intact.
+   Use the explicit font instead of inherit to bypass theme-specific
+   descendant font-family rules. */
+.content:has(.callout[data-callout^="cos-"]) :is(p, li, blockquote) {
+  font-family: "Inter", "Segoe UI", Roboto, Arial, sans-serif !important;
 }
 .content:has(.callout[data-callout^="cos-"]) > h2 {
   margin-top: 32px;
