@@ -887,3 +887,100 @@ body:has(.callout[data-callout="cos-hero-portrait"]) .content > header h1 {
     padding: 16px 18px 22px !important;
   }
 }
+
+
+/* Portal mobile: fix text squeezed into the 32px timeline grid
+   and preserve the COMPLETE original illustrations in story cards.
+   .content limits the changes to Digital Garden pages; local Obsidian
+   and all non-cos callouts retain their existing behavior. */
+@media (max-width: 760px) {
+  /* The numbered timeline is a two-column grid on mobile in the original
+     CSS. A bare text node becomes an anonymous grid item in column 1. */
+  .content .callout[data-callout="cos-timeline"] > .callout-content > ol {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    gap: 12px !important;
+  }
+  .content .callout[data-callout="cos-timeline"] > .callout-content > ol > li {
+    display: block !important;
+    grid-template-columns: none !important;
+    min-width: 0 !important;
+    width: auto !important;
+    padding: 17px 18px 19px !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+    hyphens: none;
+    text-align: left;
+    line-height: 1.55;
+  }
+  .content .callout[data-callout="cos-timeline"] > .callout-content > ol > li::before {
+    display: block !important;
+    width: auto !important;
+    margin: 0 0 10px !important;
+    float: none !important;
+  }
+  .content .callout[data-callout="cos-timeline"] > .callout-content > ol > li > p {
+    margin: 0 !important;
+    width: 100%;
+  }
+
+  /* Use a real one-column flow, with a full uncropped image above text.
+     The older mobile 16:9/240px limit cut off people's faces. */
+  .content .callout:is(
+    [data-callout="cos-scene"],
+    [data-callout="cos-scene-right"]
+  ) > .callout-content:has(img) {
+    display: block !important;
+    grid-template-columns: none !important;
+    min-width: 0;
+  }
+  .content .callout:is(
+    [data-callout="cos-scene"],
+    [data-callout="cos-scene-right"]
+  ) > .callout-content > p:first-child:has(img) {
+    display: block !important;
+    position: static !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    overflow: visible !important;
+    margin: 0 0 18px !important;
+    padding: 0 !important;
+  }
+  .content .callout:is(
+    [data-callout="cos-scene"],
+    [data-callout="cos-scene-right"]
+  ) > .callout-content > p:first-child:has(img) :is(
+    .internal-embed,
+    .image-embed,
+    picture,
+    figure,
+    a:has(img)
+  ) {
+    display: block;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    aspect-ratio: auto !important;
+  }
+  .content .callout:is(
+    [data-callout="cos-scene"],
+    [data-callout="cos-scene-right"]
+  ) > .callout-content > p:first-child:has(img) img {
+    display: block !important;
+    position: static !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    aspect-ratio: auto !important;
+    object-fit: contain !important;
+    object-position: center center !important;
+  }
+}
