@@ -11,8 +11,8 @@ aliases:
   - "Sessão 11 — Quando o Passado Encontra Baróvia (protótipo visual)"
 ---
 
-> [!cos-hero-portrait] Capa cinematográfica do capítulo
-> ![[Portal_dos_Jogadores/Imagens/Sessao11/01-aldren-na-entrada.jpg]]
+> [!cos-hero-wide] Capa cinematográfica do capítulo
+> ![[Portal_dos_Jogadores/Imagens/Sessao11/01-aldren-na-entrada-horizontal.png]]
 >
 > **CURSE OF STRAHD · SESSÃO 11**
 >
