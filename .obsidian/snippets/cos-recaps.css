@@ -757,3 +757,72 @@ body:has(.callout[data-callout="cos-hero-portrait"]) .content > header h1 {
   opacity: 1;
   background: linear-gradient(90deg, var(--cos-red, #b45d65), transparent);
 }
+
+
+/* Portal-only party grid fix: imagem renderizada por outro DOM no
+   Digital Garden. Força duas colunas e avatar pequeno, em vez de
+   fotos empilhadas no topo. A classe .content é o <main> do site;
+   o Obsidian local mantém seu layout atual, sem alterações. */
+.content .callout[data-callout="cos-party-grid"] > .callout-content > ul {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  gap: 12px !important;
+}
+.content .callout[data-callout="cos-party-grid"] > .callout-content > ul > li {
+  position: relative !important;
+  display: block !important;
+  min-width: 0 !important;
+  min-height: 115px;
+  padding: 15px 15px 15px 108px !important;
+  margin: 0 !important;
+  text-align: left;
+}
+.content .callout[data-callout="cos-party-grid"] > .callout-content > ul > li :is(
+  .internal-embed,
+  .image-embed,
+  a:has(img),
+  picture
+) {
+  /* A imagem pode vir aninhada em wrappers distintos. */
+  display: contents !important;
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+.content .callout[data-callout="cos-party-grid"] > .callout-content > ul > li img {
+  position: absolute !important;
+  top: 15px !important;
+  left: 14px !important;
+  display: block !important;
+  width: 78px !important;
+  min-width: 78px !important;
+  max-width: 78px !important;
+  height: 78px !important;
+  min-height: 78px !important;
+  max-height: 78px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  object-fit: cover !important;
+  object-position: center 35%;
+  border-radius: 13px !important;
+  border: 1px solid var(--cos-border);
+}
+.content .callout[data-callout="cos-party-grid"] > .callout-content > ul > li > p {
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: left;
+}
+.content .callout[data-callout="cos-party-grid"] > .callout-content > ul > li strong {
+  display: block !important;
+  margin: 0 0 7px !important;
+}
+@media (max-width: 660px) {
+  .content .callout[data-callout="cos-party-grid"] > .callout-content > ul {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+}
