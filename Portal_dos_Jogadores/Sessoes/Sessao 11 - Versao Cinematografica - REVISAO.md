@@ -148,6 +148,12 @@ O harengon respondeu:
 > [!cos-frame] Severin Voss · A fuga pela margem do rio
 > ![[Portal_dos_Jogadores/Imagens/Sessao11/04-severin-fuga.jpg]]
 
+> [!cos-threads] 🧩 Fios em aberto
+> - **🔥 O fogo de Oryn** — Por que o Raio de Gelo virou fogo?
+> - **🕯️ Svetlana e o pai** — Por que Severin apareceu procurando por ela?
+> - **🛡️ Lionel e Aldren** — O que muda entre os dois depois desse reencontro?
+> - **🌫️ Severin Voss** — Para onde ele está fugindo?
+
 > [!cos-finale] Continua · Sessão 12
 > ### A noite não terminou.
 >
