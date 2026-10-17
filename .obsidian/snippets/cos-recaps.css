@@ -797,3 +797,93 @@ body:has(.callout[data-callout="cos-hero-portrait"]) .content > header h1 {
     grid-template-columns: minmax(0, 1fr) !important;
   }
 }
+
+
+/* ITS WOTC portal: restored readable spacing and type for recap components.
+   Digital Garden's main tag is .content, absent from local Obsidian reading
+   view. Only recaps containing cos-* callouts are affected; 00–10 untouched. */
+.content:has(.callout[data-callout^="cos-"]) {
+  --font-text: "Inter", "Segoe UI", Roboto, Arial, sans-serif;
+  --font-default: "Inter", "Segoe UI", Roboto, Arial, sans-serif;
+  --font-text-size: 16px;
+  line-height: 1.63;
+}
+.content:has(.callout[data-callout^="cos-"]) > h2 {
+  margin-top: 32px;
+  margin-bottom: 19px;
+}
+/* ITS adds .callout.callout.callout and reduces gaps to 5px. */
+.content .callout.callout.callout:is(
+  [data-callout="cos-timeline"],
+  [data-callout="cos-discovery"],
+  [data-callout="cos-scene"],
+  [data-callout="cos-scene-right"],
+  [data-callout="cos-spotlight"],
+  [data-callout="cos-finale"]
+) {
+  --callout-margin: 19px 0 25px;
+  margin: 19px 0 25px;
+}
+.content .callout:is(
+  [data-callout="cos-timeline"],
+  [data-callout="cos-discovery"],
+  [data-callout="cos-scene"],
+  [data-callout="cos-scene-right"],
+  [data-callout="cos-spotlight"],
+  [data-callout="cos-finale"]
+) > .callout-title {
+  padding: 20px 24px 10px;
+}
+.content .callout:is(
+  [data-callout="cos-timeline"],
+  [data-callout="cos-discovery"],
+  [data-callout="cos-scene"],
+  [data-callout="cos-scene-right"],
+  [data-callout="cos-spotlight"],
+  [data-callout="cos-finale"]
+) > .callout-content {
+  padding: 17px 24px 25px !important;
+  font-family: var(--font-text);
+  font-size: .96rem;
+  line-height: 1.65;
+}
+.content .callout[data-callout="cos-timeline"] > .callout-content > ol {
+  gap: 14px;
+}
+.content .callout[data-callout="cos-timeline"] > .callout-content > ol > li {
+  min-width: 0;
+  padding: 17px 18px 18px !important;
+  font-size: .92rem;
+  line-height: 1.56;
+}
+.content .callout[data-callout="cos-timeline"] > .callout-content > ol > li::before {
+  margin-bottom: 10px;
+}
+.content .callout[data-callout="cos-discovery"] > .callout-content > p {
+  margin-bottom: 13px;
+}
+@media (max-width: 700px) {
+  .content .callout[data-callout="cos-timeline"] > .callout-content > ol {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .content .callout:is(
+    [data-callout="cos-timeline"],
+    [data-callout="cos-discovery"],
+    [data-callout="cos-scene"],
+    [data-callout="cos-scene-right"],
+    [data-callout="cos-spotlight"],
+    [data-callout="cos-finale"]
+  ) > .callout-title {
+    padding: 18px 18px 8px;
+  }
+  .content .callout:is(
+    [data-callout="cos-timeline"],
+    [data-callout="cos-discovery"],
+    [data-callout="cos-scene"],
+    [data-callout="cos-scene-right"],
+    [data-callout="cos-spotlight"],
+    [data-callout="cos-finale"]
+  ) > .callout-content {
+    padding: 16px 18px 22px !important;
+  }
+}
