@@ -32,6 +32,7 @@ tags:
 | [[Guia Rapido da Campanha|Guia rápido da campanha]] | Resumo do tom, proposta e estilo da campanha. |
 | [[Regras e Combinados da Mesa|Regras e combinados da mesa]] | Combinados importantes da mesa. |
 | [[Diario das Sessoes|Diário das sessões]] | Recaps públicos das sessões jogadas. |
+| [[Perolas da Mesa|Pérolas da mesa]] | Momentos engraçados, piadas internas e bastidores do grupo. |
 | [[Personagens do Grupo|Personagens do grupo]] | Lista dos personagens da party. |
 
 ---
