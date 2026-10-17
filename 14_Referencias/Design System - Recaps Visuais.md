@@ -168,3 +168,17 @@ Coloque o título `## 🧩 Fios em aberto` e o callout `cos-threads` **depois da
 ### Padrão visual consolidado: Fios em aberto
 
 O componente `cos-threads` reutiliza a linguagem visual do `cos-party-grid`: cartões avulsos, fundo do tema, duas colunas quando há espaço e título H2 separado. Não tem moldura envolvendo a grade, nem marcadores ou traços no início das perguntas. É opcional em cada recap; as sessões antigas não precisam de alterações.
+
+
+## Tema do portal — ITS Theme com WOTC/Beyond
+
+O Digital Garden **não herda o tema local do Obsidian automaticamente**. O arquivo `.env` do repositório `antoniohbmonteiro/Curse-of-Strahd` controla o estilo:
+
+- `THEME`: CSS **fixado** do ITS Theme **1.4.07**, a mesma versão de `.obsidian/themes/ITS Theme/theme.css` no vault (commit `bcf42c795bb91c07502ef4b34d0f02bad3ad2249`).
+- `BASE_THEME=dark`: mantém o modo escuro.
+- `STYLE_SETTINGS_BODY_CLASSES`: inclui `its-theme` e `wotc-beyond`, correspondendo a `ITS@@select: wotc-beyond` do plugin Style Settings.
+- O site importa o ITS e depois `digital-garden-base.css` e `custom-style.css`; as regras `cos-*` continuam customizadas.
+
+O CSS artificial que desenhava linhas de títulos só no site foi removido. Agora o **próprio ITS Theme gera os sublinhados**, evitando duplicação. A correção do `cos-party-grid` específica do portal permanece porque o HTML dos embeds de imagem é diferente no Digital Garden.
+
+**Impacto:** essa troca altera a aparência de todo o portal, inclusive as Sessões 00–10, **mas não muda seus arquivos Markdown**. Para atualizar a versão do ITS no site futuramente, atualizar conscientemente o endereço fixado de `THEME`; evitar URL com `HEAD`/`main` sem versão, pois o estilo poderia mudar de forma inesperada.
