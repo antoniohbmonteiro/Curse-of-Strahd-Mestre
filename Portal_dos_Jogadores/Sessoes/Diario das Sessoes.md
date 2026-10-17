@@ -14,6 +14,9 @@ tags:
 
 ---
 
+> [!tip] Fora da narrativa
+> Também temos as [[Perolas da Mesa|🎭 Pérolas da Mesa]]: piadas, momentos metagame e outras histórias da mesa que não entram nos recaps.
+
 ## Sessões registradas
 
 | Sessão | Título | Resumo |
