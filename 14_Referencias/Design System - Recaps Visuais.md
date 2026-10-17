@@ -66,6 +66,7 @@ As regras principais também reconhecem os próprios callouts \`cos-*\`, evitand
 | **Party grid** | \`> [!cos-party-grid] Destaques\` | Um único callout com lista de seis itens; grid responsivo |
 | **Descoberta** | \`> [!cos-discovery] ...\` | Carta, pista, item |
 | **Timeline** | \`> [!cos-timeline] ...\` | Lista numerada de três a quatro marcos |
+| **Fios em aberto** | `> [!cos-threads] 🧩 Fios em aberto` | Até 4 perguntas que os jogadores já têm, sem revelar bastidores |
 | **Finale** | \`> [!cos-finale] ...\` | Última cena e decisão da sessão |
 
 ### Exemplo de cena
@@ -149,3 +150,14 @@ Na nota [[Sessao 11 - Versao Cinematografica - REVISAO]], usar estes quatro arqu
 4. 04-severin-fuga.jpg — antes do encerramento.
 
 Antes de publicar, confirmar que os quatro JPGs estão versionados no repositório de mestre e foram sincronizados para o site via Digital Garden. A nota de revisão permanece com dg-publish: false.
+
+
+### Fios em aberto — uso recomendado
+
+Coloque o callout `cos-threads` **depois das cenas e antes do `cos-finale`**. Use uma única lista Markdown (2 a 4 perguntas curtas), sempre com informações que os jogadores já sabem. Evite repetir a última cena do Finale, antecipar segredos de mestre ou transformar a seção em uma lista de tarefas. Com apenas um fio realmente relevante, o componente é opcional.
+
+```markdown
+> [!cos-threads] 🧩 Fios em aberto
+> - **🔥 Magia inesperada** — Por que o feitiço mudou?
+> - **🌫️ Uma fuga** — Para onde o adversário foi?
+```
