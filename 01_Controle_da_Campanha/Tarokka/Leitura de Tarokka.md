@@ -114,7 +114,7 @@ dg-publish: false
 >
 > “Procurem entre as coisas que ele mantém perto de si. Onde os criados baixam a voz. Onde as portas não se abrem a qualquer convidado. Um lugar de livros, silêncio e orgulho; um lugar em que até as lembranças precisam pedir permissão para existir.”
 >
-> “Mas escutem bem: há páginas que contam pecados, e há páginas que ensinam a cometê-los. Algumas palavras são confissões. Outras são fórmulas. E certas fórmulas…”
+> “Mas escutem bem: Há páginas que contam pecados, e há páginas que ensinam a cometê-los. Algumas palavras são confissões. Outras são fórmulas. E certas fórmulas…”
 >
 > *Ela interrompe a frase, prendendo a respiração.*
 >
@@ -129,7 +129,7 @@ dg-publish: false
 >
 > Procurem entre as coisas que ele mantém perto de si. Onde os criados baixam a voz. Onde as portas não se abrem a qualquer convidado. Um lugar de livros, silêncio e orgulho; um lugar em que até as lembranças precisam pedir permissão para existir.
 >
-> há páginas que contam pecados, e há páginas que ensinam a cometê-los. Algumas palavras são confissões. Outras são fórmulas. E certas fórmulasfazem alguma coisa responder do outro lado.
+> há páginas que contam pecados, e há páginas que ensinam a cometê-los. Algumas palavras são confissões. Outras são fórmulas. E certas fórmulas… fazem alguma coisa responder do outro lado.
 
 
 > [!cos-discovery] Bastidores — Tomo de Strahd
