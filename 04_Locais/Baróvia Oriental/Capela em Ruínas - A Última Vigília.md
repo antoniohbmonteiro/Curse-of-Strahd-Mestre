@@ -35,14 +35,10 @@ tags:
 > **Pista opcional:** menção à Igreja de São Andral, em [[Vallaki]]; fita infantil com cheiro de canela como eco da trama de [[Morgantha]].  
 > **Combate:** **não por padrão**. Uma entidade que se alimenta de culpa está descrita como variação opcional ao fim da nota.
 
-> [!tip] FLUXO RÁPIDO — ABRA NA MESA
-> 1. Ofereça o desvio e deixe que decidam se investigam; não bloqueie a estrada.  
-> 2. Descreva a capela e seus dois altares; entregue as três pistas visíveis **sem teste**.  
-> 3. Ao investigarem a entrada ou tocarem a vela: **toc, toc, toc**.  
-> 4. Mila aparece e faz a pergunta. **Não peça um teste de Persuasão.**  
-> 5. Aguarde a resposta **e a ação** dos jogadores. A porta não existe, mas o convite pode existir.  
-> 6. Se acolherem as figuras, leia a libertação e conceda a bênção. Se não, deixe a alma ali, sem punição arbitrária.  
-> 7. Entregue as pistas opcionais apenas se explorarem. Voltem à estrada.
+> [!cos-timeline] FLUXO RÁPIDO — 3 ATOS
+> 1. **Chegada e descoberta:** ofereça o desvio sem bloquear a estrada. Mostre os dois altares, a vela e as oferendas. As pistas visíveis não exigem teste.
+> 2. **As três batidas:** quando investigarem a entrada ou tocarem a vela, faça **toc, toc, toc**. Mila aparece e pergunta o que teriam feito. **Não peça Persuasão**; deixe os jogadores reagirem.
+> 3. **A escolha:** aguarde uma ação concreta diante da entrada sem porta. Se acolherem as figuras, narre a libertação e dê a bênção; senão, Mila permanece. Pistas opcionais só se investigarem. Depois, retomem a estrada.
 
 > [!danger]- BASTIDORES — SÓ MESTRE
 > **Mila**, antiga cuidadora do santuário, acolhia viajantes de qualquer credo. Numa noite em que criaturas rondavam a mata, ouviu uma mulher e uma criança baterem à porta. Temendo atrair os perseguidores, **não abriu**. As duas morreram do lado de fora.  
@@ -162,7 +158,9 @@ Se a questionarem, Mila fala em frases curtas:
 
 ### Libertação
 
-> [!recite] Quando oferecem abrigo
+> [!cos-finale] NARRAÇÃO — SE OFERECEREM ABRIGO
+> ### A última porta se abre
+>
 > A neblina diante do arco se adensa. Uma mulher inclina a cabeça para proteger uma criança pequena da chuva que não está caindo.
 >
 > Elas atravessam a soleira invisível.
@@ -194,20 +192,21 @@ Se a questionarem, Mila fala em frases curtas:
 
 ### Livro antigo — pista rumo a Vallaki
 
-Dentro da caixa há anotações antigas, quase apagadas. Uma entrada ainda pode ser lida:
-
-> [!quote] Registro de um viajante
-> “Para além das estradas e da névoa, a igreja de São Andral, em Vallaki, ainda recebe quem procura abrigo. Que o Senhor da Manhã preserve as portas abertas aos que chegam.”
-
-**Informação entregue:** existe uma igreja em Vallaki associada à ideia de refúgio. **Não antecipar nada sobre os ossos de São Andral, sua localização ou o estado da proteção da igreja.**
+> [!cos-discovery] REGISTRO DE UM VIAJANTE — GANCHO PARA VALLAKI
+> Dentro da caixa há anotações antigas, quase apagadas. Uma entrada ainda pode ser lida:
+>
+> *“Para além das estradas e da névoa, a igreja de São Andral, em Vallaki, ainda recebe quem procura abrigo. Que o Senhor da Manhã preserve as portas abertas aos que chegam.”*
+>
+> **Informação entregue:** existe uma igreja em Vallaki associada à ideia de refúgio. **Não antecipar nada sobre os ossos de São Andral, sua localização ou o estado da proteção da igreja.**
 
 ### Oferendas recentes — pista ambígua
 
-- A fita infantil está limpa demais para ter permanecido anos ali.
-- Há um perfume tênue de massa assada e canela, perceptível ao aproximá-la do rosto.
-- Marcas de rodas pequenas podem ser vistas na lama da trilha se procurarem rastros (**Sobrevivência CD 12**).
-
-**Uso recomendado:** evocação discreta das Tortas dos Sonhos de [[Morgantha]], **sem confirmação** de que ela fez as oferendas. Se quiser preservar totalmente o mistério, retire as marcas de rodas e mantenha apenas a fita.
+> [!cos-discovery] A FITA INFANTIL — PISTA AMBÍGUA
+> - A fita infantil está limpa demais para ter permanecido anos ali.
+> - Há um perfume tênue de massa assada e canela, perceptível ao aproximá-la do rosto.
+> - Marcas de rodas pequenas podem ser vistas na lama da trilha se procurarem rastros (**Sobrevivência CD 12**).
+>
+> **Uso recomendado:** evocação discreta das Tortas dos Sonhos de [[Morgantha]], **sem confirmação** de que ela fez as oferendas. Se quiser preservar totalmente o mistério, retire as marcas de rodas e mantenha apenas a fita.
 
 ## 7. Variante perigosa — somente se desejar combate
 
@@ -223,11 +222,12 @@ Dentro da caixa há anotações antigas, quase apagadas. Uma entrada ainda pode 
 
 ## 8. Saída e consequências futuras
 
-- **Mila libertada:** a capela permanece silenciosa. A vela não volta a se acender sozinha. Pode ser lembrada como um dos raros lugares onde houve paz.
-- **Mila ainda presa:** novas visitas são possíveis; o espírito não sai perseguindo os aventureiros.
-- **Oferendas investigadas:** guardar a fita/canela como pista leve para uma futura visita ao [[Velho Moinho de Ossos]].
-- **Livro encontrado:** Ireena e o grupo recebem uma razão concreta para procurar a Igreja de São Andral quando chegarem a [[Vallaki]].
-- **Passaram reto:** nenhum progresso essencial da Tarokka ou da missão de Ireena depende dessa capela.
+> [!cos-threads] ESTADO DA CAPELA — CONSEQUÊNCIAS
+> - **Mila libertada:** a capela permanece silenciosa. A vela não volta a se acender sozinha. Pode ser lembrada como um dos raros lugares onde houve paz.
+> - **Mila ainda presa:** novas visitas são possíveis; o espírito não sai perseguindo os aventureiros.
+> - **Oferendas investigadas:** guardar a fita/canela como pista leve para uma futura visita ao [[Velho Moinho de Ossos]].
+> - **Livro encontrado:** Ireena e o grupo recebem uma razão concreta para procurar a Igreja de São Andral quando chegarem a [[Vallaki]].
+> - **Passaram reto:** nenhum progresso essencial da Tarokka ou da missão de Ireena depende dessa capela.
 
 > [!info] REFERÊNCIAS DE MESA
 > **Cena:** mapa Beneos *Crumbling Chapel*.  
