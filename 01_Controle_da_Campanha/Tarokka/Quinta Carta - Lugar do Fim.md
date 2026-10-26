@@ -53,215 +53,519 @@ dg-publish: false
 
 ---
 
-## As treze cartas — narrações prontas
+## As treze cartas — revelação e profecias
 
-*Antes de narrar a quinta carta, Madame Eva aproxima o rosto da imagem. Aguarde um ou dois segundos, como se ela própria precisasse compreender o presságio.*
+> [!note] Como interpretar esta seção
+> **Leia somente a carta sorteada.** Primeiro a descrição em *itálico*: são reações e gestos de Madame Eva para você encenar ou narrar. Depois, o bloco **recite** é a profecia pública. O quadro **Bastidores** contém localização e observações exclusivas do mestre.
+>
+> As cartas usam a mesma composição das quatro primeiras: **imagem inteira à esquerda, destino real à direita**, seguida da reação, narração e consequências. As ilustrações são as do vault, sem cortes intencionais.
+
+*Quando a última carta é escolhida, Madame Eva fica imóvel, como se escutasse um som que ninguém mais ouve. Revele a imagem na mesa do Beneos; então use a reação correspondente abaixo.*
+
+---
 
 ### Beast — Besta
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Beast.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Beast.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Beast — Besta
+>
+> **Destino do mestre:** Sala de Audiências (K25). *Poder, ferocidade e o predador escondido no soberano.*
 
-**Destino de mestre:** **Sala de Audiências (K25)** · *Poder e tirania; o conde como soberano.*
+*Ao revelar a Besta, Madame Eva recua apenas um pouco. Não por medo do desenho, mas porque, por um instante, parece ter sentido uma respiração próxima demais. Um som seco escapa de sua garganta — quase um rosnado, quase uma risada. Ela alisa a toalha da mesa, procurando recompor a postura.*
 
-*Uma figura sentada muito acima dos outros. Seu trono é escuro, mas sua sombra é ainda maior.*
+> [!recite] Madame Eva — Beast — Besta
+> “Ah… a Besta.”
+> 
+> *O canto de sua boca se contrai.*
+> 
+> “Quantos se ajoelham diante de uma coroa e se esquecem de olhar para os dentes de quem a usa?”
+> 
+> “Vejo um lugar feito para obedecer. Uma sala onde palavras viram sentenças, onde a vontade de um único senhor pesa mais do que a vida de muitos. Ali não precisam existir correntes. Basta que ele fale… e os outros aprenderam a baixar a cabeça.”
+> 
+> *Ela ergue a mão na altura do rosto, como quem afasta algo invisível.*
+> 
+> “Mas não se enganem com o assento elevado, as pedras antigas, a cerimônia. O que governa aquele lugar não é um rei. É a fome de um predador que descobriu como vestir o medo dos outros.”
+> 
+> “Se buscarem o diabo, procurem onde ele se apresenta como soberano. Onde espera ser ouvido. Onde ninguém ousava dizer não.”
+> 
+> *Madame Eva sorri pela última vez, sem calor algum.*
+> 
+> “Talvez seja hora de alguém descobrir se a Besta também sabe temer.”
 
-> [!recite] Madame Eva — Besta
-> “Vejo um senhor cercado de poder, entronizado como se a noite inteira lhe pertencesse. Ali, onde os súditos curvaram a cabeça, o predador vestirá a coroa que roubou do medo. Procurem-no no lugar onde uma ordem basta para condenar um reino.”
-
-> [!note]- Bastidores e condução
-> Sala cerimonial e símbolo do governo de Strahd; entrada grandiosa. A carta anuncia o encontro, não obriga Strahd a permanecer sentado.
+> [!cos-discovery] Bastidores — Beast — Besta
+> **Local:** Sala de Audiências, K25. **Tom:** majestade como máscara de predação; confronto cerimonial e opressivo. A carta marca o encontro, não obriga Strahd a permanecer imóvel.
 
 ---
 
 ### Broken One — O Despedaçado
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Broken One.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Broken One.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Broken One — O Despedaçado
+>
+> **Destino do mestre:** Túmulo de Sergei (K85). *Uma perda que nenhuma conquista compensou.*
 
-**Destino de mestre:** **Túmulo de Sergei (K85)** · *Inveja, perda e o irmão que Strahd destruiu.*
+*Madame Eva encara a imagem por tempo demais. A compaixão que surge em seu rosto é genuína, mas se desfaz quando ela fecha a mão ao lado da carta. Seus olhos não parecem acompanhar uma profecia; parecem recordar um funeral ao qual não pôde comparecer.*
 
-*Um homem partido diante da recordação de outro.*
+> [!recite] Madame Eva — Broken One — O Despedaçado
+> “O Despedaçado… Sim. Há feridas que o tempo não consegue fechar.”
+> 
+> *Ela baixa a voz.*
+> 
+> “Vejo um homem cercado de riquezas, protegido por muralhas, servido por sombras. Possui uma terra inteira e, ainda assim, vive como quem perdeu tudo.”
+> 
+> “Não foi uma batalha que o partiu. Não foi uma espada inimiga. Foi algo muito menor que um reino… e muito maior que seu orgulho.”
+> 
+> *Eva toca o centro da mesa com dois dedos.*
+> 
+> “Há uma pedra sob a qual dorme alguém que já não pode responder. O senhor daquela fortaleza retorna a esse silêncio como o homem que visita uma porta fechada e odeia a pessoa que a trancou.”
+> 
+> “Procurem o lugar onde repousa aquele que deveria ter sido amado, não invejado. Ali estarão diante da ausência que nenhuma vitória conseguiu preencher.”
+> 
+> *Ela respira fundo. Pela primeira vez, parece sentir pena de alguém que despreza.*
+> 
+> “Cuidado, meus queridos. Um coração partido pode aprender a ferir todos os outros.”
 
-> [!recite] Madame Eva — O Despedaçado
-> “Vejo alguém que conquistou um reino e ainda assim perdeu aquilo que mais desejava. Ele volta ao lugar onde repousa a medida de sua própria ruína. Procurem a pedra que guarda a lembrança daquele que ele invejou até destruí-lo.”
-
-> [!note]- Bastidores e condução
-> Mesmo destino de Innocent, mas o foco é a ferida interior de Strahd, não a inocência de Sergei.
+> [!cos-discovery] Bastidores — Broken One — O Despedaçado
+> **Local:** Túmulo de Sergei, K85. Mesmo destino da carta Inocente, mas a profecia fala da ruína interior de Strahd, não da pureza da vítima.
 
 ---
 
 ### Darklord — Senhor das Trevas
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Dark Lord.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Dark Lord.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Darklord — Senhor das Trevas
+>
+> **Destino do mestre:** Túmulo de Strahd (K86). *A eternidade como cela.*
 
-**Destino de mestre:** **Túmulo de Strahd (K86)** · *A prisão que o próprio tirano chama de eternidade.*
+*A expressão de Madame Eva endurece. Ela aproxima a carta do braseiro para enxergar melhor, embora haja luz suficiente. Por um momento parece irritada com o que viu. A chama da vela mais próxima vacila e ela coloca a carta de volta com uma firmeza quase desafiadora.*
 
-*A coroa pesa mais que a própria sepultura.*
+> [!recite] Madame Eva — Darklord — Senhor das Trevas
+> “O Senhor das Trevas.”
+> 
+> *Ela pronuncia o título sem respeito.*
+> 
+> “Há quem acredite que uma coroa concede liberdade. Que possuir uma terra é o mesmo que ser seu dono. Que, se todos os caminhos levam até você, então ninguém poderá lhe dizer para onde ir.”
+> 
+> *Eva inclina o rosto, fixando cada aventureiro.*
+> 
+> “Vejo um homem cercado por aquilo que conquistou e acorrentado a tudo que fez para conquistá-lo. Sua fortaleza é sua glória. Seu reino é sua cela. Sua imortalidade… apenas uma maneira mais lenta de cumprir uma sentença.”
+> 
+> “Nas profundezas dessa casa existe um lugar preparado para receber o próprio senhor. Pedra esculpida para preservar um nome que se recusa a desaparecer.”
+> 
+> *Ela deixa um intervalo longo demais antes da última frase.*
+> 
+> “Quando procurarem o dono deste vale, procurem-no onde até seu poder encontra uma porta que não pode manter aberta para sempre.”
+> 
+> *Os dedos de Eva se fecham sobre a mesa.*
+> 
+> “Um trono pode ser usurpado. Uma sepultura, não.”
 
-> [!recite] Madame Eva — Senhor das Trevas
-> “Quanto mais alto ergueu suas muralhas, mais fundo construiu sua cela. O senhor desta terra também é seu prisioneiro. Quando chegar a hora, procurem-no nas profundezas, onde seu próprio nome foi gravado para jamais ser esquecido.”
-
-> [!note]- Bastidores e condução
-> Mesmo local de Horseman, mas com ênfase no domínio, na maldição e na ilusão de controle.
+> [!cos-discovery] Bastidores — Darklord — Senhor das Trevas
+> **Local:** Túmulo de Strahd, K86. Mesmo destino do Cavaleiro, mas com tema de tirania, maldição e prisão.
 
 ---
 
 ### Donjon — Masmorra
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Donjon.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Donjon.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Donjon — Masmorra
+>
+> **Destino do mestre:** Salão dos Ossos (K67). *A fortaleza erguida sobre cadáveres.*
 
-**Destino de mestre:** **Salão dos Ossos (K67)** · *Castelo como prisão feita de restos humanos.*
+*Madame Eva leva a mão ao nariz como se o perfume de cera tivesse sido substituído por um cheiro de terra molhada. Ela olha para a entrada da tenda. O vento não mudou, mas a velha esfrega o antebraço, inquieta, antes de continuar.*
 
-*Um corredor que perdeu a voz sob o peso dos mortos.*
+> [!recite] Madame Eva — Donjon — Masmorra
+> “Pedra sobre pedra. Osso sobre osso.”
+> 
+> *Ela não ergue os olhos da carta.*
+> 
+> “Vejo corredores que deveriam guardar o silêncio dos mortos. Não guardam. O que ali descansa foi posto à mostra, empilhado, organizado… transformado em parte das paredes.”
+> 
+> “Há um homem que fez de sua própria casa uma prisão para tudo o que não quis esquecer. Deu aos restos dos outros um lugar de honra que jamais lhes concedeu em vida.”
+> 
+> *Eva olha diretamente para vocês, como se quisesse ter certeza de que ouviram.*
+> 
+> “Desçam ao ventre da fortaleza. Procurem um salão cuja beleza foi construída com aquilo que sobra quando os nomes se apagam.”
+> 
+> “Lá, entre ossos sem descanso, poderão encontrá-lo. Mas lembrem-se de que a morte, naquela casa, nunca é apenas decoração.”
+> 
+> *Ela recolhe a mão e examina as próprias unhas.*
+> 
+> “E não deixem que a pedra ensine seus nomes ao esquecimento.”
 
-> [!recite] Madame Eva — Masmorra
-> “Pedra e osso. Ossos sobre ossos. Vejo um salão erguido com lembranças de vidas que jamais receberam repouso. Descendo às entranhas do castelo, encontrarão o senhor que fez da morte parte de sua decoração.”
-
-> [!note]- Bastidores e condução
-> Ambiente macabro. Aproveitar arquitetura e cobertura da sala, sem impor um resultado fixo ao combate.
+> [!cos-discovery] Bastidores — Donjon — Masmorra
+> **Local:** Salão dos Ossos, K67. Enfatizar claustrofobia, restos mortais e a perversidade arquitetônica de Ravenloft.
 
 ---
 
 ### Executioner — Carrasco
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Executioner.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Executioner.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Executioner — Carrasco
+>
+> **Destino do mestre:** Mirante / Overlook (K6). *O limite entre sentença e queda.*
 
-**Destino de mestre:** **Mirante / Overlook (K6)** · *Execução, vertigem e o domínio que observa de cima.*
+*Assim que vê o Carrasco, Madame Eva ergue os olhos para o teto da tenda. Uma corrente de ar frio entra por baixo da lona, apesar de estar bem presa. A velha segura uma das cartas próximas para que não se mova. Seus dedos não tremem, mas a voz sai mais dura.*
 
-*Um precipício nas mãos de alguém sem piedade.*
+> [!recite] Madame Eva — Executioner — Carrasco
+> “O Carrasco.”
+> 
+> *Ela ergue dois dedos como se medisse uma lâmina.*
+> 
+> “Há sentenças que não são anunciadas. Basta um gesto, um olhar, um passo dado para trás… e já é tarde demais.”
+> 
+> “Vejo o senhor da noite observando sua terra de um lugar alto. Tão alto que as vozes dos vivos lhe chegam como o zumbido de insetos. Dali, as casas parecem brinquedos; as estradas, linhas finas; e qualquer homem que caia desaparece antes que seu grito termine.”
+> 
+> *Eva abaixa a mão.*
+> 
+> “Procurem a beira da pedra, onde o vento não se curva a ninguém. Onde o castelo se abre para o vazio e o vazio parece aguardar que alguém dê mais um passo.”
+> 
+> “Lá o encontrarão. Não confundam coragem com imprudência, meus queridos. Há inimigos que precisam apenas de um pequeno empurrão.”
+> 
+> *Uma pausa.*
+> 
+> “E há quedas das quais nem mesmo uma oração consegue alcançar quem partiu.”
 
-> [!recite] Madame Eva — Carrasco
-> “Há uma altura de onde até as torres parecem pequenas. Vejo um homem olhando suas terras como um carrasco que contempla a multidão. O vento levará suas últimas palavras, se ousarem alcançá-lo no limite da pedra.”
-
-> [!note]- Bastidores e condução
-> Ventos e queda tornam este cenário mais perigoso; conferir os mapas e o desnível antes da luta.
+> [!cos-discovery] Bastidores — Executioner — Carrasco
+> **Local:** Mirante, K6. Atenção a altura e queda. Preparar terreno e mobilidade; a profecia anuncia o lugar, não a forma de derrota.
 
 ---
 
 ### Ghost — Fantasma
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Ghost.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Ghost.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Ghost — Fantasma
+>
+> **Destino do mestre:** Túmulo de Barov e Ravenovia (K88). *A autoridade de um pai que continua após a morte.*
 
-**Destino de mestre:** **Túmulo de Barov e Ravenovia (K88)** · *O peso do pai e dos mortos da família.*
+*A carta do Fantasma parece entristecer Madame Eva de uma maneira distinta. Ela endireita uma dobra da toalha, repetindo o gesto duas vezes, e o rosto assume a gravidade de quem precisa pronunciar o nome de um morto respeitado.*
 
-*Um fantasma não precisa erguer-se para dominar os vivos.*
+> [!recite] Madame Eva — Ghost — Fantasma
+> “Os mortos falam de muitas maneiras.”
+> 
+> *Ela encara a carta, quase com reverência.*
+> 
+> “Às vezes basta uma lembrança. Às vezes uma pedra com um nome. Às vezes o silêncio de um filho que passou a vida inteira querendo ouvir uma única palavra de aprovação.”
+> 
+> “Vejo uma família que construiu sua grandeza com guerras, promessas e perdas. Um pai que deixou um nome pesado demais para ser carregado sem ferir as mãos.”
+> 
+> *Eva dirige o olhar a cada pessoa ao redor da mesa.*
+> 
+> “Procurem nas profundezas do castelo as sepulturas daqueles cujo sangue correu antes do dele. Ali o passado não é contado por livros, mas por pedra e ausência.”
+> 
+> “Quando chegarem ao lugar em que a linhagem encontra repouso, verão que certos fantasmas jamais precisaram se levantar para governar os vivos.”
+> 
+> *Ela solta a carta como se estivesse devolvendo-a a alguém.*
+> 
+> “E um filho pode tornar-se um monstro tentando ser maior que a sombra do próprio pai.”
 
-> [!recite] Madame Eva — Fantasma
-> “Os mortos ainda o chamam pelo sangue. Na pedra onde repousa aquele que lhe deu nome, o passado aguarda sem perdoar. Procurem as sepulturas de sua linhagem; o senhor das sombras encontrará ali o que nunca pôde herdar por completo.”
-
-> [!note]- Bastidores e condução
-> Mesmo destino de Raven; aqui a referência principal é o pai, o rei Barov.
+> [!cos-discovery] Bastidores — Ghost — Fantasma
+> **Local:** Túmulo de Barov e Ravenovia, K88. Comparar com Raven: aqui o foco dramático é a figura paterna e a herança dinástica.
 
 ---
 
 ### Horseman — Cavaleiro
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Horseman.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Horseman.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Horseman — Cavaleiro
+>
+> **Destino do mestre:** Túmulo de Strahd (K86). *Todo caminho termina diante da própria morte.*
 
-**Destino de mestre:** **Túmulo de Strahd (K86)** · *Destino final e retorno inevitável à morte.*
+*Madame Eva bate a unha na mesa uma vez. Depois outra. Depois uma terceira, num ritmo que lembra cascos sobre pedra. Parece fazer isso sem perceber. De repente para, cobre a carta com parte do xale e volta a descobri-la.*
 
-*Um cavaleiro sem estrada, atraído de volta ao próprio fim.*
+> [!recite] Madame Eva — Horseman — Cavaleiro
+> “Ouçam.”
+> 
+> *Ela se cala por três batidas do coração.*
+> 
+> “Um cavalo atravessa uma estrada vazia. Não há cavaleiro que consiga detê-lo. Não há noite longa o bastante para fazê-lo descansar.”
+> 
+> “Vejo alguém que tentou vencer o tempo, como se o mundo fosse uma batalha e os anos fossem inimigos a esmagar sob os pés. Mas até a marcha mais longa termina diante de uma única porta.”
+> 
+> *Eva toca a mesa no mesmo ritmo de antes.*
+> 
+> “O senhor desta terra pode fugir da manhã. Pode esconder-se das lâminas. Pode vestir o rosto de um homem vivo. Mas a fortaleza guarda um lugar ao qual seu nome pertence — e para o qual todos os caminhos insistem em voltar.”
+> 
+> “Procurem esse lugar, profundo e frio, preparado para alguém que jamais aceitou precisar dele.”
+> 
+> *O ritmo cessa.*
+> 
+> “Talvez o cavaleiro tenha enganado a morte por séculos. Mas a estrada… a estrada ainda a conhece.”
 
-> [!recite] Madame Eva — Cavaleiro
-> “Vejo uma cavalgada que atravessa noites sem manhã. Todas as estradas terminam diante de uma única porta, e até o senhor deste vale precisa regressar a ela. Onde a terra recebe seu nome, esperem pelo último encontro.”
-
-> [!note]- Bastidores e condução
-> Mesmo destino de Darklord; foco em morte, retorno e inevitabilidade.
+> [!cos-discovery] Bastidores — Horseman — Cavaleiro
+> **Local:** Túmulo de Strahd, K86. Mesmo destino do Senhor das Trevas; aqui o foco é retorno, inevitabilidade e ciclo de morte.
 
 ---
 
 ### Innocent — Inocente
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Innocent.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Innocent.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Innocent — Inocente
+>
+> **Destino do mestre:** Túmulo de Sergei (K85). *O crime original que a eternidade não apagou.*
 
-**Destino de mestre:** **Túmulo de Sergei (K85)** · *A vítima inocente no centro da tragédia de Strahd.*
+*A imagem da Inocente faz Madame Eva perder a postura por um breve instante. Seu rosto suaviza, os olhos ficam úmidos, e a velha parece muito mais velha do que era um momento antes. A mão dela se move para recolher a carta, mas não consegue. Ela a deixa descoberta.*
 
-*Um rosto jovem, luminoso, esquecido pelo tempo.*
+> [!recite] Madame Eva — Innocent — Inocente
+> “Ah… não.”
+> 
+> *Não há espanto em sua voz. Há tristeza.*
+> 
+> “Entre tantas faces de morte, eis a lembrança de alguém que não merecia estar nessa história.”
+> 
+> “Vejo uma vida que poderia ter sido simples. Amor. Uma manhã sem medo. Promessas que deveriam ter envelhecido com aqueles que as fizeram.”
+> 
+> *Madame Eva volta o olhar para a chama mais baixa.*
+> 
+> “Mas houve um homem que olhou para a felicidade alheia e a tomou por ofensa. Amou, invejou e destruiu… e depois passou uma eternidade procurando uma maneira de chamar aquilo de destino.”
+> 
+> “Nas profundezas de sua casa repousa alguém cujo nome ele nunca conseguiu calar. Não há ouro ali que pague a dívida. Não há exército que desfaça o que foi feito.”
+> 
+> *Eva ergue os olhos, agora com firmeza.*
+> 
+> “Quando o caminho de vocês chegar ao fim, procurem-no onde a culpa dele volta a ter rosto.”
+> 
+> *Uma pausa comprida.*
+> 
+> “Se encontrarem o diabo diante daquele silêncio… não esperem que ele peça perdão.”
 
-> [!recite] Madame Eva — Inocente
-> “Assim termina a dança. O diabo não encontrará esse destino onde se senta como rei. Será chamado para baixo, onde a pedra guarda um nome que ele tentou transformar em silêncio. Ali repousa a lembrança daquele que amou, invejou e destruiu. Quando chegar a hora, desçam ao lugar onde a culpa dele volta a ter rosto.”
-
-> [!note]- Bastidores e condução
-> Mesmo destino de Broken One, mas aqui a figura central é Sergei e o sofrimento que ele não merecia.
+> [!cos-discovery] Bastidores — Innocent — Inocente
+> **Local:** Túmulo de Sergei, K85. Mesmo destino de Broken One, mas o foco é a vítima e a injustiça da tragédia.
 
 ---
 
 ### Marionette — Marionete
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Marionette.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Marionette.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Marionette — Marionete
+>
+> **Destino do mestre:** Pico da Torre Norte (K60). *Altura, controle e a ilusão de mover os outros.*
 
-**Destino de mestre:** **Pico da Torre Norte (K60)** · *Controle, cordas invisíveis e perigos em grandes alturas.*
+*Ao virar a carta, Madame Eva estende a mão como quem procura fios invisíveis no ar. A ponta de um dos dedos se contrai involuntariamente. Ela olha para a própria mão, contrariada, antes de fechá-la com força.*
 
-*Cordas que sobem até desaparecer nas nuvens.*
+> [!recite] Madame Eva — Marionette — Marionete
+> “Ah… as cordas.”
+> 
+> *Ela move os dedos, um após o outro.*
+> 
+> “Vejo um homem que gosta de acreditar que cada passo dado em sua terra obedece a um movimento seu. Puxa os fios de reis, servos, monstros e convidados. Alguns sequer sabem que estão presos.”
+> 
+> “Mas um dia toda marionete chega ao limite do palco. E o mestre das cordas também precisa mostrar o próprio rosto.”
+> 
+> *Eva ergue o queixo em direção ao teto da tenda.*
+> 
+> “Subam. Para além dos salões, além dos telhados, para onde o vento arranca as palavras antes que alguém consiga mentir com elas.”
+> 
+> “Lá em cima, a fortaleza deixa de parecer um palácio. Torna-se pedra contra o céu. Um homem pode olhar todo o vale… e ainda assim não encontrar onde se esconder.”
+> 
+> *Ela abre a mão que antes estava fechada.*
+> 
+> “Procurem o senhor das cordas onde já não houver teto acima dele.”
+> 
+> *O sorriso é fino.*
+> 
+> “E lembrem-se: até quem move todos os fios pode acabar pendurado por um deles.”
 
-> [!recite] Madame Eva — Marionete
-> “Vejo cordas que não prendem bonecos, mas almas. Subam acima das salas e dos telhados, até onde os ventos despedaçam promessas. Perto do coração que ainda pulsa dentro da fortaleza, o mestre das cordas aguardará.”
-
-> [!note]- Bastidores e condução
-> K60 é o Pico da Torre Norte, e não a sala do Coração da Tristeza (K20). O coração é pista atmosférica, não localização exata.
+> [!cos-discovery] Bastidores — Marionette — Marionete
+> **Local:** Pico da Torre Norte, K60. Não confundir com o Coração da Tristeza (K20). Priorizar vertigem, vento e ameaça de queda.
 
 ---
 
 ### Mists — Brumas
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Mists.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Mists.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Mists — Brumas
+>
+> **Destino do mestre:** Sem sala determinada. *O futuro recusa uma resposta.*
 
-**Destino de mestre:** **Sem local definido (—)** · *O destino permanece encoberto; exceção oficial.*
+*Madame Eva revela Brumas. O sorriso some tão depressa que parece nunca ter existido. Ela aproxima a carta da vela, vira-a de lado e a observa novamente. Pela primeira vez não parece estar escolhendo palavras: parece, de fato, **não conseguir enxergar** o que procura. O silêncio se torna pesado.*
 
-*As figuras da carta desaparecem sob um véu de névoa.*
+> [!recite] Madame Eva — Mists — Brumas
+> “Não…”
+> 
+> *Eva passa os dedos sobre a superfície da carta.*
+> 
+> “Há pedra. Uma fortaleza. Muitas portas. Eu deveria ver um caminho entre elas.”
+> 
+> *Ela fecha os olhos. Espera. Nada.*
+> 
+> “Mas a névoa entrou onde não devia. Cobriu corredores, escadas, salões… até a sombra daquele que deveriam encontrar.”
+> 
+> *Quando olha para vocês, sua voz está diferente. Menos solene. Mais humana.*
+> 
+> “Escutem-me: isto não é uma derrota. Tampouco uma vitória. Apenas um véu que ainda não posso erguer.”
+> 
+> “Talvez a resposta pertença a um dia que não chegou. Talvez o próprio castelo se recuse a entregá-la. Não fingirei enxergar aquilo que as cartas esconderam.”
+> 
+> *Ela afasta a mão da imagem devagar.*
+> 
+> “Se as Brumas lhes concederem outra oportunidade, talvez então possamos perguntar de novo.”
+> 
+> *Uma pausa, antes de um sussurro inesperadamente gentil:*
+> 
+> “Até lá… escolham cada passo como se fosse o último.”
 
-> [!recite] Madame Eva — Brumas
-> “Ah… nem toda pergunta recebe uma estrada. Vejo os muros do castelo e, dentro deles, somente névoa. O próprio destino volta o rosto. Não posso dizer onde o encontrarão… ainda.”
-
-> [!note]- Bastidores e condução
-> Regra original: sem pista determinada. O mestre escolhe qualquer lugar do Castelo Ravenloft ou pede que retornem após pelo menos três dias para outra leitura só da localização. Opcional homebrew: novo sorteio caso queira sempre um local definido.
+> [!cos-discovery] Bastidores — Mists — Brumas
+> **Resultado excepcional:** Mists não fornece sala. Pela regra original, o mestre escolhe um local de Ravenloft ou permite nova leitura após pelo menos três dias. Repetir o sorteio imediatamente seria homebrew. Não inventar K.
 
 ---
 
 ### Raven — Corvo
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Raven.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Raven.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Raven — Corvo
+>
+> **Destino do mestre:** Túmulo de Barov e Ravenovia (K88). *A lembrança de uma mãe e aquilo que nenhum filho consegue recuperar.*
 
-**Destino de mestre:** **Túmulo de Barov e Ravenovia (K88)** · *A mãe e o legado familiar que não se desfez.*
+*Madame Eva revela o Corvo e inclina a cabeça, como se tivesse ouvido o bater de asas do lado de fora. Um sorriso pequeno, melancólico, toca seus lábios. Sua voz não sobe; ao contrário, fica mais íntima, quase como quando alguém conta uma história a uma criança.*
 
-*As asas negras pousam numa pedra fria.*
+> [!recite] Madame Eva — Raven — Corvo
+> “Um corvo sabe reconhecer a casa para a qual deve voltar.”
+> 
+> “Mesmo depois da tempestade. Mesmo quando as árvores foram cortadas e as janelas já não têm luz.”
+> 
+> *Ela pousa os dedos ao lado da carta.*
+> 
+> “Vejo um homem a quem tantos chamam de senhor. Mas antes de ser senhor, antes de vestir armadura, antes de aprender a mandar morrer… ele foi filho.”
+> 
+> “Houve braços que o acolheram. Uma voz que pronunciou seu nome sem medo. E houve um dia em que nem ouro, nem poder, nem toda a força do mundo puderam trazê-la de volta.”
+> 
+> *O rosto de Eva se entristece.*
+> 
+> “Procurem o lugar onde repousam aqueles que lhe deram a vida. Onde uma família foi entregue à pedra e ao silêncio. Ali o encontrarão diante de lembranças que nenhum decreto pode alterar.”
+> 
+> “Até os corvos conhecem o caminho de casa.”
+> 
+> *Ela fecha os olhos por um instante.*
+> 
+> “Mas há filhos que se tornaram incapazes de atravessar a própria porta.”
 
-> [!recite] Madame Eva — Corvo
-> “Uma asa negra roça uma sepultura que a dor não consegue esquecer. Procurem a lembrança da mulher que lhe deu a vida. Na quietude dos túmulos da família, encontrarão aquele que já não sabe voltar a ser filho.”
-
-> [!note]- Bastidores e condução
-> Mesmo destino de Ghost, mas o sinal recai sobre a mãe, Ravenovia.
+> [!cos-discovery] Bastidores — Raven — Corvo
+> **Local:** Túmulo de Barov e Ravenovia, K88. Mesmo destino de Ghost, mas com foco na mãe e no passado familiar.
 
 ---
 
 ### Seer — Vidente
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Seer.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Seer.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Seer — Vidente
+>
+> **Destino do mestre:** Escritório de Strahd (K37). *Conhecimento guardado, segredos e uma falsa sensação de controle.*
 
-**Destino de mestre:** **Escritório / sala de estudos de Strahd (K37)** · *Conhecimento, lareira e segredos velhos.*
+*A carta da Vidente parece devolver a Madame Eva parte da segurança perdida. Ela se aproxima da mesa, interessada, como uma estudiosa diante de um enigma conhecido. Mas um detalhe invisível na visão provoca uma ruga profunda entre suas sobrancelhas.*
 
-*Uma chama aquece livros que nunca foram esquecidos.*
+> [!recite] Madame Eva — Seer — Vidente
+> “Ah… um homem que coleciona respostas.”
+> 
+> *Ela sorri, como quem reconhece um hábito antigo.*
+> 
+> “Vejo uma chama que arde em um aposento silencioso. Madeira envelhecida. Livros fechados. Retratos cujos olhos parecem acompanhar até quem acredita estar sozinho.”
+> 
+> “Há alguém que retorna sempre às mesmas lembranças. Lê, escreve, caminha, espera. Procura na tinta e no papel a ordem que não consegue impor ao próprio coração.”
+> 
+> *Madame Eva inclina a cabeça.*
+> 
+> “Não vão atrás do trono. Nem do banquete. Procurem o lugar em que o senhor da noite baixa a máscara para conversar com os mortos que deixou em suas páginas.”
+> 
+> “Ali o conhecimento parece abrigo. Ali até o monstro pode fingir ser apenas um homem cansado.”
+> 
+> *Ela aproxima a mão da carta, sem tocá-la.*
+> 
+> “Quando chegar a hora, procurem-no onde suas memórias têm fechaduras.”
+> 
+> *Uma pausa.*
+> 
+> “E lembrem-se de que algumas portas foram feitas para impedir a entrada… outras, para impedir a fuga.”
 
-> [!recite] Madame Eva — Vidente
-> “Vejo calor onde deveria haver frio. Um aposento de livros, retratos e palavras guardadas por demasiado tempo. O senhor da noite repousa entre recordações e conhecimento. Quando as páginas calarem, ali estará ele.”
-
-> [!note]- Bastidores e condução
-> Este local pode coincidir com a busca do Tomo durante o baile. Pelo livro, a primeira visita a K37 ativaria a profecia; para preservar o baile, usar a adaptação opcional de encontro somente na incursão final, registrada no topo da nota.
+> [!cos-discovery] Bastidores — Seer — Vidente
+> **Local:** escritório / sala de estudos de Strahd, K37, também destino do Tomo. **Possível choque com o baile:** pelo livro, a primeira entrada na sala pode ativar a profecia; aplicar a adaptação declarada no topo da nota se quiser reservar o encontro para a incursão final.
 
 ---
 
 ### Tempter — Tentador
 
-![[99_Arquivos/Imagens/Tarokka_Cards/Tempter.webp|180]]
+> [!cos-hero-portrait]
+> ![[99_Arquivos/Imagens/Tarokka_Cards/Tempter.webp]]
+>
+> BARALHO ALTO · QUINTA CARTA
+>
+> ## Tempter — Tentador
+>
+> **Destino do mestre:** Tesouraria de Ravenloft (K41). *Desejo, riqueza e uma lembrança guardada atrás de um retrato.*
 
-**Destino de mestre:** **Tesouraria de Ravenloft (K41)** · *Desejo, riqueza e um segredo escondido atrás de beleza.*
+*Ao revelar o Tentador, Madame Eva solta um suspiro que quase se transforma em riso. Ela contempla a imagem com tristeza e balança a cabeça, como quem vê alguém repetir o mesmo erro há centenas de anos. Puxa a carta um pouco mais perto de si.*
 
-*O ouro dorme além de uma imagem querida.*
+> [!recite] Madame Eva — Tempter — Tentador
+> “Ah… o desejo.”
+> 
+> “Não se enganem. O ouro raramente é aquilo que alguém realmente quer.”
+> 
+> *Ela observa a carta como se por trás dela houvesse outra imagem.*
+> 
+> “Vejo salas cheias de riquezas que perderam o brilho. Vejo pedras preciosas, metais frios, objetos guardados durante séculos. Nenhum deles trouxe paz ao dono.”
+> 
+> “Há, porém, uma beleza que ele nunca conseguiu possuir. Um rosto mantido à vista, uma lembrança pintada para que o tempo não pudesse levá-la. Atrás daquilo que ele contempla existe um caminho escondido.”
+> 
+> *Eva curva o dedo sobre a mesa, desenhando uma porta.*
+> 
+> “Sigam o desejo para além da aparência. Procurem o lugar onde o tesouro é guardado, onde tudo tem preço, exceto o que seu senhor mais queria comprar.”
+> 
+> “Lá poderão encontrá-lo.”
+> 
+> *Ela deixa a última frase cair devagar.*
+> 
+> “Quando estiverem diante dele, não aceitem que o diabo lhes diga o valor das coisas que amam.”
 
-> [!recite] Madame Eva — Tentador
-> “Nem todo tesouro brilha diante dos olhos. Há uma beleza pintada, e atrás dela uma passagem que conduz ao preço das escolhas. Procurem o lugar em que o desejo foi trancado entre riquezas; o senhor das tentações estará esperando.”
-
-> [!note]- Bastidores e condução
-> A tesouraria K41 é acessível por uma passagem secreta ligada ao retrato de Tatyana no escritório K37; verificar o mapa e portas secretas.
+> [!cos-discovery] Bastidores — Tempter — Tentador
+> **Local:** Tesouraria, K41. Ligação com a passagem secreta associada ao retrato de Tatyana no escritório K37; conferir a planta antes da sessão.
 
 ---
 
