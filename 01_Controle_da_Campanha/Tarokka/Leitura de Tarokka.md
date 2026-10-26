@@ -4,7 +4,7 @@ tags:
   - tarokka
   - mestre
   - profecia
-status: fechado
+status: preparado
 campanha: Curse of Strahd
 publicar: false
 dg-publish: false
@@ -13,7 +13,7 @@ dg-publish: false
 # Leitura de Tarokka — Madame Eva
 
 > [!danger] Somente mestre — leitura predeterminada
-> **As cinco cartas e seus resultados estão fechados.** Esta é a versão para conduzir a cena no Foundry, com a profecia narrada aos personagens e os destinos reais logo abaixo de cada carta.
+> **As quatro primeiras cartas são predeterminadas; a quinta será sorteada ao vivo.** Esta nota contém as falas de Madame Eva e os destinos reais das quatro escolhas fixas. O final está em uma nota própria.
 >
 > **Não publicar no portal dos jogadores.** A nota contém segredos de [[Strahd]], localização das relíquias, identidade do aliado e o local profetizado para o encontro final.
 
@@ -24,20 +24,20 @@ dg-publish: false
 > | **2** | **Avenger** — 1 de Espadas | Comum | [[Holy Symbol of Ravenkind]] — farol de [[Argynvostholt]], **somente após a restauração** |
 > | **3** | **Hooded One** — 7 de Espadas | Comum | [[Sunsword]] — [[Amber Temple]], presa em âmbar |
 > | **4** | **Artifact** | Alto | [[Rudolph van Richten]] — aliado destinado |
-> | **5** | **Innocent** | Alto | [[Túmulo de Sergei]] — encontro profetizado com [[Strahd]] |
+> | **5** | **Sorteio entre as 13 restantes** | Alto | [[Quinta Carta - Lugar do Fim]] — local definido na sessão |
 
 ## Antes de começar — condução no Foundry
 
 > [!info] Preparar a mesa de Tarokka do Beneos
 > **Baralho Comum, nesta ordem:** `8 - stars.webp` → `1 - swords.webp` → `7 - swords.webp`.
 >
-> **Baralho Alto, nesta ordem:** `Artifact.webp` → `Innocent.webp`.
+> **Quarta carta, fixa:** `Artifact.webp` → aliado [[Rudolph van Richten]]. **Retire essa carta do Baralho Alto.**
 >
-> Use o verso para ocultar cada carta e revele **uma por vez**, enquanto lê a profecia. A animação pode simular uma escolha aleatória: o resultado narrativo já está decidido.
+> **Quinta carta, aleatória:** embaralhe as **13 cartas restantes do Baralho Alto** e revele uma na frente dos jogadores. Consulte imediatamente [[Quinta Carta - Lugar do Fim]] para a fala correspondente. Não devolva `Artifact` ao baralho.
 >
-> As imagens estão em `99_Arquivos/Imagens/Tarokka_Cards/`. Não é necessário mostrar outras cartas nesta cena.
+> O verso esconde cada carta até a revelação. As três primeiras cartas e a quarta já estão escolhidas; **somente a quinta é realmente sorteada**. Imagens em `99_Arquivos/Imagens/Tarokka_Cards/`.
 
-**Ritmo:** silêncio → primeira carta → pausa para reação → próxima carta. Não explicar o destino real após cada revelação; deixar as perguntas para o fim.
+**Ritmo:** silêncio → primeira carta → pausa para reação → próxima carta. Antes da quinta carta, abra [[Quinta Carta - Lugar do Fim]] e deixe o índice dos resultados pronto para consultar. Não explicar os destinos reais após as revelações.
 
 **Regra de ouro:** Madame Eva entrega **pistas**, não nomes de locais nem respostas prontas. Se perguntarem “onde exatamente?”, ela pode responder: *“As cartas mostram caminhos, não mapas.”*
 
@@ -214,34 +214,26 @@ dg-publish: false
 
 ---
 
-## 5. O Lugar do Fim — Inocente
+## 5. O Lugar do Fim — sorteio real
 
-> [!cos-hero-portrait]
-> ![[99_Arquivos/Imagens/Tarokka_Cards/Innocent.webp]]
+> [!cos-spotlight] A última carta não está escrita
+> **Sorteie uma carta entre as 13 restantes do Baralho Alto.** A carta `Artifact` já foi revelada para o aliado e não pode aparecer novamente. O resultado determina onde [[Strahd]] estará quando o grupo chegar pela primeira vez ao local profetizado, conforme a leitura.
 >
-> BARALHO ALTO · INOCENTE
->
-> ## Innocent — Inocente
->
-> **Resultado:** [[Túmulo de Sergei]], nas criptas de [[Castelo Ravenloft]]. É o lugar do encontro profetizado com Strahd, não uma obrigação de encerrar todo o combate na mesma sala.
+> **[[Quinta Carta - Lugar do Fim|Abrir todas as 13 possibilidades, com imagens, narrações e salas de Ravenloft]]**
 
-*O rosto jovem retratado na carta contrasta com os horrores das anteriores. Madame Eva contempla a imagem por tempo demais. Quando fala, sua voz é quase um sussurro.*
+*Madame Eva afasta as quatro cartas descobertas, embaralha o pequeno monte que sobrou e pede que alguém escolha a última. Sua expressão muda quando vê o resultado.*
 
-> [!recite] Profecia — onde a culpa tem rosto
-> “Assim termina a dança.”
+> [!recite] Transição — antes de revelar a quinta
+> “Quatro caminhos foram mostrados. Mas o último… o último ainda não pertence a ninguém.”
 >
-> “O diabo não encontrará esse destino onde se senta como rei. Não onde ergue taças, nem onde observa Baróvia do alto como se tudo ainda lhe pertencesse.”
->
-> “Será chamado para baixo. Para onde a pedra guarda um nome que ele tentou transformar em silêncio. Ali repousa a lembrança daquele que amou, invejou e destruiu.”
->
-> “Quando chegar a hora, desçam ao lugar onde a culpa dele volta a ter rosto sempre que ele ousa olhar.”
+> “Escolha uma carta. O destino decidirá onde o diabo os espera. Não confundam esse lugar com uma promessa de vitória.”
 
-> [!cos-discovery] Bastidores — Túmulo de Sergei
-> **Destino:** [[Túmulo de Sergei]], em Ravenloft.
+> [!note] Como usar o resultado
+> 1. Revele a carta sorteada na mesa do Beneos.
+> 2. Abra [[Quinta Carta - Lugar do Fim]] e leia **somente** o texto dessa carta.
+> 3. Registre o nome e a sala **K** na nota após a sessão; não altere os quatro resultados fixos.
 >
-> **Função da quinta carta:** definir o local profetizado do **encontro com Strahd**. Não significa vitória garantida nem que Strahd não possa perseguir os personagens por outras partes do castelo.
->
-> **Não revelar na leitura:** “Sergei”, “túmulo”, “cripta” ou a identidade do inocente da imagem. O reconhecimento deve acontecer depois.
+> **Se sair Mists:** a leitura original não indica uma sala. Você pode escolher um local em Ravenloft ou aceitar o caminho oficial de uma nova leitura após pelo menos três dias. Se quiser **sempre uma localização aleatória e definida**, pode tratar Mists como novo sorteio (regra opcional, decidida pelo mestre).
 
 ---
 
@@ -270,7 +262,7 @@ dg-publish: false
 > 2. **Argynvostholt:** restaurar o farol e libertar a esperança da ordem para obter o Símbolo.
 > 3. **Templo de Âmbar:** recuperar a Espada Solar em meio à corrupção e ao perigo.
 
-**Vínculos:** [[Madam Eva]] · [[Strahd]] · [[Castelo Ravenloft]] · [[Argynvostholt]] · [[Amber Temple]] · [[Rudolph van Richten]]
+**Vínculos:** [[Madam Eva]] · [[Quinta Carta - Lugar do Fim]] · [[Strahd]] · [[Castelo Ravenloft]] · [[Argynvostholt]] · [[Amber Temple]] · [[Rudolph van Richten]]
 
 > [!info] Delimitação desta nota
-> Esta página cobre **somente as cinco cartas escolhidas**. Leituras alternativas e significados das outras 49 cartas ficam para uma etapa posterior, se necessário.
+> Esta página cobre **quatro cartas predeterminadas e a quinta sorteada**. A nota [[Quinta Carta - Lugar do Fim]] contém apenas as possibilidades dessa quinta carta. As cartas comuns não usadas e as leituras alternativas de outros tipos ficam para depois.
