@@ -71,11 +71,22 @@ dg-publish: false
 >
 > “Agora, silêncio. As cartas estão escutando.”
 
-*Ela vira a primeira carta lentamente, observando mais os rostos dos aventureiros do que o desenho.*
+*Ela separa a primeira carta, ainda virada para baixo, e aguarda até que todos estejam olhando para a mesa.*
 
 ---
 
 ## 1. Conhecimento do Inimigo — Necromante
+
+*Madame Eva mantém a primeira carta virada para baixo. Deixa a mão repousar sobre ela, como se sentisse o peso de algo muito maior do que papel. Sua voz assume o tom paciente de quem começa uma lição que nem todos desejarão aprender.*
+
+> [!recite] Madame Eva — Primeira carta — o conhecimento do inimigo
+> “A primeira carta não mostrará uma arma. Ela mostrará onde procurar o conhecimento do inimigo.”
+>
+> “Vocês ouvirão muitas histórias nesta terra. Histórias sobre o homem que a governa, sobre as coisas que fez… e sobre as coisas que deseja que sejam esquecidas. Mas até as mentiras mais antigas precisam esconder alguma verdade.”
+>
+> “Antes de enfrentarem o senhor de Baróvia, talvez precisem descobrir quem ele foi. Pois há segredos capazes de ferir mais fundo do que uma lâmina.”
+
+*Ela retira os dedos da carta e a vira de uma só vez. A imagem do Necromante aparece.*
 
 > [!cos-hero-portrait]
 > ![[99_Arquivos/Imagens/Tarokka_Cards/8 - stars.webp]]
@@ -151,6 +162,17 @@ dg-publish: false
 ---
 
 ## 2. Luz Perdida — Vingador
+
+*Madame Eva desliza a segunda carta até o centro da mesa, deixando o verso à vista. Seu rosto recupera uma serenidade quase maternal. Ela ergue o indicador, pedindo que esperem antes de vê-la.*
+
+> [!recite] Madame Eva — Segunda carta — o símbolo da esperança
+> “A segunda carta fala de uma proteção sagrada. Não da força de um exército, nem das muralhas de uma fortaleza, mas de algo que a própria escuridão aprendeu a temer.”
+>
+> “Há símbolos que não valem pelo metal de que são feitos. Valem pela fé que despertam, pelas mãos que os ergueram e pela esperança que conseguiram preservar quando o mundo inteiro se ajoelhou diante do medo.”
+>
+> “Esta carta mostrará onde uma dessas luzes ainda espera. Mas não suponham que tudo o que foi perdido possa simplesmente ser tomado de volta.”
+
+*Ela revela a segunda carta. A figura da Vingadora brilha sob a luz trêmula das velas.*
 
 > [!cos-hero-portrait]
 > ![[99_Arquivos/Imagens/Tarokka_Cards/1 - swords.webp]]
@@ -234,6 +256,17 @@ dg-publish: false
 
 ## 3. A Lâmina do Sol — Encapuzado
 
+*A velha aproxima a terceira carta, mas não a toca de imediato. Observa a pequena distância entre o papel e a chama da vela. Ao falar, há menos conforto em sua voz do que antes.*
+
+> [!recite] Madame Eva — Terceira carta — a arma contra as trevas
+> “Conhecer a verdade é importante. Conservar a esperança também. Mas há noites em que tudo isso não basta. Há noites em que será preciso enfrentar o mal com a própria mão.”
+>
+> “A terceira carta mostrará onde procurar uma arma antiga, capaz de levar a luz até lugares que há muito a esqueceram. Uma lâmina que o senhor desta terra teria motivos para temer.”
+>
+> “Contudo, meus queridos, não confundam encontrar uma arma com estar preparados para empunhá-la. O caminho até ela pode exigir mais do que coragem.”
+
+*Madame Eva vira a carta. Ao ver a figura encapuzada, hesita; os dedos demoram a abandonar a borda.*
+
 > [!cos-hero-portrait]
 > ![[99_Arquivos/Imagens/Tarokka_Cards/7 - swords.webp]]
 >
@@ -309,6 +342,19 @@ dg-publish: false
 ---
 
 ## 4. O Aliado Destinado — Artefato
+
+*Madame Eva reúne as três primeiras cartas num arco e alcança o monte menor, o Baralho Alto. Sua postura muda: o olhar fica atento, curioso, como se esta revelação pudesse surpreendê-la mais do que as anteriores.*
+
+> [!recite] Madame Eva — Quarta carta — a mão estendida
+> “Três cartas falaram de coisas que poderão encontrar. Esta é diferente.”
+>
+> “Nenhum de vocês atravessará toda a noite apenas com conhecimento, fé e aço. Haverá portas que só se abrirão porque alguém conhece a fechadura. Haverá inimigos que só poderão ser vencidos porque outra pessoa já sobreviveu a eles.”
+>
+> “A quarta carta mostrará um possível aliado, alguém cujo destino poderá cruzar o de vocês. Não me peçam que prometa amizade, lealdade ou sequer gentileza. Uma pessoa pode ser necessária sem ser fácil de amar.”
+>
+> “Vejamos, então… quem o destino ousou colocar a seu lado.”
+
+*Ela vira a carta do Baralho Alto e, diante do Artefato, deixa escapar aquela risada breve e seca.*
 
 > [!cos-hero-portrait]
 > ![[99_Arquivos/Imagens/Tarokka_Cards/Artifact.webp]]
@@ -386,28 +432,30 @@ dg-publish: false
 >
 > **[[Quinta Carta - Lugar do Fim|Abrir as 13 possibilidades: imagens, reações de Eva, profecias e salas de Ravenloft]]**
 
-*Antes que alguém toque no último monte, Madame Eva alinha as quatro cartas reveladas com uma precisão quase cerimonial. Ao alcançar o pequeno baralho restante, sua mão para no ar. Pela primeira vez, ela parece genuinamente inquieta.*
+*Madame Eva alinha cuidadosamente as quatro cartas reveladas. Por um instante, parece satisfeita com o trabalho. Mas, quando seus dedos encontram o último monte, o sorriso desaparece. Ela olha para a entrada da tenda como se tivesse ouvido alguém chegar — embora não haja passos do lado de fora.*
 
-> [!recite] Transição — o último destino
-> “Quatro caminhos.”
+> [!recite] Madame Eva — quinta carta: o lugar do encontro
+> “Quatro caminhos foram mostrados. Um segredo. Uma esperança. Uma lâmina. Uma mão que talvez aceite a de vocês.”
 >
-> “O conhecimento de um inimigo. Uma luz que deve ser devolvida ao mundo. Uma arma esquecida. Uma mão que talvez aceite a de vocês.”
+> *Ela deixa a palma aberta sobre a mesa.*
 >
-> *Ela empurra o monte para o centro da mesa.*
+> “Agora vem a carta que não fala de um objeto, nem de alguém que possam procurar e convencer.”
 >
-> “A quinta carta não fala de uma coisa que possam carregar. Nem de uma pessoa que possam convencer.”
+> “A quinta carta mostrará **onde** os caminhos de vocês e do senhor desta terra irão se cruzar. Um lugar em sua fortaleza, um lugar que poderá se tornar o palco de um encontro terrível.”
 >
-> “Fala de um encontro.”
+> “Não confundam isso com uma promessa de vitória. As cartas podem mostrar o lugar de uma batalha. Jamais poderão lutar por vocês.”
 >
-> “Não posso prometer como chegarão até ele. Muito menos que sairão vivos.”
+> *Ela empurra o monte na direção dos aventureiros, sem olhar para as cartas.*
 >
-> *Ela fita quem for escolher.*
+> “As outras eu conhecia antes que chegassem. Esta… deixaremos que seja escolhida agora.”
 >
-> “Escolha. Agora.”
+> “Estenda a mão. Escolha uma.”
 >
-> *Depois da escolha, Eva observa o verso da carta como se algo pudesse se mover sob a tinta.*
+> *Ela aguarda o jogador retirar a carta. Quando ele o faz, não se apressa para revelá-la.*
 >
 > “Que as Brumas tenham piedade do que ainda não foi escrito.”
+
+*Revele a quinta carta no Foundry. Na nota [[Quinta Carta - Lugar do Fim]], interprete **a reação específica de Madame Eva** e leia **a profecia da carta sorteada** — não o resultado de mestre.*
 
 > [!info] Depois da escolha — ordem na mesa
 > 1. Revele a carta escolhida no Beneos.
