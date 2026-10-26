@@ -14,3 +14,8 @@ tags:
 ## Baróvia
 
 - [[Vila de Barovia]]
+
+## Estrada Svalich — Baróvia Oriental
+
+- [[Estrada dos Portões à Vila]]
+- [[Capela em Ruínas - A Última Vigília|Capela em Ruínas — A Última Vigília]]
