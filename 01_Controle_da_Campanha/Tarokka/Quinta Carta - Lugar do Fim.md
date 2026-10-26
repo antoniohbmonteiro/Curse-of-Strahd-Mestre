@@ -56,7 +56,7 @@ dg-publish: false
 ## As treze cartas — revelação e profecias
 
 > [!note] Como interpretar esta seção
-> **Leia somente a carta sorteada.** Primeiro a descrição em *itálico*: são reações e gestos de Madame Eva para você encenar ou narrar. Depois, o bloco **recite** é a profecia pública. O quadro **Bastidores** contém localização e observações exclusivas do mestre.
+> **Leia somente a carta sorteada.** A descrição em *itálico* e o primeiro bloco **recite** formam a **versão encenada**, com gestos, pausas e falas. O segundo bloco **“📜 Presságio puro”** fica recolhido por padrão: contém só as palavras ditas por Eva, prontas para copiar ou reler. **Não narre as duas versões.** O quadro **Bastidores** contém a localização real e as observações exclusivas do mestre.
 >
 > As cartas usam a mesma composição das quatro primeiras: **imagem inteira à esquerda, destino real à direita**, seguida da reação, narração e consequências. As ilustrações são as do vault, sem cortes intencionais.
 
@@ -96,6 +96,21 @@ dg-publish: false
 > 
 > “Talvez seja hora de alguém descobrir se a Besta também sabe temer.”
 
+> [!recite]- 📜 Presságio puro — Beast — Besta
+
+> Ah… a Besta.
+>
+> Quantos se ajoelham diante de uma coroa e se esquecem de olhar para os dentes de quem a usa?
+>
+> Vejo um lugar feito para obedecer. Uma sala onde palavras viram sentenças, onde a vontade de um único senhor pesa mais do que a vida de muitos. Ali não precisam existir correntes. Basta que ele fale… e os outros aprenderam a baixar a cabeça.
+>
+> Mas não se enganem com o assento elevado, as pedras antigas, a cerimônia. O que governa aquele lugar não é um rei. É a fome de um predador que descobriu como vestir o medo dos outros.
+>
+> Se buscarem o diabo, procurem onde ele se apresenta como soberano. Onde espera ser ouvido. Onde ninguém ousava dizer não.
+>
+> Talvez seja hora de alguém descobrir se a Besta também sabe temer.
+
+
 > [!cos-discovery] Bastidores — Beast — Besta
 > **Local:** Sala de Audiências, K25. **Tom:** majestade como máscara de predação; confronto cerimonial e opressivo. A carta marca o encontro, não obriga Strahd a permanecer imóvel.
 
@@ -132,6 +147,21 @@ dg-publish: false
 > *Ela respira fundo. Pela primeira vez, parece sentir pena de alguém que despreza.*
 > 
 > “Cuidado, meus queridos. Um coração partido pode aprender a ferir todos os outros.”
+
+> [!recite]- 📜 Presságio puro — Broken One — O Despedaçado
+
+> O Despedaçado… Sim. Há feridas que o tempo não consegue fechar.
+>
+> Vejo um homem cercado de riquezas, protegido por muralhas, servido por sombras. Possui uma terra inteira e, ainda assim, vive como quem perdeu tudo.
+>
+> Não foi uma batalha que o partiu. Não foi uma espada inimiga. Foi algo muito menor que um reino… e muito maior que seu orgulho.
+>
+> Há uma pedra sob a qual dorme alguém que já não pode responder. O senhor daquela fortaleza retorna a esse silêncio como o homem que visita uma porta fechada e odeia a pessoa que a trancou.
+>
+> Procurem o lugar onde repousa aquele que deveria ter sido amado, não invejado. Ali estarão diante da ausência que nenhuma vitória conseguiu preencher.
+>
+> Cuidado, meus queridos. Um coração partido pode aprender a ferir todos os outros.
+
 
 > [!cos-discovery] Bastidores — Broken One — O Despedaçado
 > **Local:** Túmulo de Sergei, K85. Mesmo destino da carta Inocente, mas a profecia fala da ruína interior de Strahd, não da pureza da vítima.
@@ -172,6 +202,21 @@ dg-publish: false
 > 
 > “Um trono pode ser usurpado. Uma sepultura, não.”
 
+> [!recite]- 📜 Presságio puro — Darklord — Senhor das Trevas
+
+> O Senhor das Trevas.
+>
+> Há quem acredite que uma coroa concede liberdade. Que possuir uma terra é o mesmo que ser seu dono. Que, se todos os caminhos levam até você, então ninguém poderá lhe dizer para onde ir.
+>
+> Vejo um homem cercado por aquilo que conquistou e acorrentado a tudo que fez para conquistá-lo. Sua fortaleza é sua glória. Seu reino é sua cela. Sua imortalidade… apenas uma maneira mais lenta de cumprir uma sentença.
+>
+> Nas profundezas dessa casa existe um lugar preparado para receber o próprio senhor. Pedra esculpida para preservar um nome que se recusa a desaparecer.
+>
+> Quando procurarem o dono deste vale, procurem-no onde até seu poder encontra uma porta que não pode manter aberta para sempre.
+>
+> Um trono pode ser usurpado. Uma sepultura, não.
+
+
 > [!cos-discovery] Bastidores — Darklord — Senhor das Trevas
 > **Local:** Túmulo de Strahd, K86. Mesmo destino do Cavaleiro, mas com tema de tirania, maldição e prisão.
 
@@ -208,6 +253,21 @@ dg-publish: false
 > *Ela recolhe a mão e examina as próprias unhas.*
 > 
 > “E não deixem que a pedra ensine seus nomes ao esquecimento.”
+
+> [!recite]- 📜 Presságio puro — Donjon — Masmorra
+
+> Pedra sobre pedra. Osso sobre osso.
+>
+> Vejo corredores que deveriam guardar o silêncio dos mortos. Não guardam. O que ali descansa foi posto à mostra, empilhado, organizado… transformado em parte das paredes.
+>
+> Há um homem que fez de sua própria casa uma prisão para tudo o que não quis esquecer. Deu aos restos dos outros um lugar de honra que jamais lhes concedeu em vida.
+>
+> Desçam ao ventre da fortaleza. Procurem um salão cuja beleza foi construída com aquilo que sobra quando os nomes se apagam.
+>
+> Lá, entre ossos sem descanso, poderão encontrá-lo. Mas lembrem-se de que a morte, naquela casa, nunca é apenas decoração.
+>
+> E não deixem que a pedra ensine seus nomes ao esquecimento.
+
 
 > [!cos-discovery] Bastidores — Donjon — Masmorra
 > **Local:** Salão dos Ossos, K67. Enfatizar claustrofobia, restos mortais e a perversidade arquitetônica de Ravenloft.
@@ -246,6 +306,21 @@ dg-publish: false
 > 
 > “E há quedas das quais nem mesmo uma oração consegue alcançar quem partiu.”
 
+> [!recite]- 📜 Presságio puro — Executioner — Carrasco
+
+> O Carrasco.
+>
+> Há sentenças que não são anunciadas. Basta um gesto, um olhar, um passo dado para trás… e já é tarde demais.
+>
+> Vejo o senhor da noite observando sua terra de um lugar alto. Tão alto que as vozes dos vivos lhe chegam como o zumbido de insetos. Dali, as casas parecem brinquedos; as estradas, linhas finas; e qualquer homem que caia desaparece antes que seu grito termine.
+>
+> Procurem a beira da pedra, onde o vento não se curva a ninguém. Onde o castelo se abre para o vazio e o vazio parece aguardar que alguém dê mais um passo.
+>
+> Lá o encontrarão. Não confundam coragem com imprudência, meus queridos. Há inimigos que precisam apenas de um pequeno empurrão.
+>
+> E há quedas das quais nem mesmo uma oração consegue alcançar quem partiu.
+
+
 > [!cos-discovery] Bastidores — Executioner — Carrasco
 > **Local:** Mirante, K6. Atenção a altura e queda. Preparar terreno e mobilidade; a profecia anuncia o lugar, não a forma de derrota.
 
@@ -283,6 +358,21 @@ dg-publish: false
 > 
 > “E um filho pode tornar-se um monstro tentando ser maior que a sombra do próprio pai.”
 
+> [!recite]- 📜 Presságio puro — Ghost — Fantasma
+
+> Os mortos falam de muitas maneiras.
+>
+> Às vezes basta uma lembrança. Às vezes uma pedra com um nome. Às vezes o silêncio de um filho que passou a vida inteira querendo ouvir uma única palavra de aprovação.
+>
+> Vejo uma família que construiu sua grandeza com guerras, promessas e perdas. Um pai que deixou um nome pesado demais para ser carregado sem ferir as mãos.
+>
+> Procurem nas profundezas do castelo as sepulturas daqueles cujo sangue correu antes do dele. Ali o passado não é contado por livros, mas por pedra e ausência.
+>
+> Quando chegarem ao lugar em que a linhagem encontra repouso, verão que certos fantasmas jamais precisaram se levantar para governar os vivos.
+>
+> E um filho pode tornar-se um monstro tentando ser maior que a sombra do próprio pai.
+
+
 > [!cos-discovery] Bastidores — Ghost — Fantasma
 > **Local:** Túmulo de Barov e Ravenovia, K88. Comparar com Raven: aqui o foco dramático é a figura paterna e a herança dinástica.
 
@@ -319,6 +409,21 @@ dg-publish: false
 > *O ritmo cessa.*
 > 
 > “Talvez o cavaleiro tenha enganado a morte por séculos. Mas a estrada… a estrada ainda a conhece.”
+
+> [!recite]- 📜 Presságio puro — Horseman — Cavaleiro
+
+> Ouçam.
+>
+> Um cavalo atravessa uma estrada vazia. Não há cavaleiro que consiga detê-lo. Não há noite longa o bastante para fazê-lo descansar.
+>
+> Vejo alguém que tentou vencer o tempo, como se o mundo fosse uma batalha e os anos fossem inimigos a esmagar sob os pés. Mas até a marcha mais longa termina diante de uma única porta.
+>
+> O senhor desta terra pode fugir da manhã. Pode esconder-se das lâminas. Pode vestir o rosto de um homem vivo. Mas a fortaleza guarda um lugar ao qual seu nome pertence — e para o qual todos os caminhos insistem em voltar.
+>
+> Procurem esse lugar, profundo e frio, preparado para alguém que jamais aceitou precisar dele.
+>
+> Talvez o cavaleiro tenha enganado a morte por séculos. Mas a estrada… a estrada ainda a conhece.
+
 
 > [!cos-discovery] Bastidores — Horseman — Cavaleiro
 > **Local:** Túmulo de Strahd, K86. Mesmo destino do Senhor das Trevas; aqui o foco é retorno, inevitabilidade e ciclo de morte.
@@ -361,6 +466,23 @@ dg-publish: false
 > 
 > “Se encontrarem o diabo diante daquele silêncio… não esperem que ele peça perdão.”
 
+> [!recite]- 📜 Presságio puro — Innocent — Inocente
+
+> Ah… não.
+>
+> Entre tantas faces de morte, eis a lembrança de alguém que não merecia estar nessa história.
+>
+> Vejo uma vida que poderia ter sido simples. Amor. Uma manhã sem medo. Promessas que deveriam ter envelhecido com aqueles que as fizeram.
+>
+> Mas houve um homem que olhou para a felicidade alheia e a tomou por ofensa. Amou, invejou e destruiu… e depois passou uma eternidade procurando uma maneira de chamar aquilo de destino.
+>
+> Nas profundezas de sua casa repousa alguém cujo nome ele nunca conseguiu calar. Não há ouro ali que pague a dívida. Não há exército que desfaça o que foi feito.
+>
+> Quando o caminho de vocês chegar ao fim, procurem-no onde a culpa dele volta a ter rosto.
+>
+> Se encontrarem o diabo diante daquele silêncio… não esperem que ele peça perdão.
+
+
 > [!cos-discovery] Bastidores — Innocent — Inocente
 > **Local:** Túmulo de Sergei, K85. Mesmo destino de Broken One, mas o foco é a vítima e a injustiça da tragédia.
 
@@ -401,6 +523,23 @@ dg-publish: false
 > *O sorriso é fino.*
 > 
 > “E lembrem-se: até quem move todos os fios pode acabar pendurado por um deles.”
+
+> [!recite]- 📜 Presságio puro — Marionette — Marionete
+
+> Ah… as cordas.
+>
+> Vejo um homem que gosta de acreditar que cada passo dado em sua terra obedece a um movimento seu. Puxa os fios de reis, servos, monstros e convidados. Alguns sequer sabem que estão presos.
+>
+> Mas um dia toda marionete chega ao limite do palco. E o mestre das cordas também precisa mostrar o próprio rosto.
+>
+> Subam. Para além dos salões, além dos telhados, para onde o vento arranca as palavras antes que alguém consiga mentir com elas.
+>
+> Lá em cima, a fortaleza deixa de parecer um palácio. Torna-se pedra contra o céu. Um homem pode olhar todo o vale… e ainda assim não encontrar onde se esconder.
+>
+> Procurem o senhor das cordas onde já não houver teto acima dele.
+>
+> E lembrem-se: até quem move todos os fios pode acabar pendurado por um deles.
+
 
 > [!cos-discovery] Bastidores — Marionette — Marionete
 > **Local:** Pico da Torre Norte, K60. Não confundir com o Coração da Tristeza (K20). Priorizar vertigem, vento e ameaça de queda.
@@ -445,6 +584,23 @@ dg-publish: false
 > 
 > “Até lá… escolham cada passo como se fosse o último.”
 
+> [!recite]- 📜 Presságio puro — Mists — Brumas
+
+> Não…
+>
+> Há pedra. Uma fortaleza. Muitas portas. Eu deveria ver um caminho entre elas.
+>
+> Mas a névoa entrou onde não devia. Cobriu corredores, escadas, salões… até a sombra daquele que deveriam encontrar.
+>
+> Escutem-me: isto não é uma derrota. Tampouco uma vitória. Apenas um véu que ainda não posso erguer.
+>
+> Talvez a resposta pertença a um dia que não chegou. Talvez o próprio castelo se recuse a entregá-la. Não fingirei enxergar aquilo que as cartas esconderam.
+>
+> Se as Brumas lhes concederem outra oportunidade, talvez então possamos perguntar de novo.
+>
+> Até lá… escolham cada passo como se fosse o último.
+
+
 > [!cos-discovery] Bastidores — Mists — Brumas
 > **Resultado excepcional:** Mists não fornece sala. Pela regra original, o mestre escolhe um local de Ravenloft ou permite nova leitura após pelo menos três dias. Repetir o sorteio imediatamente seria homebrew. Não inventar K.
 
@@ -483,6 +639,23 @@ dg-publish: false
 > *Ela fecha os olhos por um instante.*
 > 
 > “Mas há filhos que se tornaram incapazes de atravessar a própria porta.”
+
+> [!recite]- 📜 Presságio puro — Raven — Corvo
+
+> Um corvo sabe reconhecer a casa para a qual deve voltar.
+>
+> Mesmo depois da tempestade. Mesmo quando as árvores foram cortadas e as janelas já não têm luz.
+>
+> Vejo um homem a quem tantos chamam de senhor. Mas antes de ser senhor, antes de vestir armadura, antes de aprender a mandar morrer… ele foi filho.
+>
+> Houve braços que o acolheram. Uma voz que pronunciou seu nome sem medo. E houve um dia em que nem ouro, nem poder, nem toda a força do mundo puderam trazê-la de volta.
+>
+> Procurem o lugar onde repousam aqueles que lhe deram a vida. Onde uma família foi entregue à pedra e ao silêncio. Ali o encontrarão diante de lembranças que nenhum decreto pode alterar.
+>
+> Até os corvos conhecem o caminho de casa.
+>
+> Mas há filhos que se tornaram incapazes de atravessar a própria porta.
+
 
 > [!cos-discovery] Bastidores — Raven — Corvo
 > **Local:** Túmulo de Barov e Ravenovia, K88. Mesmo destino de Ghost, mas com foco na mãe e no passado familiar.
@@ -525,6 +698,23 @@ dg-publish: false
 > 
 > “E lembrem-se de que algumas portas foram feitas para impedir a entrada… outras, para impedir a fuga.”
 
+> [!recite]- 📜 Presságio puro — Seer — Vidente
+
+> Ah… um homem que coleciona respostas.
+>
+> Vejo uma chama que arde em um aposento silencioso. Madeira envelhecida. Livros fechados. Retratos cujos olhos parecem acompanhar até quem acredita estar sozinho.
+>
+> Há alguém que retorna sempre às mesmas lembranças. Lê, escreve, caminha, espera. Procura na tinta e no papel a ordem que não consegue impor ao próprio coração.
+>
+> Não vão atrás do trono. Nem do banquete. Procurem o lugar em que o senhor da noite baixa a máscara para conversar com os mortos que deixou em suas páginas.
+>
+> Ali o conhecimento parece abrigo. Ali até o monstro pode fingir ser apenas um homem cansado.
+>
+> Quando chegar a hora, procurem-no onde suas memórias têm fechaduras.
+>
+> E lembrem-se de que algumas portas foram feitas para impedir a entrada… outras, para impedir a fuga.
+
+
 > [!cos-discovery] Bastidores — Seer — Vidente
 > **Local:** escritório / sala de estudos de Strahd, K37, também destino do Tomo. **Possível choque com o baile:** pelo livro, a primeira entrada na sala pode ativar a profecia; aplicar a adaptação declarada no topo da nota se quiser reservar o encontro para a incursão final.
 
@@ -563,6 +753,23 @@ dg-publish: false
 > *Ela deixa a última frase cair devagar.*
 > 
 > “Quando estiverem diante dele, não aceitem que o diabo lhes diga o valor das coisas que amam.”
+
+> [!recite]- 📜 Presságio puro — Tempter — Tentador
+
+> Ah… o desejo.
+>
+> Não se enganem. O ouro raramente é aquilo que alguém realmente quer.
+>
+> Vejo salas cheias de riquezas que perderam o brilho. Vejo pedras preciosas, metais frios, objetos guardados durante séculos. Nenhum deles trouxe paz ao dono.
+>
+> Há, porém, uma beleza que ele nunca conseguiu possuir. Um rosto mantido à vista, uma lembrança pintada para que o tempo não pudesse levá-la. Atrás daquilo que ele contempla existe um caminho escondido.
+>
+> Sigam o desejo para além da aparência. Procurem o lugar onde o tesouro é guardado, onde tudo tem preço, exceto o que seu senhor mais queria comprar.
+>
+> Lá poderão encontrá-lo.
+>
+> Quando estiverem diante dele, não aceitem que o diabo lhes diga o valor das coisas que amam.
+
 
 > [!cos-discovery] Bastidores — Tempter — Tentador
 > **Local:** Tesouraria, K41. Ligação com a passagem secreta associada ao retrato de Tatyana no escritório K37; conferir a planta antes da sessão.
