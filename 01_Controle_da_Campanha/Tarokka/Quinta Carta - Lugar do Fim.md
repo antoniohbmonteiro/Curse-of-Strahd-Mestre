@@ -28,6 +28,36 @@ dg-publish: false
 >
 > **Adaptação opcional para o baile:** se o local sorteado já for visitado numa ocasião social anterior (como o escritório K37 para buscar o Tomo), você pode definir que o presságio se cumpre apenas quando o grupo voltar ao castelo para enfrentá-lo. Isso é **homebrew**, não a regra impressa.
 
+## Apresentação da quinta carta — antes do sorteio
+
+> [!note] Para usar diretamente nesta nota
+> A explicação já aparece na seção **5. O Lugar do Fim** de [[Leitura de Tarokka]]. **Se você acabou de narrá-la na nota principal, pule este bloco:** é a mesma introdução, mantida aqui para consulta rápida, sem repetir a fala para os jogadores.
+
+*Madame Eva alinha as quatro cartas reveladas. Sua mão repousa sobre o último monte, mas não o embaralha ainda. Por um instante, os olhos dela se voltam para a entrada da tenda, como se alguém tivesse chegado sem fazer barulho.*
+
+> [!recite] Madame Eva — o significado da quinta carta
+> “Quatro caminhos foram mostrados. Um segredo. Uma esperança. Uma lâmina. Uma mão que talvez aceite a de vocês.”
+>
+> “Agora vem a carta que não fala de um objeto, nem de alguém que possam procurar e convencer.”
+>
+> “A quinta carta mostrará **onde** os caminhos de vocês e do senhor desta terra irão se cruzar. Um lugar em sua fortaleza, um lugar que poderá se tornar o palco de um encontro terrível.”
+>
+> “Não confundam isso com uma promessa de vitória. As cartas podem mostrar o lugar de uma batalha. Jamais poderão lutar por vocês.”
+>
+> *Ela empurra o monte na direção dos aventureiros.*
+>
+> “Quatro cartas falaram. Agora, ninguém nesta mesa sabe o que a última escolherá mostrar.”
+>
+> “Estenda a mão. Escolha uma.”
+>
+> *Depois que alguém retira uma carta, Eva acompanha o movimento com os olhos, sem tocar no baralho.*
+>
+> “Que as Brumas tenham piedade do que ainda não foi escrito.”
+
+*Agora revele a carta no Foundry. Busque o resultado no índice abaixo e narre apenas a reação e a profecia correspondentes. O texto do presságio puro continua separado, para consulta posterior.*
+
+---
+
 ## Tabela rápida — todos os resultados possíveis
 
 | Carta sorteada | Destino em Ravenloft | Sala |
