@@ -32,19 +32,19 @@ dg-publish: false
 
 | Carta sorteada | Destino em Ravenloft | Sala |
 | --- | --- | --- |
-| [[#Beast — Besta|Beast]] | Sala de Audiências | **K25** |
-| [[#Broken One — O Despedaçado|Broken One]] | Túmulo de Sergei | **K85** |
-| [[#Darklord — Senhor das Trevas|Darklord]] | Túmulo de Strahd | **K86** |
-| [[#Donjon — Masmorra|Donjon]] | Salão dos Ossos | **K67** |
-| [[#Executioner — Carrasco|Executioner]] | Mirante / Overlook | **K6** |
-| [[#Ghost — Fantasma|Ghost]] | Túmulo de Barov e Ravenovia | **K88** |
-| [[#Horseman — Cavaleiro|Horseman]] | Túmulo de Strahd | **K86** |
-| [[#Innocent — Inocente|Innocent]] | Túmulo de Sergei | **K85** |
-| [[#Marionette — Marionete|Marionette]] | Pico da Torre Norte | **K60** |
-| [[#Mists — Brumas|Mists]] | Sem local definido | **—** |
-| [[#Raven — Corvo|Raven]] | Túmulo de Barov e Ravenovia | **K88** |
-| [[#Seer — Vidente|Seer]] | Escritório / sala de estudos de Strahd | **K37** |
-| [[#Tempter — Tentador|Tempter]] | Tesouraria de Ravenloft | **K41** |
+| [[#Beast — Besta\|Beast]] | Sala de Audiências | **K25** |
+| [[#Broken One — O Despedaçado\|Broken One]] | Túmulo de Sergei | **K85** |
+| [[#Darklord — Senhor das Trevas\|Darklord]] | Túmulo de Strahd | **K86** |
+| [[#Donjon — Masmorra\|Donjon]] | Salão dos Ossos | **K67** |
+| [[#Executioner — Carrasco\|Executioner]] | Mirante / Overlook | **K6** |
+| [[#Ghost — Fantasma\|Ghost]] | Túmulo de Barov e Ravenovia | **K88** |
+| [[#Horseman — Cavaleiro\|Horseman]] | Túmulo de Strahd | **K86** |
+| [[#Innocent — Inocente\|Innocent]] | Túmulo de Sergei | **K85** |
+| [[#Marionette — Marionete\|Marionette]] | Pico da Torre Norte | **K60** |
+| [[#Mists — Brumas\|Mists]] | Sem local definido | **—** |
+| [[#Raven — Corvo\|Raven]] | Túmulo de Barov e Ravenovia | **K88** |
+| [[#Seer — Vidente\|Seer]] | Escritório / sala de estudos de Strahd | **K37** |
+| [[#Tempter — Tentador\|Tempter]] | Tesouraria de Ravenloft | **K41** |
 
 > [!note] Cartas diferentes, mesmo lugar
 > **Broken One** e **Innocent**: Túmulo de Sergei (**K85**). **Darklord** e **Horseman**: Túmulo de Strahd (**K86**). **Ghost** e **Raven**: túmulo de Barov e Ravenovia (**K88**). As chances se repetem **intencionalmente**, como na leitura original.
