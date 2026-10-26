@@ -114,7 +114,6 @@ dg-publish: false
 > *Sua mão permanece sobre a carta até o silêncio ficar incômodo. Só então ela a afasta.*
 
 > [!recite]- 📜 Presságio puro — a verdade enterrada
-
 > Ora… ora. Começamos por aquilo que o diabo mais teme.
 >
 > Não é uma espada. Nem uma oração. Nem o fogo que ele tanto despreza.
@@ -194,7 +193,6 @@ dg-publish: false
 > *Madame Eva olha uma última vez para a guerreira e murmura, como para si mesma:* “Ainda pode brilhar…”
 
 > [!recite]- 📜 Presságio puro — a luz perdida
-
 > Ah… uma espada erguida por uma causa justa. Que coisa bela.
 >
 > E que coisa terrível quando a justiça sobrevive por tanto tempo que já não se lembra por quem lutava.
@@ -275,7 +273,6 @@ dg-publish: false
 > “Que a luz reconheça vocês antes que a escuridão o faça.”
 
 > [!recite]- 📜 Presságio puro — o sol sob a montanha
-
 > Não gosto desta carta.
 >
 > Não por causa daquilo que procuram. Mas por causa do que dorme ao redor.
@@ -348,7 +345,6 @@ dg-publish: false
 > “O destino promete um aliado. Não promete que vocês vão gostar um do outro.”
 
 > [!recite]- 📜 Presságio puro — a arma que ainda respira
-
 > Ah! Que escolha cruel do destino.
 >
 > Pensei que ele tivesse se cansado de tirar homens do próprio túmulo… mas ainda há um teimoso andando por aí.
