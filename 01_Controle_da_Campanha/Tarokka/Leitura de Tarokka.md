@@ -41,6 +41,8 @@ dg-publish: false
 
 **Regra de ouro:** Madame Eva entrega **pistas**, não nomes de locais nem respostas prontas. Se perguntarem “onde exatamente?”, ela pode responder: *“As cartas mostram caminhos, não mapas.”*
 
+**Para consultar depois:** cada carta tem um bloco recolhido **“📜 Presságio puro”**, com somente as palavras de Madame Eva. Abra para copiar para o recap ou reler a profecia se os jogadores perguntarem. O bloco anterior é a **versão encenada**; não leia as duas versões em sequência.
+
 ## Abertura — o silêncio das cartas
 
 > [!note] Direção para o mestre
@@ -111,6 +113,25 @@ dg-publish: false
 >
 > *Sua mão permanece sobre a carta até o silêncio ficar incômodo. Só então ela a afasta.*
 
+> [!recite]- 📜 Presságio puro — a verdade enterrada
+
+> Ora… ora. Começamos por aquilo que o diabo mais teme.
+>
+> Não é uma espada. Nem uma oração. Nem o fogo que ele tanto despreza.
+>
+> É a verdade.
+>
+> Vejo um homem que venceu batalhas, tomou terras, ergueu muralhas… e não conseguiu vencer a lembrança de uma única noite. Escreveu sua história para que o mundo acreditasse na versão que escolheu contar.
+>
+> Procurem entre as coisas que ele mantém perto de si. Onde os criados baixam a voz. Onde as portas não se abrem a qualquer convidado. Um lugar de livros, silêncio e orgulho; um lugar em que até as lembranças precisam pedir permissão para existir.
+>
+> Mas escutem bem: há páginas que contam pecados, e há páginas que ensinam a cometê-los. Algumas palavras são confissões. Outras são fórmulas. E certas fórmulas…
+>
+> …fazem alguma coisa responder do outro lado.
+>
+> Encontrem a história que ele quis esconder. Apenas não confundam conhecer seu inimigo com compreender tudo o que ele se tornou.
+
+
 > [!cos-discovery] Bastidores — Tomo de Strahd
 > **Destino:** escritório / sala de estudos privada de Strahd, em [[Castelo Ravenloft]].
 >
@@ -172,6 +193,27 @@ dg-publish: false
 >
 > *Madame Eva olha uma última vez para a guerreira e murmura, como para si mesma:* “Ainda pode brilhar…”
 
+> [!recite]- 📜 Presságio puro — a luz perdida
+
+> Ah… uma espada erguida por uma causa justa. Que coisa bela.
+>
+> E que coisa terrível quando a justiça sobrevive por tanto tempo que já não se lembra por quem lutava.
+>
+> Vejo uma casa erguida sob a sombra de um dragão. Vejo homens e mulheres que juraram proteger o que era bom. Morreram pelo juramento. Mas a morte não lhes trouxe descanso.
+>
+> O rancor ficou quando a honra se foi. E onde antes havia uma chama para guiar os perdidos, restou apenas a espera.
+>
+> Escutem: a luz que procuram não foi destruída. Está guardada no alto, onde ninguém poderá alcançá-la apenas com força, esperteza ou ouro.
+>
+> Não a roubem. Não a exijam. Devolvam primeiro àquela casa aquilo que lhe foi tirado.
+>
+> Quando o dragão voltar ao lar… quando a luz se acender outra vez… até os mortos se lembrarão de que um dia souberam ter esperança.
+>
+> E aquilo que esperou tanto tempo na escuridão virá até vocês.
+>
+> Ainda pode brilhar…
+
+
 > [!cos-discovery] Bastidores — Símbolo Sagrado de Ravenkind
 > **Destino:** mecanismo / coração do farol de [[Argynvostholt]], onde Vladimir escondeu o símbolo.
 >
@@ -232,6 +274,25 @@ dg-publish: false
 >
 > “Que a luz reconheça vocês antes que a escuridão o faça.”
 
+> [!recite]- 📜 Presságio puro — o sol sob a montanha
+
+> Não gosto desta carta.
+>
+> Não por causa daquilo que procuram. Mas por causa do que dorme ao redor.
+>
+> Vejo uma estrada subindo, sempre subindo. O ar fica fino. A pedra, fria. Lá no alto existe um lugar feito não para adorar os deuses, mas para aprisionar segredos dos quais até os deuses desviariam o olhar.
+>
+> Há vozes nesse lugar. Não gritam. Não ameaçam. Sussurram exatamente aquilo que cada visitante mais deseja ouvir. E esperam que alguém estenda a mão.
+>
+> Entre essas promessas está uma arma quebrada. Um punho sem lâmina. Parece pouca coisa, não é? Um resto. Uma lembrança que a escuridão pensou ter vencido.
+>
+> Mas algumas luzes não morrem quando são apagadas. Apenas aguardam que alguém aceite carregá-las.
+>
+> Se chegarem até ela, lembrem-se: nem todo poder oferecido naquele templo é um presente. E nem todo preço será pago por quem o aceitou.
+>
+> Que a luz reconheça vocês antes que a escuridão o faça.
+
+
 > [!cos-discovery] Bastidores — Espada Solar
 > **Destino:** [[Amber Temple]], presa em âmbar próximo a uma câmara / vestígio de corrupção. **Não fixar outra sala ou a estátua como local definitivo sem preparação posterior.**
 >
@@ -285,6 +346,25 @@ dg-publish: false
 > *Ela quase volta a sorrir.*
 >
 > “O destino promete um aliado. Não promete que vocês vão gostar um do outro.”
+
+> [!recite]- 📜 Presságio puro — a arma que ainda respira
+
+> Ah! Que escolha cruel do destino.
+>
+> Pensei que ele tivesse se cansado de tirar homens do próprio túmulo… mas ainda há um teimoso andando por aí.
+>
+> Vejo alguém que dedicou tantos anos à caça que esqueceu como viver sem uma presa diante dele. Um homem escondido atrás de nomes e rostos emprestados. Conhece armadilhas, reconhece a morte e pagou caro por confiar nas pessoas erradas.
+>
+> Ele não virá por gratidão. Talvez nem por bondade. Há nele uma dor que se tornou método… e um ódio que aprendeu a vestir a aparência da prudência.
+>
+> E ainda assim as cartas o colocam no caminho de vocês. Curioso. Há coisas que ele aprendeu a temer… e coisas que vocês ainda não compreendem sobre si mesmos.
+>
+> Não lhe peçam amizade antes de merecer confiança. Não esperem gentileza de uma mão habituada a segurar uma estaca.
+>
+> Mas, se conseguirem caminhar ao lado dele, descobrirão que uma arma não precisa ser feita de prata para ferir o diabo.
+>
+> O destino promete um aliado. Não promete que vocês vão gostar um do outro.
+
 
 > [!cos-discovery] Bastidores — Rudolph van Richten
 > **Aliado profetizado:** [[Rudolph van Richten]], cuja identidade não deve ser dita durante a leitura.
