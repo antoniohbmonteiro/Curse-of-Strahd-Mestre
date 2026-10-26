@@ -97,7 +97,6 @@ dg-publish: false
 > “Talvez seja hora de alguém descobrir se a Besta também sabe temer.”
 
 > [!recite]- 📜 Presságio puro — Beast — Besta
-
 > Ah… a Besta.
 >
 > Quantos se ajoelham diante de uma coroa e se esquecem de olhar para os dentes de quem a usa?
@@ -149,7 +148,6 @@ dg-publish: false
 > “Cuidado, meus queridos. Um coração partido pode aprender a ferir todos os outros.”
 
 > [!recite]- 📜 Presságio puro — Broken One — O Despedaçado
-
 > O Despedaçado… Sim. Há feridas que o tempo não consegue fechar.
 >
 > Vejo um homem cercado de riquezas, protegido por muralhas, servido por sombras. Possui uma terra inteira e, ainda assim, vive como quem perdeu tudo.
@@ -203,7 +201,6 @@ dg-publish: false
 > “Um trono pode ser usurpado. Uma sepultura, não.”
 
 > [!recite]- 📜 Presságio puro — Darklord — Senhor das Trevas
-
 > O Senhor das Trevas.
 >
 > Há quem acredite que uma coroa concede liberdade. Que possuir uma terra é o mesmo que ser seu dono. Que, se todos os caminhos levam até você, então ninguém poderá lhe dizer para onde ir.
@@ -255,7 +252,6 @@ dg-publish: false
 > “E não deixem que a pedra ensine seus nomes ao esquecimento.”
 
 > [!recite]- 📜 Presságio puro — Donjon — Masmorra
-
 > Pedra sobre pedra. Osso sobre osso.
 >
 > Vejo corredores que deveriam guardar o silêncio dos mortos. Não guardam. O que ali descansa foi posto à mostra, empilhado, organizado… transformado em parte das paredes.
@@ -307,7 +303,6 @@ dg-publish: false
 > “E há quedas das quais nem mesmo uma oração consegue alcançar quem partiu.”
 
 > [!recite]- 📜 Presságio puro — Executioner — Carrasco
-
 > O Carrasco.
 >
 > Há sentenças que não são anunciadas. Basta um gesto, um olhar, um passo dado para trás… e já é tarde demais.
@@ -359,7 +354,6 @@ dg-publish: false
 > “E um filho pode tornar-se um monstro tentando ser maior que a sombra do próprio pai.”
 
 > [!recite]- 📜 Presságio puro — Ghost — Fantasma
-
 > Os mortos falam de muitas maneiras.
 >
 > Às vezes basta uma lembrança. Às vezes uma pedra com um nome. Às vezes o silêncio de um filho que passou a vida inteira querendo ouvir uma única palavra de aprovação.
@@ -411,7 +405,6 @@ dg-publish: false
 > “Talvez o cavaleiro tenha enganado a morte por séculos. Mas a estrada… a estrada ainda a conhece.”
 
 > [!recite]- 📜 Presságio puro — Horseman — Cavaleiro
-
 > Ouçam.
 >
 > Um cavalo atravessa uma estrada vazia. Não há cavaleiro que consiga detê-lo. Não há noite longa o bastante para fazê-lo descansar.
@@ -467,7 +460,6 @@ dg-publish: false
 > “Se encontrarem o diabo diante daquele silêncio… não esperem que ele peça perdão.”
 
 > [!recite]- 📜 Presságio puro — Innocent — Inocente
-
 > Ah… não.
 >
 > Entre tantas faces de morte, eis a lembrança de alguém que não merecia estar nessa história.
@@ -525,7 +517,6 @@ dg-publish: false
 > “E lembrem-se: até quem move todos os fios pode acabar pendurado por um deles.”
 
 > [!recite]- 📜 Presságio puro — Marionette — Marionete
-
 > Ah… as cordas.
 >
 > Vejo um homem que gosta de acreditar que cada passo dado em sua terra obedece a um movimento seu. Puxa os fios de reis, servos, monstros e convidados. Alguns sequer sabem que estão presos.
@@ -585,7 +576,6 @@ dg-publish: false
 > “Até lá… escolham cada passo como se fosse o último.”
 
 > [!recite]- 📜 Presságio puro — Mists — Brumas
-
 > Não…
 >
 > Há pedra. Uma fortaleza. Muitas portas. Eu deveria ver um caminho entre elas.
@@ -641,7 +631,6 @@ dg-publish: false
 > “Mas há filhos que se tornaram incapazes de atravessar a própria porta.”
 
 > [!recite]- 📜 Presságio puro — Raven — Corvo
-
 > Um corvo sabe reconhecer a casa para a qual deve voltar.
 >
 > Mesmo depois da tempestade. Mesmo quando as árvores foram cortadas e as janelas já não têm luz.
@@ -699,7 +688,6 @@ dg-publish: false
 > “E lembrem-se de que algumas portas foram feitas para impedir a entrada… outras, para impedir a fuga.”
 
 > [!recite]- 📜 Presságio puro — Seer — Vidente
-
 > Ah… um homem que coleciona respostas.
 >
 > Vejo uma chama que arde em um aposento silencioso. Madeira envelhecida. Livros fechados. Retratos cujos olhos parecem acompanhar até quem acredita estar sozinho.
@@ -755,7 +743,6 @@ dg-publish: false
 > “Quando estiverem diante dele, não aceitem que o diabo lhes diga o valor das coisas que amam.”
 
 > [!recite]- 📜 Presságio puro — Tempter — Tentador
-
 > Ah… o desejo.
 >
 > Não se enganem. O ouro raramente é aquilo que alguém realmente quer.
