@@ -86,7 +86,7 @@ dg-publish: false
 >
 > “Antes de enfrentarem o senhor de Baróvia, talvez precisem descobrir quem ele foi. Pois há segredos capazes de ferir mais fundo do que uma lâmina.”
 
-*Ela retira os dedos da carta e a vira de uma só vez. A imagem do Necromante aparece.*
+*Ela retira os dedos e vira a carta para que todos vejam.*
 
 > [!cos-hero-portrait]
 > ![[99_Arquivos/Imagens/Tarokka_Cards/8 - stars.webp]]
@@ -172,7 +172,7 @@ dg-publish: false
 >
 > “Esta carta mostrará onde uma dessas luzes ainda espera. Mas não suponham que tudo o que foi perdido possa simplesmente ser tomado de volta.”
 
-*Ela revela a segunda carta. A figura da Vingadora brilha sob a luz trêmula das velas.*
+*Ela vira a segunda carta. A expressão muda assim que reconhece a imagem.*
 
 > [!cos-hero-portrait]
 > ![[99_Arquivos/Imagens/Tarokka_Cards/1 - swords.webp]]
@@ -265,7 +265,7 @@ dg-publish: false
 >
 > “Contudo, meus queridos, não confundam encontrar uma arma com estar preparados para empunhá-la. O caminho até ela pode exigir mais do que coragem.”
 
-*Madame Eva vira a carta. Ao ver a figura encapuzada, hesita; os dedos demoram a abandonar a borda.*
+*Madame Eva revela a carta. Um silêncio desconfortável se instala.*
 
 > [!cos-hero-portrait]
 > ![[99_Arquivos/Imagens/Tarokka_Cards/7 - swords.webp]]
@@ -354,7 +354,7 @@ dg-publish: false
 >
 > “Vejamos, então… quem o destino ousou colocar a seu lado.”
 
-*Ela vira a carta do Baralho Alto e, diante do Artefato, deixa escapar aquela risada breve e seca.*
+*Ela vira a carta do Baralho Alto e seus olhos percorrem a imagem revelada.*
 
 > [!cos-hero-portrait]
 > ![[99_Arquivos/Imagens/Tarokka_Cards/Artifact.webp]]
@@ -447,7 +447,7 @@ dg-publish: false
 >
 > *Ela empurra o monte na direção dos aventureiros, sem olhar para as cartas.*
 >
-> “As outras eu conhecia antes que chegassem. Esta… deixaremos que seja escolhida agora.”
+> “Quatro cartas falaram. Agora, ninguém nesta mesa sabe o que a última escolherá mostrar.”
 >
 > “Estenda a mão. Escolha uma.”
 >
