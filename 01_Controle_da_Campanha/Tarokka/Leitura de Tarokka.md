@@ -18,7 +18,7 @@ dg-publish: false
 > **Não publicar no portal dos jogadores.** A nota contém segredos de [[Strahd]], localização das relíquias, identidade do aliado e o local profetizado para o encontro final.
 
 > [!cos-discovery] As cinco cartas — consulta em 15 segundos
-> | Ordem | Carta | Baralho | Resultado fechado |
+> | Ordem | Carta | Baralho | Destino ou sorteio |
 > | --- | --- | --- | --- |
 > | **1** | **Necromancer** — 8 de Estrelas | Comum | [[Tome of Strahd]] — escritório privado em [[Castelo Ravenloft]] |
 > | **2** | **Avenger** — 1 de Espadas | Comum | [[Holy Symbol of Ravenkind]] — farol de [[Argynvostholt]], **somente após a restauração** |
