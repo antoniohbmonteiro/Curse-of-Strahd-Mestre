@@ -513,6 +513,9 @@ Não transforme o acampamento em destino inevitável por controle narrativo.
 
 A estrada, boatos e possíveis encontros devem oferecer o desvio como escolha significativa.
 
+> [!tip] Parada homebrew opcional — Capela em Ruínas
+> Entre a vila e a Encruzilhada do Rio Ivlis, ofereça a trilha até [[Capela em Ruínas - A Última Vigília|Capela em Ruínas — A Última Vigília]]. É uma cena curta de terror sobrenatural e escolha moral, **sem combate obrigatório**. Se ignorarem a trilha, a viagem continua normalmente.
+
 ---
 
 # Decisão de Ismark
