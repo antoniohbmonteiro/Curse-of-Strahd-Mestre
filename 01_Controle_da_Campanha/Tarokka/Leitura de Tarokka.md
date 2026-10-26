@@ -43,14 +43,33 @@ dg-publish: false
 
 ## Abertura — o silêncio das cartas
 
-*Madame Eva apaga uma das velas. O ruído da chuva parece se afastar da tenda. Ela divide as cartas em dois montes e passa a mão sobre o primeiro.*
+> [!note] Direção para o mestre
+> A fala pública está nos blocos de **narração**; o *itálico* descreve gestos, pausas e mudanças no ambiente. Comece com Madame Eva quase acolhedora. Cada carta revela algo que a intriga ou perturba. **Deixe os silêncios acontecerem:** não anuncie as respostas antes de virar a carta.
 
-> [!recite] Madame Eva — abertura
-> “A névoa trouxe vocês até minha mesa. Talvez por acaso… talvez porque Baróvia já soubesse seus nomes.”
+*O interior da tenda está quente demais. Há cheiro de chá forte, cera derretida e madeira úmida. Madame Eva recebe os aventureiros com um sorriso ligeiramente divertido e pede que se aproximem. Ela retira o baralho de uma caixa antiga. Suas mãos, marcadas pela idade, ficam surpreendentemente firmes ao tocar as cartas.*
+
+*Sem olhar, separa dois montes. Apaga uma das velas com os dedos. O ruído da chuva parece vir de muito longe.*
+
+> [!recite] Madame Eva — a abertura
+> “Ah… finalmente.”
 >
-> “Cinco cartas. Três revelarão aquilo de que precisarão. Uma mostrará quem poderá caminhar ao lado de vocês. A última… mostrará onde um destino os espera.”
+> “Há tantos caminhos que poderiam ter tomado. Tantas noites em que poderiam ter morrido. E, ainda assim… aqui estão vocês, diante de mim.”
 >
-> “Ah… sim. Agora as cartas respiram.”
+> *Ela percorre os rostos ao redor da mesa.*
+>
+> “Não me olhem como se eu pudesse escolher o que verão. Há muito aprendi que o destino não pede licença a quem o anuncia.”
+>
+> “Cinco cartas. Três mostrarão forças que poderão encontrar contra o senhor desta terra. Uma revelará uma mão estendida… embora nem toda mão ofereça conforto.”
+>
+> *Ela toca o monte menor e hesita.*
+>
+> “E a última… a última mostrará onde os caminhos de vocês e os dele irão se cruzar.”
+>
+> *O sorriso desaparece.*
+>
+> “Agora, silêncio. As cartas estão escutando.”
+
+*Ela vira a primeira carta lentamente, observando mais os rostos dos aventureiros do que o desenho.*
 
 ---
 
@@ -65,14 +84,32 @@ dg-publish: false
 >
 > **Resultado:** [[Tome of Strahd]], no escritório particular de [[Strahd]], em [[Castelo Ravenloft]]. Uma oportunidade de descoberta durante o baile, não uma obrigação para avançar.
 
-*Na carta, um conjurador ergue as mãos sobre figuras cadavéricas. Madame Eva observa os rostos vazios como se reconhecesse um deles.*
+*Na imagem, um conjurador ergue as mãos sobre dois mortos. Madame Eva inspira para falar, mas estanca. Seu polegar percorre a borda da carta três vezes, como se procurasse uma lembrança. Então surge um sorriso de canto — não de alegria, mas de reconhecimento.*
 
-> [!recite] Profecia — a verdade enterrada
-> “Antes da lâmina, antes da prece, antes do sangue… precisarão da verdade.”
+> [!recite] Primeira profecia — a verdade enterrada
+> “Ora… ora. Começamos por aquilo que o diabo mais teme.”
 >
-> “O diabo guarda sua própria história onde ainda acredita ser senhor dela. Não nas mãos de servos. Não em ruínas esquecidas. Ele a conserva perto de sua vaidade, entre páginas que poucos ousariam tocar.”
+> *Ela olha da carta para vocês.*
 >
-> “Procurem onde o passado é mantido de pé como um cadáver bem-vestido. Mas cuidado: nem toda palavra escrita ali é uma confissão. Algumas são fórmulas. Outras… são portas.”
+> “Não é uma espada. Nem uma oração. Nem o fogo que ele tanto despreza.”
+>
+> “É a verdade.”
+>
+> “Vejo um homem que venceu batalhas, tomou terras, ergueu muralhas… e não conseguiu vencer a lembrança de uma única noite. Escreveu sua história para que o mundo acreditasse na versão que escolheu contar.”
+>
+> *Madame Eva passa a unha sobre o necromante.*
+>
+> “Procurem entre as coisas que ele mantém perto de si. Onde os criados baixam a voz. Onde as portas não se abrem a qualquer convidado. Um lugar de livros, silêncio e orgulho; um lugar em que até as lembranças precisam pedir permissão para existir.”
+>
+> “Mas escutem bem: há páginas que contam pecados, e há páginas que ensinam a cometê-los. Algumas palavras são confissões. Outras são fórmulas. E certas fórmulas…”
+>
+> *Ela interrompe a frase, prendendo a respiração.*
+>
+> “…fazem alguma coisa responder do outro lado.”
+>
+> “Encontrem a história que ele quis esconder. Apenas não confundam conhecer seu inimigo com compreender tudo o que ele se tornou.”
+>
+> *Sua mão permanece sobre a carta até o silêncio ficar incômodo. Só então ela a afasta.*
 
 > [!cos-discovery] Bastidores — Tomo de Strahd
 > **Destino:** escritório / sala de estudos privada de Strahd, em [[Castelo Ravenloft]].
@@ -104,16 +141,36 @@ dg-publish: false
 >
 > **Resultado:** [[Holy Symbol of Ravenkind]], oculto no farol de [[Argynvostholt]] por [[Vladimir Horngaard]]. Só é recuperado quando o farol voltar a brilhar.
 
-*Uma guerreira segura uma espada com firmeza. A expressão de Madame Eva endurece; a carta lhe lembra um juramento que se transformou em prisão.*
+*A segunda carta revela uma guerreira de armadura clara, espada erguida. Madame Eva endireita as costas. Nos olhos dela aparece, por um instante, uma admiração inesperada. Em seguida, seu rosto se contrai, como se a imagem tivesse tocado uma ferida antiga.*
 
-> [!recite] Profecia — a luz que ainda espera
-> “Esta carta cheira a juramento quebrado.”
+*Ela mantém a mão suspensa acima da carta sem encostá-la.*
+
+> [!recite] Segunda profecia — a luz perdida
+> “Ah… uma espada erguida por uma causa justa. Que coisa bela.”
 >
-> “Há uma casa de dragão onde a honra morreu, mas não descansou. Ali, aqueles que já foram nobres aprenderam a chamar ódio de justiça.”
+> *O sorriso se desfaz.*
 >
-> “Uma luz foi escondida no alto, quando ainda existia quem acreditasse que ela voltaria a brilhar.”
+> “E que coisa terrível quando a justiça sobrevive por tanto tempo que já não se lembra por quem lutava.”
 >
-> “Se desejam o símbolo, não o comprem. Não o roubem. Acendam aquilo que desistiu de arder. Quando o dragão voltar para casa, a névoa recuará… e a prata descerá com a luz.”
+> “Vejo uma casa erguida sob a sombra de um dragão. Vejo homens e mulheres que juraram proteger o que era bom. Morreram pelo juramento. Mas a morte não lhes trouxe descanso.”
+>
+> *Ela fecha a mão lentamente.*
+>
+> “O rancor ficou quando a honra se foi. E onde antes havia uma chama para guiar os perdidos, restou apenas a espera.”
+>
+> “Escutem: a luz que procuram não foi destruída. Está guardada no alto, onde ninguém poderá alcançá-la apenas com força, esperteza ou ouro.”
+>
+> *Eva procura os olhos de cada um.*
+>
+> “Não a roubem. Não a exijam. Devolvam primeiro àquela casa aquilo que lhe foi tirado.”
+>
+> “Quando o dragão voltar ao lar… quando a luz se acender outra vez… até os mortos se lembrarão de que um dia souberam ter esperança.”
+>
+> *Ela exala devagar, quase num sussurro.*
+>
+> “E aquilo que esperou tanto tempo na escuridão virá até vocês.”
+>
+> *Madame Eva olha uma última vez para a guerreira e murmura, como para si mesma:* “Ainda pode brilhar…”
 
 > [!cos-discovery] Bastidores — Símbolo Sagrado de Ravenkind
 > **Destino:** mecanismo / coração do farol de [[Argynvostholt]], onde Vladimir escondeu o símbolo.
@@ -146,16 +203,34 @@ dg-publish: false
 >
 > **Resultado:** [[Sunsword]], presa em âmbar no [[Amber Temple]]. O punho existe, mas a lâmina de luz aguarda ser despertada.
 
-*A carta mostra uma figura imóvel sob um capuz, as mãos pousadas sobre uma espada. A tenda parece esfriar.*
+*A terceira carta mostra uma figura encapuzada, imóvel, apoiada em uma espada. Madame Eva a vira e não diz nada. O silêncio se prolonga. Ela puxa o xale sobre os ombros, embora o braseiro continue aceso. A chama de uma vela se inclina na direção oposta ao vento.*
 
-> [!recite] Profecia — o sol sob a montanha
-> “Ah… esta luz está enterrada fundo. Muito fundo.”
+*Pela primeira vez, ela parece considerar esconder o resultado.*
+
+> [!recite] Terceira profecia — o sol sob a montanha
+> “Não gosto desta carta.”
 >
-> “Uma estrada sobe para o frio, além da fome e da piedade. No fim dela está um templo que não foi erguido para os deuses, mas para os segredos que os homens deveriam temer.”
+> *Ela fala antes que alguém consiga perguntar por quê.*
 >
-> “O que procuram não está inteiro. Sua lâmina desapareceu, mas o punho ainda espera, cercado por âmbar e por vozes que oferecem poder sem jamais revelar o preço.”
+> “Não por causa daquilo que procuram. Mas por causa do que dorme ao redor.”
 >
-> “Onde a escuridão ensina homens a se tornarem monstros repousa uma luz que o diabo nunca conseguiu matar.”
+> “Vejo uma estrada subindo, sempre subindo. O ar fica fino. A pedra, fria. Lá no alto existe um lugar feito não para adorar os deuses, mas para aprisionar segredos dos quais até os deuses desviariam o olhar.”
+>
+> *Seu olhar se perde num canto vazio da tenda.*
+>
+> “Há vozes nesse lugar. Não gritam. Não ameaçam. Sussurram exatamente aquilo que cada visitante mais deseja ouvir. E esperam que alguém estenda a mão.”
+>
+> “Entre essas promessas está uma arma quebrada. Um punho sem lâmina. Parece pouca coisa, não é? Um resto. Uma lembrança que a escuridão pensou ter vencido.”
+>
+> *Ela aproxima dois dedos do centro da carta.*
+>
+> “Mas algumas luzes não morrem quando são apagadas. Apenas aguardam que alguém aceite carregá-las.”
+>
+> “Se chegarem até ela, lembrem-se: nem todo poder oferecido naquele templo é um presente. E nem todo preço será pago por quem o aceitou.”
+>
+> *Madame Eva retira a mão bruscamente.*
+>
+> “Que a luz reconheça vocês antes que a escuridão o faça.”
 
 > [!cos-discovery] Bastidores — Espada Solar
 > **Destino:** [[Amber Temple]], presa em âmbar próximo a uma câmara / vestígio de corrupção. **Não fixar outra sala ou a estátua como local definitivo sem preparação posterior.**
@@ -186,16 +261,30 @@ dg-publish: false
 >
 > **Resultado:** [[Rudolph van Richten]]. Um caçador veterano que pode ensinar, investigar e ajudar, sem precisar acompanhar o grupo em todos os combates.
 
-*Uma caveira monstruosa está preservada sob vidro. Madame Eva passa os dedos pela borda da carta e ri, sem alegria.*
+*Para a quarta carta, Madame Eva troca de monte. Ao revelar Artefato — um troféu monstruoso preservado sob vidro — ela franze a testa. Então solta uma risada breve e seca, genuinamente surpresa. Essa carta não parece amedrontá-la. Parece diverti-la… por pouco tempo.*
 
-> [!recite] Profecia — a arma que respira
-> “Terão ajuda. Mas não esperem bondade.”
+> [!recite] Quarta profecia — a arma que ainda respira
+> “Ah! Que escolha cruel do destino.”
 >
-> “O destino aponta para um homem que caçou monstros por tempo demais. Ele veste mentira como manto, carrega culpa como arma e encara a morte como quem conhece seu rosto.”
+> “Pensei que ele tivesse se cansado de tirar homens do próprio túmulo… mas ainda há um teimoso andando por aí.”
 >
-> “Sabe como ferir os filhos da noite. Sabe preparar armadilhas. Sabe sobreviver. Mas confiança? Ah… confiança ele enterrou há muitos anos.”
+> *Ela inclina a cabeça, como se imaginasse uma discussão antiga.*
 >
-> “Entre vocês haverá razões para que sua mão procure primeiro uma arma, e só depois outra mão. As cartas dizem que ele será um aliado. Não dizem que isso será fácil.”
+> “Vejo alguém que dedicou tantos anos à caça que esqueceu como viver sem uma presa diante dele. Um homem escondido atrás de nomes e rostos emprestados. Conhece armadilhas, reconhece a morte e pagou caro por confiar nas pessoas erradas.”
+>
+> “Ele não virá por gratidão. Talvez nem por bondade. Há nele uma dor que se tornou método… e um ódio que aprendeu a vestir a aparência da prudência.”
+>
+> *O sorriso desaparece. Ela não encara nenhum aventureiro em particular.*
+>
+> “E ainda assim as cartas o colocam no caminho de vocês. Curioso. Há coisas que ele aprendeu a temer… e coisas que vocês ainda não compreendem sobre si mesmos.”
+>
+> “Não lhe peçam amizade antes de merecer confiança. Não esperem gentileza de uma mão habituada a segurar uma estaca.”
+>
+> “Mas, se conseguirem caminhar ao lado dele, descobrirão que uma arma não precisa ser feita de prata para ferir o diabo.”
+>
+> *Ela quase volta a sorrir.*
+>
+> “O destino promete um aliado. Não promete que vocês vão gostar um do outro.”
 
 > [!cos-discovery] Bastidores — Rudolph van Richten
 > **Aliado profetizado:** [[Rudolph van Richten]], cuja identidade não deve ser dita durante a leitura.
@@ -216,44 +305,73 @@ dg-publish: false
 
 ## 5. O Lugar do Fim — sorteio real
 
-> [!cos-spotlight] A última carta não está escrita
-> **Sorteie uma carta entre as 13 restantes do Baralho Alto.** A carta `Artifact` já foi revelada para o aliado e não pode aparecer novamente. O resultado determina onde [[Strahd]] estará quando o grupo chegar pela primeira vez ao local profetizado, conforme a leitura.
+> [!cos-spotlight] A última carta pertence à sorte
+> **Sorteie uma carta entre as 13 restantes do Baralho Alto.** A carta Artefato já foi revelada para o aliado e não deve voltar ao monte.
 >
-> **[[Quinta Carta - Lugar do Fim|Abrir todas as 13 possibilidades, com imagens, narrações e salas de Ravenloft]]**
+> **[[Quinta Carta - Lugar do Fim|Abrir as 13 possibilidades: imagens, reações de Eva, profecias e salas de Ravenloft]]**
 
-*Madame Eva afasta as quatro cartas descobertas, embaralha o pequeno monte que sobrou e pede que alguém escolha a última. Sua expressão muda quando vê o resultado.*
+*Antes que alguém toque no último monte, Madame Eva alinha as quatro cartas reveladas com uma precisão quase cerimonial. Ao alcançar o pequeno baralho restante, sua mão para no ar. Pela primeira vez, ela parece genuinamente inquieta.*
 
-> [!recite] Transição — antes de revelar a quinta
-> “Quatro caminhos foram mostrados. Mas o último… o último ainda não pertence a ninguém.”
+> [!recite] Transição — o último destino
+> “Quatro caminhos.”
 >
-> “Escolha uma carta. O destino decidirá onde o diabo os espera. Não confundam esse lugar com uma promessa de vitória.”
-
-> [!note] Como usar o resultado
-> 1. Revele a carta sorteada na mesa do Beneos.
-> 2. Abra [[Quinta Carta - Lugar do Fim]] e leia **somente** o texto dessa carta.
-> 3. Registre o nome e a sala **K** na nota após a sessão; não altere os quatro resultados fixos.
+> “O conhecimento de um inimigo. Uma luz que deve ser devolvida ao mundo. Uma arma esquecida. Uma mão que talvez aceite a de vocês.”
 >
-> **Se sair Mists:** a leitura original não indica uma sala. Você pode escolher um local em Ravenloft ou aceitar o caminho oficial de uma nova leitura após pelo menos três dias. Se quiser **sempre uma localização aleatória e definida**, pode tratar Mists como novo sorteio (regra opcional, decidida pelo mestre).
+> *Ela empurra o monte para o centro da mesa.*
+>
+> “A quinta carta não fala de uma coisa que possam carregar. Nem de uma pessoa que possam convencer.”
+>
+> “Fala de um encontro.”
+>
+> “Não posso prometer como chegarão até ele. Muito menos que sairão vivos.”
+>
+> *Ela fita quem for escolher.*
+>
+> “Escolha. Agora.”
+>
+> *Depois da escolha, Eva observa o verso da carta como se algo pudesse se mover sob a tinta.*
+>
+> “Que as Brumas tenham piedade do que ainda não foi escrito.”
+
+> [!info] Depois da escolha — ordem na mesa
+> 1. Revele a carta escolhida no Beneos.
+> 2. Consulte o índice de [[Quinta Carta - Lugar do Fim]].
+> 3. Leia primeiro o **gesto e a reação de Eva** e depois o bloco da profecia daquela carta.
+> 4. Registre a carta e a sala no fim da outra nota depois da sessão.
+>
+> **Se sair Mists:** siga a exceção indicada na nota de possibilidades; sortear novamente na hora seria homebrew.
 
 ---
 
 ## Encerramento — as cartas não prometem vitória
 
-*Madame Eva mantém as cinco cartas descobertas por alguns segundos. Depois recolhe-as lentamente, uma de cada vez. Na última, detém a mão.*
+*Madame Eva permanece em silêncio depois da quinta carta. Seu olhar percorre as cinco figuras uma última vez. Agora não há sorriso, nem teatralidade. Apenas o cansaço de alguém que sabe que suas palavras continuarão ecoando depois que a tenda ficar vazia.*
 
-> [!cos-spotlight] A última advertência
-> “Lembrem-se: as cartas não mostram vitória. Elas mostram caminhos. Terão que sangrar por cada passo.”
+*Ela recolhe a última carta com cuidado, mas deixa as outras sobre a mesa por mais alguns instantes, como se concedesse aos aventureiros a chance de memorizar cada rosto.*
+
+> [!cos-spotlight] Madame Eva — a última advertência
+> “Pronto. Agora o destino conhece vocês um pouco melhor.”
 >
-> “E Strahd… Strahd também ouviu o destino ser pronunciado. Mesmo que finja rir dele.”
-
-*O som da chuva volta de repente. A chama da vela recupera o movimento. A leitura terminou.*
-
-> [!note] Se os jogadores fizerem perguntas
-> - **“Podemos mudar o destino?”** — “As cartas mostram onde os caminhos se cruzam. Quem os percorre ainda escolhe como caminhar.”
-> - **“Quem é nosso aliado?”** — “Reconhecerão o caçador antes que ele confie em vocês.”
-> - **“Onde estão esses lugares?”** — “As estradas responderão a quem prestar atenção às histórias.”
+> “Não confundam o que viram com uma promessa. As cartas não mostraram uma vitória. Mostraram portas. Algumas se abrirão. Outras exigirão sangue. Outras permanecerão fechadas por escolha de vocês.”
 >
-> Não repetir nomes de destinos, não antecipar o segredo de Yann e não transformar a profecia numa missão obrigatória.
+> *Ela inclina a cabeça. A voz se torna quase um sussurro.*
+>
+> “E não pensem que só vocês ouviram esta leitura.”
+>
+> “Há muito tempo, o senhor de Baróvia aprendeu a escutar quando seu nome é pronunciado com medo.”
+>
+> *A velha guarda as cartas e aperta o baralho contra o peito.*
+>
+> “Quando ele sorrir para vocês… lembrem-se desta mesa.”
+
+*O vento bate contra a lona. O barulho da chuva retorna inteiro, como se nunca tivesse se afastado. A última vela se inclina, mas não se apaga.*
+
+> [!note] Se os jogadores pedirem respostas
+> - **“Podemos mudar o destino?”** — “Um caminho visto não é um caminho percorrido. Cada passo ainda pertence a vocês.”
+> - **“Quem é o aliado?”** — “Reconhecerão alguém habituado a procurar monstros antes de enxergar pessoas.”
+> - **“Onde ficam esses lugares?”** — “Ouçam as histórias de Baróvia. Os mortos dão pistas até quando ninguém pergunta.”
+>
+> Não revelar a identidade do aliado, o segredo de Yann nem as salas do castelo. A quinta carta não garante vitória.
 
 ## Referência rápida — desdobramentos futuros
 
