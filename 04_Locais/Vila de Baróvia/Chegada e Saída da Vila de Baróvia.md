@@ -502,7 +502,7 @@ A rota inicial segue:
 
 1. saída oeste da vila;
 2. estrada pela floresta;
-3. encruzilhada;
+3. [[Encruzilhada do Rio Ivlis]] (presságio da forca; cena curta);
 4. desvio para [[Tser Pool]];
 5. leitura de Tarokka com [[Madame Eva]];
 6. continuação em direção a [[Vallaki]].
