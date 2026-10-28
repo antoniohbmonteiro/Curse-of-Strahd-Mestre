@@ -27,7 +27,7 @@ tags:
 > **Cena Foundry:** Beneos — **Ivlis Crossroads Gallow**.  
 > **Ponto de escolha:** seguir o caminho de [[Tser Pool]] ou continuar rumo a [[Vallaki]]. Não obrigar o desvio.  
 > **Evento:** uma forca vazia passa a exibir um enforcado. **Todos veem um estranho; somente [[Yann Vaelor]] reconhece a si mesmo.**  
-> **Segredo entregue a Yann:** o cadáver move os lábios: **"Ainda não."**  
+> **Segredo entregue a Yann:** ele vê o próprio cadáver com traços de uma transformação vampírica completa: pele pálida, veias escuras, olhos imóveis e presas longas. **Sem fala, sorriso ou reação consciente.**  
 > **Desfecho:** caso examinem, toquem, cortem a corda ou tentem retirar o corpo, ele se desfaz em névoa; se o ignorarem e partirem, desaparece fora de vista.  
 > **Combate:** nenhum. **Teste obrigatório:** nenhum. **Recompensa:** nenhuma.  
 > **Não revelar:** a natureza dhampir de Yann, a origem do presságio ou qualquer ligação confirmada com a transformação dele.
@@ -40,7 +40,7 @@ tags:
 > [!danger]- BASTIDORES — SOMENTE MESTRE
 > **Por que Yann:** ele é um dhampir, cuja transformação vampírica foi interrompida pelas Brumas; sua história ainda envolve descobrir o que aconteceu com seu corpo. Uma visão da própria morte conversa com esse mistério, mas **não resolve sua origem**.  
 > **Yann é Humanoide**, não Morto-vivo. O encontro **não** é detecção de criatura, prova de maldição específica ou confirmação de que Strahd conhece o segredo.  
-> **Privacidade:** os outros personagens veem um cadáver **desconhecido**. Não mencionar o nome, a aparência reconhecível, o movimento dos lábios ou a frase "Ainda não" em voz alta. O jogador decide o que Yann compartilha.  
+> **Privacidade:** os outros personagens veem um cadáver **desconhecido**. Não mencionar o rosto de Yann nem os traços vampíricos em voz alta. O cadáver não fala, não sorri e não reage a ninguém. O jogador decide o que Yann compartilha.  
 > **Intenção narrativa:** medo, presságio e desconforto — não entregar uma missão, uma verdade ou uma penalidade.
 
 ---
@@ -82,29 +82,33 @@ Três caminhos convergem num trecho de solo úmido. Uma velha forca de madeira d
 > [!cos-spotlight] APENAS PARA YANN — NÃO NARRAR EM VOZ ALTA
 > ### É você.
 >
-> Quando o corpo gira lentamente na sua direção, você reconhece o rosto.
+> O cadáver balança lentamente na corda.
 >
-> **É o seu próprio rosto.**
+> Quando seu rosto se volta em sua direção, você reconhece aquelas feições.
 >
-> Os mesmos cabelos. As mesmas feições. Os mesmos olhos, abertos e sem vida.
+> **É você.**
 >
-> Por um breve instante, o cadáver parece olhar diretamente para você.
+> Mas há algo diferente.
 >
-> Os lábios se movem, devagar, sem produzir qualquer som.
+> A pele está pálida, quase acinzentada. Veias escuras percorrem o pescoço. A boca está entreaberta, revelando duas presas longas e afiadas.
 >
-> **"Ainda não."**
+> Seus olhos estão abertos, mas completamente imóveis.
+>
+> O corpo continua balançando.
+>
+> **Não há qualquer sinal de vida.**
 
 **Como usar:** copie **somente o conteúdo narrativo** desse bloco para um sussurro ao jogador de Yann. Evite mencionar "dhampir", "vampiro" ou "transformação" no texto entregue. O jogador escolhe o que contar.
 
 > [!note] O que é real para cada um
-> Todos veem **a mesma forca com um cadáver**. A identificação pessoal e a frase só chegam a Yann. Não use a reação dos outros para negar que Yann viu o que viu; tampouco confirme que ele viu a "verdade" do corpo. O fenômeno permanece inexplicado.
+> Todos veem **a mesma forca com um cadáver**. Somente Yann o reconhece e percebe a aparência vampírica. O corpo se move apenas pelo balanço da corda: **não sorri, não fala, não acompanha ninguém com os olhos**. Não use a reação dos outros para negar que Yann viu o que viu; tampouco confirme que ele viu a "verdade" do corpo. O fenômeno permanece inexplicado.
 
 ## 3. O que acontece se investigarem?
 
 | Decisão dos aventureiros | Condução |
 |---|---|
 | **Observam à distância** | O corpo balança suavemente; há corda, madeira rangendo e cheiro de decomposição. Não há fala audível. |
-| **Inspecionam o rosto** | Para os demais, continua sendo um desconhecido. Para Yann, o próprio rosto; a boca agora está imóvel. |
+| **Inspecionam o rosto** | Para os demais, continua sendo um desconhecido. Para Yann, o próprio rosto com os traços vampíricos descritos; nenhuma expressão ou movimento intencional. |
 | **Tocam no corpo, cortam a corda ou tentam retirá-lo** | O cadáver se desfaz rapidamente em névoa escura, sem deixar restos ou equipamento. A forca fica vazia. |
 | **Tentam atacar ou destruir a forca** | É madeira velha comum; não há inimigo para iniciar combate. O corpo se dissipa se for atingido ou manipulado. |
 | **Usam magia ou fazem testes** | Descreva percepções coerentes com a magia/teste, sem identificar a origem ou impor uma explicação definitiva. |
