@@ -64,7 +64,7 @@ Para Dhorak, aquele nome não era apenas o de uma casa nobre de Mirabar.
 Era o nome de quem mantinha pessoas de sua tribo escravizadas, obrigadas a lutar na arena para divertir os poderosos. Ao ouvi-lo sair da boca de Vet, **a raiva veio antes da confiança**. Ele a acusou de carregar a mesma crueldade da família e chegou a desconfiar de sua ligação com a emboscada.
 
 > [!cos-scene] Dhorak e Vet · O confronto
-> <!-- IMAGEM: ![[Portal_dos_Jogadores/Imagens/Sessao12/01-dhorak-vet-confronto.jpg]] -->
+> <!-- A arte desse confronto já está reservada para a capa; evitar repeti-la aqui. -->
 >
 > ### O nome que ela deixou para trás
 >
@@ -74,7 +74,7 @@ Era o nome de quem mantinha pessoas de sua tribo escravizadas, obrigadas a lutar
 >
 > Os companheiros tentaram impedir que a discussão destruísse a confiança construída até ali.
 
-**Kael** lembrou que a família de Dhorak também tinha suas próprias traições. **Lionel**, que conhecia o peso de uma acusação injusta, pediu que ele não condenasse Vet apenas pelo sobrenome. **Oryn** também defendeu que a clériga fosse julgada pelo que fizera com o grupo.
+**Kael** insistiu que Vet não deveria pagar pelos crimes de seus parentes. **Lionel**, que conhecia o peso de uma acusação injusta, pediu que ele não condenasse Vet apenas pelo sobrenome. **Oryn** também defendeu que a clériga fosse julgada pelo que fizera com o grupo.
 
 A tensão não desapareceu naquela noite. Mas ninguém abandonou ninguém.
 
@@ -89,7 +89,7 @@ Em uma das vigílias, **Lionel percebeu cortes recentes nos corpos dos mercenár
 >
 > Os cortes eram reais. **A explicação, não.**
 >
-> Lionel pediu discrição. Oryn chegou a conversar com Yann sobre o que tinha acontecido, mas não conseguiu uma resposta que encerrasse suas dúvidas.
+> Lionel pediu discrição. Kael e Oryn tentaram entender o que havia acontecido, **mas ninguém conseguiu identificar quem fizera os cortes**.
 
 E ainda havia coisas piores atravessando a noite.
 
@@ -108,7 +108,7 @@ Caminho reservado: Portal_dos_Jogadores/Imagens/Sessao12/02-procissao-dos-mortos
 
 **Oryn**, ainda incomodado com a magia de gelo que havia se transformado em fogo durante o combate, tentou repetir pequenos feitiços para entender o que tinha acontecido. Todos funcionaram normalmente.
 
-Quando conseguiu dormir, porém, **sonhou com fogo se espalhando**.
+Mesmo depois dos testes, **aquela mudança inexplicável de magia continuava sem resposta**.
 
 ## 🤝 Nem toda ferida fecha de uma vez
 
@@ -209,7 +209,7 @@ A forca, as sepulturas e o cadáver permaneceram sem explicação. Ninguém sabi
 > [!cos-threads] Fios em aberto
 > - **⛓️ O limite de Dhorak** O que acontecerá se ele encontrar os pais de Svetlana?
 > - **🩸 Os cortes nos mortos** Quem mexeu nos cadáveres durante a vigília, e por quê?
-> - **🔥 O fogo de Oryn** Por que sua magia mudou no combate e o que significa o sonho?
+> - **🔥 O fogo de Oryn** Por que sua magia mudou durante o combate?
 > - **🪢 O rosto na forca** Por que Yann enxergou a si mesmo onde os outros viram um estranho?
 
 > [!cos-finale] Continua · Sessão 13
