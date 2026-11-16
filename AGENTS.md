@@ -255,7 +255,7 @@ Texto curto, com os fatos públicos.
 
 ## 5. Visual e CSS: ITS Theme + WOTC/D&D Beyond
 
-O Obsidian usa o **ITS Theme** com a opção visual **WOTC/D&D Beyond**. Preferir componentes existentes, Markdown limpo e wikilinks. **Não adicionar CSS customizado por padrão**: primeiro verificar o que o tema e os snippets já oferecem.
+O Obsidian usa o **ITS Theme** com a opção visual **WOTC/D&D Beyond**. **Dar preferência aos componentes CSS personalizados já existentes no vault** sempre que melhorarem organização, leitura ou apresentação, também nas notas de mestre. Usar Markdown limpo e wikilinks; recorrer aos callouts tradicionais do ITS como complemento para informações técnicas, avisos e segredos. **Não criar CSS customizado novo por padrão**: primeiro verificar o que o tema e os snippets já oferecem.
 
 **Arquivos de estilo atuais:**
 
@@ -269,7 +269,7 @@ O Obsidian usa o **ITS Theme** com a opção visual **WOTC/D&D Beyond**. Preferi
 **REGRAS DE USO:**
 
 - **Para recap público visual:** aplicar os componentes \`cos-*\` deliberadamente, como na Sessão 11, e \`cssclasses: [cos-recap]\` no frontmatter. Preferir poucos componentes bem escolhidos a excesso de cartões.
-- **Para nota do mestre:** **não deixar tudo no estilo básico sem considerar o snippet novo**. Aproveitar **seletivamente** \`[!cos-timeline]\` (3–4 marcos de orientação), \`[!cos-spotlight]\` (decisão importante) e \`[!cos-discovery]\` (pista/revelação quando útil), além de callouts ITS tradicionais \`[!summary]\`, \`[!warning]\`, \`[!danger]\`, \`[!note]\`, \`[!recite]\` e \`[!info]\`. **Legibilidade e consulta rápida vencem decoração**. Não forçar hero, miniaturas ou o grid da party numa nota técnica. O CSS é aplicado pelos próprios callouts \`cos-*\`, mesmo sem \`cssclasses: cos-recap\`.
+- **Para nota do mestre:** **priorizar o Design System e os callouts personalizados `cos-*` quando contribuírem para a leitura e a consulta rápida** — não reservar os estilos novos apenas aos recaps públicos. Usar `\`[!cos-timeline]\`` para marcos de orientação (3–4 eventos), `\`[!cos-spotlight]\`` para decisões importantes e `\`[!cos-discovery]\`` para pistas ou revelações, conforme o conteúdo. Complementar com os callouts tradicionais `\`[!summary]\``, `\`[!warning]\``, `\`[!danger]\``, `\`[!note]\``, `\`[!recite]\`` e `\`[!info]\`` para controle de mesa, avisos e bastidores. **Legibilidade e consulta rápida vencem decoração**: não forçar hero, miniaturas ou grid da party numa nota técnica, nem encher a página de cartões redundantes. O CSS dos callouts `\`cos-*\`` se aplica mesmo sem `\`cssclasses: cos-recap\``.
 - **Não embutir tabelas gigantes dentro de \`cos-timeline\`**: a cronologia detalhada pertence a uma tabela Markdown normal; o callout visual pode apresentar um resumo de 3–4 marcos separado.
 - **Usar seções recolhíveis** \`[!danger]-\` para segredos de mestre quando facilitar consulta e segurança visual. Não confundir o recolhimento com proteção de acesso: ele **não torna pública uma nota segura**.
 - **Não inventar componente sem CSS**. Evitar HTML/CSS ad hoc se um callout existente cumpre a função.
@@ -295,7 +295,7 @@ O Obsidian usa o **ITS Theme** com a opção visual **WOTC/D&D Beyond**. Preferi
 - [ ] As revelações só estão no material que o respectivo público pode ver?
 - [ ] A nota de mestre possui **painel rápido**, cronologia, consequências e pendências?
 - [ ] Registrei **pérolas e interações metagame** em seção própria para o mestre avaliar?
-- [ ] Considerei o ITS Theme e os **componentes \`cos-*\` disponíveis** no visual?
+- [ ] **Priorizei os componentes CSS personalizados existentes** quando melhoram a nota, usando callouts ITS tradicionais como complemento e sem sacrificar a consulta rápida?
 - [ ] Todos os \`[[wikilinks]]\`, caminhos de imagens e referências existem ou foram marcados como pendentes?
 - [ ] Conferi se o status **\`dg-publish\`** corresponde à intenção?
 - [ ] Evitei sobrescrever preparação, reescrever arquivos históricos e criar conteúdo fora de escopo?
