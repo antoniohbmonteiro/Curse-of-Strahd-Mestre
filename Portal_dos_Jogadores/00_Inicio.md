@@ -18,10 +18,10 @@ tags:
 
 ## Última sessão
 
-> [!summary] Sessão 11 — Quando o Passado Encontra Baróvia
-> Na primeira noite fora da vila, Lionel deu sepultura aos mortos e o grupo improvisou um acampamento. Então **Aldren Ashmane**, velho amigo de Lionel, chegou acompanhado de **Severin Voss**. Uma conversa quase resolveu tudo em paz, até uma flecha envenenada iniciar a luta. **Aldren sobreviveu graças a Yann**, e o grupo conseguiu derrotar os agressores, mas **Oryn tentou conjurar gelo e produziu fogo**. Severin fugiu ferido, e a party decidiu persegui-lo.
+> [!summary] Sessão 12 — Correntes e Presságios
+> **Dhorak** quase morreu perseguindo Severin. **Svetlana** revelou seu sobrenome, D'Kazarov, e o grupo precisou enfrentar velhas feridas. Durante o descanso, descobriram cortes misteriosos nos mortos e viram uma procissão sombria. Com **Ireena**, deixaram a Vila de Baróvia e seguiram até a encruzilhada, onde **Yann viu a si mesmo enforcado** — enquanto os outros enxergavam um estranho. A estrada levou o grupo até as proximidades do acampamento Vistani.
 >
-> **Ler recap:** [[Sessao 11 - Recap dos Jogadores|Sessão 11 — Quando o Passado Encontra Baróvia]]
+> **Ler recap:** [[Sessao 12 - Recap dos Jogadores|Sessão 12 — Correntes e Presságios]]
 
 ---
 
@@ -39,6 +39,7 @@ tags:
 
 ## Diário da campanha
 
+- [[Sessao 12 - Recap dos Jogadores|Sessão 12 — Correntes e Presságios]]
 - [[Sessao 11 - Recap dos Jogadores|Sessão 11 — Quando o Passado Encontra Baróvia]]
 - [[Sessao 10 - Recap dos Jogadores|Sessão 10 — O Chão Escuta]]
 - [[Sessao 09 - Recap dos Jogadores|Sessão 09 — A Felicidade Tem um Preço]]
