@@ -522,10 +522,11 @@ body.theme-light .callout[data-callout^="cos-"],
   padding: 0 !important;
   overflow: hidden;
 }
+/* Capa panorâmica: respeitar a proporção nativa da arte e não cortar rostos. */
 .callout[data-callout="cos-hero-wide"] > .callout-content > :first-child:has(img) img {
   display: block; width: 100% !important; max-width: 100% !important;
-  height: auto !important; aspect-ratio: 16 / 9;
-  object-fit: cover; object-position: center center;
+  height: auto !important; aspect-ratio: auto !important;
+  object-fit: contain !important; object-position: center center;
   border-radius: 0 !important;
 }
 .callout[data-callout="cos-hero-wide"] > .callout-content > :not(:first-child) {
