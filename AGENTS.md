@@ -40,7 +40,7 @@
 
 ## 3. Receita oficial — do áudio ao registro da sessão
 
-**Fluxo recomendado:** transcrição → **resumo leve para revisão do mestre** → **nota do mestre completa** → seleção de pérolas → **recap visual público** → aprovação → publicação/atualização do portal.
+**Fluxo recomendado:** transcrição → **resumo leve para revisão do mestre** → **nota do mestre completa** → seleção de pérolas → **recap visual público com pérolas no final** → aprovação → publicação/atualização do portal.
 
 ### Etapa A — Ler e reconstruir a sessão
 
@@ -77,7 +77,7 @@
 8. **Mecânicas, recursos e inventário:** itens efetivamente obtidos, gastos confirmados, decisões homebrew e concessões pontuais. Marcar **a conferir no Foundry** quando necessário, em vez de inventar totais ou transformar exceção em regra.
 9. **Ponto de corte e rastreador para a próxima sessão:** última cena **real** (não o plano), pendências, escolhas abertas, NPCs/ameaças, links para cenas já preparadas e o que **ainda não aconteceu**.
 10. **Matéria-prima do recap público:** quais cenas merecem destaque e o que **não pode ser revelado**.
-11. **Bastidores e pérolas:** candidatos com quem participou, o que ocorreu e por que foi memorável. Identificar os que podem ir à página pública.
+11. **Bastidores e pérolas:** candidatos com quem participou, o que ocorreu e por que foi memorável. Identificar os que podem ir à **seção final do próprio recap público da sessão**.
 12. **Fontes e verificações pendentes:** referência do áudio, notas confrontadas, inconsistências e controles dinâmicos não verificados.
 
 #### Esqueleto mínimo — nota do mestre
@@ -143,16 +143,16 @@ Fato jogado, ações, diálogos relevantes, consequências e links.
 
 **Quando a tarefa for preparar a próxima sessão, não substitua este registro:** seguir também \`10_Templates/TEMPLATE - Sessao.md\` para objetivos, abertura/narrações, cenas prováveis, pistas, riscos, encontros e consequências **ainda não ocorridas**.
 
-### Etapa C — Página pública de PÉROLAS DA MESA
+### Etapa C — PÉROLAS DA MESA no próprio recap
 
-**Arquivo existente:** \`Portal_dos_Jogadores/Extras/Perolas da Mesa.md\`, permalink \`extras/perolas-da-mesa\`.
+**Regra atual:** adicionar `## 🎭 Pérolas da Mesa` no fim do **recap público da própria sessão**, após `cos-finale` e antes da navegação. **Não criar arquivo separado para as pérolas de sessões novas.**
 
-- As pérolas são **um registro extraoficial para os jogadores**, separado da crônica principal. **Não criar uma nota privada substituta**.
-- Durante a leitura do áudio, **não descartar** frases absurdas, comentários fora do personagem, falhas engraçadas, interações com o Chat, decisões cômicas e brincadeiras recorrentes.
-- Selecionar apenas **momentos realmente acontecidos**, com o contexto necessário para entender a piada. Não atribuir falas inventadas a jogadores, nem levar para o site informações obtidas apenas em conversa privada/segredo de PC.
-- Organizar por \`## Sessão XX — ...\` com registros curtos, leves e afetivos. A própria nota pública é a referência de estilo.
-- **Primeiro mostrar os candidatos ao mestre**, sobretudo quando a brincadeira envolver conteúdo sensível ou segredo.
-- Atualizar essa página pública **somente quando o mestre aprovar a seleção/publicação**.
+- Durante a leitura do áudio, registrar piadas internas, falas engraçadas, metagame, interações com o Chat e improvisos curiosos na nota do mestre, mesmo quando não entram na narrativa.
+- Escolher apenas **momentos realmente acontecidos**; não inventar falas, expor segredos privados nem ridicularizar jogadores. Usar humor leve e contextualizado.
+- Selecionar **2 a 4 entradas curtas**, caso haja material, com callouts CSS existentes. Artes cômicas enviadas pelo mestre devem ter **embed ativo e sem recorte indevido**, nunca ficar somente em comentários.
+- O `cos-finale` fecha o capítulo dramático; as pérolas vêm em seguida, como extras, sem quebrar o clímax da história.
+- **Legado:** `Portal_dos_Jogadores/Extras/Perolas da Mesa.md` contém uma pérola antiga da Sessão 11. Preservar esse arquivo histórico até que o mestre peça migração/remoção; **não colocar novos momentos nele**.
+- Como qualquer parte do recap público, revisar e publicar somente após aprovação do mestre.
 
 ---
 
@@ -181,8 +181,8 @@ Fato jogado, ações, diálogos relevantes, consequências e links.
 6. **Os aventureiros** — **um único** \`[!cos-party-grid]\` com seis itens (Lionel, Svetlana/Vet, Oryn, Dhorak, Yann, Kael), miniaturas já existentes em \`Portal_dos_Jogadores/Imagens/Personagens/Miniaturas/*-head.webp\` e 1–2 linhas significativas por PC. Se alguém não participou, tratar sua ausência com fidelidade, sem inventar feito.
 7. **Fios em aberto** — um \`[!cos-threads]\`, geralmente com **até quatro perguntas** a partir do que os personagens sabem. Uma hipótese pode aparecer como **pergunta**, não como verdade.
 8. **Finale** — \`[!cos-finale]\` com o último acontecimento jogado, o perigo ou decisão ainda pendente, **sem narrar a próxima sessão**.
-9. **Navegação** — link ao \`[[Diario das Sessoes]]\` e à home.
-10. **Humor** — preservar o tom e as pequenas piadas que já fazem parte da cena, mas enviar **meta-pérolas** à página separada quando quebrarem o clima do recap.
+9. **Pérolas da Mesa** — após o `cos-finale`, incluir `## 🎭 Pérolas da Mesa` no **próprio recap**, com 2–4 momentos engraçados confirmados, usando os callouts CSS quando fizer sentido.
+10. **Navegação** — links ao `[[Diario das Sessoes]]` e à home **depois das pérolas**.
 
 ### Padrão de linguagem
 
@@ -246,6 +246,10 @@ Texto curto, com os fatos públicos.
 > ### Onde paramos
 > Última cena realmente jogada.
 
+## 🎭 Pérolas da Mesa
+> [!cos-discovery] 🪓 Uma história engraçada da sessão
+> Um momento realmente registrado, sem spoilers.
+
 [[Diario das Sessoes|← Diário das Sessões]]
 ~~~
 
@@ -296,6 +300,7 @@ O Obsidian usa o **ITS Theme** com a opção visual **WOTC/D&D Beyond**. **Dar p
 - [ ] As revelações só estão no material que o respectivo público pode ver?
 - [ ] A nota de mestre possui **painel rápido**, cronologia, consequências e pendências?
 - [ ] Registrei **pérolas e interações metagame** em seção própria para o mestre avaliar?
+- [ ] As pérolas aprovadas ficaram **no final do próprio recap**, após o finale, sem duplicação em documento separado?
 - [ ] **Priorizei os componentes CSS personalizados existentes** quando melhoram a nota, usando callouts ITS tradicionais como complemento e sem sacrificar a consulta rápida?
 - [ ] Todos os \`[[wikilinks]]\`, caminhos de imagens e referências existem ou foram marcados como pendentes?
 - [ ] Conferi se o status **\`dg-publish\`** corresponde à intenção?
@@ -313,4 +318,4 @@ O Obsidian usa o **ITS Theme** com a opção visual **WOTC/D&D Beyond**. **Dar p
 5. Conferir visual desktop/mobile, miniaturas, títulos, callouts, links e se não vazou segredo de mestre.
 6. Reportar objetivamente: **o que mudou, em quais arquivos, o que está publicado e o que ainda depende de sincronização**.
 
-**Prioridade final:** uma sessão bem documentada deve permitir ao mestre abrir o arquivo em segundos e saber **o que aconteceu, o que cada personagem sabe e qual decisão vem agora**. O recap público deve permitir aos jogadores **reviver os melhores momentos sem receber spoilers**. As Pérolas da Mesa preservam a parte humana e engraçada que não cabe na crônica.
+**Prioridade final:** uma sessão bem documentada permite ao mestre entender rapidamente **o que aconteceu, o que cada personagem sabe e qual decisão vem agora**. O recap público permite aos jogadores **reviver a sessão sem spoilers**, com **Pérolas da Mesa ao final do mesmo recap**, sem arquivo paralelo por sessão.
