@@ -110,7 +110,7 @@ Mesmo depois dos testes, **aquela mudança inexplicável de magia continuava sem
 
 Na manhã seguinte, **Kael conversou com Dhorak**. Disse que o considerava sua família e que continuaria ao seu lado contra aqueles que o escravizaram. Mas Vet não era uma das pessoas que o tinham colocado na arena.
 
-**Aldren também o fez pensar:** se o próprio primo de Dhorak o havia vendido, seria justo condená-lo pelos atos daquele parente?
+**Aldren também conversou com Dhorak.** Lembrou que o próprio primo do bárbaro o havia vendido aos D'Kazarov e questionou: se Dhorak não era culpado pela traição do primo, por que Svetlana deveria carregar a culpa dos atos de sua família?
 
 Até **Yann** resolveu reunir os companheiros para um discurso surpreendentemente sensato: eles não precisavam gostar uns dos outros, mas precisavam **trabalhar juntos para sobreviver a Baróvia**. Depois, é claro, aproveitou para sugerir que era o líder do grupo. Ninguém lembrava de ter votado. 
 
