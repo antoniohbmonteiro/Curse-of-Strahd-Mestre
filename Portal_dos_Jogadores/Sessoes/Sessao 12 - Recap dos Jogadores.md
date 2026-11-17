@@ -88,6 +88,8 @@ Em uma das vigílias, **Lionel percebeu cortes recentes nos corpos dos mercenár
 >
 > Lionel pediu discrição. Kael e Oryn tentaram entender o que havia acontecido, **mas ninguém conseguiu identificar quem fizera os cortes**.
 
+Mais tarde, **Oryn confrontou Yann em particular**. Yann alegou que apenas queria garantir que os mercenários estivessem mortos, mas Oryn não aceitou a explicação. A conversa terminou com uma resposta pouco tranquilizadora: **“Quanto menos você souber, melhor.”**
+
 E ainda havia coisas piores atravessando a noite.
 
 Perto da caverna, uma **procissão de figuras mortas** surgiu entre a escuridão e a névoa. O grupo apagou o fogo, se escondeu e esperou que passassem.
