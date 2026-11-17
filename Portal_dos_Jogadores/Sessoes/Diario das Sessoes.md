@@ -21,6 +21,7 @@ tags:
 
 | Sessão | Título | Resumo |
 |---:|---|---|
+| 12 | [[Sessao 12 - Recap dos Jogadores|Correntes e Presságios]] | Dhorak quase morreu ao perseguir Severin. Svetlana revelou seu sobrenome e enfrentou a desconfiança de Dhorak. Depois de uma noite marcada por cortes misteriosos e uma procissão de mortos, o grupo partiu com Ireena, e Yann viu um corpo impossível na forca da encruzilhada. |
 | 11 | [[Sessao 11 - Recap dos Jogadores|Quando o Passado Encontra Baróvia]] | A primeira noite fora da vila é interrompida pela chegada de Aldren Ashmane e Severin Voss. Lionel convence o antigo amigo a baixar a espada, mas uma flecha envenenada inicia a batalha. O grupo salva Aldren, enfrenta os agressores, vê Oryn conjurar fogo no lugar de gelo e termina decidido a perseguir Severin pela noite. |
 | 10 | [[Sessao 10 - Recap dos Jogadores|O Chão Escuta]] | Cercado por lobos, o grupo responde com a luz de Vet e vê um sobrevivente de orelha cortada desaparecer entre as árvores. Depois encontra os aventureiros perdidos de Cantemir, descobre predadores sob o solo, transforma Lionel em isca para uma emboscada planejada e termina diante de uma revelação: os mortos vieram de Waterdeep, em Faerûn. |
 | 09 | [[Sessao 09 - Recap dos Jogadores|A Felicidade Tem um Preço]] | Depois de enterrar Kolyan e Doru, o grupo aceita escoltar Ireena até Vallaki, impede Morganta de receber uma criança como pagamento pelas Tortas dos Sonhos e descobre que Dhorak quer outra porção mais do que deveria. Antes da viagem, seguem uma pista sobre aventureiros desaparecidos — até os lobos começarem a uivar. |
@@ -38,10 +39,10 @@ tags:
 
 ## Última sessão
 
-> [!summary] Sessão 11 — Quando o Passado Encontra Baróvia
-> O grupo acampou próximo ao ninho e tentou descansar, mas **Aldren Ashmane** chegou à procura de Lionel. O antigo amigo ouviu sua defesa e baixou a espada; então **Severin Voss** o traiu com uma flecha envenenada. No combate, **Yann salvou Aldren**, **Dhorak agarrou Severin**, **Vet amparou os companheiros**, **Kael finalizou o assassino** e **Lionel poupou uma arqueira rendida**. **Oryn tentou conjurar gelo, mas saiu fogo.** Severin fugiu noite adentro — e o grupo decidiu persegui-lo.
+> [!summary] Sessão 12 — Correntes e Presságios
+> A perseguição de **Severin** quase custou a vida de **Dhorak**. Quando **Svetlana revelou ser uma D'Kazarov**, as feridas da arena colocaram a confiança do grupo à prova. Durante a noite, encontraram cortes inexplicáveis nos mortos e testemunharam uma procissão sombria. Depois de se despedirem de **Ismark**, seguiram com **Ireena** pela Estrada Svalich. Na encruzilhada, **Yann reconheceu a si mesmo em um cadáver enforcado**, embora os demais vissem um estranho.
 >
-> **Ler agora:** [[Sessao 11 - Recap dos Jogadores|Sessão 11 — Quando o Passado Encontra Baróvia]]
+> **Ler agora:** [[Sessao 12 - Recap dos Jogadores|Sessão 12 — Correntes e Presságios]]
 
 ---
 
@@ -82,6 +83,9 @@ tags:
 
 12. **Sessão 11 — Quando o Passado Encontra Baróvia**  
     Vocês acamparam nos ermos, reencontraram Aldren, presenciaram a traição de Severin e sobreviveram ao combate. Aldren foi salvo, uma arqueira poupada e Severin fugiu; agora a perseguição aguarda a próxima sessão.
+
+13. **Sessão 12 — Correntes e Presságios**  
+    Vocês perseguiram Severin, quase perderam Dhorak, descobriram o sobrenome de Svetlana e enfrentaram dúvidas sobre a confiança do grupo. Após uma noite de aparições e mistérios, partiram com Ireena e encontraram na forca da encruzilhada um presságio que só Yann reconheceu.
 
 ---
 
