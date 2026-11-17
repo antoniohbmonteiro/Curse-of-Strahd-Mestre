@@ -10,16 +10,15 @@ tags:
   - curse-of-strahd
 ---
 
-<!-- RASCUNHO EM REVISÃO: não publicar até aprovação do mestre.
-IMAGENS NOVAS preparadas pelo mestre, ainda não importadas para este repositório.
-Os comentários IMAGEM: indicam o ponto exato do embed; NÃO criar links quebrados.
-Copiar os JPEGs do pacote "Sessao12_Imagens_Para_Obsidian.zip" para Portal_dos_Jogadores/Imagens/Sessao12/
-e só então ativar os embeds descritos abaixo.
-A imagem da procissão já pertence ao acervo pessoal do mestre, mas ainda não foi localizada neste vault.
+<!-- RASCUNHO PRIVADO — não publicar antes da aprovação do mestre.
+Embeds ativados. Para aparecer no Obsidian, as fotos devem estar em
+Portal_dos_Jogadores/Imagens/Sessao12/ (extrair o ZIP na raiz do vault).
+As fotos ainda precisam ser adicionadas ao GitHub/ao Digital Garden antes da publicação.
+A imagem da procissão será adicionada quando o arquivo existente for disponibilizado.
 -->
 
 > [!cos-hero-wide] Capa · Sessão 12
-> <!-- IMAGEM: ![[Portal_dos_Jogadores/Imagens/Sessao12/01-dhorak-vet-confronto.jpg]] -->
+> ![[Portal_dos_Jogadores/Imagens/Sessao12/01-dhorak-vet-confronto.jpg]]
 >
 > **CURSE OF STRAHD · SESSÃO 12**
 >
@@ -64,8 +63,6 @@ Para Dhorak, aquele nome não era apenas o de uma casa nobre de Mirabar.
 Era o nome de quem mantinha pessoas de sua tribo escravizadas, obrigadas a lutar na arena para divertir os poderosos. Ao ouvi-lo sair da boca de Vet, **a raiva veio antes da confiança**. Ele a acusou de carregar a mesma crueldade da família e chegou a desconfiar de sua ligação com a emboscada.
 
 > [!cos-scene] Dhorak e Vet · O confronto
-> <!-- A arte desse confronto já está reservada para a capa; evitar repeti-la aqui. -->
->
 > ### O nome que ela deixou para trás
 >
 > Dhorak ficou frente a frente com Svetlana, tomado pelas lembranças da arena.
@@ -144,7 +141,7 @@ Antes de partirem, Dhorak procurou Vet.
 Então chegou o momento de Ireena deixar a casa.
 
 > [!cos-scene-right] Ismark e Ireena · A despedida
-> <!-- IMAGEM: ![[Portal_dos_Jogadores/Imagens/Sessao12/03-ireena-ismark-despedida.jpg]] -->
+> ![[Portal_dos_Jogadores/Imagens/Sessao12/03-ireena-ismark-despedida.jpg]]
 >
 > ### Uma despedida sem garantias
 >
@@ -165,7 +162,7 @@ A corda estava vazia.
 Até deixar de estar.
 
 > [!cos-scene] A encruzilhada · O que os outros viram
-> <!-- IMAGEM: ![[Portal_dos_Jogadores/Imagens/Sessao12/04-encruzilhada-olhar-do-grupo.jpg]] -->
+> ![[Portal_dos_Jogadores/Imagens/Sessao12/04-encruzilhada-olhar-do-grupo.jpg]]
 >
 > ### Um corpo que não estava ali
 >
@@ -184,9 +181,8 @@ Yann correu até a forca, desesperado. Repetia que aquele era **seu próprio cor
 >
 > **Os companheiros enxergavam outra pessoa.** Ele não conseguia entender por quê.
 
-<!-- IMAGEM: ![[Portal_dos_Jogadores/Imagens/Sessao12/05-encruzilhada-olhar-de-yann.jpg]]
-Esta arte é a PERSPECTIVA DE YANN: não afirmar que os outros viram o mesmo rosto.
-Usar cos-frame como quadro visual logo após o spotlight, com a imagem real importada. -->
+> [!cos-frame] A perspectiva de Yann · O cadáver na encruzilhada
+> ![[Portal_dos_Jogadores/Imagens/Sessao12/05-encruzilhada-olhar-de-yann.jpg]]
 
 Yann rasgou um pedaço da própria capa e **cobriu o rosto do morto**. Depois disso, disse que já não parecia mais com ele.
 
