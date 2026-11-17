@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 dg-home: false
 dg-permalink: sessoes/sessao-12-recap-dos-jogadores
 cssclasses:
@@ -9,13 +9,6 @@ tags:
   - sessao
   - curse-of-strahd
 ---
-
-<!-- RASCUNHO PRIVADO — não publicar antes da aprovação do mestre.
-Embeds ativados. Para aparecer no Obsidian, as fotos devem estar em
-Portal_dos_Jogadores/Imagens/Sessao12/ (extrair o ZIP na raiz do vault).
-As fotos ainda precisam ser adicionadas ao GitHub/ao Digital Garden antes da publicação.
-A imagem da procissão possui embed ativo; copiar o JPG do ZIP correspondente para a mesma pasta das demais artes.
--->
 
 > [!cos-hero-wide] Capa · Sessão 12
 > ![[Portal_dos_Jogadores/Imagens/Sessao12/01-dhorak-vet-confronto.jpg]]
@@ -162,16 +155,16 @@ A corda estava vazia.
 
 Até deixar de estar.
 
-> [!cos-scene] A encruzilhada · O que os outros viram
+> [!cos-frame] A encruzilhada · O que os outros viram
 > ![[Portal_dos_Jogadores/Imagens/Sessao12/04-encruzilhada-olhar-do-grupo.jpg]]
->
-> ### Um corpo que não estava ali
->
-> Um rangido atravessou a clareira. **Um cadáver apareceu pendurado na forca.**
->
-> Para Lionel, Oryn e os demais, era um desconhecido.
->
-> Para Yann, não.
+
+### Um corpo que não estava ali
+
+Um rangido atravessou a clareira. **Um cadáver apareceu pendurado na forca.**
+
+Para Lionel, Oryn e os demais, era um desconhecido.
+
+Para Yann, não.
 
 Yann correu até a forca, desesperado. Repetia que aquele era **seu próprio corpo**. Lionel ajudou a retirá-lo da corda enquanto tentava fazer Yann se recompor. Oryn também procurou uma explicação, mas não identificou a origem do fenômeno.
 
