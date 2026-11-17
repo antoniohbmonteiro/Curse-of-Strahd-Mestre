@@ -274,6 +274,7 @@ O Obsidian usa o **ITS Theme** com a opção visual **WOTC/D&D Beyond**. **Dar p
 - **Usar seções recolhíveis** \`[!danger]-\` para segredos de mestre quando facilitar consulta e segurança visual. Não confundir o recolhimento com proteção de acesso: ele **não torna pública uma nota segura**.
 - **Não inventar componente sem CSS**. Evitar HTML/CSS ad hoc se um callout existente cumpre a função.
 - **Não criar imagens só para preencher layout**; verificar que o embed realmente aponta a arquivo existente. Para imagens de personagens, preservar identidade visual e retratos estabelecidos.
+- **Imagens entregues pelo mestre via ZIP/arquivo local:** quando o arquivo final e seu caminho no vault já foram definidos, inserir **embed ativo** `![[caminho/arquivo.jpg]]` diretamente no Markdown (inclusive dentro de callouts). **Nunca deixar a imagem apenas em comentário HTML ou placeholder e dizer que ela já foi integrada.** Se a imagem ainda não estiver no GitHub, avisar separadamente que precisa ser extraída/sincronizada; a ausência temporária no repositório não justifica esconder o embed no rascunho.
 - **CSS do site e snippet devem continuar equivalentes** quando houver alteração de estilo; não modificar apenas um lado. **Não editar** \`src/site/styles/style.scss\`, que é gerado.
 - O guia de design e o CSS atuais são a referência quando algum exemplo antigo deste arquivo ficar desatualizado.
 
