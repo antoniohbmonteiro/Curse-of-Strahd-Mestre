@@ -216,4 +216,29 @@ A forca, as sepulturas e o cadáver permaneceram sem explicação. Ninguém sabi
 >
 > A próxima parada os aguardava na névoa.
 
+---
+
+## 🎭 Pérolas da Mesa
+
+*Porque sobreviver a Baróvia é difícil. Manter a seriedade da mesa é ainda mais.*
+
+> [!cos-discovery] 🪓 A grande missão de Dhorak
+> Enfrentou a arena, monstros e um mago perigoso. Mas **encontrar madeira boa para o cabo do machado** virou seu maior desafio.
+>
+> Procurou na floresta, perguntou na loja e voltou ao assunto até perto da forca. Enquanto os outros lidavam com presságios e mistérios, ele só queria **um pedaço de madeira que prestasse**.
+>
+> **Pergunta para a próxima sessão:** Dhorak finalmente encontrará o galho escolhido? KKKKK
+
+![[Portal_dos_Jogadores/Imagens/Sessao12/06-dhorak-galho-inutil.jpg|460]]
+
+> [!cos-discovery] 🎵 O capitão que ninguém elegeu
+> Yann fez um discurso sobre a importância de o grupo permanecer unido. Até aí, todos podiam concordar.
+>
+> **Depois anunciou, com a maior naturalidade, que era o líder.** O detalhe é que ninguém se lembrava de ter votado.
+
+> [!cos-discovery] 💍 O futuro cunhado de Ismark
+> Yann ainda contou suas façanhas para Ireena com algumas *liberdades criativas*, mencionou um dragão dourado e passou a tratar Ismark como **“cunhado”**.
+>
+> No meio das negociações pela escolta, casamento e carroça pareceram entrar na mesma lista de pedidos. **Ismark não entregou nenhum dos dois.**
+
 [[Diario das Sessoes|← Diário das Sessões]] · [[00_Inicio|Portal dos Jogadores]]
