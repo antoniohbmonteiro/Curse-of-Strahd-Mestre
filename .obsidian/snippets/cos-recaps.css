@@ -554,10 +554,19 @@ body.theme-light .callout[data-callout^="cos-"],
 .callout[data-callout="cos-frame"] > .callout-content > p:first-child {
   margin: 0 !important; padding: 0 !important;
 }
+/* Quadros completos: preservar a proporção original da arte, sem recortar. */
+.callout[data-callout="cos-frame"] > .callout-content :is(.internal-embed, .image-embed, picture, figure) {
+  width: 100% !important;
+  height: auto !important;
+  max-height: none !important;
+  aspect-ratio: auto !important;
+}
 .callout[data-callout="cos-frame"] > .callout-content img {
   display: block; width: 100% !important; max-width: 100% !important;
-  height: auto !important; aspect-ratio: 16 / 9;
-  object-fit: cover; border-radius: 0 !important;
+  height: auto !important; max-height: none !important;
+  aspect-ratio: auto !important;
+  object-fit: contain !important; object-position: center center;
+  border-radius: 0 !important;
 }
 
 /* Mesma largura editorial somente para recaps com capa panoramica */
