@@ -14,7 +14,7 @@ tags:
 Embeds ativados. Para aparecer no Obsidian, as fotos devem estar em
 Portal_dos_Jogadores/Imagens/Sessao12/ (extrair o ZIP na raiz do vault).
 As fotos ainda precisam ser adicionadas ao GitHub/ao Digital Garden antes da publicação.
-A imagem da procissão será adicionada quando o arquivo existente for disponibilizado.
+A imagem da procissão possui embed ativo; copiar o JPG do ZIP correspondente para a mesma pasta das demais artes.
 -->
 
 > [!cos-hero-wide] Capa · Sessão 12
@@ -92,9 +92,8 @@ E ainda havia coisas piores atravessando a noite.
 
 Perto da caverna, uma **procissão de figuras mortas** surgiu entre a escuridão e a névoa. O grupo apagou o fogo, se escondeu e esperou que passassem.
 
-<!-- IMAGEM DA PROCISSÃO: quando a arte existente do mestre for localizada/importada, inserir como cos-frame ou cos-scene.
-Caminho reservado: Portal_dos_Jogadores/Imagens/Sessao12/02-procissao-dos-mortos.jpg
--->
+> [!cos-frame] A procissão dos mortos · Noite à beira do rio
+> ![[Portal_dos_Jogadores/Imagens/Sessao12/02-procissao-dos-mortos.jpg]]
 
 > [!cos-spotlight] A procissão · Uma visita que não era para eles
 > ### O frio atravessou a pedra.
